@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["index","navigation","NurseKit Lite"],"dg-note-properties":{"nom":"NurseKit Lite : Index","type":"Index","description":"Index de navigation NurseKit Lite","tags":["index","navigation","NurseKit Lite"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/index/","tags":["index","navigation","NurseKit Lite","gardenEntry"],"dg-note-properties":{"nom":"NurseKit Lite : Index","type":"Index","description":"Index de navigation NurseKit Lite","tags":["index","navigation","NurseKit Lite","gardenEntry"],"revision":"2026-06-15","statut":"Relecture pédagogique"}}
 ---
 
 
