@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"nom":"NurseKit Lite — Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/index/","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"nom":"NurseKit Lite : Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
 ---
 
 
-> [!abstract] NurseKit Lite — La référence pour l'ESI
+> [!abstract] NurseKit Lite : La référence pour l'ESI
 > Référence clinique conçue **par un ESI, pour les ESI**. Basé sur NurseKit, adapté pour révisions, stages et examens IFSI.
 > → [[Actualités\|📰 Nouveautés]] · 🌐 [Site web](https://lively-buttercream-948032.netlify.app)
 
@@ -13,7 +13,7 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[Pathologies\|Pathologies]] | 99 | Toutes les pathologies IFSI — cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
+| [[Pathologies\|Pathologies]] | 99 | Toutes les pathologies IFSI : cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
 | [[Médicaments\|Médicaments]] | 248 | Molécules + 44 classes thérapeutiques organisées par catégorie |
 | [[Soins Infirmiers\|Soins Infirmiers]] | 69 | Techniques infirmières : gestes, surveillances, ETP, soins palliatifs |
 
@@ -33,8 +33,8 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[QCM\|QCM]] | 6 | 15 questions par thème — réponses repliables |
-| [[Révisions UE\|Révisions UE]] | 6 | UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7 — synthèses 2ème année |
+| [[QCM\|QCM]] | 6 | 15 questions par thème, réponses repliables |
+| [[Révisions UE\|Révisions UE]] | 6 | UE 2.11, 2.6, 2.8, 3.2, 4.4, 4.7 : synthèses 2ème année |
 | [[Législation\|Législation]] | 6 | Loi Kouchner, consentement, secret professionnel, responsabilité IDE |
 | [[Hygiène\|Hygiène]] | 5 | Précautions standard/complémentaires, hygiène des mains, DASRI |
 | [[Fiches de Service\|Fiches de Service]] | 8 | Aide-mémoire par service : Cardio, Neuro, Urgences, Réa, Pédiatrie… |
@@ -58,4 +58,4 @@
 
 ---
 
-*NurseKit Lite — Développé par un ESI en 2ème année · Basé sur NurseKit · [Signaler une erreur](mailto:thibault.helfre@gmail.com)*
+*NurseKit Lite : Développé par un ESI en 2ème année · Basé sur NurseKit · [Signaler une erreur](mailto:thibault.helfre@gmail.com)*
