@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"NurseKit Lite","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"title":"NurseKit Lite","nom":"NurseKit Lite · Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","NurseKit Lite","gardenEntry"],"dg-note-properties":{"title":"NurseKit","nom":"NurseKit · Accueil","tags":["accueil","index","NurseKit Lite","gardenEntry"],"revision":"2026-06-16"}}
 ---
 
 
