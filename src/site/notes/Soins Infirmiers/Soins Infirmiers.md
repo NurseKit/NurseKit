@@ -18,7 +18,7 @@
 - [[Soins Infirmiers/Aspiration trachéale\|Aspiration trachéale]]
 - [[Soins Infirmiers/Défibrillation CEE\|Défibrillation / CEE]]
 - [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
-- [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+- [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 ---
 

@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 > [!abstract] Classe - Indication principale
 > **Classe :** Hormone hypoglycémiante | **Voies :** SC (usage courant), IV (urgence uniquement)
@@ -32,7 +32,7 @@
 ## Administration IV - Uniquement Insuline Rapide
 
 Uniquement en USIC/réanimation, avec IVSE et monitoring glycémique horaire.
-[[Soins Infirmiers/Calcul de doses\|Calcul de débit IVSE →]]
+[[Exercices/Calculs Doses/Calcul de doses\|Calcul de débit IVSE →]]
 
 ## Conservation
 
@@ -52,4 +52,4 @@ Uniquement en USIC/réanimation, avec IVSE et monitoring glycémique horaire.
 > NE PAS DONNER à manger/boire si patient inconscient (fausse route).
 
 ---
-→ [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+→ [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]

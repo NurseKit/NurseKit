@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Suggestions/","tags":["suggestions","feedback","contact"],"dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Suggestions/","tags":["suggestions","feedback","contact"],"dg-note-properties":{"nom":"Suggestions & Retours","tags":["suggestions","feedback","contact"],"revision":"2026-06-19"}}
 ---
 
 
 > [!abstract] Suggestions & Retours
 > Tu as trouvé une erreur ? Une fiche manquante ? Une suggestion pour améliorer NurseKit Lite ?
-> Envoie ton message ci-dessous, toutes les suggestions sont lues et prises en compte.
+> Envoie ton message ci-dessous — toutes les suggestions sont lues et prises en compte.
 
 <div class="suggestion-form-wrapper">
 
-<form name="suggestions" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/merci">
-  <input type="hidden" name="form-name" value="suggestions" />
-  <p style="display:none"><label>Ne pas remplir : <input name="bot-field" /></label></p>
+<form action="https://formspree.io/f/mnjyewro" method="POST">
+  <input type="hidden" name="_subject" value="Nouvelle suggestion NurseKit Lite" />
+  <input type="hidden" name="_next" value="https://nursekit.pages.dev/merci" />
+  <input type="text" name="_gotcha" style="display:none" />
 
   <div class="form-group">
     <label for="prenom">Prénom (optionnel)</label>
@@ -67,20 +68,17 @@
   max-width: 600px;
   margin: 2rem auto;
 }
-
 .form-group {
   margin-bottom: 1.2rem;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
 }
-
 .form-group label {
   font-weight: 600;
   font-size: 0.9rem;
   color: var(--text-normal);
 }
-
 .form-group input,
 .form-group textarea,
 .form-group select {
@@ -93,22 +91,19 @@
   font-family: inherit;
   transition: border-color 0.2s;
 }
-
 .form-group input:focus,
 .form-group textarea:focus,
 .form-group select:focus {
   outline: none;
   border-color: var(--interactive-accent);
 }
-
 .form-group textarea {
   resize: vertical;
   min-height: 120px;
 }
-
 .submit-btn {
-  background: var(--interactive-accent);
-  color: var(--text-on-accent);
+  background: linear-gradient(135deg, #6366F1, #8B5CF6);
+  color: white;
   border: none;
   padding: 0.75rem 2rem;
   border-radius: 6px;
@@ -119,10 +114,7 @@
   width: 100%;
   margin-top: 0.5rem;
 }
-
-.submit-btn:hover {
-  opacity: 0.85;
-}
+.submit-btn:hover { opacity: 0.85; }
 </style>
 
 ---

@@ -6,7 +6,7 @@
 > [!abstract] Sécurité des Médicaments Injectables
 > Les injections IV représentent le plus haut risque iatrogène médicamenteux.
 > Règles strictes de préparation, dilution, identification et administration.
-> → Voir aussi : [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> → Voir aussi : [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque]] · [[Soins Infirmiers/Administration IV SC\|Administration IV SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 ## Règles des 5B (rappel)
 

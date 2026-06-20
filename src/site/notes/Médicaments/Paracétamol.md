@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> [[index\|Accueil]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 > [!abstract] Classe - Indication principale
 > **Classe :** Antalgique/Antipyrétique palier I | **Voies :** PO, IV (Perfalgan), rectale
@@ -29,7 +29,7 @@
 > - Calculer la dose cumulée quotidienne (médicaments combinés : Doliprane + Efferalgan + Dafalgan...)
 > - Vérifier les médicaments associés contenant du paracétamol (Tramadol LP, Codéfan, etc.)
 > - Intervalle minimum de 6h entre les prises
-> - [[Soins Infirmiers/Calcul de doses\|Calcul précis en mg/kg pour l'enfant et les patients de petit poids]]
+> - [[Exercices/Calculs Doses/Calcul de doses\|Calcul précis en mg/kg pour l'enfant et les patients de petit poids]]
 
 > [!danger] Surdosage : urgence hépatique
 > **Seuil de toxicité :** > 10 g chez l'adulte sain, > 3-4 g si alcoolisme chronique ou dénutrition
@@ -42,4 +42,4 @@
 > Pour l'enfant : toujours calculer en mg/kg avant de préparer le médicament.
 
 ---
-→ [[Soins Infirmiers/Calcul de doses\|Calcul de doses]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]]
+→ [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Sepsis\|Sepsis]]

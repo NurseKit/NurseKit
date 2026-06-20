@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 > [!info] Objectif
 > Mettre en place un accès veineux fiable pour l'administration de médicaments IV, de solutés ou de produits sanguins.
@@ -49,4 +49,4 @@ Cathéter de la taille choisie + garrot + compresses stériles + chlorhexidine a
 > **Infection locale (inflammation > 48h) :** ablation VVP + cultures si fièvre associée
 
 ---
-→ [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]] · [[Pathologies/IDM\|IDM]]
+→ [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Pathologies/IDM\|IDM]]

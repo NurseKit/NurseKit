@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
+> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
 
 > [!info] Objectif
 > Administrer un médicament par voie IV ou SC de façon sécurisée, avec les vérifications obligatoires.
@@ -14,7 +14,7 @@
 > [!warning] Vérifier les 5B avant CHAQUE administration
 > 1. **Bon patient** : vérification identité (nom, prénom, date naissance), bracelet
 > 2. **Bon médicament** : DCI + nom commercial, date péremption, aspect
-> 3. **Bonne dose** : calcul si nécessaire → [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> 3. **Bonne dose** : calcul si nécessaire → [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 > 4. **Bonne voie** : IV, SC, IM, PO... (ne jamais supposer)
 > 5. **Bon moment** : heure prescrite, rapport aux repas (insuline !)
 
@@ -32,7 +32,7 @@
 
 1. Préparer la dilution prescrite (ex : [[Médicaments/Morphine\|Morphine]] 10 mg dans 10 mL NaCl = 1 mg/mL)
 2. Purger la tubulure (éliminer l'air)
-3. Programmer le débit en mL/h → [[Soins Infirmiers/Calcul de doses\|Calcul du débit]]
+3. Programmer le débit en mL/h → [[Exercices/Calculs Doses/Calcul de doses\|Calcul du débit]]
 4. **Etiqueter** la seringue/flacon : nom médicament + dilution + débit + heure de début + IDE
 5. Vérifier le site VVP à chaque passage
 
@@ -55,4 +55,4 @@
 > | **Embolie aérique** | Malaise, cyanose, choc | Position Trendelenburg gauche + O2 + urgence |
 
 ---
-→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
+→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]

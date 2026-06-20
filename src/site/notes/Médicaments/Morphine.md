@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
 > [!abstract] Classe - Indication principale
 > **Classe :** Opioïde fort (agoniste mu) | **Voies :** IV, SC, PO (LI et LP), péridurale
@@ -21,7 +21,7 @@
 
 ## Titration IV (adulte standard)
 
-2 mg IV toutes les 2-3 min jusqu'à EVA/EN <= 3/10 → [[Soins Infirmiers/Calcul de doses\|Calcul de débit PSE]]
+2 mg IV toutes les 2-3 min jusqu'à EVA/EN <= 3/10 → [[Exercices/Calculs Doses/Calcul de doses\|Calcul de débit PSE]]
 
 ## Effets indésirables - Mnémotechnique "4C"
 
@@ -52,4 +52,4 @@
 > - Antécédents d'addiction : signaler au médecin (protocole adapté)
 
 ---
-→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Soins Infirmiers/Calcul de doses\|Calcul de doses]]
+→ [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
