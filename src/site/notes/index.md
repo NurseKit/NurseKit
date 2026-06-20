@@ -11,7 +11,7 @@
 
 **---**
 
-## 🗂️ Fiches cliniques
+## Fiches cliniques
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍⚕️ Cas cliniques & exercices
+## Cas cliniques & exercices
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📚 Révisions & outils
+## Révisions & outils
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
@@ -43,7 +43,7 @@
 
 ---
 
-## 💡 Comment utiliser NurseKit Lite ?
+## Comment utiliser NurseKit ?
 
 > [!tip] Pour les révisions
 > - [[Exercices/QCM/Index QCM\|QCM par thème]] → tester ses connaissances
@@ -60,4 +60,4 @@
 
 ---
 
-*NurseKit Lite · Développé par un ESI en 2ème année · [[Suggestions\|💬 Suggestion ou correction ?]]*
+*NurseKit · Développé par un ESI en 2ème année · [[Suggestions\|💬 Suggestion ou correction ?]]*
