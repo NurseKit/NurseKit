@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Réaliser et interpréter un ECG de façon systématique pour ne rien manquer, notamment les urgences cardiologiques.
 
 ## Rappels techniques

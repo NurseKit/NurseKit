@@ -67,7 +67,7 @@
 
 ## 🧂 Module 3 : Régime hyposodé
 
-> [!info] Objectif de restriction sodée
+> [!abstract] L\'essentiel
 > - Selon sévérité de l'IC : **2 à 4 g de NaCl par jour**
 > - Objectif : éviter la rétention d'eau et soulager le travail cardiaque
 > - 1g de sel retient environ 200 mL d'eau dans l'organisme

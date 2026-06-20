@@ -13,7 +13,7 @@ Codifiée aux articles **L3211-1 à L3215 du Code de la Santé Publique**
 
 Principe fondateur : les soins sans consentement sont une **exception** au principe général du consentement libre et éclairé. Ils ne sont applicables qu'en psychiatrie, dans des conditions précisément définies par la loi.
 
-> [!info] Condition commune à toutes les modalités
+> [!abstract] L'essentiel
 > L'état mental de la personne impose des soins immédiats assortis d'une surveillance médicale constante, et ses troubles rendent impossible son consentement.
 
 ---

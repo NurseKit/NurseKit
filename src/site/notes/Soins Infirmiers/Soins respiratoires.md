@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/BPCO\|BPCO]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/EP\|EP]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Evaluer la fonction respiratoire, administrer l'oxygène correctement et réaliser les soins de désencombrement bronchique.
 
 ## Valeurs normales et seuils d'alerte

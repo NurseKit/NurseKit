@@ -10,7 +10,7 @@
 
 La crise suicidaire n'est **pas** un état figé et définitif : c'est une **crise temporaire** avec un début et une fin possible. Ce cadre conceptuel est fondamental pour l'IDE et pour le patient : sortir de la crise est possible.
 
-> [!info] Distinction importante
+> [!abstract] L'essentiel
 > - **Idées suicidaires passagères** : pensées de mort sans plan précis, fréquentes en dépression
 > - **Crise suicidaire aiguë** : passage à l'acte imminent, plan concret, moyen identifié
 > - **Tentative de suicide (TS)** : passage à l'acte effectué, avec ou sans conséquences somatiques

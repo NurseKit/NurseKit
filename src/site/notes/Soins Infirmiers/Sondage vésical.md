@@ -20,7 +20,7 @@
 
 ## Matériel
 
-> [!info] Matériel nécessaire
+> [!abstract] L'essentiel
 > Sonde de Foley en latex ou silicone (CH12-16 femme, CH14-18 homme)
 > Kit de sondage stérile : champ troué, compresses stériles, pince de Kocher
 > Gel lubrifiant urétral stérile (xylocaïne gel 2% pour homme)

@@ -10,7 +10,7 @@
 
 ## 📊 Valeur de référence
 
-> [!info] 🔑 À retenir
+> [!abstract] L'essentiel
 > **Air ambiant = FiO₂ 0,21 (21 %)**
 > Objectif sous O₂ : adapter pour maintenir **SpO₂ ≥ 95 %** (88-92 % chez le [[Pathologies/BPCO\|BPCO]])
 

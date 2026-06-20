@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Mettre en place un accès veineux fiable pour l'administration de médicaments IV, de solutés ou de produits sanguins.
 
 ## Choix du calibre (couleur internationale)

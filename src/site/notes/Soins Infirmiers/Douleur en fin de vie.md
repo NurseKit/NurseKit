@@ -17,7 +17,7 @@ Cicely Saunders (fondatrice des soins palliatifs modernes) définit la douleur g
 | **Sociale** | Isolement, inquiétude pour la famille, deuil des rôles sociaux |
 | **Spirituelle** | Recherche de sens, culpabilité, réconciliation, croyances |
 
-> [!info] Traiter toutes les dimensions
+> [!abstract] L'essentiel
 > Une analgésie médicamenteuse seule ne suffira pas si la souffrance psychologique ou existentielle est ignorée. Le soin palliatif est un soin global.
 
 ## 🔍 Spécificités de la douleur palliative

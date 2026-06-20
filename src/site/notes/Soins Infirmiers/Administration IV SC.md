@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Administrer un médicament par voie IV ou SC de façon sécurisée, avec les vérifications obligatoires.
 
 ## Règle des 5B - Vérification OBLIGATOIRE

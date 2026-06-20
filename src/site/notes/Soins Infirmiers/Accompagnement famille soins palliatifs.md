@@ -13,7 +13,7 @@
 | **Partenaires de soins** | Les inclure, valoriser leur présence, leur expliquer comment participer (tenir la main, parler, hydrater les lèvres) |
 | **Personnes en souffrance** | Les écouter, les accueillir dans leur détresse, ne pas minimiser leur vécu |
 
-> [!info] La famille aussi a besoin de soins
+> [!abstract] L'essentiel
 > Prendre soin de la famille, c'est prendre soin du patient : un proche soutenu est moins anxieux, plus présent, et transmet au patient une atmosphère plus sereine.
 
 ## 🗣️ Communication avec la famille

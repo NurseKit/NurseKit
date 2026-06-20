@@ -18,7 +18,7 @@
 | 4 | Après avoir touché un patient |
 | 5 | Après avoir touché l'environnement du patient |
 
-> [!info] SHA (Solution Hydroalcoolique) préférable au lavage eau+savon sauf si mains souillées visiblement ou C. difficile (spores résistantes)
+> [!abstract] L'essentiel
 
 ## Types de précautions
 

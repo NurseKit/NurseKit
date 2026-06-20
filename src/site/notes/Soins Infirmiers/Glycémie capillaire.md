@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Mesurer la glycémie par ponction capillaire pour surveiller l'équilibre glycémique et adapter le traitement.
 
 ## Valeurs de référence

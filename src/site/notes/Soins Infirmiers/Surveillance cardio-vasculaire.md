@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Surveiller de manière continue ou régulière les paramètres hémodynamiques pour détecter une dégradation clinique.
 
 ## Valeurs normales et seuils d'alerte

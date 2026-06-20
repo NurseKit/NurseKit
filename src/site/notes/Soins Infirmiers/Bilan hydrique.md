@@ -18,7 +18,7 @@
 | Médicaments PO | Pertes insensibles estimées (500-700 mL/j) |
 | Rinçages sonde, lavages | Selles liquides mesurées |
 
-> [!info] Bilan idéal = 0 (équilibre) · Bilan positif = rétention hydrique · Bilan négatif = déshydratation
+> [!abstract] L'essentiel
 
 ## Diurèse - Valeurs de référence
 

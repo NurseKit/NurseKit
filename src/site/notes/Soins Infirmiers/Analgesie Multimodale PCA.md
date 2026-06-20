@@ -14,7 +14,7 @@
 | **2** | Codéine, tramadol, nalbuphine | EN 4-6 (modérée) | Toujours + palier 1 |
 | **3** | Morphine, oxycodone, fentanyl | EN ≥ 7 (sévère) | Toujours + palier 1 |
 
-> [!info] Principes OMS
+> [!abstract] L'essentiel
 > - "Par la bouche" : voie orale préférée dès que possible
 > - "Par la pendule" : horaires fixes, pas à la demande uniquement
 > - "Par les paliers" : escalade progressive, ne pas sauter un palier sans raison

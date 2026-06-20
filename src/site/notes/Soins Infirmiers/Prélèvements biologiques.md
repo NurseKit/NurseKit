@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Médicaments/Héparine\|Héparine]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Réaliser des prélèvements veineux dans le bon ordre et dans les bonnes conditions pour obtenir des résultats fiables.
 
 ## Ordre de remplissage des tubes (OBLIGATOIRE)

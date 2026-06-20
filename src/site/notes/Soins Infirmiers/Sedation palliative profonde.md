@@ -34,7 +34,7 @@
 3. **Traçabilité** : décision motivée et tracée dans le dossier médical (date, intervenants, arguments)
 4. **Information et accompagnement de la famille** : expliquer la démarche, le déroulement, l'objectif de confort
 
-> [!info] La décision est médicale, mais l'IDE est acteur essentiel
+> [!abstract] L'essentiel
 > L'IDE participe à la discussion d'équipe, met en oeuvre la sédation, surveille et accompagne. La collégialité protège le patient ET l'équipe soignante.
 
 ## 💊 Midazolam (Hypnovel®) : molécule de référence

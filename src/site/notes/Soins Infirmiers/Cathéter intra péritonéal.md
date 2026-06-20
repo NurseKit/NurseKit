@@ -51,7 +51,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ## 🩹 Soin du site de sortie du cathéter
 
-> [!info] C'est **LE** soin le plus important en dialyse péritonéale : le principal risque infectieux passe par là.
+> [!abstract] L'essentiel
 
 ### Fréquence
 

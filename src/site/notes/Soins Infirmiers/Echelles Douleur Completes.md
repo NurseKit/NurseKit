@@ -85,7 +85,7 @@
 
 ## 🧠 Patient non-communiquant (adulte/sujet âgé)
 
-> [!info] Principe clé
+> [!abstract] L'essentiel
 > Chez le patient dément ou non-communiquant, la douleur s'exprime par le comportement. L'observation clinique remplace l'auto-évaluation.
 
 ### ALGOPLUS (sujet âgé dément en aigu / urgences)

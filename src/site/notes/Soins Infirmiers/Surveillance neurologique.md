@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Morphine\|Morphine]]
 
-> [!info] Objectif
+> [!abstract] L\'essentiel
 > Evaluer et surveiller l'état neurologique pour détecter une aggravation précoce (AVC, HTIC, intoxication opioïde).
 
 ## Score de Glasgow (GCS) - Détail

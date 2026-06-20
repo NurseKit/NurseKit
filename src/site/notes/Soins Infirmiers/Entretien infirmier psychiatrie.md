@@ -52,7 +52,7 @@ Accueil sans jugement de la personne, quelle que soit sa situation, ses actes, s
 | **Question ouverte** | Laisser le patient choisir sa réponse | "Comment vous sentez-vous en ce moment ?" |
 | **Silence thérapeutique** | Laisser le patient chercher ses mots, ne pas combler le vide | *(rester présent, attentif, sans parler)* |
 
-> [!info] Ordre des questions
+> [!abstract] L'essentiel
 > Toujours commencer par une question ouverte. Les questions fermées (réponse oui/non) peuvent être utilisées en fin d'entretien pour confirmer ou préciser, jamais en entrée de matière.
 
 ### Le silence thérapeutique : pourquoi c'est difficile

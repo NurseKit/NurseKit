@@ -6,7 +6,7 @@
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Exercices/Cas Cliniques/CC IDM\|Cas clinique IDM]]
 
-> [!info] Objectif et principe
+> [!abstract] L\'essentiel
 > Outil de communication IDE structuré pour documenter les événements cliniques dans le dossier de soins.
 > **D**onnée → **A**ction → **R**ésultat
 
