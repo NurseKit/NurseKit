@@ -1,0 +1,105 @@
+---
+{"dg-publish":true,"permalink":"/Révisions UE/UE 1.2 Santé Publique Économie/","tags":["révision","ue-1-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.2 - Santé Publique et Économie de la Santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.2","tags":["révision","ue-1-2","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+---
+
+
+> [!abstract] L'essentiel à retenir
+> - Santé (OMS 1946) : "état de complet bien-être physique, mental et social"
+> - Sécurité sociale : 4 branches (maladie, vieillesse, famille, AT/MP)
+> - Prévention primaire (avant), secondaire (dépistage), tertiaire (limiter séquelles)
+> - ARS : pilote la politique de santé régionale
+> - Incidence = nouveaux cas / Prévalence = tous les cas existants à un instant T
+
+## Objectifs de l'UE
+
+- Comprendre l'organisation du système de santé français
+- Identifier les acteurs et structures de soins
+- Connaître les bases du financement de la santé
+- Différencier les niveaux de prévention
+
+---
+
+## Points clés
+
+### Organisation du système de santé
+
+**Ministère de la Santé** : définit la politique nationale de santé
+
+**ARS (Agence Régionale de Santé)** :
+- Pilote la politique de santé au niveau régional
+- Délivre les autorisations d'ouverture des établissements
+- Coordonne ville, hôpital et médico-social
+
+**HAS (Haute Autorité de Santé)** :
+- Évalue les actes, médicaments et dispositifs médicaux
+- Publie des recommandations de bonnes pratiques
+- Accrédite les établissements de santé
+
+---
+
+### Types d'établissements
+
+| Type | Description |
+|------|-------------|
+| CHU | Centre Hospitalier Universitaire (enseignement + recherche) |
+| CH | Centre Hospitalier général |
+| CHS | Centre Hospitalier Spécialisé (psychiatrie) |
+| ESPIC | Établissement privé d'intérêt collectif (ex : Croix-Rouge) |
+| EHPAD | Maison de retraite médicalisée |
+| SSIAD | Soins infirmiers à domicile |
+
+---
+
+### Niveaux de prévention
+
+**Primaire** : avant la maladie, population générale
+- Exemples : vaccination, campagnes anti-tabac, alimentation saine
+
+**Secondaire** : dépistage précoce, sujets à risque
+- Exemples : mammographie, frottis cervical, dépistage diabète
+
+**Tertiaire** : limitation des séquelles, malades avérés
+- Exemples : rééducation post-AVC, éducation thérapeutique diabète
+
+---
+
+### Financement de la santé
+
+**Sécurité Sociale** - 4 branches :
+
+1. Maladie (CPAM) : remboursements soins
+2. Vieillesse (CNAV) : retraites
+3. Famille (CAF) : prestations familiales
+4. Accidents du travail / Maladies professionnelles (AT/MP)
+
+**Financement hospitalier** :
+- T2A (Tarification à l'Activité) : rémunération selon actes réalisés (GHM)
+- ONDAM : enveloppe annuelle votée par le Parlement
+
+**Restes à charge** :
+- Ticket modérateur : part non remboursée par la Sécu
+- Franchise médicale : montant fixe par boîte de médicament
+- Mutuelle/Complémentaire : couvre le reste à charge
+
+---
+
+### Indicateurs de santé publique
+
+- **Espérance de vie** : ~85 ans femmes, ~80 ans hommes (France)
+- **Mortalité infantile** : décès avant 1 an pour 1000 naissances vivantes
+- **Incidence** : nouveaux cas sur une période donnée
+- **Prévalence** : tous les cas existants à un moment donné
+- **Morbidité** : fréquence des maladies dans une population
+
+---
+
+## Questions fréquentes
+
+> [!success]- Q : Différence entre incidence et prévalence ?
+> Incidence = nouveaux cas sur une période. Prévalence = tous les cas (anciens + nouveaux) à un instant T.
+
+> [!success]- Q : Citez les 3 niveaux de prévention avec un exemple chacun
+> Primaire (vaccination), Secondaire (mammographie), Tertiaire (rééducation post-AVC)
+
+> [!success]- Q : Rôle de l'ARS ?
+> Piloter la politique de santé régionale, délivrer les autorisations des établissements, coordonner les acteurs ville/hôpital/médico-social.
