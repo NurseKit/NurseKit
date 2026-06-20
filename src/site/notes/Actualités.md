@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Actualités/","pinned":true,"tags":["actualités","changelog","NurseKit Lite"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit Lite"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Actualités/","pinned":true,"tags":["actualités","changelog","NurseKit"],"dg-note-properties":{"nom":"Actualités et mises à jour","tags":["actualités","changelog","NurseKit"],"revision":"2026-06-16"}}
 ---
 
 
@@ -18,5 +18,5 @@
 
 
 > [!info] À propos du projet
-> NurseKit Lite est développé par un ESI en 2ème année. Outil de révision pédagogique uniquement.
+> NurseKit est développé par un ESI en 2ème année. Outil de révision pédagogique uniquement.
 > En stage : vérifier avec les protocoles du service, le Vidal et la prescription médicale.

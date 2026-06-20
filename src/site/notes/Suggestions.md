@@ -4,13 +4,13 @@
 
 
 > [!abstract] Suggestions & Retours
-> Tu as trouvé une erreur ? Une fiche manquante ? Une suggestion pour améliorer NurseKit Lite ?
+> Tu as trouvé une erreur ? Une fiche manquante ? Une suggestion pour améliorer NurseKit ?
 > Envoie ton message ci-dessous — toutes les suggestions sont lues et prises en compte.
 
 <div class="suggestion-form-wrapper">
 
 <form action="https://formspree.io/f/mnjyewro" method="POST">
-  <input type="hidden" name="_subject" value="Nouvelle suggestion NurseKit Lite" />
+  <input type="hidden" name="_subject" value="Nouvelle suggestion NurseKit" />
   <input type="hidden" name="_next" value="https://nursekit.pages.dev/merci" />
   <input type="text" name="_gotcha" style="display:none" />
 
@@ -121,4 +121,4 @@
 
 > [!info] Confidentialité
 > Tes données ne sont utilisées que pour répondre à ta suggestion. Aucun partage avec des tiers.
-> NurseKit Lite est un projet étudiant sans but commercial.
+> NurseKit est un projet étudiant sans but commercial.

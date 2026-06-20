@@ -23,11 +23,11 @@
 
 ## Cas cliniques & exercices
 
-| Section | Fiches | Contenu |
-|---------|--------|---------|
-| [[Index Cas Cliniques\|Cas Cliniques]] | 20 | Cas IFSI complets avec solutions masquées + transmissions ciblées |
-| [[Pharmacologie/Index Pharmacologie\|Pharmacologie]] | 7 | Interactions, sécurité, antibio, paliers OMS, NEWS2 |
-| [[Exercices/Calculs Doses/Index Calculs Doses\|Calculs Doses]] | 5 | Exercices avec corrigés masqués (débit, dilution, pédiatrie, SE) |
+| Section                                | Fiches | Contenu                                                           |
+| -------------------------------------- | ------ | ----------------------------------------------------------------- |
+| [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques]]                      | 20     | Cas IFSI complets avec solutions masquées + transmissions ciblées |
+| [[Pharmacologie/Index Pharmacologie\|Pharmacologie]] | 7      | Interactions, sécurité, antibio, paliers OMS, NEWS2               |
+| [[Exercices/Calculs Doses/Index Calculs Doses\|Calculs Doses]] | 5      | Exercices avec corrigés masqués (débit, dilution, pédiatrie, SE)  |
 
 ---
 
@@ -48,7 +48,7 @@
 > [!tip] Pour les révisions
 > - [[Exercices/QCM/Index QCM\|QCM par thème]] → tester ses connaissances
 > - [[Pathologies/Index Pathologies\|Fiches pathologies]] → réviser les points clés
-> - [[Index Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
+> - [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
 
 > [!tip] Pour les stages
 > - [[Fiches de Service/Index Fiches de Service\|Fiches de service]] → checklist par spécialité
