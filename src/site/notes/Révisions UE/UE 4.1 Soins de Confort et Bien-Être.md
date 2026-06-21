@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.1 Soins de Confort et Bien-Être/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.1 Soins de Confort et Bien-Être/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -92,16 +92,33 @@ Réévaluation systématique 30-60 min après administration d'un antalgique.
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Décrivez les 4 stades de l'escarre
+> [!question]- Q : Décrivez les 4 stades de l'escarre
 > Stade 1 (rougeur persistante, peau intacte) → Stade 2 (phlyctène, abrasion dermique) → Stade 3 (perte hypoderme) → Stade 4 (atteinte profonde : muscle, os)
 
-> [!success]- Q : Principes éthiques des soins d'hygiène ?
+> [!question]- Q : Principes éthiques des soins d'hygiène ?
 > Respect de la dignité, de l'intimité et de la pudeur, promotion de l'autonomie, explication de chaque geste, adaptation au rythme du patient.
 
-> [!success]- Q : Que faire si le score de Braden est à 14 ?
+> [!question]- Q : Que faire si le score de Braden est à 14 ?
 > Score ≤18 = risque d'escarre → mettre en place les mesures de prévention : changements de position toutes les 2-3h, matelas adapté, surveillance cutanée systématique, optimisation nutritionnelle.
+
+
+> [!question]- Q : Quelles sont les 5 zones les plus exposées aux escarres en décubitus dorsal ?
+> Sacrum (++), talons, omoplates, occiput, coudes. En décubitus latéral : grand trochanter, malléoles, oreilles, épaules. Prévention : mobilisation toutes les 2-3h, matelas anti-escarres, nutrition optimisée.
+
+> [!question]- Q : Cotation EVA : quand changer de palier analgésique ?
+> Palier 1 (non-opioïdes : paracétamol, AINS) : EVA 1-3. Palier 2 (opioïdes faibles : tramadol, codéine) : EVA 4-6. Palier 3 (opioïdes forts : morphine) : EVA 7-10 ou douleur résistante aux paliers 1-2.
+
+> [!question]- Q : Qu'est-ce qu'une contention physique et qui peut la décider ?
+> Tout moyen limitant les mouvements volontaires du patient (barrières de lit, attaches, gilet, ceinture de sécurité). Décision **médicale** obligatoire (prescription écrite), surveillance toutes les 2h, réévaluation quotidienne, traçabilité. Mesure de dernier recours.
+
+
+## Voir aussi
+
+[[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]] · [[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]]
+
+> [!caution] Outil pédagogique · Réf : HAS prévention escarres 2014, EPUAP/NPIAP 2019, Échelle de Braden — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

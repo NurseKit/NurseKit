@@ -43,6 +43,10 @@
 2. **"Pesée quotidienne = thermomètre de l'ascite"** → +1 kg/j sans autre explication = signaler, ne pas attendre que le ventre soit visible à l'œil nu
 3. **"Hématémèse chez un cirrhotique = urgence vitale"** → toujours, même si "c'est juste un peu de sang" : les varices peuvent tuer en quelques minutes
 
+## Normes à surveiller
+
+[[Médicaments/Normes/ALAT\|ALAT]] · [[Médicaments/Normes/ASAT\|ASAT]] · [[Médicaments/Normes/GGT\|GGT]] · [[Médicaments/Normes/Albumine\|Albumine]] · [[Médicaments/Normes/TP\|TP]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/Plaquettes\|Plaquettes]]
+
 ## Voir aussi
 
 [[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Pathologies/Pancréatite aigue\|Pancréatite aiguë]] · TP/INR

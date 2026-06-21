@@ -69,7 +69,7 @@ Le cœur est équipé de « capteurs » appelés récepteurs bêta-1. L'adrénal
 
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol]] · [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol]] · [[Médicaments/Bêta-bloquants/Propranolol\|Propranolol]]
 - [[Médicaments/IEC/Ramipril\|Ramipril (IEC)]] · [[Médicaments/Diurétiques/Furosemide\|Furosémide]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
-- [[IEC\|IEC]] · [[FC\|Normes FC]] · [[Pathologies/BPCO\|BPCO]]
+- [[Médicaments/IEC/Ramipril\|IEC]] · [[Médicaments/Normes/FC\|Normes FC]] · [[Pathologies/BPCO\|BPCO]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

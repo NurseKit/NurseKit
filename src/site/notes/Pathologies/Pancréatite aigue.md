@@ -48,7 +48,7 @@ Les deux causes représentent 80 % des cas : **lithiase biliaire** (1ère cause)
 
 ## Voir aussi
 
-[[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Lipase\|Lipase]]
+[[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Médicaments/Normes/Lipase\|Lipase]]
 
 > [!caution] Outil pédagogique : HAS/SNFGE recommandations
 

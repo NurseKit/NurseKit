@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs/","tags":["révision","ue-2-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.7 - Défaillances Organiques et Processus Dégénératifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.7","tags":["révision","ue-2-7","ifsi","2eme-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs/","tags":["révision","ue-2-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.7 - Défaillances Organiques et Processus Dégénératifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.7","tags":["révision","ue-2-7","ifsi","2eme-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -21,7 +21,7 @@
 
 ## Points clés
 
-### Insuffisance cardiaque (IC)
+### [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque (IC)]]
 
 **Définition** : incapacité du cœur à assurer un débit suffisant pour les besoins de l'organisme
 
@@ -43,7 +43,7 @@
 
 ---
 
-### Insuffisance rénale chronique (IRC)
+### [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique (IRC)]]
 
 **Définition** : diminution permanente et irréversible du DFG <60 mL/min/1,73m² pendant >3 mois
 
@@ -63,7 +63,7 @@
 
 ---
 
-### Diabète de type 2
+### [[Pathologies/Diabète de type 2\|Diabète de type 2]]
 
 **Physiopathologie** : insulinorésistance + déficit relatif d'insuline → hyperglycémie chronique
 
@@ -82,7 +82,7 @@
 
 ---
 
-### Maladie d'Alzheimer
+### [[Pathologies/Alzheimer & TNCM\|Maladie d'Alzheimer]]
 
 **Définition** : maladie dégénérative du cerveau, 1ère cause de démence (70% des démences)
 
@@ -97,7 +97,7 @@
 
 ---
 
-### BPCO
+### [[Pathologies/BPCO\|BPCO]]
 
 **Définition** : maladie obstructive chronique des bronches, irréversible
 
@@ -119,16 +119,33 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Citez les 4 classes NYHA de l'insuffisance cardiaque
+> [!question]- Q : Citez les 4 classes NYHA de l'insuffisance cardiaque
 > I (asymptomatique) → II (efforts importants) → III (efforts modérés) → IV (au repos)
 
-> [!success]- Q : Quel est le DFG définissant l'IRC ?
+> [!question]- Q : Quel est le DFG définissant l'IRC ?
 > DFG <60 mL/min/1,73m² pendant plus de 3 mois (stade G3 et au-delà)
 
-> [!success]- Q : Quelle est la 1ère manifestation cognitive de la maladie d'Alzheimer ?
+> [!question]- Q : Quelle est la 1ère manifestation cognitive de la maladie d'Alzheimer ?
 > Les troubles de la mémoire épisodique récente (oublis des événements récents, répétitions) tout en conservant les souvenirs anciens.
+
+
+> [!question]- Q : Différence entre IC systolique et diastolique ?
+> **Systolique** (FE <40%) : le ventricule gauche ne se contracte pas assez → débit insuffisant. **Diastolique** (FE préservée >50%) : le VG se remplit mal → pression de remplissage élevée. Même symptômes (dyspnée, œdèmes) mais mécanismes et traitements différents.
+
+> [!question]- Q : Quelles sont les complications de l'IRC ?
+> Anémie (↓ EPO), hyperphosphorémie + hypocalcémie (→ ostéodystrophie rénale), hyperkaliémie (risque arythmie), acidose métabolique, HTA, œdèmes. Stade G5 : dialyse ou transplantation.
+
+> [!question]- Q : Qu'est-ce qu'une complication microvasculaire du diabète ?
+> Atteinte des petits vaisseaux due à l'hyperglycémie chronique : rétinopathie diabétique (cécité), néphropathie diabétique (IRC), neuropathie diabétique (pied diabétique). Contrôle HbA1c <7% prévient ces complications.
+
+
+## Voir aussi
+
+[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]] · [[Pathologies/BPCO\|BPCO]] · [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
+
+> [!caution] Outil pédagogique · Réf : HAS recommandations IC 2021, KDIGO 2022, SFD 2023 — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

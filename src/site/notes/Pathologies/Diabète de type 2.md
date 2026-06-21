@@ -72,6 +72,10 @@ Souvent **asymptomatique** au début, découvert fortuitement (bilan systématiq
 2. **Inspection des pieds chaque jour** : neuropathie = pas de douleur = plaie invisible sans inspection
 3. **Arrêt metformine avant scanner avec injection et chirurgie** : risque d'acidose lactique
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Glycémie\|Glycémie à jeun]] · [[Médicaments/Normes/HbA1c\|HbA1c (objectif < 7%)]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Créatinine\|Créatinine]]
+
 ## Voir aussi
 
 [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Pathologies/Pied diabétique\|Pied diabétique]] · [[Pathologies/Diabète gestationnel\|Diabète gestationnel]] · [[Soins Infirmiers/ETP Diabete\|ETP Diabete]] · [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]

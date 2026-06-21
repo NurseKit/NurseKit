@@ -51,6 +51,10 @@ Le ramipril est une prodrogue transformée en ramiprilate actif dans le foie. Ce
 2. Hyperkaliémie → surtout si IR, diabète ou spironolactone associée → K⁺ à surveiller régulièrement
 3. CI grossesse absolue T2-T3 → arrêt immédiat si grossesse découverte
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Kaliémie\|Kaliémie (hyperkaliémie)]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/TA systolique\|TA]]
+
 ## Voir aussi
 
 - [[Médicaments/ARA2/Losartan\|Losartan]] (ARA2, si toux IEC)

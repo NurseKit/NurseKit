@@ -62,6 +62,10 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 2. **"Asseoir les jambes pendantes en OAP"** → cette seule position réduit le retour veineux et soulage le VG en attendant les médicaments
 3. **"Kaliémie sous diurétique"** → le furosémide fait perdre du potassium vite : surveiller la kaliémie et les signes d'hypokaliémie (crampes, arythmies, faiblesse musculaire)
 
+## Normes à surveiller
+
+[[Médicaments/Normes/BNP\|BNP / NT-proBNP]] · [[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
+
 ## Voir aussi
 
 [[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · BNP · Kaliémie

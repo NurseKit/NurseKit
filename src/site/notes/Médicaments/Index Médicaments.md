@@ -354,7 +354,7 @@
 
 ### Vitamines
 
-- [[Médicaments/Vitamines/Vitamine D\|Vitamine D]]
+- [[Médicaments/Normes/Vitamine D\|Vitamine D]]
 - [[Médicaments/Vitamines/Vitamine C\|Vitamine C]]
 - [[Médicaments/Vitamines/Vitamine B12\|Vitamine B12]]
 - [[Médicaments/Vitamines/Vitamine K\|Vitamine K]]

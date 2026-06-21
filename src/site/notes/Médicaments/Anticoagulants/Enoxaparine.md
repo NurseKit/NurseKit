@@ -64,6 +64,10 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ---
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Plaquettes\|Plaquettes (TIH)]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
+
 ## Voir aussi
 
 Plaquettes (HIT) · TCA (HNF) · INR (relais AVK) · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Anticoagulants/Héparine\|HBPM]] · HIT

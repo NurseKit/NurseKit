@@ -56,6 +56,10 @@ L'amiodarone ralentit l'activité électrique du cœur en bloquant simultanémen
 2. **Surveillance thyroïdienne (TSH)** tous les 6 mois + radio thoracique annuelle → incontournable
 3. **En IV : G5% uniquement** et voie centrale recommandée → jamais en bolus direct dans une petite veine
 
+## Normes à surveiller
+
+[[Médicaments/Normes/TSH\|TSH (dysthyroïdie)]] · [[Médicaments/Normes/T4 libre\|T4 libre]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/ALAT\|ALAT (hépatotox)]]
+
 ## Voir aussi
 
 - [[Médicaments/Antiarythmiques/Flecainide\|Flécaïnide (classe IC, FA sur cœur sain)]]

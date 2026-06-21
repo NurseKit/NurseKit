@@ -58,6 +58,10 @@ Un thrombus veineux (souvent TVP des membres inférieurs) se détache et migre d
 2. **"AOD en 1ère ligne pour les EP non graves"** → apixaban 10 mg × 2 pendant 7 jours, puis 5 mg × 2. Pas d'héparine d'emblée dans les formes simples
 3. **"Hypotension = thrombolyse à discuter"** → le passage d'une EP stable à une EP grave peut être très rapide, surveiller la TA de façon rapprochée
 
+## Normes à surveiller
+
+[[Médicaments/Normes/D-Dimères\|D-Dimères (< 500 µg/L = règle d'élimination)]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/Troponine\|Troponine]]
+
 ## Voir aussi
 
 [[Pathologies/TVP\|TVP]] · D-Dimères · SpO₂ · FC ·

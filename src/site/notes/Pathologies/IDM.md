@@ -63,6 +63,10 @@ Protocole MONA dans l'ordre :
 2. **O2 uniquement si SpO2 < 90%** : pas en systématique
 3. **Trinitrine CI si PA < 90 mmHg ou sildénafil récent** : risque de choc
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Troponine\|Troponine (marqueur clé)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
+
 ## Voir aussi
 
 [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|CC IDM]]

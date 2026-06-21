@@ -58,6 +58,10 @@ L'héparine "active" une enzyme naturelle du corps (antithrombine III) en multip
 
 ---
 
+## Normes à surveiller
+
+[[Médicaments/Normes/TCA\|TCA (ratio 2-3)]] · [[Médicaments/Normes/Plaquettes\|Plaquettes (TIH)]] · [[Médicaments/Normes/INR\|INR]]
+
 ## Voir aussi
 
 [[Médicaments/Anticoagulants/Enoxaparine\|Énoxaparine (Lovenox®)]] · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (Coumadine®)]] · [[Pathologies/TVP\|TVP]]

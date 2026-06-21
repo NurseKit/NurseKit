@@ -48,6 +48,10 @@ La digoxine bloque une pompe dans les cellules cardiaques → le calcium s'accum
 2. Hypokaliémie potentialise la toxicité → surveiller K⁺ surtout sous diurétiques (furosémide, HCTZ)
 3. Antidote = DigiFab (anticorps anti-digoxine) → en cas d'intoxication grave
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Kaliémie\|Kaliémie (hypok → toxicité)]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/FC\|FC]]
+
 ## Voir aussi
 
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (interaction hypokaliémie)

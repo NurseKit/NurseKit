@@ -15,7 +15,7 @@
 - Sinusite bactérienne
 - Pneumonie communautaire (souvent avec macrolide en association)
 - Cystite simple de la femme
-- Éradication *H. pylori* (triple thérapie avec [[IPP\|IPP]] + clarithromycine)
+- Éradication *H. pylori* (triple thérapie avec [[Médicaments/Antiacides/Omeprazole\|IPP]] + clarithromycine)
 
 ---
 
@@ -53,7 +53,7 @@ Les bactéries ont une paroi rigide, comme une armure, qui les protège. L'amoxi
 - [ ] Si rash → décrire et signaler au médecin (ne pas arrêter seul)
 - [ ] Surveiller : diarrhées importantes → *Clostridium difficile* à évoquer si > 3/j
 - [ ] Éduquer : finir la totalité des comprimés (même si mieux)
-- [ ] Si patient sous [[Médicaments/Anticoagulants/Warfarine\|AVK]] → surveiller [[INR\|INR]] (peut être modifié)
+- [ ] Si patient sous [[Médicaments/Anticoagulants/Warfarine\|AVK]] → surveiller [[Médicaments/Normes/INR\|INR]] (peut être modifié)
 
 ---
 
@@ -67,9 +67,9 @@ Les bactéries ont une paroi rigide, comme une armure, qui les protège. L'amoxi
 
 ## Voir aussi
 
-[[Antibiotique/Amoxicilline_Clavulanate\|Augmentin® (amoxicilline + clavulanate)]] · [[Médicaments/Antiacides/Omeprazole\|Oméprazole (H. pylori)]] · [[CRP\|CRP]] · [[Procalcitonine\|Procalcitonine]] · [[Leucocytes\|Leucocytes]] · [[ATB\|ATB]]
+[[Antibiotique/Amoxicilline_Clavulanate\|Augmentin® (amoxicilline + clavulanate)]] · [[Médicaments/Antiacides/Omeprazole\|Oméprazole (H. pylori)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|Procalcitonine]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · ATB
 
-> [!caution] Outil pédagogique : Toujours vérifier le protocole [[ATB\|ATB]] du service et l'antibiogramme
+> [!caution] Outil pédagogique : Toujours vérifier le protocole ATB du service et l'antibiogramme
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

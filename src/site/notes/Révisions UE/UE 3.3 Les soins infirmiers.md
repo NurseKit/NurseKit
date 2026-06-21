@@ -105,6 +105,16 @@
 
 ---
 
+> [!question]- Q : Qu'est-ce que l'article R.4311-14 autorise en urgence ?
+> L'IDE peut en situation d'urgence : réaliser un massage cardiaque, une ventilation manuelle (ballon BAVU), utiliser un défibrillateur semi-automatique (DSA), et administrer de l'adrénaline en cas d'anaphylaxie si un protocole est en place et le médecin absent.
+
+> [!question]- Q : Quelles sont les 10 compétences IDE selon le référentiel 2009 ?
+> 1. Évaluation clinique/diagnostic infirmier 2. Projet de soins 3. Soins quotidiens 4. Actions diagnostiques et thérapeutiques 5. Soins éducatifs et préventifs 6. Communication et relation de soins 7. Qualité des soins 8. Recherche et données scientifiques 9. Organisation et coordination 10. Information et formation.
+
+> [!question]- Q : Qu'est-ce que le RASS et à quoi sert-il ?
+> Richmond Agitation Sedation Scale (-5 à +4). Évalue le niveau de sédation et d'agitation : -5 (non éveillable) → 0 (éveillé et calme) → +4 (combatif). Utilisé en réanimation pour titrer la sédation et éviter la sédation excessive.
+
+
 ## Voir aussi
 
 [[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|UE 3.1 Raisonnement et Démarche Clinique]] · [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]

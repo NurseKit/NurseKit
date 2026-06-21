@@ -44,7 +44,7 @@ Transfusion de globules rouges pour corriger une anémie symptomatique (Hb < 7 g
 
 ## Voir aussi
 
-[[Anemie\|Anémie]] · [[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · Hémoglobine
+[[Pathologies/Anémie\|Anémie]] · [[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · Hémoglobine
 
 > [!caution] Outil pédagogique : HAS, recommandations hémovigilance
 

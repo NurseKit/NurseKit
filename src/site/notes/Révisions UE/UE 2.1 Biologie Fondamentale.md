@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.1 Biologie Fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.1 Biologie Fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -91,24 +91,41 @@ Maintien de la constance du milieu intérieur malgré les variations extérieure
 
 **Paramètres régulés** :
 - Température : 36,5-37,5°C
-- pH sanguin : 7,35-7,45
-- Glycémie : 0,70-1,10 g/L à jeun
-- PA : ~120/80 mmHg
+- [[pH artériel\|pH sanguin : 7,35-7,45]]
+- [[Médicaments/Normes/Glycémie\|Glycémie : 0,70-1,10 g/L à jeun]]
+- [[Médicaments/Normes/TA systolique\|PA : ~120/80 mmHg]]
 
 **Mécanisme principal** : rétrocontrôle négatif (ramène à la valeur cible)
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Différence entre mitose et méiose ?
+> [!question]- Q : Différence entre mitose et méiose ?
 > Mitose : 2 cellules identiques à 46 chromosomes (somatiques). Méiose : 4 gamètes à 23 chromosomes (germinales).
 
-> [!success]- Q : Qu'est-ce que l'homéostasie ?
+> [!question]- Q : Qu'est-ce que l'homéostasie ?
 > Maintien de la constance des paramètres du milieu intérieur (température, pH, glycémie...) grâce au rétrocontrôle négatif.
 
-> [!success]- Q : Rôle de la p53 ?
+> [!question]- Q : Rôle de la p53 ?
 > Protéine anti-tumorale qui contrôle le point de contrôle G1/S du cycle cellulaire. Sa mutation entraîne une prolifération cellulaire incontrôlée (cancer).
+
+
+> [!question]- Q : Quels sont les 3 rôles principaux des protéines ?
+> Structure (kératine, collagène), Transport (hémoglobine, albumine), Fonctionnel (enzymes, anticorps, hormones peptidiques, récepteurs membranaires).
+
+> [!question]- Q : Pourquoi l'ADN utilise la thymine et l'ARN l'uracile ?
+> Différence de structure chimique : l'ADN (double brin stable) utilise la thymine (base méthylée, plus stable). L'ARN (simple brin transitoire) utilise l'uracile (non méthylée, suffisante pour sa durée de vie courte).
+
+> [!question]- Q : Que se passe-t-il si le gène p53 est muté ?
+> La p53 est le "gardien du génome". Mutée, elle ne peut plus arrêter le cycle cellulaire en G1/S pour permettre la réparation de l'ADN. La cellule se divise avec des erreurs génétiques → prolifération tumorale (cancer).
+
+
+## Voir aussi
+
+[[Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions\|UE 2.2 Cycles de Vie et Grandes Fonctions]] · [[Révisions UE/UE 2.9 Processus Tumoraux\|UE 2.9 Processus Tumoraux]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins et normes]] · [[Médicaments/Normes/Index Normes\|Index Normes]]
+
+> [!caution] Outil pédagogique · Réf : Biologie cellulaire IFSI 1ère année — Tortora, Principes d'anatomie et physiologie
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -50,6 +50,10 @@ Stimule fortement les récepteurs α1 des artères → contraction des artères 
 2. Objectif PAM ≥ 65 mmHg → adapter le débit (0,1 à 3 µg/kg/min)
 3. IMAO = CI absolue → vérifier les antécédents médicamenteux
 
+## Normes à surveiller
+
+[[Médicaments/Normes/TA systolique\|TA (objectif PAM > 65)]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/Lactates\|Lactates]]
+
 ## Voir aussi
 
 - [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]]

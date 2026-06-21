@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.5 Processus Inflammatoires Infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.5 Processus Inflammatoires Infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -76,8 +76,8 @@
 
 - **Infection** : présence d'un micro-organisme dans un tissu normalement stérile
 - **Bactériémie** : bactéries dans le sang (hémocultures positives)
-- **Sepsis** : dysfonction d'organe menaçant le pronostic vital due à une réponse dérégulée à une infection (SOFA ≥ 2)
-- **Choc septique** : sepsis + hypotension persistante malgré remplissage + lactates >2 mmol/L
+- **[[Pathologies/Sepsis\|Sepsis]]** : dysfonction d'organe menaçant le pronostic vital due à une réponse dérégulée à une infection (SOFA ≥ 2)
+- **[[Pathologies/Choc septique\|Choc septique]]** : sepsis + hypotension persistante malgré remplissage + lactates >2 mmol/L
 
 **Bundle Surviving Sepsis Campaign (1ère heure)** :
 - Hémocultures AVANT antibiotiques (sans retarder les ATB)
@@ -88,19 +88,36 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Citez les 4 signes cardinaux de l'inflammation et leur mécanisme
+> [!question]- Q : Citez les 4 signes cardinaux de l'inflammation et leur mécanisme
 > Rougeur (vasodilatation), chaleur (afflux sanguin), douleur (médiateurs chimiques), tuméfaction (œdème par perméabilité vasculaire accrue)
 
-> [!success]- Q : Différence immunité innée et adaptative ?
+> [!question]- Q : Différence immunité innée et adaptative ?
 > Innée : non spécifique, immédiate, macrophages/PNN. Adaptative : spécifique, délai 5-10j, lymphocytes B (anticorps) et T (cytotoxicité), mémoire immunologique.
 
-> [!success]- Q : Définissez le sepsis selon Sepsis-3
+> [!question]- Q : Définissez le sepsis selon Sepsis-3
 > Dysfonction d'organe menaçant le pronostic vital due à une réponse de l'hôte dérégulée à une infection (SOFA ≥ 2).
 
-> [!success]- Q : Peut-on prescrire des antibiotiques pour une grippe ?
+> [!question]- Q : Peut-on prescrire des antibiotiques pour une grippe ?
 > Non. Les antibiotiques ne sont efficaces que contre les bactéries. La grippe est due à un virus (influenzavirus). Leur usage abusif favorise les résistances bactériennes.
+
+
+> [!question]- Q : Qu'est-ce que le SOFA score ?
+> Score de défaillance d'organe (Sequential Organ Failure Assessment) utilisé pour diagnostiquer le sepsis : évalue 6 organes (respiration PaO2/FiO2, coagulation plaquettes, foie bilirubine, cardiovasculaire PAM, neurologie GCS, rein créatinine). SOFA ≥ 2 = sepsis.
+
+> [!question]- Q : Différence IgG / IgM dans une infection ?
+> **IgM** : premières produites (J5-J10), signe d'infection **aiguë** récente. **IgG** : production plus tardive, persistent à long terme, traversent le placenta, signe d'**immunité acquise** (ancienne infection ou vaccination).
+
+> [!question]- Q : Pourquoi les antiviraux ont un spectre d'action limité ?
+> Les virus utilisent la machinerie de la cellule hôte pour se répliquer. Il est difficile de cibler le virus sans détruire la cellule humaine. Les antiviraux ciblent des enzymes virales spécifiques (protéase VIH, polymérase VHC, neuraminidase grippe).
+
+
+## Voir aussi
+
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] · [[Révisions UE/UE 2.10 Infectiologie Hygiène\|UE 2.10 Infectiologie Hygiène]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins et normes]] · [[Médicaments/Normes/Index Normes\|Index Normes]]
+
+> [!caution] Outil pédagogique · Réf : Sepsis-3 2016 (Singer et al.), Surviving Sepsis Campaign, HAS — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

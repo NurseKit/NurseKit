@@ -50,6 +50,10 @@ Le furosémide bloque la réabsorption du sel et de l'eau dans le rein (anse de 
 2. Hypokaliémie systématique → doser K⁺ avant et pendant, corriger si besoin
 3. Injecter lentement en IV (risque d'ototoxicité à injection rapide)
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Kaliémie\|Kaliémie (objectif > 3,5)]] · [[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
+
 ## Voir aussi
 
 - [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] (épargne le K⁺, complémentaire)

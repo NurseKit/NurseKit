@@ -5,7 +5,7 @@
 
 > [!abstract] Kétoprofène
 > AINS de la famille des profènes, à usage oral, injectable ou topique.
-> → [[Médicaments/Index Médicaments\|Index Médicaments]] · [[AINS\|Comparatif AINS]] · [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
+> → [[Médicaments/Index Médicaments\|Index Médicaments]] · [[Médicaments/AINS/Comparatif AINS\|Comparatif AINS]] · [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
 
 ## C'est quoi ?
 
@@ -38,7 +38,7 @@ Disponible sous plusieurs formes : orale (gélules), IV/IM (Profénid®), topiqu
 ## Interactions à risque
 
 - **[[Médicaments/Anticoagulants/Warfarine\|Warfarine]] / AVK** : potentialisation anticoagulante → risque hémorragique
-- **[[Lithium\|Lithium]]** : augmentation lithiémie → toxicité
+- **lithium** : augmentation lithiémie → toxicité
 - **[[Médicaments/IEC/Ramipril\|IEC]]** : antagonisme de l'effet antihypertenseur + risque rénal
 - **[[Médicaments/Minéraux/Potassium IV\|Diurétiques]]** : risque d'IRA (déhydratation)
 

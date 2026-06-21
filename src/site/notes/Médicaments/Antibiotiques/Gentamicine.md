@@ -71,6 +71,10 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 ---
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
+
 ## Voir aussi
 
 - [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] (glycopeptide, néphrotoxicité additive)

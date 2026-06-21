@@ -4,7 +4,7 @@
 
 
 > [!abstract] En 2 mots
-> L'insuline est l'hormone qui permet aux cellules d'utiliser le sucre. Indispensable à vie dans le [[DT1\|DT1]], parfois nécessaire dans le [[DT2\|DT2]]. Le risque principal : **l'hypoglycémie**. Elle se surveille par la [[Glycémie\|glycémie capillaire]] avant chaque injection.
+> L'insuline est l'hormone qui permet aux cellules d'utiliser le sucre. Indispensable à vie dans le DT1, parfois nécessaire dans le [[Pathologies/Diabète de type 2\|DT2]]. Le risque principal : **l'hypoglycémie**. Elle se surveille par la [[Médicaments/Normes/Glycémie\|glycémie capillaire]] avant chaque injection.
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## Comment ça marche ? (simplifié)
 
-Quand on mange du sucre, la [[Glycémie\|Glycémie]] monte. Normalement, le pancréas libère de l'insuline qui « ouvre la porte » des cellules pour que le glucose entre et soit utilisé comme énergie. Dans le [[DT1\|DT1]], le pancréas ne fait plus d'insuline → les portes restent fermées → le glucose reste dans le sang → hyperglycémie → à terme acidocétose.
+Quand on mange du sucre, la [[Médicaments/Normes/Glycémie\|Glycémie]] monte. Normalement, le pancréas libère de l'insuline qui « ouvre la porte » des cellules pour que le glucose entre et soit utilisé comme énergie. Dans le DT1, le pancréas ne fait plus d'insuline → les portes restent fermées → le glucose reste dans le sang → hyperglycémie → à terme acidocétose.
 
 ---
 
 ## Ce qu'il ne faut PAS faire
 
 > [!danger] Ne JAMAIS injecter sans vérifier la glycémie avant
-> [[Glycémie\|Glycémie]] < 3,3 mmol/L (0,60 g/L) → **NE PAS injecter** → resucrer d'abord, contrôler, puis appeler le médecin.
+> [[Médicaments/Normes/Glycémie\|Glycémie]] < 3,3 mmol/L (0,60 g/L) → **NE PAS injecter** → resucrer d'abord, contrôler, puis appeler le médecin.
 
 > [!danger] Hypoglycémie < 0,50 g/L (< 2,8 mmol/L)
 > Urgence : patient inconscient → G30 % IV, patient conscient → sucre oral. Prévenir systématiquement. Contrôle à 15 min.
@@ -50,12 +50,12 @@ Quand on mange du sucre, la [[Glycémie\|Glycémie]] monte. Normalement, le panc
 - [ ] Choisir le bon type d'insuline (rapide/lente) selon l'heure et le repas
 - [ ] Site d'injection : abdomen (absorption +rapide), cuisse, bras, fesse → **rotation systématique**
 - [ ] Injection SC : pincer la peau, angle 45° ou 90° selon corpulence
-- [ ] Conservation : flacon ouvert à [[Température\|température]] ambiante ≤ 28 jours (pas au froid)
+- [ ] Conservation : flacon ouvert à [[Médicaments/Normes/Température\|température]] ambiante ≤ 28 jours (pas au froid)
 - [ ] Éduquer le patient : signes d'hypoglycémie (tremblements, sueurs, pâleur, sensation de faim)
 
 ---
 
-## Conduite selon la [[Glycémie\|glycémie]] capillaire
+## Conduite selon la [[Médicaments/Normes/Glycémie\|glycémie]] capillaire
 
 | Dextro | Action |
 |---|---|
@@ -77,7 +77,7 @@ Quand on mange du sucre, la [[Glycémie\|Glycémie]] monte. Normalement, le panc
 
 ## Voir aussi
 
-[[Glycémie\|Glycémie, normes]] · [[HbA1c\|HbA1c]] · [[Soins Infirmiers/Glycémie capillaire\|Technique glycémie capillaire]] · [[Soins Infirmiers/Injection SC\|Injection sous-cutanée]] · [[DT1\|DT1]] · [[DT2\|DT2]]
+[[Médicaments/Normes/Glycémie\|Glycémie, normes]] · [[Médicaments/Normes/HbA1c\|HbA1c]] · [[Soins Infirmiers/Glycémie capillaire\|Technique glycémie capillaire]] · [[Soins Infirmiers/Injection SC\|Injection sous-cutanée]] · DT1 · [[Pathologies/Diabète de type 2\|DT2]]
 
 > [!caution] Outil pédagogique : Ne jamais modifier une dose d'insuline sans prescription médicale
 

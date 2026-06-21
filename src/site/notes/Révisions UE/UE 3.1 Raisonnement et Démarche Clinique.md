@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.1 Raisonnement et Démarche Clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.1 Raisonnement et Démarche Clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -102,16 +102,33 @@ Règle : "ce qui n'est pas écrit n'existe pas"
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Rédigez un diagnostic infirmier en formulation PES
+> [!question]- Q : Rédigez un diagnostic infirmier en formulation PES
 > "Risque d'infection lié à la pose d'un cathéter veineux périphérique se manifestant par la présence d'une voie veineuse depuis 48h sans signe infectieux local"
 
-> [!success]- Q : Citez les 5 étapes de la démarche clinique
+> [!question]- Q : Citez les 5 étapes de la démarche clinique
 > Recueil de données → Analyse → Diagnostic infirmier → Planification → Évaluation
 
-> [!success]- Q : Qu'est-ce qu'une transmission ciblée DAR ?
+> [!question]- Q : Qu'est-ce qu'une transmission ciblée DAR ?
 > Cible (problème) → Données (observations) → Actions (soins réalisés) → Résultats (évaluation après actions)
+
+
+> [!question]- Q : Formule PES d'un diagnostic infirmier — donnez un exemple
+> **P**roblème (problème de santé) **E**n lien avec (étiologie, facteur causal) **S**e manifestant par (signes observables). Ex : "Risque d'altération de l'intégrité cutanée **en lien avec** l'immobilisation **se manifestant par** un score de Braden ≤16".
+
+> [!question]- Q : Qu'est-ce qu'un objectif SMART ?
+> **S**pécifique (centré sur un comportement observable), **M**esurable (critère d'évaluation chiffrable), **A**tteignable (réaliste pour le patient), **R**éaliste (en accord avec les moyens), **T**emporel (délai défini). Ex : "Le patient sera capable d'identifier 3 signes d'hypoglycémie d'ici J+3".
+
+> [!question]- Q : Qu'est-ce qu'une transmission ciblée DAR ?
+> Structure d'une transmission écrite. **D**onnées : information observée ou recueillie (ex : "Patient agité, confusion brutale, T°38,5°C"). **A**ctions : interventions réalisées (ex : "Glycémie capillaire = 0,45 g/L, G30% 2 amp IV"). **R**ésultats : évolution après intervention (ex : "Patient calmé, glycémie 1,1 g/L à H+1").
+
+
+## Voir aussi
+
+[[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]]
+
+> [!caution] Outil pédagogique · Réf : Virginia Henderson 1966, NANDA-I taxonomie 2021-2023, Arrêté 31 juillet 2009 — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

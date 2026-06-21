@@ -109,6 +109,16 @@
 
 ---
 
+> [!question]- Q : Qu'est-ce que le diagnostic éducatif ?
+> Premier temps de l'ETP, réalisé individuellement avec le patient. On explore : ce qu'il **sait** (connaissances), ce qu'il **sait faire** (compétences), ce qu'il **ressent** (représentations, croyances, freins), ses **ressources** (soutien social, financier), et ses **priorités** (objectifs du patient, pas du soignant).
+
+> [!question]- Q : Qu'est-ce que l'empowerment en ETP ?
+> Concept central de l'ETP : processus par lequel le patient développe des capacités à contrôler sa propre santé (pouvoir d'agir). L'IDE n'est pas prescriptive mais facilitatrice. Contraire = paternalisme médical (où le soignant décide pour le patient).
+
+> [!question]- Q : Pourquoi un programme ETP doit-il être autorisé par l'ARS ?
+> La loi HPST 2009 (art. L.1161-1) impose une autorisation ARS pour tout programme structuré d'ETP. L'ARS vérifie : équipe pluriprofessionnelle formée à l'ETP, programme adapté à la maladie ciblée, outils éducatifs validés, évaluation du programme prévue.
+
+
 ## Voir aussi
 
 [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/BPCO\|BPCO]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]]

@@ -108,6 +108,16 @@
 
 ---
 
+> [!question]- Q : Qu'est-ce que la pédagogie par la situation clinique ?
+> Méthode consistant à exploiter une situation réelle vécue en stage comme support d'apprentissage. L'IDE tuteur débriefe l'ESI : qu'a-t-il fait ? pourquoi ? que ferait-il différemment ? Cette réflexivité développe le raisonnement clinique et le transfert des savoirs.
+
+> [!question]- Q : Que doit contenir un portfolio d'ESI ?
+> Fiches d'évaluation des acquisitions de compétences (1-10) par stage, situations cliniques significatives, actes réalisés, bilans de compétences intermédiaires, bilan de fin de stage. Appartient à l'étudiant, suivi par le tuteur et le référent IFSI.
+
+> [!question]- Q : Comment l'IDE peut-elle sécuriser les soins tout en laissant l'ESI pratiquer ?
+> Distinguer : ce que l'ESI peut faire seul (acquis), sous supervision directe (en cours d'acquisition), ou ce que l'IDE doit réaliser seul (non encore acquis ou trop risqué). Évaluer le niveau de compétence par l'observation avant de déléguer.
+
+
 ## Voir aussi
 
 [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]]

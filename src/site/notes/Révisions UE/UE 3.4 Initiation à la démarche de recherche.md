@@ -117,6 +117,16 @@ Le TFE (Travail de Fin d'Études) suit généralement la structure IMRAD :
 
 ---
 
+> [!question]- Q : Quels sont les 3 types d'études qualitatives les plus courants ?
+> **Entretiens** (semi-directifs) : explorer le vécu, les représentations. **Groupes focaux** : dynamique collective. **Observation participante** : immersion dans le terrain. Méthodes adaptées aux questions "comment ?" et "pourquoi ?" en soins infirmiers.
+
+> [!question]- Q : Qu'est-ce qu'un biais de sélection ?
+> Erreur systématique dans la constitution de l'échantillon d'étude. Ex : sélectionner uniquement des patients volontaires (non représentatifs des refus). Différent du biais de confusion (variable non contrôlée qui fausse la relation) et du biais de mesure (instrument de mesure non validé).
+
+> [!question]- Q : Qu'est-ce que la méthode PICO(S) ?
+> **P**opulation, **I**ntervention (ou exposition), **C**omparaison (ou contrôle), **O**utcome (résultat mesuré), (**S**tudy design). Structure la question de recherche clinique. Ex : Chez les patients hospitalisés (P), la FHA systématique (I) vs lavage au savon seul (C) réduit-elle les IRAS (O) ?
+
+
 ## Voir aussi
 
 [[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|UE 3.1 Raisonnement et Démarche Clinique]] · [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]]

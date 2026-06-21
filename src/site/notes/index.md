@@ -14,6 +14,7 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
+| [[Symptômes & Signes cliniques\|Symptômes & Signes]] | — | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
 | [[Pathologies/Index Pathologies\|Pathologies]] | 92 | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
 | [[Médicaments/Index Médicaments\|Médicaments]] | 229 | Molécules classées par 44 classes thérapeutiques |
 | [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]] | 70 | Techniques, surveillances, ETP, soins palliatifs |
@@ -39,6 +40,7 @@
 | [[Législation/Index Législation\|Législation]] | 8 | Loi Kouchner, consentement, secret professionnel, responsabilité IDE |
 | [[Hygiène/Index Hygiène\|Hygiène]] | 7 | Précautions standard/complémentaires, hygiène des mains, DASRI |
 | [[Fiches de Service/Index Fiches de Service\|Fiches de Service]] | 10 | Aide-mémoire par service : Cardio, Neuro, Urgences, Réa, Pédiatrie… |
+| [[Médicaments/Normes/Index Normes\|Normes biologiques]] | 70 | Valeurs normales : NFS, ionogramme, GDS, coagulation, bilan hépatique… |
 | [[Stage/Index Stage\|Stage]] | 9 | Préparation par service de stage : Réa, Cardio, Neuro, Urgences, Chir, Pédiatrie, Maternité, Palliatif, Gériatrie/EHPAD |
 
 ---

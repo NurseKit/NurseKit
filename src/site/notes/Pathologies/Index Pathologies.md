@@ -5,7 +5,7 @@
 
 > [!abstract] Pathologies : 97 fiches
 > Toutes les pathologies classées par spécialité.
-> → [[index\| Accueil]]
+> → [[Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
 ## Cardio-vasculaire
 
@@ -81,6 +81,7 @@
 ## Hématologie / Oncologie
 
 - [[Pathologies/Anémie\|Anémie]]
+- [[Pathologies/Dénutrition\|Dénutrition]]
 - [[Pathologies/Aplasie febrile\|Aplasie febrile]]
 - [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]
 - [[Pathologies/Mucite\|Mucite]]
@@ -90,6 +91,7 @@
 ## Infectiologie / Sepsis
 
 - [[Pathologies/Sepsis\|Sepsis]]
+- [[Pathologies/Choc septique\|Choc septique]]
 - [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
@@ -103,6 +105,9 @@
 ## Pédiatrie
 
 - [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]]
+- [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]]
+- [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]]
+- [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
 - [[Pathologies/Bronchiolite\|Bronchiolite]]
 - [[Pathologies/Convulsions fébriles\|Convulsions fébriles]]
 - [[Pathologies/Deshydratation aigue enfant\|Deshydratation aigue enfant]]

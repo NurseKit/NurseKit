@@ -12,7 +12,7 @@
 
 - **Brûlures d'estomac / reflux** (RGO) : l'acide remonte dans l'œsophage → douleur, toux nocturne
 - **Ulcère gastrique** : cicatriser la plaie dans l'estomac
-- **Gastroprotection** : protéger l'estomac des médicaments agressifs comme les [[AINS\|AINS]] et les corticoïdes
+- **Gastroprotection** : protéger l'estomac des médicaments agressifs comme les [[Médicaments/AINS/Comparatif AINS\|AINS]] et les corticoïdes
 - **Hémorragie digestive** haute (traitement d'urgence IV)
 
 ---
@@ -34,8 +34,8 @@ Les cellules de l'estomac contiennent des pompes (H+/K+-ATPase) qui éjectent de
 > [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel]] + oméprazole → l'oméprazole **réduit l'efficacité** du clopidogrel (compétition sur CYP2C19). En cardiologie surtout, ça compte. Préférer le pantoprazole ou le lansoprazole si association nécessaire.
 
 > [!caution] Usage prolongé : surveiller dans le temps
-> - Carence en [[Magnésium\|magnésium]] (contrôler si > 1 an)
-> - Carence en [[Vitamine B12 dosage\|vitamine B12]] (moins d'absorption liée à l'achlorhydrie)
+> - Carence en [[Médicaments/Normes/Magnésium\|magnésium]] (contrôler si > 1 an)
+> - Carence en [[Médicaments/Normes/Vitamine B12 dosage\|vitamine B12]] (moins d'absorption liée à l'achlorhydrie)
 > - Fragilité osseuse (moins d'absorption du calcium en milieu peu acide)
 > - Risque infections digestives (Clostridium, pneumonies communautaires)
 
@@ -45,7 +45,7 @@ Les cellules de l'estomac contiennent des pompes (H+/K+-ATPase) qui éjectent de
 
 - [ ] Administrer **30 min avant le repas du matin** → le rappeler au patient à chaque fois
 - [ ] Forme IV : diluer dans 100 mL NaCl 0,9%, perfuser en **20-30 min** (jamais en bolus direct)
-- [ ] Vérifier [[Magnésium\|magnésémie]] si traitement > 1 an
+- [ ] Vérifier [[Médicaments/Normes/Magnésium\|magnésémie]] si traitement > 1 an
 - [ ] Patient sous [[Médicaments/Antiagrégants/Clopidogrel\|clopidogrel]] → signaler au médecin, proposer pantoprazole ou lansoprazole à la place
 - [ ] Éduquer : les gélules se prennent entières (ne pas ouvrir ni écraser sauf formulation spéciale)
 - [ ] Ne pas arrêter brutalement un traitement long → risque de rebond acide temporaire
@@ -56,13 +56,13 @@ Les cellules de l'estomac contiennent des pompes (H+/K+-ATPase) qui éjectent de
 
 1. **30 min avant le repas à jeun** → règle d'or, jamais après
 2. **Clopidogrel + oméprazole = interaction** → préférer pantoprazole ou lansoprazole à la place
-3. **Long terme** → surveiller [[Magnésium\|magnésémie]] et [[Vitamine B12 dosage\|B12]] → les IPP ont des effets discrets mais réels sur l'absorption
+3. **Long terme** → surveiller [[Médicaments/Normes/Magnésium\|magnésémie]] et [[Médicaments/Normes/Vitamine B12 dosage\|B12]] → les IPP ont des effets discrets mais réels sur l'absorption
 
 ---
 
 ## Voir aussi
 
-[[Ibuprofene\|Ibuprofène (protéger avec IPP)]] · [[Médicaments/AINS/Aspirine\|Aspirine]] · [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel]] · [[Magnésium\|Magnésémie]] · [[IPP\|IPP]]
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène (protéger avec IPP)]] · [[Médicaments/AINS/Aspirine\|Aspirine]] · [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel]] · [[Médicaments/Normes/Magnésium\|Magnésémie]] · [[Médicaments/Antiacides/Omeprazole\|IPP]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

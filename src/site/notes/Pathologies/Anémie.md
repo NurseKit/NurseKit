@@ -44,6 +44,10 @@ L'hémoglobine transporte l'oxygène dans les globules rouges. Quand elle baisse
 2. **"Réticulocytes = baromètre de la moelle"** → élevés : elle compense (hémolyse, hémorragie) ; bas : elle flanche (aplasie, carence)
 3. **"Contrôle ultime au lit, pas au bureau"** → l'identitovigilance transfusionnelle se fait toujours à côté du patient, jamais à distance
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Hémoglobine\|Hémoglobine (H: 13-17 · F: 12-16)]] · [[Médicaments/Normes/Hématocrite\|Hématocrite]] · [[Médicaments/Normes/VGM\|VGM]] · [[Médicaments/Normes/Ferritine\|Ferritine]] · [[Médicaments/Normes/Réticulocytes\|Réticulocytes]]
+
 ## Voir aussi
 
 [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · NFS

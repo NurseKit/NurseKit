@@ -58,6 +58,10 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 2. **"Bundle 1 heure"** : lactates + hémocultures + antibios + remplissage → tout dans la première heure, dans cet ordre
 3. **"Norадrénaline = VVC obligatoire"** → pas une option au-delà de 10 minutes en VVP : nécrose garantie en cas d'extravasation
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Lactates\|Lactates (> 2 = sepsis)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
+
 ## Voir aussi
 
 [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · PCT · [[Soins Infirmiers/ECBU et Hémocultures\|ECBU et hémocultures]]

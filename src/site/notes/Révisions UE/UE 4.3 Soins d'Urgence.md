@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.3 Soins d'Urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.3 Soins d'Urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -82,7 +82,7 @@ Traiter chaque problème identifié AVANT de passer au suivant.
 - Patient conscient : 15g glucides rapides per os (sucre, jus d'orange)
 - Patient inconscient : G30% 1-2 ampoules IV ou Glucagon 1 mg IM
 
-**Anaphylaxie** :
+**[[Pathologies/Choc anaphylactique\|Anaphylaxie]]** :
 - Signes : urticaire, angio-œdème, bronchospasme, hypotension, choc
 - CAT : ADRÉNALINE 0,5 mg IM face antérolatérale cuisse → allonger jambes surélevées → O2 → VVP → appel SAMU
 
@@ -96,16 +96,33 @@ Traiter chaque problème identifié AVANT de passer au suivant.
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Décrivez les étapes de la RCP de base
+> [!question]- Q : Décrivez les étapes de la RCP de base
 > 1. Vérifier sécurité → 2. Stimuler/appeler → 3. Alerter le 15 → 4. 30 compressions (5-6 cm, 100-120/min) → 5. 2 insufflations → 6. Cycle 30:2 jusqu'au DAE
 
-> [!success]- Q : Glasgow normal ? Seuil d'intubation ?
+> [!question]- Q : Glasgow normal ? Seuil d'intubation ?
 > GCS 15 = patient normal. GCS ≤ 8 = protection des voies aériennes nécessaire (intubation oro-trachéale).
 
-> [!success]- Q : 1ère intention dans l'anaphylaxie ?
+> [!question]- Q : 1ère intention dans l'anaphylaxie ?
 > ADRÉNALINE 0,5 mg IM dans la face antérolatérale de la cuisse. Pas d'antihistaminique ni de corticoïde en 1ère intention.
+
+
+> [!question]- Q : Quelle est la CAT face à une hypoglycémie chez un patient inconscient ?
+> Patient inconscient ou avale impossible → G30% 2 ampoules (50 mL) IV lent ou glucagon 1 mg IM/SC. Contrôle glycémique à 15 min. Si patient conscient : 15 g glucides rapides per os (3 sucres, 150 mL jus d'orange) à renouveler si besoin.
+
+> [!question]- Q : Quand arrêter une RCP ?
+> Décision médicale. La RCP de base se poursuit jusqu'à : arrivée du DAE, récupération d'une activité circulatoire spontanée (RACS), épuisement des secouristes sans relève, ou décision médicale d'arrêt (critères : asystolie prolongée après ACLS complet, cause irréversible).
+
+> [!question]- Q : Signes d'un état de choc : quels sont les 4 types ?
+> Signes communs : tachycardie, hypotension, marbrures, oligurie, confusion. Types : **hémorragique** (perte sanguine), **septique** (infection → vasodilatation), **cardiogénique** (dysfonction cardiaque), **anaphylactique** (réaction allergique grave → histamine).
+
+
+## Voir aussi
+
+[[Pathologies/ACR & RCP\|ACR & RCP]] · [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Pathologies/Sepsis\|Sepsis]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]] · [[Révisions UE/UE 2.4 Processus Traumatiques\|UE 2.4 Processus Traumatiques]]
+
+> [!caution] Outil pédagogique · Réf : ERC Guidelines 2021, SFAR recommandations — IFSI Urgences
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

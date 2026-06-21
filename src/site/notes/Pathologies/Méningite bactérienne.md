@@ -58,7 +58,7 @@ Mortalité : 20-30% pour les formes graves. Séquelles (surdité, déficit neuro
 - [ ] Antibiothérapie IV → préparer et administrer dès la prescription, **sans délai**
 
 **Antibiothérapie probabiliste (prescription médicale) :**
-- C3G : [[Ceftriaxone\|Ceftriaxone]] 2g IV x 2/j (adulte) ou Céfotaxime
+- C3G : ceftriaxone 2g IV x 2/j (adulte) ou Céfotaxime
 - +/- [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]] 0,15 mg/kg x 4/j x 4j (réduction des séquelles neurologiques)
 - +/- Ampicilline si Listeria suspectée (> 50 ans, immunodéprimé, grossesse)
 
@@ -101,7 +101,7 @@ Mortalité : 20-30% pour les formes graves. Séquelles (surdité, déficit neuro
 
 ## Voir aussi
 
-[[Sepsis et Choc septique\|Sepsis et Choc septique]] · [[Pathologies/État de mal épileptique\|État de mal épileptique]] · [[Ceftriaxone\|Ceftriaxone]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]] · [[Précautions complémentaires\|Précautions complémentaires]]
+[[Pathologies/Sepsis\|sepsis]] · [[Pathologies/État de mal épileptique\|État de mal épileptique]] · ceftriaxone · [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]] · précautions complémentaires
 
 > [!caution] Outil pédagogique · Source : SPILF/HAS 2024
 

@@ -16,7 +16,7 @@ Il soulage les douleurs **légères à modérées** : maux de tête, douleurs de
 
 ## Comment ça marche ? (simplifié)
 
-Le paracétamol agit dans le **cerveau et la moelle épinière** pour moduler la perception de la douleur et réguler la [[Température\|température]] corporelle.
+Le paracétamol agit dans le **cerveau et la moelle épinière** pour moduler la perception de la douleur et réguler la [[Médicaments/Normes/Température\|température]] corporelle.
 
 > **À ne pas confondre avec l'ibuprofène :** le paracétamol ne touche pas à l'inflammation. Si une articulation est gonflée et rouge (arthrite, entorse), l'ibuprofène sera souvent plus efficace. Le paracétamol, lui, calme la douleur et la fièvre sans agir sur la cause inflammatoire.
 
@@ -44,7 +44,7 @@ Le paracétamol agit dans le **cerveau et la moelle épinière** pour moduler la
 - [ ] **IV (Perfalgan®) :** perfuser sur **15 minutes exactement** → pas plus vite (hypotension), pas plus lentement (perte d'efficacité)
 - [ ] En cas de surdosage suspecté (intentionnel ou non) → **alerter le médecin IMMÉDIATEMENT** → le délai de traitement est crucial
 - [ ] **Fièvre :** réévaluer la température 1h après la prise pour vérifier l'efficacité
-- [ ] **Douleur :** demander une [[EVA\|EVA]] avant et après pour tracer l'évolution
+- [ ] **Douleur :** demander une [[Médicaments/Normes/EVA\|EVA]] avant et après pour tracer l'évolution
 
 ---
 

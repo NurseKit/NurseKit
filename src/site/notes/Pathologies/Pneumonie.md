@@ -52,6 +52,10 @@ Le **score CRB-65** oriente la décision : confusion + FR ≥ 30 + TA < 90/60 + 
 2. **"CRB-65 pour décider de l'hospitalisation"** → 4 critères, chaque point compte : confusion, FR ≥ 30, TA basse, âge ≥ 65
 3. **"Amélioration attendue à 48-72h"** → si ça ne se passe pas ainsi, c'est une anomalie qui mérite signalement, pas un délai à attendre en silence
 
+## Normes à surveiller
+
+[[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FR\|FR]]
+
 ## Voir aussi
 
 [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/BPCO\|BPCO]] · SpO₂ · CRP · PCT

@@ -67,6 +67,10 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ---
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
+
 ## Voir aussi
 
 - Losartan (mécanisme ARA2 complet)

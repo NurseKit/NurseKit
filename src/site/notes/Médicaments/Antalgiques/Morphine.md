@@ -23,7 +23,7 @@ La morphine imite les endorphines naturelles du corps en se fixant sur les réce
 ## Ce qu'il ne faut PAS faire
 
 > [!danger] Dépression respiratoire = URGENCE VITALE
-> Signes d'alerte : **FR < 12/min, [[SpO2\|SpO₂]] qui chute, patient très difficile à réveiller**
+> Signes d'alerte : **FR < 12/min, [[Médicaments/Normes/SpO2\|SpO₂]] qui chute, patient très difficile à réveiller**
 > → **ARRÊTER la morphine** · Appeler le médecin en urgence · Préparer la **naloxone (Narcan®)**
 >
 > Antidote : **Naloxone 0,04 mg IV** toutes les 2 min jusqu'à FR > 12/min → en pratique, c'est une urgence qui se gère à deux.
@@ -36,7 +36,7 @@ La morphine imite les endorphines naturelles du corps en se fixant sur les réce
 ## Ce que je fais en tant qu'IDE
 
 **Avant d'administrer :**
-- [ ] **Évaluer la douleur** ([[EVA\|EVA]]/EN) → noter le score avant et après, c'est ton indicateur d'efficacité
+- [ ] **Évaluer la douleur** ([[Médicaments/Normes/EVA\|EVA]]/EN) → noter le score avant et après, c'est ton indicateur d'efficacité
 - [ ] **FR** : ne pas administrer si FR < 12/min → c'est une règle absolue
 - [ ] **SpO₂** : ne pas administrer si < 94% sans O₂
 - [ ] Vérifier l'ordonnance sécurisée et la traçabilité stupéfiants

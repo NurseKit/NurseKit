@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.2 Santé Publique Économie/","tags":["révision","ue-1-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.2 - Santé Publique et Économie de la Santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.2","tags":["révision","ue-1-2","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 1.2 Santé Publique Économie/","tags":["révision","ue-1-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.2 - Santé Publique et Économie de la Santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.2","tags":["révision","ue-1-2","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -93,16 +93,33 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Différence entre incidence et prévalence ?
+> [!question]- Q : Différence entre incidence et prévalence ?
 > Incidence = nouveaux cas sur une période. Prévalence = tous les cas (anciens + nouveaux) à un instant T.
 
-> [!success]- Q : Citez les 3 niveaux de prévention avec un exemple chacun
+> [!question]- Q : Citez les 3 niveaux de prévention avec un exemple chacun
 > Primaire (vaccination), Secondaire (mammographie), Tertiaire (rééducation post-AVC)
 
-> [!success]- Q : Rôle de l'ARS ?
+> [!question]- Q : Rôle de l'ARS ?
 > Piloter la politique de santé régionale, délivrer les autorisations des établissements, coordonner les acteurs ville/hôpital/médico-social.
+
+
+> [!question]- Q : Qu'est-ce que la T2A (tarification à l'activité) ?
+> Mode de financement hospitalier où les hôpitaux sont rémunérés selon les actes réalisés, via des Groupes Homogènes de Malades (GHM). L'ONDAM (Objectif National de Dépenses d'Assurance Maladie) est voté annuellement par le Parlement.
+
+> [!question]- Q : Qu'est-ce que la mortalité infantile ?
+> Nombre de décès d'enfants avant l'âge d'1 an pour 1000 naissances vivantes. En France ~3,5/1000. Indicateur de développement et de qualité du système de santé.
+
+> [!question]- Q : Citez 2 différences entre CHU et CH
+> **CHU** (Centre Hospitalier Universitaire) : enseignement des étudiants en médecine/soins + recherche médicale, plateau technique de pointe. **CH** : hôpital général sans mission universitaire spécifique.
+
+
+## Voir aussi
+
+[[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+
+> [!caution] Outil pédagogique · Réf : Code de la Santé Publique, Loi HPST 2009, Loi Santé 2016 — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

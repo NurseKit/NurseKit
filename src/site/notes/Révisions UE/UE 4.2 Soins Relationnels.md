@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.2 Soins Relationnels/","tags":["révision","ue-4-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.2 - Soins Relationnels","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.2","tags":["révision","ue-4-2","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.2 Soins Relationnels/","tags":["révision","ue-4-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.2 - Soins Relationnels","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.2","tags":["révision","ue-4-2","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -102,16 +102,33 @@ Ces phénomènes sont normaux mais doivent être identifiés pour ne pas perturb
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : 3 attitudes fondamentales de Carl Rogers ?
+> [!question]- Q : 3 attitudes fondamentales de Carl Rogers ?
 > Empathie (comprendre le vécu de l'autre), congruence (authenticité du soignant), considération positive inconditionnelle (acceptation sans jugement)
 
-> [!success]- Q : Qu'est-ce que l'écoute active ?
+> [!question]- Q : Qu'est-ce que l'écoute active ?
 > Ensemble de techniques (reformulation, reflet, clarification, validation émotionnelle) permettant de montrer au patient qu'il est compris et l'aidant à exprimer son vécu.
 
-> [!success]- Q : Citez les 6 étapes du protocole SPIKES
+> [!question]- Q : Citez les 6 étapes du protocole SPIKES
 > Setting → Perception → Invitation → Knowledge → Emotions → Strategy/Summary
+
+
+> [!question]- Q : Qu'est-ce que le protocole SPIKES pour l'annonce d'une mauvaise nouvelle ?
+> 6 étapes : **S**etting (préparer le cadre : salle calme, assis, sans interruption), **P**erception (ce que le patient sait déjà), **I**nvitation (ce qu'il veut savoir), **K**nowledge (délivrer l'information par étapes), **E**xpathy/Emotions (accueillir les émotions), **S**trategy (plan de soins et synthèse).
+
+> [!question]- Q : Différence entre reformulation et reflet ?
+> **Reformulation** : redire avec ses propres mots le contenu cognitif ("Vous me dites que vous avez peur de l'opération"). **Reflet** : mettre des mots sur l'émotion sous-jacente ("Vous semblez très anxieux à ce sujet"). Le reflet est plus profond et demande plus d'empathie.
+
+> [!question]- Q : Qu'est-ce que la congruence selon Rogers ?
+> Authenticité du soignant : être en accord entre ce qu'il ressent, ce qu'il pense et ce qu'il dit. Il ne joue pas un rôle. Avec l'empathie et la considération positive inconditionnelle, c'est l'un des 3 piliers de la relation thérapeutique selon Rogers.
+
+
+## Voir aussi
+
+[[Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie\|UE 1.1 Psychologie Sociologie Anthropologie]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Soins Infirmiers/Entretien infirmier psychiatrie\|Entretien infirmier psychiatrie]] · [[Soins Infirmiers/Crise suicidaire IDE\|Crise suicidaire IDE]]
+
+> [!caution] Outil pédagogique · Réf : Carl Rogers 1961, Hall proxémique 1966, Buckman SPIKES 1992 — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

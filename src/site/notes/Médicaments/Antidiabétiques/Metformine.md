@@ -4,13 +4,13 @@
 
 
 > [!abstract] En 2 mots
-> Premier médicament prescrit dans le [[DT2\|diabète de type 2]]. Fait baisser la [[Glycémie\|Glycémie]] **sans provoquer d'hypoglycémie** (avantage majeur). Problème principal : effets digestifs fréquents au départ, et à **arrêter avant un scanner avec injection** de produit de contraste.
+> Premier médicament prescrit dans le [[Pathologies/Diabète de type 2\|diabète de type 2]]. Fait baisser la [[Médicaments/Normes/Glycémie\|Glycémie]] **sans provoquer d'hypoglycémie** (avantage majeur). Problème principal : effets digestifs fréquents au départ, et à **arrêter avant un scanner avec injection** de produit de contraste.
 
 ---
 
 ## À quoi ça sert ?
 
-Traiter le [[DT2\|diabète de type 2]] quand les mesures hygiéno-diététiques ne suffisent plus. Avantages uniques :
+Traiter le [[Pathologies/Diabète de type 2\|diabète de type 2]] quand les mesures hygiéno-diététiques ne suffisent plus. Avantages uniques :
 - Pas de prise de poids (contrairement aux sulfamides et à l'insuline)
 - Pas d'hypoglycémie en monothérapie
 - Cardioprotection démontrée (réduit les événements cardiovasculaires)
@@ -20,7 +20,7 @@ Traiter le [[DT2\|diabète de type 2]] quand les mesures hygiéno-diététiques 
 
 ## Comment ça marche ? (simplifié)
 
-Le foie fabrique en permanence du glucose (même à jeun). Dans le [[DT2\|DT2]], il en fabrique trop. La metformine **freine cette production hépatique excessive** et aide les cellules musculaires à mieux utiliser l'insuline déjà présente.
+Le foie fabrique en permanence du glucose (même à jeun). Dans le [[Pathologies/Diabète de type 2\|DT2]], il en fabrique trop. La metformine **freine cette production hépatique excessive** et aide les cellules musculaires à mieux utiliser l'insuline déjà présente.
 
 > Analogie : le foie est comme un robinet d'eau (glucose) qui coule trop fort. La metformine le ferme à moitié. Elle ne crée pas plus d'insuline → pas d'hypoglycémie.
 
@@ -29,10 +29,10 @@ Le foie fabrique en permanence du glucose (même à jeun). Dans le [[DT2\|DT2]],
 ## Ce qu'il ne faut PAS faire
 
 > [!danger] Scanner avec injection → arrêt 48h avant
-> Les produits de contraste iodés (scanner) + metformine = risque d'**acidose lactique** (accumulation de [[Lactates\|Lactates]], mortalité élevée). Règle absolue : **arrêter la metformine 48h avant** tout examen avec iode IV, reprendre 48h après si [[Créatinine\|créatinine]] / [[DFG\|DFG]] normaux.
+> Les produits de contraste iodés (scanner) + metformine = risque d'**acidose lactique** (accumulation de [[Médicaments/Normes/Lactates\|Lactates]], mortalité élevée). Règle absolue : **arrêter la metformine 48h avant** tout examen avec iode IV, reprendre 48h après si [[Médicaments/Normes/Créatinine\|créatinine]] / [[Médicaments/Normes/DFG\|DFG]] normaux.
 
 > [!danger] Insuffisance rénale
-> [[DFG\|DFG]] < 30 mL/min → arrêt définitif (la metformine s'accumule dans le sang → acidose lactique). Réduire la dose si [[DFG\|DFG]] 30-45.
+> [[Médicaments/Normes/DFG\|DFG]] < 30 mL/min → arrêt définitif (la metformine s'accumule dans le sang → acidose lactique). Réduire la dose si [[Médicaments/Normes/DFG\|DFG]] 30-45.
 
 > [!warning] Effets digestifs au début
 > Diarrhées et nausées dans les premières semaines → diminuer provisoirement la dose. Toujours prendre avec le repas, augmentation progressive.
@@ -41,10 +41,10 @@ Le foie fabrique en permanence du glucose (même à jeun). Dans le [[DT2\|DT2]],
 
 ## Ce que je fais en tant qu'IDE
 
-- [ ] Vérifier la [[Créatinine\|créatinine]] / [[DFG\|DFG]] avant instauration et régulièrement
+- [ ] Vérifier la [[Médicaments/Normes/Créatinine\|créatinine]] / [[Médicaments/Normes/DFG\|DFG]] avant instauration et régulièrement
 - [ ] **Scanner prévu ?** → Vérifier que la metformine est arrêtée 48h avant, tracer dans le dossier
 - [ ] Administrer **pendant le repas** (réduire les effets digestifs)
-- [ ] Surveillance [[Glycémie\|glycémie]] capillaire selon protocole
+- [ ] Surveillance [[Médicaments/Normes/Glycémie\|glycémie]] capillaire selon protocole
 - [ ] Si vomissements importants / déshydratation → prévenir médecin (risque acidose)
 - [ ] Éduquer : signaler tout examen avec produit de contraste à venir
 
@@ -60,7 +60,7 @@ Le foie fabrique en permanence du glucose (même à jeun). Dans le [[DT2\|DT2]],
 
 ## Voir aussi
 
-[[Glycémie\|Glycémie]] · [[DFG\|DFG]] · [[HbA1c\|HbA1c]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[DT2\|DT2]] · [[ADO\|ADO]]
+[[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/HbA1c\|HbA1c]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Pathologies/Diabète de type 2\|DT2]] · ADO
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

@@ -50,9 +50,13 @@ La trinitrine libère du monoxyde d'azote (NO) dans les cellules des vaisseaux. 
 2. Demander systématiquement si VIAGRA®/CIALIS®/LEVITRA® → CI absolue (hypotension fatale)
 3. Position assise ou allongée → les céphalées sont normales et transitoires
 
+## Normes à surveiller
+
+[[Médicaments/Normes/TA systolique\|TA systolique (CI si < 90)]] · [[Médicaments/Normes/FC\|FC]]
+
 ## Voir aussi
 
-- [[Syndrome_coronarien_aigu\|Syndrome coronarien aigu]]
+- [[Pathologies/Syndrome coronarien aigu\|SCA]]
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 
 > [!caution] Outil pédagogique : fiche ESI, ne pas utiliser comme référence de prescription

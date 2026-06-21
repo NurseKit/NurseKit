@@ -53,7 +53,7 @@ Important : la vancomycine N'AGIT PAS sur les bactéries Gram-négatif (elles on
 - [ ] Surveiller **créatinine + DFG** au moins 2 fois/semaine
 - [ ] Observer le patient pendant la perfusion : flush, érythème, prurit → ralentir le débit
 - [ ] Surveiller **l'audition** (acouphènes → informer le médecin immédiatement)
-- [ ] Favoriser la **voie veineuse centrale** ([[VVC\|VVC]]) si traitement > 3-4 jours (veinite sur VVP fréquente)
+- [ ] Favoriser la **voie veineuse centrale** (VVC) si traitement > 3-4 jours (veinite sur VVP fréquente)
 - [ ] Documenter l'heure exacte de début et fin de chaque perfusion
 
 > [!danger] Red man syndrome ≠ allergie
@@ -73,7 +73,7 @@ Important : la vancomycine N'AGIT PAS sur les bactéries Gram-négatif (elles on
 
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] (aminoside, néphrotoxicité additive)
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (ototoxicité additive)
-- [[Créatinine\|Créatinine]] · [[VVC\|VVC]]
+- [[Médicaments/Normes/Créatinine\|Créatinine]] · VVC
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

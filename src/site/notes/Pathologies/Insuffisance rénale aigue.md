@@ -45,7 +45,7 @@ Dégradation rapide de la fonction rénale avec montée de la créatinine et/ou 
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Sepsis\|Sepsis]] · [[Créatinine\|Créatinine]] · [[Kaliémie\|Kaliémie]]
+[[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 > [!caution] Outil pédagogique : KDIGO 2012, HAS
 

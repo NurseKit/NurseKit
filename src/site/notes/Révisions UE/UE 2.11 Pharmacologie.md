@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.11 Pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-14"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.11 Pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-21"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
 > - Règle des 5B : Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
-> - Index thérapeutique étroit : anticoagulants, digitaliques, lithium, aminosides → surveillance biologique obligatoire
+> - Index thérapeutique étroit : [[Médicaments/Anticoagulants/Warfarine\|anticoagulants]], [[Médicaments/Digitaliques/Digoxine\|digitaliques]], [[Médicaments/Antibiotiques/Aminosides\|aminosides]] → surveillance biologique obligatoire
 > - Trough (résiduelle avant dose) et Pic (après dose) : essentiels pour les médicaments à IT étroit
-> - Interactions médicamenteuses : potentialisation, antagonisme, modifications PK/PD
+> - [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] : potentialisation, antagonisme, modifications PK/PD
 > - Calcul de débit en mL/h ou gouttes/min (voir UE 4.4)
 
 ## Objectifs de l'UE
@@ -35,12 +35,12 @@
 - Hypoalbuminémie (dénutrition, hépatique) → fraction libre augmentée → risque toxicité
 
 **M** : **Métabolisme** : transformation hépatique principalement (cytochrome P450)
-- Inducteurs enzymatiques : rifampicine, phénytoïne, carbamazépine → accélèrent métabolisme → sous-dosage
-- Inhibiteurs enzymatiques : fluconazole, érythromycine → ralentissent métabolisme → surdosage
+- Inducteurs enzymatiques : [[Médicaments/Antibiotiques/Rifampicine\|rifampicine]], phénytoïne, carbamazépine → accélèrent métabolisme → sous-dosage
+- Inhibiteurs enzymatiques : [[Médicaments/Antifongiques/Fluconazole\|fluconazole]], érythromycine → ralentissent métabolisme → surdosage
 
 **E** : **Élimination** : rénale (majoritaire) et/ou hépatique
 - Clairance de la créatinine (DFG) : si insuffisance rénale → accumulation médicaments à élimination rénale
-- Adaptation posologique en IR : aminosides, digoxine, lithium, métformine, HBPM
+- Adaptation posologique en IR : [[Médicaments/Antibiotiques/Aminosides\|aminosides]], [[Médicaments/Digitaliques/Digoxine\|digoxine]], [[Médicaments/Antidiabétiques/Metformine\|métformine]], [[Médicaments/Anticoagulants/Enoxaparine\|HBPM]]
 
 ---
 
@@ -251,6 +251,17 @@ Aminosides
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI
+
+
+## Ressources NurseKit — Pharmacologie
+
+- [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] — tableaux complets avec mécanismes
+- [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque LATM]] — médicaments à haut risque
+- [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] — règles d'administration IV
+- [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] — surveillance néphrotoxicité/ototoxicité
+- [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] — inducteur enzymatique majeur
+- [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] — inhibiteur CYP3A4
+- [[Médicaments/Normes/Index Normes\|Normes biologiques]] — 70 valeurs de référence
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

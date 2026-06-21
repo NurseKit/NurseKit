@@ -51,6 +51,10 @@ Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et d
 2. Elle épargne le potassium (contrairement au furosémide) → souvent associés pour équilibrer les pertes
 3. Gynécomastie chez l'homme, fréquente → informer avant de commencer le traitement
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Kaliémie\|Kaliémie (risque hyperkaliémie)]] · [[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Créatinine\|Créatinine]]
+
 ## Voir aussi
 
 - [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (diurétique de l'anse, kaliurétique)

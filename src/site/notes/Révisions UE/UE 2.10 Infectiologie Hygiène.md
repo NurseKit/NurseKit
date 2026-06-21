@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.10 Infectiologie Hygiène/","tags":["révision","ue-2-10","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.10 - Infectiologie, Hygiène","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.10","tags":["révision","ue-2-10","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.10 Infectiologie Hygiène/","tags":["révision","ue-2-10","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.10 - Infectiologie, Hygiène","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.10","tags":["révision","ue-2-10","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -95,16 +95,33 @@ En cas d'accident d'exposition au sang (piqûre, coupure, projection) :
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Différence Précautions Air et Gouttelettes ?
+> [!question]- Q : Différence Précautions Air et Gouttelettes ?
 > Air : particules <5 µm, en suspension longue (tuberculose, varicelle) → FFP2 + chambre pression négative. Gouttelettes : >5 µm, portée <1m (grippe, COVID) → masque chirurgical.
 
-> [!success]- Q : Citez les 5 moments de l'hygiène des mains
+> [!question]- Q : Citez les 5 moments de l'hygiène des mains
 > Avant contact patient, avant geste aseptique, après risque LB, après contact patient, après contact environnement patient.
 
-> [!success]- Q : Délai maximal pour contacter le médecin référent après un AES ?
+> [!question]- Q : Délai maximal pour contacter le médecin référent après un AES ?
 > 4 heures (pour le bilan et l'éventuel TPE VIH qui doit être débuté dans les 48h).
+
+
+> [!question]- Q : Quels sont les 5 moments de l'hygiène des mains selon l'OMS ?
+> 1. Avant tout contact avec le patient 2. Avant tout geste aseptique 3. Après tout risque d'exposition à un produit biologique 4. Après tout contact avec le patient 5. Après contact avec l'environnement du patient. La FHA est la méthode de référence (20-30 sec).
+
+> [!question]- Q : Qu'est-ce qu'une IRAS et comment la définit-on ?
+> **Infection Associée aux soins** : contractée dans un établissement de soins, absente à l'admission (délai >48h pour infections bactériennes). 1 patient sur 20 en France. Causes : cathéters (bactériémies), intubation (PAVM), sonde urinaire (IU), site opératoire.
+
+> [!question]- Q : Différence précautions Air vs Gouttelettes ?
+> **Air** (particules <5µm, transmission >2m) : FFP2 obligatoire, chambre à pression négative, fenêtre fermée. Ex : tuberculose, varicelle, rougeole. **Gouttelettes** (>5µm, transmission <2m) : masque chirurgical suffit, chambre seule, pas de pression négative. Ex : grippe, COVID, coqueluche.
+
+
+## Voir aussi
+
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]] · [[Révisions UE/UE 2.5 Processus Inflammatoires Infectieux\|UE 2.5 Processus Inflammatoires Infectieux]] · [[Soins Infirmiers/Prévention PAVM\|Prévention PAVM]]
+
+> [!caution] Outil pédagogique · Réf : SF2H précautions standard 2017, OMS 5 moments hygiène des mains — IFSI Hygiène
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

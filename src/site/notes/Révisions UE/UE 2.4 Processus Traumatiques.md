@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.4 Processus Traumatiques/","tags":["révision","ue-2-4","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.4 - Processus Traumatiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.4","tags":["révision","ue-2-4","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.4 Processus Traumatiques/","tags":["révision","ue-2-4","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.4 - Processus Traumatiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.4","tags":["révision","ue-2-4","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -90,20 +90,37 @@
 | III | 1500-2000 mL (30-40%) | 120-140 | ↓↓ | confusion |
 | IV | >2000 mL (>40%) | >140 | effondrée | inconscience |
 
-**CAT** : STOP le saignement → O2 haut débit → 2 VVP de gros calibre → remplissage vasculaire → transfusion si nécessaire
+**CAT** : STOP le saignement → O2 haut débit → 2 VVP de gros calibre → remplissage vasculaire → [[Soins Infirmiers/Transfusion CGR\|transfusion si nécessaire]]
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Décrivez les 3 phases de cicatrisation
+> [!question]- Q : Décrivez les 3 phases de cicatrisation
 > Inflammatoire (J0-J5 : hémostase, leucocytes) → Proliférative (J5-J21 : fibroblastes, tissu de granulation) → Maturation (J21-18 mois : remodelage collagène)
 
-> [!success]- Q : Calculez la SCB pour brûlure des 2 bras + tronc antérieur
+> [!question]- Q : Calculez la SCB pour brûlure des 2 bras + tronc antérieur
 > 2 bras = 2×9% = 18% + tronc antérieur 18% = 36% SCT → brûlure grave, hospitalisation en centre spécialisé
 
-> [!success]- Q : Pourquoi une brûlure du 3ème degré est-elle indolore ?
+> [!question]- Q : Pourquoi une brûlure du 3ème degré est-elle indolore ?
 > Les terminaisons nerveuses sont détruites par la nécrose → absence de sensation douloureuse. Ce n'est pas bon signe, c'est au contraire un signe de gravité.
+
+
+> [!question]- Q : Quel est le risque spécifique d'une plaie punctiforme ?
+> Risque de **tétanos** (Clostridium tetani, anaérobie) si la plaie est profonde et mal vascularisée. Vérifier le statut vaccinal antitétanique. Rappel obligatoire si >10 ans ou statut inconnu.
+
+> [!question]- Q : Qu'est-ce qu'un syndrome des loges ?
+> Compression des muscles dans un compartiment (loge) ostéofasciale → ischémie progressive. Urgence chirurgicale (fasciotomie). Signes : douleur intense et disproportionnée, paresthésies, douleur à l'étirement passif.
+
+> [!question]- Q : Brûlure grave : critères d'hospitalisation en centre spécialisé ?
+> >15-20% SCT adulte ou >10% enfant, brûlure 3ème degré, atteinte face/mains/pieds/périnée/voies aériennes, brûlure électrique, terrain fragile (nourrisson, vieillard). Remplissage : formule de Parkland = 4 mL × kg × % SCT en 24h.
+
+
+## Voir aussi
+
+[[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Pansements et cicatrisation\|Pansements et cicatrisation]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]]
+
+> [!caution] Outil pédagogique · Réf : ATLS 10th ed., Référentiel plaies et cicatrisation HAS — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

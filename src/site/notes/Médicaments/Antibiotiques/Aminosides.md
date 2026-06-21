@@ -64,6 +64,10 @@ Principaux aminosides :
 > 2. Dose unique journalière (concentration-dépendant)
 > 3. Ne pas mélanger en même tubulure que bêta-lactamines
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Créatinine\|Créatinine (néphrotoxicité)]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Urée\|Urée]]
+
 ## Voir aussi
 
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] · [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] · [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]]

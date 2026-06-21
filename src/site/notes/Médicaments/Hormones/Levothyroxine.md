@@ -48,9 +48,13 @@ La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le 
 2. Espacer calcium, fer, IPP d'au moins 2 à 4h → sinon l'absorption est nulle
 3. Contrôle TSH uniquement à **6 à 8 semaines** après tout changement → pas avant
 
+## Normes à surveiller
+
+[[Médicaments/Normes/TSH\|TSH (cible 0,27-4,2)]] · [[Médicaments/Normes/T4 libre\|T4 libre]]
+
 ## Voir aussi
 
-TSH · T4L · [[Médicaments/Minéraux/Calcium\|Calcium]] · [[Médicaments/Minéraux/Fer\|Fer]]
+TSH · T4L · [[Médicaments/Normes/Calcium\|Calcium]] · [[Médicaments/Minéraux/Fer\|Fer]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service
 

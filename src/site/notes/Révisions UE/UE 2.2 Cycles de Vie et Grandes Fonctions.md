@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -96,25 +96,60 @@ Trajet : Bouche → Œsophage → Estomac → Intestin grêle → Côlon → Rec
 
 | Paramètre | Valeur normale |
 |-----------|---------------|
-| Glycémie à jeun | 0,70-1,10 g/L |
-| Natrémie | 135-145 mmol/L |
-| Kaliémie | 3,5-5 mmol/L |
-| Créatininémie | 60-110 µmol/L (H), 45-80 (F) |
-| Hémoglobine | 13-17 g/dL (H), 12-16 (F) |
-| pH artériel | 7,35-7,45 |
+| [[Médicaments/Normes/Glycémie\|Glycémie à jeun]] | 0,70-1,10 g/L |
+| [[Médicaments/Normes/Natrémie\|Natrémie]] | 135-145 mmol/L |
+| [[Médicaments/Normes/Kaliémie\|Kaliémie]] | 3,5-5 mmol/L |
+| [[Médicaments/Normes/Créatinine\|Créatininémie]] | 60-110 µmol/L (H), 45-80 (F) |
+| [[Médicaments/Normes/Hémoglobine\|Hémoglobine]] | 13-17 g/dL (H), 12-16 (F) |
+| [[pH artériel\|pH artériel]] | 7,35-7,45 |
 
 ---
 
-## Questions fréquentes
+### Cycles de la vie
 
-> [!success]- Q : Calculez le DC d'un patient avec FC=80 et VES=65 mL
+| Période | Âge | Caractéristiques clés |
+|---------|-----|----------------------|
+| Nourrisson | 0-2 ans | Croissance rapide, réflexes archaïques, vaccinations |
+| Enfant | 2-12 ans | Développement moteur, langage, socialisation |
+| Adolescent | 12-18 ans | Puberté, identité (Erikson), prises de risque |
+| Adulte | 18-65 ans | Maturité, procréation, maladies chroniques débutent |
+| Personne âgée | >65 ans | Polypathologie, chutes, syndrome de fragilité, TNCM |
+
+**Paramètres pédiatriques clés** :
+- FC : 120-160 bpm (nourrisson) → 60-100 bpm (adulte)
+- FR : 40-60 /min (nourrisson) → 12-20 /min (adulte)
+- PA systolique : ~80 mmHg (nourrisson) → ~120 mmHg (adulte)
+
+
+---
+
+## QCM de révision
+
+> [!question]- Q : Calculez le DC d'un patient avec FC=80 et VES=65 mL
 > DC = 80 × 65 = 5200 mL/min = 5,2 L/min
 
-> [!success]- Q : Grande vs petite circulation ?
+> [!question]- Q : Grande vs petite circulation ?
 > Petite (pulmonaire) : VD → poumons → OG pour l'hématose. Grande (systémique) : VG → tout l'organisme → OD pour apporter O2 aux tissus.
 
-> [!success]- Q : Que produit le rein en dehors de l'urine ?
+> [!question]- Q : Que produit le rein en dehors de l'urine ?
 > Rénine (régulation PA), EPO (stimule érythropoïèse), activation de la vitamine D.
+
+
+> [!question]- Q : FR normale selon l'âge ?
+> Nourrisson : 40-60/min | Enfant 1-5 ans : 20-30/min | Enfant 6-12 ans : 18-25/min | Adulte : 12-20/min. Tachypnée si FR >20/min chez l'adulte, >30/min = signe de détresse.
+
+> [!question]- Q : Quel est le rôle du tronc cérébral ?
+> Contrôle des fonctions vitales automatiques : rythme respiratoire (centre respiratoire bulbaire), fréquence cardiaque, déglutition, réflexes pupillaires. Une lésion du tronc = pronostic vital immédiat.
+
+> [!question]- Q : Quel est le principe de l'axe rénine-angiotensine-aldostérone ?
+> Si PA ↓ → rénine (rein) → angiotensine II (vasoconstriction) → aldostérone (réabsorption Na+ et eau) → PA ↑. Les IEC bloquent ce mécanisme (traitement HTA, insuffisance cardiaque).
+
+
+## Voir aussi
+
+[[Révisions UE/UE 2.1 Biologie Fondamentale\|UE 2.1 Biologie Fondamentale]] · [[Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs\|UE 2.7 Défaillances Organiques et Processus Dégénératifs]] · [[Soins Infirmiers/Bilans sanguins et normes\|Bilans sanguins et normes]] · [[Médicaments/Normes/Index Normes\|Index Normes]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
+
+> [!caution] Outil pédagogique · Réf : Anatomie-Physiologie Marieb, Référentiel IDE IFSI 1ère année
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

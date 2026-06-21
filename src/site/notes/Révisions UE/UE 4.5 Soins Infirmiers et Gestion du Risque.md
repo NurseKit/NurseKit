@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque/","tags":["révision","ue-4-5","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.5 - Soins Infirmiers et Gestion du Risque","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.5","tags":["révision","ue-4-5","ifsi","2eme-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque/","tags":["révision","ue-4-5","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.5 - Soins Infirmiers et Gestion du Risque","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.5","tags":["révision","ue-4-5","ifsi","2eme-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -110,16 +110,33 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Citez la règle des 5B
+> [!question]- Q : Citez la règle des 5B
 > Bon patient, Bon médicament, Bonne dose, Bonne voie, Bon moment
 
-> [!success]- Q : Qu'est-ce que l'identitovigilance ?
+> [!question]- Q : Qu'est-ce que l'identitovigilance ?
 > Ensemble des mesures visant à sécuriser l'identification du patient à chaque étape du soin (demander l'identité, vérifier le bracelet, croiser avec le dossier).
 
-> [!success]- Q : Faut-il déclarer un événement indésirable même s'il n'y a pas eu de dommage ?
+> [!question]- Q : Faut-il déclarer un événement indésirable même s'il n'y a pas eu de dommage ?
 > Oui, même les near-miss (précurseurs) doivent être déclarés car leur analyse permet d'éviter que la même situation aboutisse à un dommage.
+
+
+> [!question]- Q : Qu'est-ce que l'identitovigilance et comment vérifier ?
+> Processus de vérification de l'identité du patient avant tout soin. Méthode active : demander au patient de décliner son identité (nom, prénom, date naissance) et vérifier le bracelet. Ne jamais demander "Vous êtes M. Dupont ?" (réponse par oui/no = risque d'erreur).
+
+> [!question]- Q : Déclaration d'un événement indésirable grave (EIG) : quelle procédure ?
+> Déclaration via la plateforme **e-Signalement** (ANSM) par voie électronique. En interne : fiche de signalement d'événement indésirable (EI) + information au cadre de santé. RMM (Revue de Morbi-Mortalité) pour analyse des causes profondes.
+
+> [!question]- Q : Quels sont les 3 temps de vérification du médicament ?
+> 1. À la **préparation** : vérifier le nom du médicament, la forme, la dose prescrite. 2. Avant **l'administration** : vérifier le patient (identité), la voie, le moment. 3. Après **l'administration** : traçabilité dans le dossier patient, surveillance des effets.
+
+
+## Voir aussi
+
+[[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]]
+
+> [!caution] Outil pédagogique · Réf : HAS culture sécurité soins 2021, e-Signalement ANSM — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

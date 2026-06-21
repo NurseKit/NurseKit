@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.3 Législation Éthique Déontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 1.3 Législation Éthique Déontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-21"}}
 ---
 
 
@@ -86,19 +86,36 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Sanction pour violation du secret professionnel ?
+> [!question]- Q : Sanction pour violation du secret professionnel ?
 > 1 an d'emprisonnement et 15 000€ d'amende (Art. 226-13 Code pénal)
 
-> [!success]- Q : Le patient peut-il refuser un soin vital ?
+> [!question]- Q : Le patient peut-il refuser un soin vital ?
 > Oui, tout patient majeur et capable peut refuser un soin même vital. Le soignant informe, tente de convaincre, mais doit in fine respecter la décision après confirmation.
 
-> [!success]- Q : Dérogations légales au secret professionnel ?
+> [!question]- Q : Dérogations légales au secret professionnel ?
 > MDO (maladies à déclaration obligatoire), signalement de maltraitance, obligation de témoigner pour crime.
 
-> [!success]- Q : Différence rôle propre et rôle sur prescription ?
+> [!question]- Q : Différence rôle propre et rôle sur prescription ?
 > Rôle propre (R.4311-5) : sans prescription (soins d'hygiène, surveillance, éducation). Rôle sur prescription (R.4311-7) : sur ordonnance médicale écrite et signée.
+
+
+> [!question]- Q : Qu'est-ce que la personne de confiance ?
+> Personne majeure désignée par le patient pour être consultée si le patient n'est plus en état d'exprimer sa volonté. Elle n'est pas co-décisionnaire mais doit être consultée en priorité, avant la famille (loi du 4 mars 2002).
+
+> [!question]- Q : Qu'est-ce qu'une MDO (maladie à déclaration obligatoire) ?
+> Maladie dont le signalement à l'ARS est obligatoire par le médecin, même sans accord du patient (dérogation légale au secret). Ex : méningite bactérienne, tuberculose, hépatite A, choléra.
+
+> [!question]- Q : Quelles sont les 4 grandes responsabilités de l'IDE ?
+> Civile (réparation du préjudice, dommages-intérêts), Pénale (infraction punie par la loi), Disciplinaire (ONI : avertissement → radiation), Administrative (pour les agents hospitaliers : faute de service).
+
+
+## Voir aussi
+
+[[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+
+> [!caution] Outil pédagogique · Réf : CSP art. R.4311-1 à R.4311-15, Loi Kouchner 2002, Loi Claeys-Leonetti 2016 — IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

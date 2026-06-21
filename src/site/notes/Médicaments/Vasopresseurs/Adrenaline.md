@@ -51,6 +51,10 @@ Agit sur TOUS les récepteurs adrénergiques simultanément :
 2. **Ne jamais retarder** → corticoïdes et antihistaminiques ne remplacent pas l'adrénaline
 3. **ACR : 1 mg IV** toutes les 3-5 min dans la RCP
 
+## Normes à surveiller
+
+[[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Glycémie\|Glycémie (hyperglycémie)]]
+
 ## Voir aussi
 
 - [[Pathologies/Choc anaphylactique\|Choc anaphylactique]]

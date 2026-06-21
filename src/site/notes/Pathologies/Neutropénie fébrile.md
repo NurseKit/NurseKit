@@ -44,9 +44,13 @@ La chimiothérapie détruit les cellules à division rapide → dont les neutrop
 2. **"Pas de pus = pas d'infection ?"** → faux : le patient sans PNN ne peut pas faire de signe inflammatoire visible ; la fièvre est souvent le seul signe
 3. **"Pas de suppositoires, pas de toucher rectal"** → même pour la mesure de température : utiliser le thermomètre axillaire ou auriculaire uniquement
 
+## Normes à surveiller
+
+[[Médicaments/Normes/Neutrophiles\|Neutrophiles (neutropénie < 0,5)]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]]
+
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Anemie\|Anémie]] · NFS
+[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Anémie\|Anémie]] · NFS
 
 > [!caution] Outil pédagogique : HAS/SFMM recommandations
 

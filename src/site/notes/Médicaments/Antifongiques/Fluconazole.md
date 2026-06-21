@@ -65,6 +65,10 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 
 ---
 
+## Normes à surveiller
+
+[[Médicaments/Normes/ALAT\|ALAT]] · [[Médicaments/Normes/ASAT\|ASAT]] · [[Médicaments/Normes/GGT\|GGT]]
+
 ## Voir aussi
 
 - [[Médicaments/Antifongiques/Itraconazole\|Itraconazole]] · [[Médicaments/Antifongiques/Amphotéricine B\|Amphotéricine B]] · [[Médicaments/Antifongiques/Terbinafine\|Terbinafine]]

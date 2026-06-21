@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.9 Processus Tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.9 Processus Tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-21"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
 > - Tumeur bénigne vs maligne : la maligne envahit et métastase
 > - Cancers les plus fréquents en France : prostate (H), sein (F), poumon, côlon-rectum
-> - Chimiothérapie : effets secondaires principaux = nausées, alopécie, aplasie, mucite
-> - Neutropénie sévère (PNN <0,5 G/L) : risque infectieux majeur, isolement protecteur
+> - [[Soins Infirmiers/Chimiotherapie\|Chimiothérapie]] : effets secondaires principaux = nausées, alopécie, aplasie, mucite
+> - [[Pathologies/Aplasie febrile\|Neutropénie sévère]] (PNN <0,5 G/L) : risque infectieux majeur, isolement protecteur
 > - Annonce du cancer : dispositif d'annonce en 4 temps (médecin + IDE + soins de support + remise du PPS)
 
 ## Objectifs de l'UE
@@ -102,16 +102,33 @@
 
 ---
 
-## Questions fréquentes
+## QCM de révision
 
-> [!success]- Q : Différence tumeur bénigne et maligne ?
+> [!question]- Q : Différence tumeur bénigne et maligne ?
 > Bénigne : localisée, encapsulée, pas de métastase, croissance lente. Maligne : invasive, non encapsulée, peut métastaser, croissance rapide.
 
-> [!success]- Q : Que faire devant une fièvre chez un patient sous chimio ?
+> [!question]- Q : Que faire devant une fièvre chez un patient sous chimio ?
 > Urgence médicale : prélever hémocultures + NFS immédiatement → antibiotiques à large spectre sans attendre les résultats (risque de sepsis sur aplasie).
 
-> [!success]- Q : Citez les 4 temps du dispositif d'annonce
+> [!question]- Q : Citez les 4 temps du dispositif d'annonce
 > Consultation médicale → Consultation IDE (reformulation) → Soins de support → Remise du PPS (Plan Personnalisé de Soins)
+
+
+> [!question]- Q : Quels sont les 4 temps du dispositif d'annonce du cancer ?
+> 1. Temps médical (consultation d'annonce par le médecin) 2. Temps soignant (IDE : écoute, reformulation, remise d'informations écrites) 3. Accès aux soins de support (psychologue, kinésithérapeute, assistante sociale) 4. Remise du Programme Personnalisé de Soins (PPS) au patient.
+
+> [!question]- Q : Surveillance d'un patient sous chimiothérapie : quels signes d'aplasie ?
+> Fièvre >38°C ou <36°C, frissons, malaise → urgence médicale. Prélèvements (NFS : PNN <0,5 G/L = aplasie sévère), hémocultures, antibioprophylaxie ou antibiothérapie immédiate. Voir [[Pathologies/Aplasie febrile\|Aplasie febrile]].
+
+> [!question]- Q : Différence tumeur bénigne et maligne ?
+> **Bénigne** : bien encapsulée, croissance lente, localisée, pas de métastase (ex : fibrome, adénome). **Maligne** : invasion des tissus voisins, pouvoir métastatique (via lymphe ou sang), récidive possible → chimiothérapie, radiothérapie, chirurgie.
+
+
+## Voir aussi
+
+[[Pathologies/Aplasie febrile\|Aplasie febrile]] · [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Soins Infirmiers/Chambre implantable\|Chambre implantable]] · [[Soins Infirmiers/Soins pédiatriques\|Soins pédiatriques]]
+
+> [!caution] Outil pédagogique · Réf : HAS dispositif d'annonce cancer 2005, INCa protocoles — IFSI Oncologie
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
