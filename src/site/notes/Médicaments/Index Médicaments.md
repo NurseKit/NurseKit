@@ -9,13 +9,13 @@
 
 ## Fiches rapides (les plus utilisées)
 
-| Douleur | Anticoagulation | Infectieux | Cardio-vasculaire |
-|---------|-----------------|------------|-------------------|
-| [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] |
-| [[Médicaments/Antalgiques/Tramadol\|Tramadol]] | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] |
-| [[Médicaments/Antalgiques/Morphine\|Morphine]] | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] |
-| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] |
-| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]] | [[Metronidazole\|Metronidazole]] | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
+| Douleur                      | Anticoagulation        | Infectieux         | Cardio-vasculaire          |
+| ---------------------------- | ---------------------- | ------------------ | -------------------------- |
+| [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]   | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]             |
+| [[Médicaments/Antalgiques/Tramadol\|Tramadol]]                 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]        | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]]                 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]          | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]    | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]             |
+| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]                 | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]           | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]    | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]             |
+| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]               | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]        | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]  | [[Médicaments/Digitaliques/Digoxine\|Digoxine]]               |
 
 | Diabète | Urgence / Réa | Respiratoire | Digestif & Divers |
 |---------|---------------|--------------|-------------------|
@@ -44,6 +44,7 @@
 - [[Médicaments/AINS/Comparatif AINS\|Comparatif AINS]]
 - [[Médicaments/AINS/Aspirine\|Aspirine]]
 - [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
+- [[Médicaments/AINS/Kétoprofène\|Kétoprofène]]
 - [[Médicaments/AINS/Diclofenac\|Diclofenac]]
 - [[Médicaments/AINS/Naproxene\|Naproxene]]
 - [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
@@ -86,6 +87,8 @@
 - [[Médicaments/Antibiotiques/Cefalexine\|Cefalexine]]
 - [[Médicaments/Antibiotiques/Ceftazidime\|Ceftazidime]]
 - [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]
+- [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]]
+- [[Médicaments/Antibiotiques/Aminosides\|Aminosides]]
 - [[Médicaments/Antibiotiques/Mupirocine\|Mupirocine]]
 
 ### Antifongiques
@@ -127,7 +130,7 @@
 - [[Médicaments/Antidiabétiques/Liraglutide\|Liraglutide]]
 - [[Médicaments/Antidiabétiques/Repaglinide\|Repaglinide]]
 
-### Antihypertenseurs — Inhibiteurs calciques
+### Antihypertenseurs & Inhibiteurs calciques
 
 - [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]
 - [[Médicaments/Antihypertenseurs/Amlor\|Amlor]]
@@ -170,6 +173,8 @@
 ### Antiarythmiques
 
 - [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
+- [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]]
+- [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]]
 - [[Médicaments/Antiarythmiques/Flecainide\|Flecainide]]
 - [[Médicaments/Antiarythmiques/Sotalol\|Sotalol]]
 - [[Médicaments/Antiarythmiques/Propafenone\|Propafenone]]
@@ -215,7 +220,7 @@
 - [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium]]
 - [[Médicaments/Bronchodilatateurs/Tiotropium\|Tiotropium]]
 
-### Antiacides — IPP et anti-H2
+### IPP et anti-H2
 
 - [[Médicaments/Antiacides/Omeprazole\|Oméprazole]]
 - [[Médicaments/Antiacides/Mopral\|Mopral]]
@@ -310,7 +315,7 @@
 
 - [[Médicaments/Antiparkinsoniens/Levodopa\|Levodopa]]
 
-### Sédatifs — anesthésiques
+### Sédatifs & anesthésiques
 
 - [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
 - [[Médicaments/Sédatifs/Propofol\|Propofol]]
@@ -358,18 +363,4 @@
 ### Minéraux
 
 - [[Médicaments/Minéraux/Potassium\|Potassium]]
-- [[Médicaments/Minéraux/Potassium IV\|Potassium IV]]
-- [[Médicaments/Minéraux/Calcium\|Calcium]]
-- [[Médicaments/Minéraux/Gluconate calcium\|Gluconate calcium]]
-- [[Médicaments/Minéraux/Magnesium\|Magnesium]]
-- [[Médicaments/Minéraux/Magnésium sulfate\|Magnésium sulfate]]
-- [[Médicaments/Minéraux/Fer\|Fer]]
-- [[Médicaments/Minéraux/Zinc\|Zinc]]
-- [[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate sodium]]
-
-### Vaccins
-
-- [[Médicaments/Vaccins/Vaccin tétanique\|Vaccin tétanique]]
-- [[Médicaments/Vaccins/Vaccin hépatite B\|Vaccin hépatite B]]
-- [[Médicaments/Vaccins/Vaccin pneumocoque\|Vaccin pneumocoque]]
-- [[Vacci
+- [[Potassium I
