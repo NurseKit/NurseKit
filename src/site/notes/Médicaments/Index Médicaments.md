@@ -9,13 +9,21 @@
 
 ## Fiches rapides (les plus utilisées)
 
-- [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Médicaments/Antalgiques/Tramadol\|Tramadol]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
-- [[Médicaments/Anticoagulants/Heparine\|Héparine]] · [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] · [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] · [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] · [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]
-- [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] · [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] · [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]
-- [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antidiabétiques/Metformine\|Metformine]] · [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] · [[Médicaments/Diurétiques/Furosemide\|Furosémide]]
-- [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] · [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
-- [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] · [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · [[Médicaments/Antiépileptiques/Levetiracetam\|Lévétiracétam]]
-- [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] · [[Médicaments/Antiémétiques/Metoclopramide\|Metoclopramide]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]]
+| Douleur | Anticoagulation | Infectieux | Cardio-vasculaire |
+|---------|-----------------|------------|-------------------|
+| [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] |
+| [[Médicaments/Antalgiques/Tramadol\|Tramadol]] | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]] | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] |
+| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] |
+| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]] | [[Metronidazole\|Metronidazole]] | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
+
+| Diabète | Urgence / Réa | Respiratoire | Digestif & Divers |
+|---------|---------------|--------------|-------------------|
+| [[Médicaments/Antidiabétiques/Insuline\|Insuline]] | [[Médicaments/Vasopresseurs/Adrenaline\|Adrénaline]] | [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] | [[Médicaments/Antiacides/Omeprazole\|Oméprazole]] |
+| [[Médicaments/Antidiabétiques/Metformine\|Metformine]] | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] | [[Médicaments/Antiémétiques/Metoclopramide\|Metoclopramide]] |
+| [[Médicaments/Antidiabétiques/Gliclazide\|Gliclazide]] | [[Médicaments/Antidotes/Naloxone\|Naloxone]] | [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium]] | [[Médicaments/Antiémétiques/Ondansetron\|Ondansetron]] |
+| [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]] | [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]] | [[Médicaments/Corticoïdes inhalés/Budesonide\|Budesonide]] | [[Médicaments/Antiépileptiques/Levetiracetam\|Lévétiracétam]] |
+
 
 ---
 
@@ -364,21 +372,4 @@
 - [[Médicaments/Vaccins/Vaccin tétanique\|Vaccin tétanique]]
 - [[Médicaments/Vaccins/Vaccin hépatite B\|Vaccin hépatite B]]
 - [[Médicaments/Vaccins/Vaccin pneumocoque\|Vaccin pneumocoque]]
-- [[Médicaments/Vaccins/Vaccin grippe\|Vaccin grippe]]
-- [[Médicaments/Vaccins/Vaccin COVID-19\|Vaccin COVID-19]]
-
-### Antiseptiques
-
-- [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]]
-
-### Antidotes
-
-- [[Médicaments/Antidotes/Naloxone\|Naloxone]]
-- [[Médicaments/Antidotes/Flumazenil\|Flumazenil]]
-- [[Médicaments/Antidotes/N-acetylcysteine\|N-acetylcysteine]]
-- [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]]
-
----
-
-> [!tip] Conseils d'utilisation
-> Utilise la recherche (Ctrl+K) pour trouver un médicament rapidement. Chaque fiche indique la classe, les indications, les CI, les effets secondaires et le rôle IDE.
+- [[Vacci
