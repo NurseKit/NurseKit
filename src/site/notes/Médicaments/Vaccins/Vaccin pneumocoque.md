@@ -41,3 +41,8 @@ Les vaccins conjugués (PCV20) contiennent des polysaccharides capsulaires de pn
 > 1. Indispensable chez le **nourrisson** (calendrier), les **≥ 65 ans** et les sujets à risque (asplénie, immunodéprimés)
 > 2. **Asplénique non vacciné** → vaccination en URGENCE (sepsis fulminant mortalité > 50%)
 > 3. **PCV20** (Prevenar 20®) recommandé en 1ère intention chez l'adulte depuis 2024
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

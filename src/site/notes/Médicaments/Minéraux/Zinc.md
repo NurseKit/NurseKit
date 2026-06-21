@@ -42,3 +42,8 @@ Le zinc est co-facteur de plus de 300 enzymes : synthèse protéique, division c
 > 1. Indication principale en pratique : **cicatrisation** chez le dénutri (escarres, ulcères)
 > 2. Prendre **avec les repas** (nausées si à jeun)
 > 3. Doses élevées prolongées (> 50 mg/j) → **carence en cuivre** par compétition d'absorption
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

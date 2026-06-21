@@ -68,3 +68,8 @@ L'inhibition COX-1 explique les **effets indésirables GI** (ulcère, hémorragi
 - **Signes digestifs** : douleur épigastrique, méléna, hématémèse → stopper l'AINS, appel médecin.
 - **Durée de traitement** : toujours la plus courte possible à la dose minimale efficace.
 - **Associations dangereuses** : anticoagulants (risque hémorragique cumulé), lithium (accumulation), méthotrexate (toxicité accrue).
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

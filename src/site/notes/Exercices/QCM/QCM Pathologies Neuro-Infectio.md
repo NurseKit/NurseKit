@@ -217,3 +217,8 @@ Un patient présente une glycémie à 0,60 g/L, est conscient et coopérant. Que
 > **Explication :** Devant une hypoglycémie avec patient conscient et capable de déglutir, le resucrage per os est la 1ère intention : 15g de glucides rapides (3 morceaux de sucre, 150 mL jus de fruit, 3 bonbons). La glycémie est recontrôlée à 15 minutes. Si normalisation, on donne un glucide complexe (pain, biscuit) pour éviter la récidive. Le G30% IV et le glucagon IM sont réservés aux hypoglycémies avec trouble de la conscience ou impossibilité de prise per os.
 
 ---
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

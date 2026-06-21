@@ -154,3 +154,8 @@ L'extravasation d'un cytotoxique provoque des lésions tissulaires allant de l'i
 | [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]] | Anthracycline | **Cardiotoxicité** (cardiomyopathie, insuffisance cardiaque) → dose cumulative | ECG, FE (fraction d'éjection) avant chaque cycle, signes IC, dose totale cumulée |
 | [[Médicaments/Chimiothérapies/5-Fluorouracile\|5-FU]] | Antimétabolite | **Mucite**, toxicité hématologique, syndrome main-pied, toxicité cardiaque (coronarospasme) | Évaluation mucite, état cutané mains/pieds, signes de douleur thoracique ou d'angor |
 | [[Médicaments/Chimiothérapies/Paclitaxel\|Paclitaxel]] | Taxane | **Neuropathie périphérique** + **réaction d'hypersensibilité** (excipient Cremophor EL) | Prémédication antihistaminique + corticoïde obligatoire, surveillance TA/FC/signes d'allergie en début de perfusion, signes neuropathie |
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

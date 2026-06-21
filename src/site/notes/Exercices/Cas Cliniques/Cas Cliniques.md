@@ -24,19 +24,9 @@
 | [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]] | Diabète et sepsis |
 | [[Exercices/Cas Cliniques/CC FA\|CC FA]] | Fibrillation atriale |
 | [[Exercices/Cas Cliniques/CC IDM\|CC IDM]] | Infarctus du myocarde |
-| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]] | Méningite bactérienne |
-| [[Exercices/Cas Cliniques/CC OAP\|CC OAP]] | OAP cardiogénique |
-| [[Exercices/Cas Cliniques/CC Post-op\|CC Post-op]] | Surveillance post-opératoire |
+| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]]
 
-## Transmissions ciblées
-
-| Fiche | Pathologie |
-|-------|-----------|
-| [[Exercices/Cas Cliniques/Transmissions AVC\|Transmissions AVC]] | AVC ischémique |
-| [[Exercices/Cas Cliniques/Transmissions EP\|Transmissions EP]] | Embolie pulmonaire |
-| [[Exercices/Cas Cliniques/Transmissions IDM\|Transmissions IDM]] | Infarctus du myocarde |
-| [[Exercices/Cas Cliniques/Transmissions IRA\|Transmissions IRA]] | Insuffisance rénale aiguë |
-| [[Exercices/Cas Cliniques/Transmissions Pancreatite\|Transmissions Pancreatite]] | Pancréatite aiguë |
-| [[Exercices/Cas Cliniques/Transmissions Sepsis\|Transmissions Sepsis]] | Sepsis sévère |
-
-> [!caution] Outil pédagogique · Situations fictives à visée formative
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

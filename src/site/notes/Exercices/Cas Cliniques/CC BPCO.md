@@ -45,3 +45,8 @@
 > **Actions** : O2 2 L/min (cible 88-92%), nébulisations Salbutamol/Ipratropium toutes les 4h, Amoxicilline-clavulanate IV 1g x3/j, Méthylprednisolone 80 mg/j IV.
 >
 > **Résultat** : SpO2 90% sous 2L. GDS à 18h : pH 7.36, PaCO2 58. FR 22/min. Apyrétique ce soir. Expectorations mucopurulentes persistantes. Kiné respiratoire demain matin. VNI en standby si dégradation nocturne.
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

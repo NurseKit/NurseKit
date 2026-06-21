@@ -20,7 +20,7 @@
 - [[Pathologies/Endocardite\|Endocardite]]
 - [[Pathologies/Dissection aortique\|Dissection aortique]]
 - [[Pathologies/TVP\|TVP]]
-- [[Pathologies/EP\|EP]]
+- [[Pathologies/Embolie pulmonaire\|EP]]
 - [[Pathologies/CIVD\|CIVD]]
 - [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
 
@@ -70,7 +70,7 @@
 
 ## Gastro-Hépatologie
 
-- [[Pathologies/Cirrhose hépatique\|Cirrhose hépatique]]
+- [[Pathologies/Cirrhose\|Cirrhose hépatique]]
 - [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
 - [[Pathologies/Insuffisance hépatique aigue\|Insuffisance hépatique aigue]]
 - [[Pathologies/Pancréatite aigue\|Pancréatite aigue]]

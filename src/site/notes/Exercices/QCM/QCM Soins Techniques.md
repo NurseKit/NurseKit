@@ -217,3 +217,8 @@ Quel est le principe de base de la règle FIFO (First In First Out) en pharmacie
 > **Explication :** La règle FIFO (Premier Entré, Premier Sorti) s'applique au rangement et à l'utilisation des médicaments : les produits dont la date de péremption est la plus proche sont placés devant et utilisés en premier. Cette règle garantit la qualité et la sécurité des soins en évitant l'utilisation de médicaments périmés. L'IDE est responsable de la vérification des dates de péremption avant toute administration. Un médicament périmé ne doit jamais être administré, quelle que soit la situation.
 
 ---
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

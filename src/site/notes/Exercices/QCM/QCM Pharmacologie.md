@@ -217,3 +217,8 @@ Un patient reçoit de la vancomycine en IV. Quelle complication liée à une per
 > **Explication :** Le syndrome de l'homme rouge (Red Man Syndrome) est une réaction anaphylactoïde non immune provoquée par une libération d'histamine lors d'une perfusion trop rapide de vancomycine. Il se manifeste par un érythème cervico-facial, une hypotension, des démangeaisons. La prévention repose sur une perfusion lente (durée ≥ 60 min pour 1g). La vancomycine est aussi néphrotoxique sur la durée, d'où la surveillance des taux résiduels et de la créatininémie.
 
 ---
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

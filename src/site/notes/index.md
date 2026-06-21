@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"NurseKit","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/index/","title":"NurseKit","pinned":true,"tags":["accueil","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"title":"NurseKit","nom":"NurseKit · Accueil","tags":["accueil","index","gardenEntry"],"revision":"2026-06-21"}}
 ---
 
 
 > [!abstract] NurseKit · La référence pour l'ESI
 > Référence clinique conçue **par un ESI, pour les ESI**.
 > Pour t'aider à faire **TES liens à TON rythme**.
-> → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit.pages.dev)
+> → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit.fr)
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[Pathologies/Index Pathologies\|Pathologies]] | 91 | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
+| [[Pathologies/Index Pathologies\|Pathologies]] | 92 | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie |
 | [[Médicaments/Index Médicaments\|Médicaments]] | 229 | Molécules classées par 44 classes thérapeutiques |
 | [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]] | 70 | Techniques, surveillances, ETP, soins palliatifs |
 
@@ -57,5 +57,9 @@
 > - [[Médicaments/Index Médicaments\|Médicaments]] → vérification rapide avant administration
 > - [[Soins Infirmiers/Index Soins Infirmiers\|Soins infirmiers]] → rappel des techniques
 
-> [!warning] Avertissement
-> Outil
+> [!warning] Avertissement médical et juridique
+> NurseKit est un **outil pédagogique** conçu par et pour les étudiants en soins infirmiers (ESI). Les fiches présentes sur ce site sont des **synthèses éducatives** destinées à faciliter l'apprentissage, et ne constituent en aucun cas des recommandations médicales officielles, un protocole de service, ni un substitut à la décision clinique d'un professionnel de santé qualifié.
+>
+> Toute décision concernant des soins ou l'administration de médicaments doit être prise en accord avec les protocoles du service, sous la responsabilité du médecin prescripteur et de l'IDE en poste. Les informations peuvent ne pas refléter les dernières recommandations ou les pratiques locales de votre établissement.
+>
+> En utilisant ce site, vous acceptez les [[README\|Conditions Générales d'Utilisation]].

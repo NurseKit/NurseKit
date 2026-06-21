@@ -45,3 +45,8 @@
 > **Actions** : Bisoprolol IV 7,5 mg total, puis Amiodarone dose de charge PO. Monitoring scope en continu.
 >
 > **Résultat** : Retour rythme sinusal à 14h00, FC 72/min, PA 120/75, SpO2 97%. Amiodarone entretien 200 mg/j démarrée. Contrôle ECG demain matin. Surveillance TSH à 3 mois (Amiodarone).
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

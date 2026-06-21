@@ -217,3 +217,8 @@ Un patient sous anticoagulants présente un traumatisme crânien modéré avec p
 > **Explication :** Tout traumatisme crânien chez un patient anticoagulé justifie un scanner cérébral sans injection en urgence, quel que soit le niveau de la prise de conscience ou la clinique initiale. Le risque d'hématome intracrânien (extra ou sous-dural) est multiplié par 5-10 sous anticoagulants. En cas d'hématome confirmé, la neutralisation de l'anticoagulant (vitamine K1 + PPSB pour AVK ; antidote spécifique pour AOD) et un avis neurochirurgical sont urgents. La PL est contre-indiquée si suspicion d'HTIC.
 
 ---
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>
