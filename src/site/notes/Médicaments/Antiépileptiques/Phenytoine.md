@@ -45,7 +45,7 @@ Bloque les canaux sodium des neurones, empêchant les décharges électriques r�
 - [ ] Hygiène bucco-dentaire rigoureuse (hypertrophie gingivale)
 - [ ] Contraception stricte (femmes en âge de procréer)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **IV très lente (max 50 mg/min)** → risque de BAV et arrêt cardiaque si trop rapide
 2. Marge thérapeutique étroite (10-20 mg/L) → taux sérique indispensable

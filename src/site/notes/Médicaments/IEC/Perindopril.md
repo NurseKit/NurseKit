@@ -44,7 +44,7 @@ Le périndopril est une prodrogue que le foie active en périndoprilate. Cette f
 - [ ] Si toux insupportable : signaler au médecin → switch possible vers ARA2
 - [ ] Si angio-œdème → STOP immédiat + appel 15
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Toux sèche dans 10 à 15 % → si intolérable, on bascule vers un ARA2
 2. Hyperkaliémie → surveiller le K⁺, surtout si IR ou diabète

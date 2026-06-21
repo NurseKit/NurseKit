@@ -29,12 +29,12 @@ Une transmission = une cible. Si plusieurs problèmes, rédiger plusieurs transm
 
 > [!example] IDM - Cible : Douleur thoracique aiguë
 > **D** : M. Bernard, 58 ans, se plaint d'une douleur thoracique constrictive 8/10 (EVA). Irradiation bras gauche. Survenue au repos à 15h. Pâleur, diaphorèse. TA 145/90, FC 98, SpO2 96%.
-> **A** : Alerte cardiologue à 15h07. ECG 18 dérivations réalisé (sus-ST V1-V4 transmis). [[Soins Infirmiers/Pose VVP\|VVP 18G]] posée bras droit. [[Médicaments/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer. [[Médicaments/Morphine\|Morphine 4 mg IV]]. [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]] (troponine, NFS, coagulation). Scope continu.
+> **A** : Alerte cardiologue à 15h07. ECG 18 dérivations réalisé (sus-ST V1-V4 transmis). [[Soins Infirmiers/Pose VVP\|VVP 18G]] posée bras droit. [[Médicaments/Antiagrégants/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer. [[Médicaments/Antalgiques/Morphine\|Morphine 4 mg IV]]. [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements]] (troponine, NFS, coagulation). Scope continu.
 > **R** : Douleur 3/10 à 15h30. Patient stable. Transfert USIC à 15h35 pour coronarographie.
 
 > [!example] Sepsis - Cible : Sepsis sur pyélonéphrite
 > **D** : Mme Fatima, 72 ans, fièvre 39,5°C, TA 88/55, FC 118, FR 26, Glasgow 14. Douleurs lombaires droites depuis 3j. ATCD DT2. qSOFA 3/3. Dextro 3,2 g/L.
-> **A** : Médecin alerté à 22h10. 2 VVP posées. [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2]] avant ATB. ECBU. Augmentin 2g IV. Remplissage 500 mL NaCl 0,9%. [[Médicaments/Insuline\|Insuline rapide 6 UI SC]]. Scope.
+> **A** : Médecin alerté à 22h10. 2 VVP posées. [[Soins Infirmiers/Prélèvements biologiques\|Hémocultures x2]] avant ATB. ECBU. Augmentin 2g IV. Remplissage 500 mL NaCl 0,9%. [[Médicaments/Antidiabétiques/Insuline\|Insuline rapide 6 UI SC]]. Scope.
 > **R** : TA 100/65 à 23h. FC 108. Dextro 1,8 g/L à minuit. Glasgow 15. Transfert réanimation à 23h30.
 
 > [!example] Hypoglycémie - Cible : Hypoglycémie

@@ -36,7 +36,7 @@ La vitamine C réduit le fer Fe³⁺ en Fe²⁺ dans l'intestin → doublement d
 - [ ] Scorbut : amélioration en **2-4 semaines** de supplémentation
 - [ ] Informer le patient : jus de citron ou comprimé de vitamine C avec le fer = simple et efficace
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Prendre avec le **fer PO** : double l'absorption du fer non héminique

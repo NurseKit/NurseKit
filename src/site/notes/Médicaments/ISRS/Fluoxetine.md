@@ -59,7 +59,7 @@ Conséquence positive : pas de syndrome de sevrage (le médicament part tout seu
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Délai 5 semaines** avant IMAO après arrêt (pas 14 jours comme les autres ISRS)
 2. **CI avec tamoxifène** (cancer du sein) → mécanisme CYP2D6

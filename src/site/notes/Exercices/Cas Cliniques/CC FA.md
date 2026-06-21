@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : FA rapide sur Valvulopathie
 > **Mme Jeannette, 68 ans** · ATCD : valvulopathie mitrale, HTA, sous Warfarine (INR cible 2,5-3,5)
 > Consultation programmée : palpitations depuis hier soir et légère dyspnée
-> → Voir aussi : [[Pathologies/Fibrillation auriculaire\|FA]] · [[Médicaments/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Amiodarone\|Amiodarone]]
+> → Voir aussi : [[Pathologies/Fibrillation atriale\|FA]] · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
 
 > [!note] Présentation (09h30)
 > **Palpitations** : depuis 18h environ, sensation de "coeur qui s'emballe"

@@ -42,7 +42,7 @@ Comme l'hydrochlorothiazide, il met le frein sur la réabsorption du sel dans le
 - [ ] Si BIPRETERAX® : guetter aussi la toux sèche (composant IEC) et le K⁺
 - [ ] Éduquer sur la protection solaire (photosensibilisant)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. En France, tu le verras surtout dans le BIPRETERAX® → l'association à connaître par cœur
 2. Neutre sur la glycémie = le thiazidique de choix chez le diabétique (contrairement à l'HCTZ)

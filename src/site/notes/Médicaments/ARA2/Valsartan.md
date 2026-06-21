@@ -59,7 +59,7 @@ Combiné au valsartan (ARA2) : double action bénéfique sur le cœur insuffisan
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Entresto® = sacubitril + valsartan** : traitement phare de l'IC-FEr (PARADIGM-HF)
 2. **Délai 36h entre IEC et Entresto®** : ne pas démarrer sans respecter ce délai

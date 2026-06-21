@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La détresse respiratoire est une urgence fréquente en pédiatrie. Les particularités anatomiques de l'enfant (voies aériennes étroites, compliance thoracique élevée) rendent le nourrisson particulièrement vulnérable et exposé à l'épuisement respiratoire rapide. La reconnaissance précoce des signes de lutte est une priorité infirmière absolue.
 
-## Particularités anatomiques pédiatriques
+## C'est quoi ?
 
 | Caractéristique | Conséquence clinique |
 |---|---|
@@ -16,7 +16,7 @@
 | Langue volumineuse / larynx haut | Obstruction haute fréquente |
 | Muqueuse très vascularisée | Réaction oedémateuse intense et rapide |
 
-## Signes de détresse respiratoire - évaluation dans l'ordre
+## Comment ça se présente ?
 
 > [!warning] Toujours évaluer dans cet ordre précis
 
@@ -116,7 +116,7 @@
 > - Âge < 6 semaines
 > - Terrain à risque : prématurité < 34 SA, cardiopathie, immunodépression, BPCO
 
-## Surveillance IDE
+## Rôle IDE
 
 - Paramètres vitaux : FC, FR, SpO2, température
 - Surveillance continue avec monitoring si hospitalisation
@@ -126,11 +126,22 @@
 - Position : proclive 30°, tête en axe
 - Signalement immédiat si aggravation des signes de lutte ou apparition de signes d'épuisement
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **La bradypnée et le silence auscultatoire sont des signes d'épuisement imminents** : appel réanimation sans délai, ne pas attendre
 2. **La bronchiolite se traite par DRP, position et O2 si besoin** : pas de bronchodilatateur, pas de kiné en phase aiguë (HAS 2019)
 3. **L'évaluation se fait dans l'ordre** : FR → signes de lutte → SpO2 → signes d'épuisement → et c'est le comportement global qui guide l'urgence
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Fiche réalisée à des fins d'apprentissage pour étudiants en soins infirmiers (ESI 2ème année). Ne se substitue pas aux protocoles institutionnels ni au jugement clinique. En situation réelle, toujours se référer aux recommandations en vigueur et aux protocoles du service.

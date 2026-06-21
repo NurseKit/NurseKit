@@ -57,7 +57,7 @@ Avantage pratique : très peu d'inhibition des enzymes CYP450 → peu d'interact
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Allongement QT dose-dépendant** → max 20 mg/j (10 mg/j chez > 65 ans) → alerte ANSM 2011
 2. **Très peu d'interactions** (ISRS le plus sélectif) → avantage pour les patients polymédicamentés

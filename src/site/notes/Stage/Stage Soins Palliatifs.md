@@ -25,9 +25,9 @@
 
 | Médicament | Indication palliative | Surveillance IDE |
 |-----------|----------------------|-----------------|
-| [[Médicaments/Morphine\|Morphine]] | Douleur + dyspnée | FR, somnolence, constipation |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | Douleur + dyspnée | FR, somnolence, constipation |
 | [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] | Patch si douleur chronique stable ou SC si dysphagie | Changement/72h, fièvre ↑ absorption |
-| [[Médicaments/Midazolam\|Midazolam]] | SPPC, anxiété réfractaire, myoclonies | Sédation, FR |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | SPPC, anxiété réfractaire, myoclonies | Sédation, FR |
 | [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]] | Agitation, confusion, nausées | Syndrome extra-pyramidal |
 | [[Médicaments/Corticoïdes/Dexamethasone\|Dexamethasone]] | Hypertension intracrânienne, nausées, appétit | Glycémie, humeur |
 | Scopolamine transdermique | Encombrement bronchique (râles agoniques) | Sécheresse, confusion |
@@ -62,4 +62,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Chirurgie\|Stage Chirurgie]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Chirurgie\|Stage Chirurgie]]

@@ -46,7 +46,7 @@ Normalement, le corps forme un caillot puis le détruit (fibrinolyse) une fois l
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **HPP : 1 g IV dans la 1ère heure** → réduit la mortalité maternelle (WOMAN trial)
 2. **Traumatisme : < 3 h** → après 3 h, contre-productif

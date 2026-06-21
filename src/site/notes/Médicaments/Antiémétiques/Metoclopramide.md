@@ -59,7 +59,7 @@ Le problème, c'est que les récepteurs D2 ne sont pas seulement dans la zone an
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"5 jours max"** → règle ANSM 2013 ; au-delà, les dyskinésies tardives peuvent devenir irréversibles et c'est une complication catastrophique
 2. **"Dystonie = Akineton®"** → torticolis ou yeux qui remontent → bipéridène IM sans attendre, ça passe vite

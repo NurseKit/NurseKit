@@ -47,7 +47,7 @@ Crée des "liens" entre les brins d'ADN (adduits) → l'ADN ne peut plus se rép
 - [ ] VVC ou PICC-line obligatoire (pH et osmolarité)
 - [ ] Évaluer la neuropathie périphérique à chaque cycle (fourmillements, engourdissements)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Hyperhydratation 3-4 L/j + mannitol** = prévention néphrotoxicité
 2. **Trithérapie antiémétique avant** (HEC = chimio la plus émétisante)

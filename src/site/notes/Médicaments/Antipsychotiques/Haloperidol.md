@@ -58,7 +58,7 @@ L'halopéridol bloque puissamment les récepteurs dopaminergiques D2. La dopamin
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Syndrome extrapyramidal dans 30-50%** des cas : akathisie ≠ agitation (ne pas augmenter la dose !)
 2. **Syndrome malin des neuroleptiques (SMN)** = urgence vitale : hyperthermie + rigidité + dysautonomie + CPK élevées → arrêt immédiat + réanimation

@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Certains cytotoxiques lèsent directement les fibres nerveuses périphériques, entraînant paresthésies, douleurs neuropathiques et troubles moteurs. L'oxaliplatine provoque une neuropathie déclenchée par le froid, caractéristique et immédiate. L'évaluation à chaque cure est essentielle car une neuropathie de grade 3-4 impose une réduction ou un arrêt du traitement.
 
-## Mécanismes et molécules en cause
+## C'est quoi ?
 
 | Molécule | Fibres atteintes | Particularité |
 |----------|-----------------|---------------|
@@ -16,7 +16,7 @@
 | **Vincristine / Vinorelbine** (vinca-alcaloïdes) | Motrices et sensitives | Constipation par atteinte végétative, paralysie possible |
 | **Thalidomide / Bortézomib** | Sensitives | Myélome multiple |
 
-## Présentation clinique
+## Comment ça se présente ?
 
 ### Symptômes sensitifs (les plus fréquents)
 
@@ -68,7 +68,7 @@
 | **3** | Paresthésies sévères, limitation des activités quotidiennes | Réduction de dose obligatoire |
 | **4** | Paralysie, neuropathie menaçant le pronostic vital | Arrêt du traitement |
 
-## Évaluation IDE à chaque cure
+## Rôle IDE
 
 **Interrogatoire ciblé :**
 - Localisation des paresthésies (mains, pieds, symétrique ?)
@@ -81,8 +81,6 @@
 - Observer la démarche du patient à l'entrée en consultation
 - Tester la sensibilité tactile aux doigts et orteils si possible
 - Repérer une ataxie (instabilité à la marche)
-
-## Prise en charge IDE
 
 ### Prévention des chutes
 
@@ -108,11 +106,22 @@
 - Encourager à signaler toute aggravation entre les cures (appel infirmier ou médical)
 - Kinésithérapie : exercices de proprioception et de rééducation si troubles moteurs
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Oxaliplatine + froid = douleurs électriques immédiates** : éduquer le patient avant la 1re cure, sans exception
 2. **Grade 3-4 = réduction de dose ou arrêt** : évaluer à CHAQUE cure, tracer le grade dans le dossier
 3. **Prévention des chutes prioritaire** : les troubles proprioceptifs sont invisibles mais dangereux
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Cette fiche est un support de révision pour étudiants en soins infirmiers (ESI 2e année). Elle ne remplace pas les protocoles institutionnels ni le jugement clinique. Toujours se référer aux procédures du service et aux prescriptions médicales.

@@ -59,7 +59,7 @@ La rispéridone bloque deux cibles à la fois :
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Hyperprolactinémie forte** : surveiller aménorrhée, galactorrhée, gynécomastie
 2. **Risperdal Consta® = IM profonde uniquement** → jamais IV → surveiller l'observance

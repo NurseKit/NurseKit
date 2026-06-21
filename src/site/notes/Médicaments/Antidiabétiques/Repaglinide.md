@@ -44,7 +44,7 @@ Le répaglinide agit directement sur les cellules bêta du pancréas : il ferme 
 - [ ] Vérifier l'absence de gemfibrozil dans le traitement en cours
 - [ ] Guetter les signes d'hypoglycémie (sueurs, tremblements, pâleur, malaise)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Pas de repas = pas de comprimé"** → grave cette règle, elle évite des hypoglycémies inutiles et dangereuses
 2. **15-30 minutes avant le repas**, pas plus tôt → l'effet doit coïncider avec la montée glycémique post-prandiale

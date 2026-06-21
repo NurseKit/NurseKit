@@ -36,7 +36,7 @@ Identique au furosémide : bloque la réabsorption de sel dans l'anse de Henlé 
 - [ ] Injection IV lente si voie parentérale
 - [ ] Poids quotidien si insuffisance cardiaque → la tendance du poids dit tout
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **1 mg bumétanide = 40 mg furosémide** → la conversion à connaître par cœur
 2. Mêmes indications et même surveillance que le furosémide

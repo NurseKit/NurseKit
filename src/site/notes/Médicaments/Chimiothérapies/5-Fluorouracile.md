@@ -49,7 +49,7 @@ Le 5-FU "ressemble" à une brique de construction de l'ADN. La cellule cancéreu
 - [ ] Surveiller l'INR si AVK associé
 - [ ] Gestion de la pompe portable (si FOLFOX/FOLFIRI à domicile) : vérifier débit, alarmes
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Test DPD OBLIGATOIRE avant** le 1er traitement (CI si déficit)
 2. **Mucite + diarrhée** = toxicités principales → soins de bouche préventifs + éducation patient

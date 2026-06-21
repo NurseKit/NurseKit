@@ -60,7 +60,7 @@ Particularité cruciale : l'itraconazole dépend de l'acidité de l'estomac pour
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI en insuffisance cardiaque** → vérifier la FEVG avant de débuter, l'effet inotrope négatif peut aggraver une IC
 2. **IPP + itraconazole = médicament non absorbé** → l'acidité gastrique est indispensable, les IPP sabotent l'absorption

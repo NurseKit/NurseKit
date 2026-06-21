@@ -50,7 +50,7 @@ Quand on est blessé ou infecté, le corps produit des **prostaglandines** qui d
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Avec le repas** : jamais à jeun, c'est non négociable
 2. **CI grossesse ≥ 6 mois** : et prudence si rein ou cœur fragile

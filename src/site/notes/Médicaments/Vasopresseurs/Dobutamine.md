@@ -39,7 +39,7 @@ Différence clé : noradrénaline = vasopresseur (↑ PA par vasoconstriction) ;
 - [ ] Éviter les à-coups : préparer la seringue suivante avant la fin
 - [ ] Voie centrale recommandée (voie périphérique acceptable en urgence courte durée)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Inotrope (↑ débit cardiaque)** ≠ vasopresseur (↑ PA par vasoconstriction)
 2. **Tachycardie = complication principale** → limite la dose et peut nécessiter la réduction

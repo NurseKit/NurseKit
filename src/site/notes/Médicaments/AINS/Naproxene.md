@@ -51,7 +51,7 @@ Il bloque les enzymes COX-1 et COX-2 pour réduire les prostaglandines → même
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **2 prises/j** grâce à la demi-vie longue → avantage observance vs ibuprofène (3-4 prises/j)
 2. **Profil CV relativement favorable** parmi les AINS → mais les CI cardiaques sévères restent valides

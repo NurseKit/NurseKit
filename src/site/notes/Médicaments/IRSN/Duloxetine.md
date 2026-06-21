@@ -58,7 +58,7 @@ La duloxétine bloque simultanément les deux pompes de recapture dès 60 mg/j :
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Double action dès 60 mg/j** → sérotonine + noradrénaline sans monter la dose (différence clé avec la venlafaxine)
 2. **Surveiller la PA** → effet noradrénergique → ↑ pression artérielle, surtout en début de traitement

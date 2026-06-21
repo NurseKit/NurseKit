@@ -57,7 +57,7 @@ Sa demi-vie de 68 heures (très longue) explique qu'on n'ait besoin que de quelq
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Demi-vie longue = cures courtes** : 3 à 5 jours seulement sont suffisants (le médicament reste actif après l'arrêt)
 2. **Allongement QT** : vérifier qu'il n'y a pas d'autres médicaments cardiotoxiques associés + ECG si facteurs de risque

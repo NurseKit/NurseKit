@@ -6,7 +6,7 @@
 > [!abstract] Interactions Médicamenteuses Majeures
 > Une interaction médicamenteuse est une modification de l'effet d'un médicament par un autre.
 > L'IDE doit connaître les associations à risque pour alerter le médecin.
-> → Voir aussi : [[Médicaments/Warfarine\|Warfarine]] · [[Médicaments/Digoxine\|Digoxine]] · [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque]]
+> → Voir aussi : [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque]]
 
 ## Interactions à connaître impérativement
 

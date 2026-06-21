@@ -57,7 +57,7 @@ Le cerveau a besoin de **2 à 4 semaines** pour s'adapter à cette nouvelle situ
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Délai 2-4 semaines avant efficacité** → les premières semaines peuvent aggraver l'anxiété
 2. **CI absolue avec IMAO** → syndrome sérotoninergique mortel (délai 14 jours)

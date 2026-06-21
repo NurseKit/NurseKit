@@ -6,14 +6,14 @@
 > [!abstract] En 2 mots
 > L'arrêt cardiorespiratoire pédiatrique est presque toujours d'origine respiratoire (hypoxie), contrairement à l'adulte où il est cardiaque. La priorité est donc de rétablir l'oxygénation avant tout : la RCP commence par **5 insufflations initiales**. Chaque minute sans RCP réduit les chances de survie de 10%.
 
-## Différence fondamentale adulte / enfant
+## C'est quoi ?
 
 > [!danger] Cause principale : HYPOXIE, pas ischémie cardiaque
 > - Adulte : ACR d'origine cardiaque → débuter par les compressions
 > - **Enfant/nourrisson : ACR d'origine respiratoire → débuter par 5 insufflations**
 > - Conséquence : ne jamais appeler le 15 et partir (réanimateur isolé) → **rester 1 minute à réanimer avant d'appeler**
 
-## Reconnaissance de l'ACR pédiatrique
+## Comment ça se présente ?
 
 > [!warning] Signes d'ACR : les 3 critères
 > 1. **Absence de réponse** aux stimuli (appel, stimulation des épaules)
@@ -90,11 +90,22 @@
 > | **H**ypothermie | **T**oxiques / médicaments |
 > | **H**ypo ou **H**yperkaliémie | **T**hrombose (pulmonaire, coronaire) |
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **ACR pédiatrique = hypoxie avant tout : commencer par 5 insufflations initiales**, pas par les compressions
 2. **Ratio 30:2 seul / 15:2 à 2 secouristes** - DEA avec atténuateur pédiatrique si < 8 ans / < 25 kg
 3. **Ruban BROSELOW + adrénaline 0,1 mg/mL (0,1 mL/kg)** - voie IO si VVP impossible
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Cette fiche est un support de révision pour les ESI. Elle ne remplace pas les protocoles institutionnels ni la formation aux gestes d'urgence (AFGSU). En cas de doute, appliquer les recommandations ERC/ILCOR en vigueur et suivre les protocoles du service.

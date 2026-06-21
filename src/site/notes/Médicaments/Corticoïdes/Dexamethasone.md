@@ -48,7 +48,7 @@ Corticoïde 7 fois plus puissant que la prednisone, sans effet sur la rétention
 - [ ] COVID/méningite : respecter les délais et durées protocole
 - [ ] Éducation si traitement prolongé : sevrage progressif obligatoire, carte corticoïde
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Œdème cérébral, HTIC, chimio-nausées** → molécule de référence dans ces indications
 2. Pas d'effet minéralocorticoïde → pas de surveillance K⁺/Na⁺ liée à cet effet

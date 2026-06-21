@@ -53,7 +53,7 @@ Le propofol potentialise le GABA (le frein principal du cerveau) → les neurone
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Aucune analgésie** → toujours associé à un opioïde en réanimation
 2. **PRIS si > 4 mg/kg/h > 48 h** → surveiller pH, lactates, CPK → arrêt immédiat si suspicion

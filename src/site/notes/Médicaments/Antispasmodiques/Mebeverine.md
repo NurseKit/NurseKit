@@ -49,7 +49,7 @@ La mébévérine agit directement sur les canaux sodiques des cellules musculair
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Traitement du SII** → symptomatique uniquement, ne guérit pas la maladie
 2. **Pas d'effets anticholinergiques** → utilisable sans restriction particulière

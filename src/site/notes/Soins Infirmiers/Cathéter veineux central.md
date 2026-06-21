@@ -6,7 +6,7 @@
 > [!abstract] Cathéter Veineux Central
 > Voie veineuse dont l'extrémité distale est en position centrale (veine cave supérieure ou inférieure).
 > Indispensable pour vasopresseurs, nutrition parentérale, mesure PVC, médicaments irritants.
-> → Voir aussi : [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Médicaments/Dopamine et Dobutamine\|Dopamine/Dobutamine]]
+> → Voir aussi : [[Soins Infirmiers/Nutrition parentérale\|Nutrition parentérale]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Médicaments/Vasopresseurs/Dopamine et Dobutamine\|Dopamine/Dobutamine]]
 
 ## Types de voies centrales
 

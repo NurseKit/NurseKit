@@ -59,6 +59,6 @@
 
 ## Voir aussi
 
-[[Pathologies/Pré-éclampsie\|Pré-éclampsie]] · [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]] · [[Médicaments/Amoxicilline\|Amoxicilline]]
+[[Pathologies/Pré éclampsie\|Pré éclampsie]] · [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 
 > [!caution] Outil pédagogique · Source : CNGOF 2018, HAS

@@ -51,7 +51,7 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Gel + soleil = réaction bulleuse sévère** → l'interdiction dure 2 semaines APRÈS l'arrêt (pas juste pendant)
 2. **Triade néphrotoxique** : IEC/ARA2 + diurétique + kétoprofène → insuffisance rénale aiguë

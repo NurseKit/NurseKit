@@ -47,7 +47,7 @@ Le rocuronium "prend la place" de l'acétylcholine sur le récepteur musculaire 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Antidote = suggamadex 16 mg/kg** → neutralisation en 3 min → clé pour toute intubation difficile ("Can't intubate, can't oxygenate" → décurariser immédiatement)
 2. **TOF pour surveiller la curarisation** → ne pas sur-curare (myopathie) ni sous-curare (dysynchronie)

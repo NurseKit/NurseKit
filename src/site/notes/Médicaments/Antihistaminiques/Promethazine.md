@@ -58,7 +58,7 @@ La prométhazine appartient à la famille des phénothiazines → les mêmes que
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI absolue < 2 ans** → dépression respiratoire potentiellement mortelle chez le nourrisson et le jeune enfant
 2. **Sédation forte + anticholinergiques** → liste de Beers chez le sujet âgé, glaucomateux, patient prostatique

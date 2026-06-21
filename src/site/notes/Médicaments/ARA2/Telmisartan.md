@@ -54,7 +54,7 @@ Le telmisartan bloque les récepteurs AT1 de l'angiotensine II, réduisant la pr
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Telmisartan = Toléré dans l'insuffisance Rénale"** → seul ARA2 éliminé à 100% par le foie → pas d'adaptation de dose même si la fonction rénale est très altérée
 2. **"Foie défaillant = CI"** → à l'inverse des autres ARA2, c'est l'insuffisance hépatique sévère qui contre-indique ici

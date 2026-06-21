@@ -47,7 +47,7 @@ Le bicarbonate tampon les ions H⁺ (responsables de l'acidose) et les neutralis
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Ne JAMAIS avec le calcium** dans la même voie → précipitation immédiate
 2. **VVC recommandée** → très hypertonique, necrose veineuse si extravasation en VVP

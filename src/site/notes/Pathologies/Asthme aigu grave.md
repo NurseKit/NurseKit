@@ -1,46 +1,66 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Asthme aigu grave/","tags":["pathologie","respiratoire","urgence","asthme","bronchospasme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave","titre":"Asthme Aigu Grave (AAG)","tags":["pathologie","respiratoire","urgence","asthme","bronchospasme"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Asthme aigu grave/","tags":["pathologie","respiratoire","urgence","asthme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave (AAG)","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","asthme"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] Asthme Aigu Grave
-> Crise d'asthme sévère résistante au traitement initial bronchodilatateur.
-> Risque d'arrêt respiratoire par épuisement des muscles respiratoires.
-> → Voir aussi : [[Médicaments/Salbutamol\|Salbutamol]] · [[Médicaments/Corticoïdes\|Corticoïdes]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
+> [!abstract] En 2 mots
+> Crise d'asthme sévère résistante au traitement initial bronchodilatateur. Risque d'arrêt respiratoire par épuisement des muscles respiratoires. Urgence médicale : délai de traitement = pronostic vital.
 
-## Critères de gravité
+## C'est quoi ?
 
-| Critère | AAG | Asthme à risque vital |
-|---------|-----|----------------------|
-| Parole | Phrases courtes | Mots isolés |
+**Définition** : crise d'asthme sévère ne répondant pas aux bronchodilatateurs de courte durée (salbutamol) après 2-3 bouffées, associée à des signes de gravité.
+
+**Mécanisme** : bronchospasme intense + inflammation bronchique + hypersécrétion muqueuse = obstruction des voies aériennes → hypoxémie → risque d'arrêt respiratoire.
+
+**Facteurs déclenchants** : allergènes, infection virale (rhinovirus, grippe), effort, stress, AINS, aspirine, bêtabloquants, pollution, tabac.
+
+## Comment ça se présente ?
+
+| Critère | Crise sévère | Risque vital immédiat |
+|---------|-------------|----------------------|
+| Parole | Phrases courtes | Mots isolés / muet |
 | Conscience | Normale | Agitation, confusion |
 | FR | > 25/min | > 30/min |
-| FC | > 110/min | Bradycardie (signe grave) |
+| FC | > 110/min | Bradycardie (signe tardif grave) |
 | SpO2 (air) | 91-95% | < 90% |
-| DEP | 33-50% théorique | < 33% |
-| Sibilants | Présents | Silence auscultatoire (SIGNE GRAVE) |
+| DEP | 33-50% du théorique | < 33% |
+| Auscultation | Sibilants diffus | Silence auscultatoire |
 
 > [!danger] Silence auscultatoire = menace vitale imminente
-> Poumon "muet" : bronchospasme total, ventilation quasi-nulle
-> Appel réanimation immédiat + préparer intubation
+> Poumon "muet" : bronchospasme total, ventilation quasi-nulle. Appel réanimation immédiat + préparer l'intubation.
 
-## Traitement AAG
+## Rôle IDE
 
-| Étape | Traitement |
-|-------|-----------|
-| 1ère intention | Salbutamol nébulisé 5 mg (ou 4-8 bouffées) toutes les 20 min pendant 1h |
-| + | Ipratropium nébulisé 0,5 mg (association synergique) |
-| Corticoïdes | Méthylprednisolone IV 1-2 mg/kg ou Prednisone PO 1 mg/kg |
-| O2 | Maintenir SpO2 94-98%, lunettes ou masque simple |
-| Sulfate Mg | Sulfate de magnésium IV 2g en 20 min si réfractaire |
-| Réanimation | Intubation/VM si GCS diminué, épuisement, arrêt respiratoire |
+- Position demi-assise, ne pas allonger (aggrave la dyspnée)
+- O2 : maintenir SpO2 94-98% (lunettes, masque simple ou haute concentration)
+- VVP + bilan biologique (GDS, NFS, ionogramme)
+- Préparer et administrer les traitements prescrits :
+  - **Salbutamol nébulisé** 5 mg toutes les 20 min pendant 1h (+ ipratropium 0,5 mg en association)
+  - **Corticoïdes** : méthylprednisolone IV 1-2 mg/kg ou prednisone PO 1 mg/kg
+  - **Sulfate de magnésium** IV 2 g en 20 min si refractaire
+- Mesurer le DEP avant et apres chaque nebulisation (objectif : gain > 15%)
+- Scope : SpO2, FC, FR en continu
+- Si pas d'amelioration a 1h de traitement bien conduit : appel SMUR/reanimation
 
-> [!warning] Ce qui aggrave l'asthme
-> AINS, Aspirine, Bêtabloquants (contre-indiqués en crise)
-> Stress, infections virales (grippe, rhinovirus), allergènes
-> Effort physique intense
+## Points de vigilance
 
-> [!tip] Surveillance IDE
-> DEP avant et après bronchodilatateurs (objectif : gain > 15%)
-> Rythme nébulisations + réponse clinique (FR, SpO2, parole)
-> Si pas d'amélioration après 1h de traitement bien conduit : appel SMUR/réa
+> [!danger] Aggravation malgre le traitement
+> Persistance de la dyspnee apres 3 nebulisations ou aggravation (GCS, bradycardie, silence auscultatoire) = escalade vers reanimation. Ne pas sous-estimer un AAG "calme en apparence" : l'epuisement peut survenir brutalement.
+
+> [!warning] Medicaments contre-indiques en crise
+> Betabloquants (meme en collyres), AINS, aspirine : peuvent declencher ou aggraver un bronchospasme. Morphine : deprime le centre respiratoire.
+
+> [!warning] Hypokaliemie sous salbutamol
+> Salbutamol a doses repetees provoque une hypokaliemie. Surveiller le ionogramme, corriger si K+ < 3,5 mmol/L.
+
+## Les 3 choses à retenir
+
+1. **Silence auscultatoire = urgence vitale** : appel reanimation immediat, ne pas attendre
+2. **DEP avant et apres chaque nebulisation** : objectif gain > 15%, guide l'efficacite du traitement
+3. **Betabloquants, AINS, aspirine = contre-indiques** : meme en collyres ou en automédication
+
+## Voir aussi
+
+[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] · [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium]] · [[Médicaments/Corticoïdes/Methylprednisolone\|Methylprednisolone]] · [[Pathologies/BPCO\|BPCO]]
+
+> [!caution] Outil pedagogique · Source : GINA 2023, SPLF

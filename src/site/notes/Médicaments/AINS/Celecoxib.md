@@ -52,7 +52,7 @@ Point souvent oublié : la molécule ressemble chimiquement aux sulfamides → a
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Cœur malade = interdit** → jamais si coronarien, AVC, artériopathie ou insuffisance cardiaque
 2. **Allergie sulfamides = CI absolue** → penser à demander si le patient prend du Bactrim®

@@ -1,95 +1,104 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] Pathologies
-> Toutes les pathologies classées par système
+> [!abstract] Pathologies : 97 fiches
+> Toutes les pathologies classées par spécialité.
 > → [[index\| Accueil]]
 
-## Cardiologie / Vasculaire
+## Cardio-vasculaire
 
+- [[Pathologies/ACR & RCP\|ACR & RCP]]
 - [[Pathologies/IDM\|IDM]]
-- [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-- [[Pathologies/HTA\|HTA]]
-- [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
-- [[Pathologies/Choc cardiogénique\|Choc cardiogénique]]
-- [[Pathologies/OAP\|OAP]]
 - [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
-- [[Pathologies/Dissection aortique\|Dissection aortique]]
+- [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
+- [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
+- [[Pathologies/OAP\|OAP]]
+- [[Pathologies/Choc cardiogénique\|Choc cardiogénique]]
+- [[Pathologies/HTA\|HTA]]
 - [[Pathologies/Endocardite\|Endocardite]]
-- [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
+- [[Pathologies/Dissection aortique\|Dissection aortique]]
 - [[Pathologies/TVP\|TVP]]
+- [[Pathologies/EP\|EP]]
 - [[Pathologies/CIVD\|CIVD]]
-
-## Pneumologie
-
-- [[Pathologies/BPCO\|BPCO]]
-- [[Pathologies/Pneumonie\|Pneumonie]]
-- [[Pathologies/Pneumothorax\|Pneumothorax]]
-- [[Pathologies/Asthme aigu grave\|Asthme aigu grave]]
-- [[Pathologies/SDRA\|SDRA]]
-- [[Pathologies/PAVM\|PAVM]]
+- [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
 
 ## Neurologie
 
 - [[Pathologies/AVC ischémique\|AVC ischémique]]
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
 - [[Pathologies/Traumatisme crânien\|Traumatisme crânien]]
-- [[Pathologies/Méningite\|Méningite]]
+- [[Pathologies/Coma\|Coma]]
+- [[Pathologies/HTIC\|HTIC]]
 - [[Pathologies/Epilepsie\|Epilepsie]]
 - [[Pathologies/État de mal épileptique\|État de mal épileptique]]
-- [[Pathologies/HTIC\|HTIC]]
-- [[Pathologies/Coma\|Coma]]
+- [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
 - [[Pathologies/Guillain Barré\|Guillain Barré]]
 - [[Pathologies/Sclérose en plaques\|Sclérose en plaques]]
 - [[Pathologies/Parkinson\|Parkinson]]
-
-## Psychiatrie / Neuro-cog
-
 - [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
-- [[Pathologies/Dépression\|Dépression]]
-- [[Pathologies/Schizophrénie\|Schizophrénie]]
 - [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]]
-- [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]
+
+## Pneumologie
+
+- [[Pathologies/Asthme\|Asthme]]
+- [[Pathologies/Asthme aigu grave\|Asthme aigu grave]]
+- [[Pathologies/BPCO\|BPCO]]
+- [[Pathologies/Pneumonie\|Pneumonie]]
+- [[Pathologies/Pneumothorax\|Pneumothorax]]
+- [[Pathologies/SDRA\|SDRA]]
+- [[Pathologies/PAVM\|PAVM]]
 
 ## Endocrinologie / Métabolisme
 
 - [[Pathologies/Diabète de type 1\|Diabète de type 1]]
 - [[Pathologies/Diabète de type 2\|Diabète de type 2]]
-- [[Pathologies/Diabète de type 2\|Acidocétose diabétique]]
 - [[Pathologies/Pied diabétique\|Pied diabétique]]
-- [[Pathologies/Hypothyroïdie\|Hypothyroïdie]]
+- [[Pathologies/Rétinopathie diabétique\|Rétinopathie diabétique]]
 - [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]]
+- [[Pathologies/Hypothyroïdie\|Hypothyroïdie]]
 - [[Pathologies/Insuffisance surrénalienne\|Insuffisance surrénalienne]]
 - [[Pathologies/Obésité\|Obésité]]
 - [[Pathologies/Equilibre hydroélectrolytique\|Equilibre hydroélectrolytique]]
 
-## Réanimation / Urgences
-
-- [[Pathologies/Sepsis\|Sepsis]]
-- [[Pathologies/ACR & RCP\|ACR & RCP]]
-- [[Pathologies/Choc anaphylactique\|Choc anaphylactique]]
-- [[Pathologies/Choc hypovolémique\|Choc hypovolémique]]
-- [[Pathologies/Polytraumatisme\|Polytraumatisme]]
-- [[Pathologies/Intoxication médicamenteuse\|Intoxication médicamenteuse]]
-
-## Digestif / Hépatologie
-
-- [[Pathologies/Cirrhose\|Cirrhose]]
-- [[Pathologies/Pancréatite aigue\|Pancréatite aigue]]
-- [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
-- [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
-- [[Pathologies/Appendicite\|Appendicite]]
-- [[Pathologies/Péritonite\|Péritonite]]
-- [[Pathologies/Insuffisance hépatique aigue\|Insuffisance hépatique aigue]]
-
-## Néphro-urologie
+## Néphro-Urologie
 
 - [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]]
 - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]]
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
-- [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
+
+## Gastro-Hépatologie
+
+- [[Pathologies/Cirrhose hépatique\|Cirrhose hépatique]]
+- [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
+- [[Pathologies/Insuffisance hépatique aigue\|Insuffisance hépatique aigue]]
+- [[Pathologies/Pancréatite aigue\|Pancréatite aigue]]
+- [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]
+- [[Pathologies/Péritonite\|Péritonite]]
+- [[Pathologies/Appendicite\|Appendicite]]
+
+## Hématologie / Oncologie
+
+- [[Pathologies/Anémie\|Anémie]]
+- [[Pathologies/Aplasie febrile\|Aplasie febrile]]
+- [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]
+- [[Pathologies/Mucite\|Mucite]]
+- [[Pathologies/Nausees Vomissements Chimio\|Nausees Vomissements Chimio]]
+- [[Pathologies/Neuropathie Peripherique Chimio\|Neuropathie Peripherique Chimio]]
+
+## Infectiologie / Sepsis
+
+- [[Pathologies/Sepsis\|Sepsis]]
+- [[Pathologies/Méningite bactérienne\|Méningite bactérienne]]
+- [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
+- [[Pathologies/Arthrite septique\|Arthrite septique]]
+
+## Psychiatrie / Addictologie
+
+- [[Pathologies/Dépression\|Dépression]]
+- [[Pathologies/Schizophrénie\|Schizophrénie]]
+- [[Pathologies/Sevrage alcoolique\|Sevrage alcoolique]]
 
 ## Pédiatrie
 
@@ -98,39 +107,42 @@
 - [[Pathologies/Convulsions fébriles\|Convulsions fébriles]]
 - [[Pathologies/Deshydratation aigue enfant\|Deshydratation aigue enfant]]
 - [[Pathologies/Detresse respiratoire nourrisson\|Detresse respiratoire nourrisson]]
-- [[Pathologies/Fievre enfant conduite a tenir\|Fievre enfant conduite a tenir]]
 - [[Pathologies/Etat de mal asthmatique enfant\|Etat de mal asthmatique enfant]]
-
-## Obstétrique
-
-- [[Pathologies/Pré éclampsie\|Pré éclampsie]]
-- [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]]
-- [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]]
+- [[Pathologies/Fievre enfant conduite a tenir\|Fievre enfant conduite a tenir]]
+- [[Pathologies/Nouveau-né evaluation Apgar\|Nouveau-né evaluation Apgar]]
 
 ## Gériatrie
 
+- [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]]
 - [[Pathologies/Chutes personne agee\|Chutes personne agee]]
 - [[Pathologies/Deshydratation sujet age\|Deshydratation sujet age]]
 - [[Pathologies/Syndrome glissement\|Syndrome glissement]]
+- [[Pathologies/Escarres prevention stades\|Escarres prevention stades]]
 
-## Oncologie
+## Obstétrique
 
-- [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]]
-- [[Pathologies/Aplasie febrile\|Aplasie febrile]]
-- [[Pathologies/Mucite\|Mucite]]
-- [[Pathologies/Nausees Vomissements Chimio\|Nausees Vomissements Chimio]]
-- [[Pathologies/Neuropathie Peripherique Chimio\|Neuropathie Peripherique Chimio]]
+- [[Pathologies/Hémorragie post-partum\|Hémorragie post-partum]]
+- [[Pathologies/Menace d'accouchement prématuré\|Menace d'accouchement prématuré]]
+- [[Pathologies/Pré éclampsie\|Pré éclampsie]]
+- [[Pathologies/Diabète gestationnel\|Diabète gestationnel]]
+- [[Pathologies/Rupture prématurée des membranes\|Rupture prématurée des membranes]]
 
-## Hématologie
+## Ophtalmologie
 
-- [[Pathologies/Anémie\|Anémie]]
-- [[Pathologies/TVP\|TVP]]
+- [[Pathologies/Cataracte\|Cataracte]]
+- [[Pathologies/DMLA\|DMLA]]
+- [[Pathologies/Glaucome\|Glaucome]]
+- [[Pathologies/Rétinopathie diabétique\|Rétinopathie diabétique]]
 
-## Rhumatologie / Infectieux
+## Rhumatologie
 
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
 - [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]]
 
-## Soins palliatifs
+## Urgences / Réanimation
 
+- [[Pathologies/Choc anaphylactique\|Choc anaphylactique]]
+- [[Pathologies/Choc hypovolémique\|Choc hypovolémique]]
+- [[Pathologies/Polytraumatisme\|Polytraumatisme]]
+- [[Pathologies/Intoxication médicamenteuse\|Intoxication médicamenteuse]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]

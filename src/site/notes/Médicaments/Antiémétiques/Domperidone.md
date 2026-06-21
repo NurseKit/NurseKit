@@ -54,7 +54,7 @@ Mais il y a un revers : elle peut allonger l'intervalle QT sur l'ECG → risque 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"7 jours max"** → règle ANSM 2014 non négociable (risque QT et mort subite documentés)
 2. **"CYP3A4 inhibiteurs = CI absolue"** → kétoconazole, érythromycine, clarithromycine... à chercher systématiquement dans le traitement

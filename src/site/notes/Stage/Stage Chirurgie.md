@@ -31,7 +31,7 @@
 
 | Médicament | Indication | Surveillance IDE |
 |-----------|-----------|-----------------|
-| [[Médicaments/Apixaban\|Apixaban (Eliquis®) 2,5 mg]] | Prévention TVP post-chir | Signes hémorragiques |
+| [[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®) 2,5 mg]] | Prévention TVP post-chir | Signes hémorragiques |
 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine (Lovenox®)]] | Prévention TVP | Numération plaquettes (TIH) |
 | [[Médicaments/AINS/Diclofenac\|Diclofenac (Voltarène®)]] | Analgésie post-op | CI si IR, ulcère, CV |
 | [[Médicaments/Antiémétiques/Ondansetron\|Ondansétron (Zophren®)]] | NVPO (nausées vomissements) | QT, céphalées |
@@ -69,4 +69,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Pédiatrie\|Stage Pédiatrie]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Pédiatrie\|Stage Pédiatrie]]

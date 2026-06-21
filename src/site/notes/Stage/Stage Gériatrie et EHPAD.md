@@ -36,9 +36,9 @@
 | [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]] | Agitation, delirium (court terme) | Risque chutes, confusion, DMS si démence |
 | [[Médicaments/Benzodiazépines/Diazepam\|Benzodiazépines]] | À ÉVITER si possible chez PA | Risque chutes ++, sevrage progressif |
 | [[Médicaments/Laxatifs/Bisacodyl\|Laxatifs]] | Constipation chronique (universelle en EHPAD) | Préférer laxatifs osmotiques, éviter les stimulants au long cours |
-| [[Médicaments/Warfarine\|AVK / AOD]] | FA, TVP (fréquents) | INR mensuel pour AVK, ClCr pour AOD, risque hémorragique sur chute |
+| [[Médicaments/Anticoagulants/Warfarine\|AVK / AOD]] | FA, TVP (fréquents) | INR mensuel pour AVK, ClCr pour AOD, risque hémorragique sur chute |
 | [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | Douleur (1ère intention) | Max 3 g/j si poids < 50 kg, insuffisance hépatique |
-| [[Médicaments/Morphine\|Morphine]] | Douleur modérée à sévère | Débuter à dose réduite (50% adulte jeune), titration lente |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | Douleur modérée à sévère | Débuter à dose réduite (50% adulte jeune), titration lente |
 
 > [!warning] Polypharmacie : règle des 5
 > Tout patient avec ≥ 5 médicaments → penser à la déprescription. Utiliser les critères STOPP/START. Chaque nouveau symptôme peut être un effet indésirable médicamenteux.
@@ -81,4 +81,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Chirurgie\|Stage Chirurgie]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Chirurgie\|Stage Chirurgie]]

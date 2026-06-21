@@ -50,7 +50,7 @@ Après la chimio, les nausées du J1 sont déclenchées par la sérotonine (c'es
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Aprépitant = After" (J2 : J5)** → il complète l'ondansétron qui ne couvre que le J1 ; seul, aucun des deux ne suffit
 2. **"Aprépitant + Dexa = moitié dose"** → réduire la dexaméthasone de 50% obligatoirement dans la trithérapie (inhibition CYP3A4)

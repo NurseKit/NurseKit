@@ -46,7 +46,7 @@ La ciclosporine pénètre dans les lymphocytes T et se lie à la cyclophiline, u
 - [ ] Rappeler l'hygiène buccale rigoureuse (hypertrophie gingivale → référer au dentiste)
 - [ ] Pas d'automédication sans avis médical → les interactions sont nombreuses et imprévisibles
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Taux résiduel sanguin indispensable** → prélever AVANT la prise, marge thérapeutique très étroite
 2. **Néphrotoxique** dans la durée → surveiller la créatinine régulièrement et à long terme

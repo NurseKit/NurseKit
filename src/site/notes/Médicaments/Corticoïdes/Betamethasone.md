@@ -44,7 +44,7 @@ Corticoïde très puissant (25x l'hydrocortisone) qui passe la barrière placent
 - [ ] Si traitement prolongé : éduquer sur le sevrage progressif obligatoire
 - [ ] En infiltration : tracer le site, surveiller signes d'infection locale
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Maturation pulmonaire fœtale : 2 injections IM à 24h d'intervalle** (entre 24-34 SA)
 2. Surveiller glycémie 24-48h après (hyperglycémie cortico-induite)

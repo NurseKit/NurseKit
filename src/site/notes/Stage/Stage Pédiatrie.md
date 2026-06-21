@@ -32,10 +32,10 @@
 |-----------|--------------|-----------|
 | [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | 15 mg/kg × 4/j (max 60 mg/kg/j) | Adapté à tous âges |
 | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | 10 mg/kg × 3/j | CI < 3 mois, varicelle, déshydratation |
-| [[Médicaments/Salbutamol\|Salbutamol]] | 2,5 mg (0-5 ans) / 5 mg (>5 ans) nébulisation | Évaluer FR/SpO₂ avant et après |
-| [[Médicaments/Amoxicilline\|Amoxicilline]] | 50-90 mg/kg/j en 3 prises | Durée selon indication |
-| [[Médicaments/Morphine\|Morphine]] | 0,1 mg/kg IV (titration) | Surveillance FR++ |
-| [[Médicaments/Midazolam\|Midazolam]] | 0,3 mg/kg buccal / 0,15 mg/kg IV | EME, soins douloureux |
+| [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] | 2,5 mg (0-5 ans) / 5 mg (>5 ans) nébulisation | Évaluer FR/SpO₂ avant et après |
+| [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] | 50-90 mg/kg/j en 3 prises | Durée selon indication |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | 0,1 mg/kg IV (titration) | Surveillance FR++ |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | 0,3 mg/kg buccal / 0,15 mg/kg IV | EME, soins douloureux |
 
 ## Soins Infirmiers
 
@@ -66,4 +66,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Maternité\|Stage Maternité]] · [[Stage/Stage Réanimation\|Stage Réanimation]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Maternité\|Stage Maternité]] · [[Stage/Stage Réanimation\|Stage Réanimation]]

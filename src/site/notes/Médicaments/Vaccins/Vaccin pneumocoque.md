@@ -35,7 +35,7 @@ Les vaccins conjugués (PCV20) contiennent des polysaccharides capsulaires de pn
 - [ ] Informer des effets locaux attendus
 - [ ] Traçabilité : lot, date, site, heure
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Indispensable chez le **nourrisson** (calendrier), les **≥ 65 ans** et les sujets à risque (asplénie, immunodéprimés)

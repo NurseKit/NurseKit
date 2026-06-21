@@ -63,7 +63,7 @@ La prednisone (prodrogue) est convertie en prednisolone active dans le foie. Ell
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Jamais d'arrêt brutal si > 3 semaines** → insuffisance surrénalienne aiguë (hypotension, hypoglycémie, choc)
 2. **Surveiller glycémie, PA, infections** → effets secondaires systématiques au long cours

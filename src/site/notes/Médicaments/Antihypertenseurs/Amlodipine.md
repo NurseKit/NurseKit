@@ -53,7 +53,7 @@ Sa durée d'action longue (demi-vie de 35-50h) lui permet une prise unique par j
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Œdèmes des chevilles ≠ rétention d'eau** → c'est de la vasodilatation locale, donc pas de Lasilix® (erreur classique à éviter !)
 2. **Pamplemousse interdit** → inhibe le CYP3A4, augmente les taux d'amlodipine et les effets secondaires

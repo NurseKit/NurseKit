@@ -53,7 +53,7 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Demi-vie 1h** → resédation quasi certaine → "réveillé" ne veut pas dire "guéri", surveiller 2-4h minimum
 2. **CI si épilepsie traitée par BZD** → lever l'effet anticonvulsivant = risquer l'état de mal épileptique
@@ -63,6 +63,6 @@ Le problème du flumazénil, c'est sa durée de vie : 1h à peine, alors que cer
 
 ## Voir aussi
 
-[[Médicaments/Antidotes/Naloxone\|Naloxone (Narcan®)]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (Valium®)]] · [[Médicaments/Midazolam\|Midazolam]]
+[[Médicaments/Antidotes/Naloxone\|Naloxone (Narcan®)]] · [[Médicaments/Benzodiazépines/Diazepam\|Diazépam (Valium®)]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

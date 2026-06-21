@@ -196,7 +196,7 @@
 [[Révisions UE/UE 2.6 Processus psychopathologiques\|UE 2.6 Psychopathologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 Soins de bouche
-[[Médicaments/Morphine\|Morphine]]
-[[Médicaments/Midazolam\|Midazolam]]
+[[Médicaments/Antalgiques/Morphine\|Morphine]]
+[[Médicaments/Sédatifs/Midazolam\|Midazolam]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI

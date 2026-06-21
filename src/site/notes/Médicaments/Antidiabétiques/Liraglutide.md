@@ -49,7 +49,7 @@ Le GLP-1 est une hormone intestinale naturelle libérée après les repas. Elle 
 - Surveiller la glycémie capillaire si associé à insuline ou sulfamide
 - Éduquer le patient sur les signes de pancréatite (douleur épigastrique) → consulter immédiatement
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Faible risque d'hypoglycémie seul** → stimulation insulinique glycémie-dépendante
 2. **Nausées fréquentes au début** → transitoires, diminuent en quelques semaines ; titration progressive

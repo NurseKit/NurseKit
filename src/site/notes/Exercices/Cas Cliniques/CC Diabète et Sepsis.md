@@ -4,12 +4,12 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Insuline\|Insuline]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
+> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète type 2]] · [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
 
 > [!note] Présentation du patient
 > **Mme Fatima, 72 ans**, retraitée. Admise en médecine à 22h00.
 > **Motif :** fièvre 39,5°C + douleurs lombaires droites + brûlures mictionnelles depuis 3 jours. Confusion apparue en soirée.
-> **ATCD :** Diabète type 2 ([[Médicaments/Metformine\|Metformine]] + [[Médicaments/Insuline\|Insuline]] basale Lantus), [[Pathologies/HTA\|HTA]] traitée.
+> **ATCD :** Diabète type 2 ([[Médicaments/Antidiabétiques/Metformine\|Metformine]] + [[Médicaments/Antidiabétiques/Insuline\|Insuline]] basale Lantus), [[Pathologies/HTA\|HTA]] traitée.
 > **Constantes :** TA 88/55 mmHg - FC 118 bpm - FR 26/min - T° 39,5°C - Glasgow 14 - SpO2 94% - Dextro 3,2 g/L
 
 ## Evaluation du sepsis : qSOFA
@@ -38,9 +38,9 @@
 
 > [!warning] Double problème glycémique
 > - **Dextro à 3,2 g/L** : insuline rapide SC selon protocole (6 UI sur prescription)
-> - **Arrêt [[Médicaments/Metformine\|Metformine]]** immédiat : IRA possible (créatinine à doser) + sepsis
+> - **Arrêt [[Médicaments/Antidiabétiques/Metformine\|Metformine]]** immédiat : IRA possible (créatinine à doser) + sepsis
 > - Contrôle dextro toutes les 2h jusqu'à glycémie < 1,80 g/L
-> - [[Médicaments/Insuline\|Insuline]] basale (Lantus) à maintenir si glycémie < 2,50 g/L et patient stable
+> - [[Médicaments/Antidiabétiques/Insuline\|Insuline]] basale (Lantus) à maintenir si glycémie < 2,50 g/L et patient stable
 
 ## Evolution
 
@@ -52,7 +52,7 @@
 ## Questions de réflexion
 
 1. Pourquoi les hémocultures doivent-elles impérativement être réalisées AVANT les antibiotiques ?
-2. Quel est le risque spécifique de la [[Médicaments/Metformine\|Metformine]] en cas d'IRA associée au sepsis ?
+2. Quel est le risque spécifique de la [[Médicaments/Antidiabétiques/Metformine\|Metformine]] en cas d'IRA associée au sepsis ?
 3. Pourquoi ce patient a-t-il été transféré en réanimation malgré une légère amélioration des constantes ?
 
 ---

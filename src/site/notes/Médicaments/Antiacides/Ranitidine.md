@@ -53,7 +53,7 @@ C'était un antagoniste des récepteurs H2 de l'histamine sur les cellules gastr
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Retirée du marché mondial en 2020** → contamination par NDMA cancérogène qui se forme spontanément dans la molécule
 2. **Alternative anti-H2 directe** : famotidine (Pepcid®) → même classe, profil de sécurité excellent

@@ -42,7 +42,7 @@ La thyroïde fabrique normalement la T4 (thyroxine). Quand elle ne peut plus le 
 - [ ] Si anticoagulant associé → surveiller l'INR après tout ajustement de dose
 - [ ] Éduquer : ne jamais changer de marque sans avis médical → la biodisponibilité varie d'une spécialité à l'autre
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **À jeun, 30 min avant le repas, eau pure** → c'est la règle numéro un, toujours
 2. Espacer calcium, fer, IPP d'au moins 2 à 4h → sinon l'absorption est nulle

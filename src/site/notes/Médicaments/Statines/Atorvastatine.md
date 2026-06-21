@@ -42,7 +42,7 @@ Elle bloque une enzyme clé dans le foie (HMG-CoA réductase) qui fabrique le ch
 - [ ] Pas de jus de pamplemousse
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire, arrêter avant toute conception

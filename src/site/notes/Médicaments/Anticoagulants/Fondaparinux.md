@@ -47,7 +47,7 @@ Le fondaparinux est un pentasaccharide de synthèse (5 sucres) qui imite un frag
 - Pas besoin de surveillance des plaquettes pour la TIH (avantage vs HBPM)
 - Si relais vers AVK : contrôler l'INR quotidiennement, chevauchement minimum 5 jours
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Pas de TIH** → avantage clé vs HBPM (ne se lie pas à la PF4)
 2. **Élimination 100 % rénale** → CI si DFG < 20, surveiller régulièrement

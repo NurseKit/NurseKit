@@ -51,7 +51,7 @@ L'ocytocine imite l'hormone naturelle produite par l'hypothalamus → se fixe su
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CTG continu obligatoire** pendant toute perfusion d'ocytocine
 2. **Hypercinésie → STOP immédiat** + appel sage-femme

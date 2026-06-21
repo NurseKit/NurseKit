@@ -43,7 +43,7 @@ Il bloque la réabsorption du sel dans le rein (tubule distal), ce qui augmente 
 - [ ] Éduquer sur la protection solaire
 - [ ] Surveiller les signes de déshydratation (soif, hypotension, pli cutané)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Hypokaliémie = complication principale → doser K⁺ régulièrement
 2. Prise le matin → sinon nycturie et trouble du sommeil

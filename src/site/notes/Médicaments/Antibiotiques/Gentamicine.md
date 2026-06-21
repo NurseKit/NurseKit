@@ -63,7 +63,7 @@ Un seul pic élevé par jour est plus efficace que plusieurs petites doses (prin
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Dose unique journalière** : 1 injection/j avec pic élevé = plus efficace et moins toxique que plusieurs petites doses
 2. **Néphrotoxicité + ototoxicité** : créatinine quotidienne + interrogatoire sur audition et équilibre à chaque contrôle

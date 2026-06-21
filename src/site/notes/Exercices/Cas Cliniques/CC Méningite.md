@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : Méningite Bactérienne
 > **M. Karim, 22 ans** · Étudiant, pas d'ATCD notable
 > Admission aux urgences pour céphalée brutale + fièvre + raideur de nuque
-> → Voir aussi : [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] · [[Médicaments/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
+> → Voir aussi : [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
 
 > [!note] Présentation aux urgences (23h45)
 > **Céphalée** : brutale "comme jamais", maximale d'emblée, en casque

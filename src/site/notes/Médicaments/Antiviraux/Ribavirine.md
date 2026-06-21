@@ -55,7 +55,7 @@ La ribavirine copie l'aspect d'une brique naturelle (la guanosine) utilisée par
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **TÉRATOGÈNE MAJEUR** : contraception obligatoire pendant + 6 mois (femme) ou 7 mois (homme) après l'arrêt → les DEUX partenaires
 2. **Anémie hémolytique** : principale cause d'arrêt → NFS toutes les 2-4 semaines pendant le traitement

@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Héparine\|Héparine]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
+> [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
 
 > [!note] Présentation du patient
 > **M. Alain, 65 ans**, cadre retraité. Amené par sa femme à 11h30.

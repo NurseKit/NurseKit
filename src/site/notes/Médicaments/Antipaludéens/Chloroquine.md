@@ -56,7 +56,7 @@ Le parasite du paludisme se nourrit d'hémoglobine à l'intérieur des globules 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Résistances massives de *P. falciparum*** : inutile en Afrique sub-saharienne et Asie → toujours vérifier la carte HCSP avant de conseiller
 2. **Rétinopathie irréversible** au long cours → fond d'œil annuel si traitement chronique (lupus, PR utilisent plutôt l'hydroxychloroquine)

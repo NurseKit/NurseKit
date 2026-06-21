@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Insuline\|Insuline]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
+> [[index\|Accueil]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
 
 > [!abstract] L\'essentiel
 > Mesurer la glycémie par ponction capillaire pour surveiller l'équilibre glycémique et adapter le traitement.
@@ -38,7 +38,7 @@ Glucomètre + bandelettes calibrées (vérifier date péremption) + autopiqueur 
 | 0,50-0,70 | Hypoglycémie légère | 15g sucres rapides PO + contrôle à 15 min |
 | 0,70-1,80 | Zone thérapeutique | Surveillance selon protocole |
 | 1,80-2,50 | Hyperglycémie modérée | Alerter médecin, protocole insuline |
-| > 2,50 | Hyperglycémie importante | [[Médicaments/Insuline\|Insuline]] selon protocole + alerte urgente |
+| > 2,50 | Hyperglycémie importante | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] selon protocole + alerte urgente |
 | > 3,00 | Hyperglycémie sévère | Alerte immédiate + cétones urinaires (bandelette) |
 
 > [!warning] Points de vigilance
@@ -55,4 +55,4 @@ Glucomètre + bandelettes calibrées (vérifier date péremption) + autopiqueur 
 > - Rechercher la cause (insuline en excès ? repas sauté ? activité physique ?)
 
 ---
-→ [[Médicaments/Insuline\|Insuline]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]
+→ [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]]

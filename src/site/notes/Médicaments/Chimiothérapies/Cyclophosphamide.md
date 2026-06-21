@@ -48,7 +48,7 @@ Le cyclophosphamide crée des "liens" entre les brins d'ADN des cellules → ell
 - [ ] Fièvre > 38°C → neutropénie fébrile → urgence
 - [ ] Prévenir l'infertilité : discuter conservation de gamètes avant traitement
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Cystite hémorragique** = urgence → prévention par MESNA + hydratation massive
 2. **Aplasie J10-J14** → surveillance NFS et fièvre (neutropénie fébrile)

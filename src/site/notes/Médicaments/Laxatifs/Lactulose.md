@@ -35,7 +35,7 @@ Le lactulose n'est pas digéré dans l'intestin grêle → il arrive intact dans
 - [ ] Prévenir le patient des ballonnements (fermentation) → normal, à diminuer si très gênant
 - [ ] Peut être pris à n'importe quel moment du repas
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Double indication : **constipation** ET **encéphalopathie hépatique** (↓ ammoniac)

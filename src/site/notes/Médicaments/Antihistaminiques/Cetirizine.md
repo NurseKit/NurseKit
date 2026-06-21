@@ -52,7 +52,7 @@ Ce qui distingue la 2ème génération des anciens anti-H1 : la cétirizine pass
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **2ème génération = bien moins sédatif** que Polaramine® ou Phénergan® → mais 5 à 10% des patients somnolent quand même, d'où la prise le soir de préférence
 2. **Adapter la dose si IR sévère** : DFG < 10 → 5 mg/j au lieu de 10 mg (les reins l'éliminent moins bien)

@@ -57,7 +57,7 @@ Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quan
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Demi-vie 60-90 min** → resédation quasi certaine → "réveillé" ne veut pas dire "sauvé", surveille au moins 4-6h
 2. **Titrer par petites doses** (0,1-0,4 mg) → lever la dépression respiratoire sans déclencher un sevrage brutal chez le patient dépendant
@@ -67,6 +67,6 @@ Le problème : la naloxone est éliminée bien plus vite que les opioïdes. Quan
 
 ## Voir aussi
 
-[[Médicaments/Antidotes/Flumazenil\|Flumazénil (Anexate®)]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
+[[Médicaments/Antidotes/Flumazenil\|Flumazénil (Anexate®)]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

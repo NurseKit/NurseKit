@@ -47,7 +47,7 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Hyperkaliémie → action en 3 min** sur le cœur, mais ne baisse pas le K⁺ → traitement temporaire
 2. **Jamais sous digitalique** → arrêt cardiaque
@@ -57,6 +57,6 @@ En cas d'hyperkaliémie, les cellules cardiaques sont instables (risque de FV). 
 
 ## Voir aussi
 
-[[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate Na 8,4%]] · [[Pathologies/Equilibre hydroélectrolytique\|Troubles hydroélectrolytiques]] · [[Médicaments/Digoxine\|Digoxine (CI)]]
+[[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate Na 8,4%]] · [[Pathologies/Equilibre hydroélectrolytique\|Troubles hydroélectrolytiques]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine (CI)]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le protocole du service et le RCP

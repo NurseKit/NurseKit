@@ -52,7 +52,7 @@ Le candésartan bloque les récepteurs AT1 de l'angiotensine II → cette hormon
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"ARA2 = IEC sans toux"** → mêmes bénéfices cardio-rénaux, même mécanisme de fond, mais sans l'effet secondaire qui fait abandonner le traitement
 2. **"K⁺ + créatinine à J15"** → le bilan de surveillance post-initiation est non négociable (risque d'hyperkaliémie et d'IRA)

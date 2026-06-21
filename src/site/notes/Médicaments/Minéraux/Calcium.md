@@ -38,7 +38,7 @@ Le calcium est essentiel à la contraction musculaire (dont le cœur), la coagul
 - [ ] **PO** : prendre pendant ou après les repas (meilleure absorption en milieu acide)
 - [ ] Espacer de **4h** de la lévothyroxine, de **2h** des tétracyclines/bisphosphonates
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. IV : toujours **gluconate** (pas chlorure, nécrose si extravasation), perfuser en **10-20 min**

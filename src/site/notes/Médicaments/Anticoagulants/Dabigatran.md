@@ -53,7 +53,7 @@ C'est une prodrogue : avalée en capsule, elle est convertie dans le corps en da
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI si ClCr < 30 mL/min** → le plus rénodépendant des AOD (80% rénale)
 2. **Antidote : idarucizumab (Praxbind®) 5g IV** → spécifique anti-IIa

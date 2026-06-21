@@ -60,7 +60,7 @@ Délai d'efficacité : **2 à 4 semaines** (comme tous les antidépresseurs, ne 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Surveiller la PA** → effet hypertenseur dose-dépendant → CI si HTA non contrôlée, ↑ à surveiller surtout > 150 mg/j
 2. **Syndrome de sevrage parmi les plus sévères** des antidépresseurs → arrêt très progressif sur plusieurs semaines

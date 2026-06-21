@@ -1,68 +1,70 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du Myocarde (IDM)","type":"Pathologie","systeme":"Cardiovasculaire","tags":["IDM","SCA","urgence","cardiologie","STEMI","troponine"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du myocarde (IDM)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"revision":"2026-06-21"}}
 ---
 
 
-> [!info]- Navigation
-> [[index\|Accueil]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|Cas clinique]]
+> [!abstract] En 2 mots
+> Nécrose myocardique par occlusion coronarienne complète ou sub-totale. Urgence absolue : délai porte-ballon (coronarographie) < 90 min. Chaque minute compte : "Time is muscle".
 
-> [!abstract] Définition
-> Nécrose myocardique par occlusion coronarienne complète ou sub-totale.
-> **Urgence absolue : délai porte-ballon (coronarographie) < 90 min.**
+## C'est quoi ?
 
-## Présentation clinique
+**Définition** : occlusion d'une artère coronaire par un thrombus sur plaque d'athérome rompue, entraînant une nécrose ischémique du muscle cardiaque en aval.
 
-**Typique :** douleur thoracique constrictive, rétrosternale, irradiant au bras gauche et/ou à la mâchoire, sueurs froides, pâleur, dyspnée
+**Types** : STEMI (sus-décalage ST, occlusion totale) ou NSTEMI (sans sus-décalage, occlusion partielle). Le STEMI est l'urgence coronarienne absolue.
 
-**Formes atypiques** (diabétiques, femmes, sujets âgés) : épigastralgies, nausées, malaise isolé, dyspnée
+**Facteurs de risque** : tabac, HTA, diabète, hypercholestérolémie, obésité, sédentarité, antécédent familial, âge (homme > 45 ans, femme > 55 ans).
 
-> [!warning] Signes d'alarme IDE - Appel immédiat
-> - Douleur thoracique > 20 min résistante à la trinitrine
-> - Sus-décalage ST à l'ECG (STEMI)
-> - PA effondrée + tachycardie = choc cardiogénique débutant
-> - Trouble du rythme : extrasystoles fréquentes, TV, FV
+## Comment ça se présente ?
 
-## ECG - Points clés
+**Forme typique** : douleur thoracique constrictive, rétrosternale, irradiant au bras gauche et/ou à la mâchoire, sueurs froides, pâleur, dyspnée.
 
-| Stade | Aspect ECG | Timing |
-|-------|-----------|--------|
+**Formes atypiques** (diabétiques, femmes, sujets âgés) : épigastralgies, nausées, malaise isolé, dyspnée sans douleur.
+
+| Signe ECG | Aspect | Moment |
+|-----------|--------|--------|
 | Ischémie | Onde T négative | Heures |
-| Lésion (STEMI) | Sus-décalage ST >= 1 mm dans >= 2 dérivations | Heures |
-| Nécrose | Onde Q pathologique > 0,04s | 24-48h |
+| Lésion (STEMI) | Sus-décalage ST ≥ 1 mm dans ≥ 2 dérivations | Heures |
+| Nécrose | Onde Q pathologique > 0,04 s | 24-48h |
 
-→ [[Soins Infirmiers/ECG lecture systématique\|Lecture ECG complète]]
+**Biomarqueurs** : troponine I ou T ultra-sensible (s'élève à 3h, pic à 12-24h). Répéter à 1h ou 3h si première mesure normale.
 
-## Biomarqueurs
+## Rôle IDE
 
-- **Troponine I ou T** (ultra-sensible) : marqueur de nécrose, s'élève à 3h, pic 12-24h
-- Répéter à 1h ou 3h si première mesure normale (protocole haute sensibilité)
-- Myoglobine, CPK-MB : précoces mais moins spécifiques
+Protocole MONA dans l'ordre :
 
-## Prise en charge IDE - Protocole MONA
+| Action | Détail | Surveillance |
+|--------|--------|-------------|
+| **Scope + ECG 18 dérivations** | En moins de 10 min | Alerte cardiologue immédiate si STEMI |
+| **VVP 18G + prélèvements** | Troponine, NFS, coagulation, groupe + RAI | |
+| **M** Morphine | 2-4 mg IV toutes les 2-3 min si douleur | FR, SpO2, PA |
+| **O** Oxygène | Uniquement si SpO2 < 90% (pas en systématique) | SpO2 |
+| **N** Nitrés | Si TA > 90 mmHg sublingual | CI si PA < 90 mmHg |
+| **A** Aspirine | 250-500 mg à croquer (sauf allergie) | Antécédent ulcère |
+| Héparine | Bolus IV selon protocole USIC | TCA, plaquettes |
+| **Transfert USIC** | Coronarographie en urgence (STEMI < 90 min) | |
 
-| Médicament | Dose | Surveillance |
-|------------|------|-------------|
-| **M** [[Médicaments/Morphine\|Morphine]] | 2-4 mg IV toutes les 2-3 min | FR, SpO2, PA |
-| **O** Oxygène | Si SpO2 < 90% uniquement | SpO2 |
-| **N** Nitrés | Si TA > 90 (sublingual) | PA - CI si < 90 mmHg |
-| **A** [[Médicaments/Aspirine antiagrégant\|Aspirine]] | 250-500 mg à croquer | Allergie |
-| + [[Médicaments/Héparine\|Héparine]] | Bolus IV selon protocole | TCA, plaquettes |
-
-## Chronologie des actions IDE
-
-1. Scope + SpO2 + TA immédiat → [[Soins Infirmiers/Surveillance cardio-vasculaire\|surveillance CV]]
-2. ECG 18 dérivations + alerte cardiologue → [[Soins Infirmiers/ECG lecture systématique\|ECG]]
-3. [[Soins Infirmiers/Pose VVP\|Pose VVP]] 18G + [[Soins Infirmiers/Prélèvements biologiques\|prélèvements]] (troponine, NFS, coagulation)
-4. Aspirine 500 mg à croquer (sauf allergie connue)
-5. Morphine si douleur résistante
-6. O2 uniquement si SpO2 < 90%
-7. Transfert USIC pour coronarographie en urgence
+## Points de vigilance
 
 > [!danger] Complications immédiates
-> - **FV/TV** : arrêt cardiaque - défibrillateur à portée immédiate
-> - **Choc cardiogénique** → [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] (mortalité 50%)
-> - **OAP** : insuffisance cardiaque aiguë gauche
-> - Trouble de conduction : BAV (infarctus inférieur)
+> FV/TV (arrêt cardiaque, défibrillateur à portée immédiate), choc cardiogénique (mortalité 50%), OAP (insuffisance cardiaque aiguë gauche), BAV (infarctus inférieur). Scope et chariot d'urgence à portée constante.
 
----
-→ [[Exercices/Cas Cliniques/CC IDM\|Cas clinique IDM]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+> [!warning] O2 systématique = faux réflexe
+> L'oxygène n'est indiqué que si SpO2 < 90%. Un excès d'O2 est vasoconstricteur coronarien et aggrave la nécrose.
+
+> [!warning] Trinitrine CI si PA < 90 mmHg
+> Et absolument CI si prise de sildénafil (Viagra) dans les 24-48h : risque de choc hypotensif sévère.
+
+> [!warning] Douleur > 20 min résistante à la trinitrine
+> ECG immédiat + appel médecin. Sus-décalage ST = STEMI = activation de la filière coronarienne.
+
+## Les 3 choses à retenir
+
+1. **ECG en moins de 10 min** : STEMI = activation coronarographie, délai porte-ballon < 90 min
+2. **O2 uniquement si SpO2 < 90%** : pas en systématique
+3. **Trinitrine CI si PA < 90 mmHg ou sildénafil récent** : risque de choc
+
+## Voir aussi
+
+[[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Pathologies/HTA\|HTA]] · [[Soins Infirmiers/ECG\|ECG]] · [[Exercices/Cas Cliniques/CC IDM\|CC IDM]]
+
+> [!caution] Outil pédagogique · Source : ESC 2023, SFMU

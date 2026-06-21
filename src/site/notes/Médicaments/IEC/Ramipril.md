@@ -45,7 +45,7 @@ Le ramipril est une prodrogue transformée en ramiprilate actif dans le foie. Ce
 - [ ] Informer : ne jamais prendre d'AINS (ibuprofène, kétoprofène) sans avis médical
 - [ ] Si angio-œdème (gonflement lèvres/langue/gorge) → STOP immédiat + appel SAMU
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Toux sèche dans 10 à 15 % → switcher vers ARA2 si intolérable (losartan, valsartan)
 2. Hyperkaliémie → surtout si IR, diabète ou spironolactone associée → K⁺ à surveiller régulièrement

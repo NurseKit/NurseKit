@@ -44,7 +44,7 @@ La testostérone remplace ce que les testicules ne produisent plus en quantité 
 - [ ] Vérifier PSA avant instauration et tous les ans
 - [ ] Injection IM (Androtardyl®/Nébido®) : tracer date, dose, site d'injection dans le dossier
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Surveiller NFS + hématocrite** → l'érythrocytose peut passer inaperçue et provoquer une thrombose
 2. **Gel transférable à l'entourage** → consignes de contact strictes, systématiquement expliquées

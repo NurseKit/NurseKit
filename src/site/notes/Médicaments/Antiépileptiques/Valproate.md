@@ -67,7 +67,7 @@ Ce qui rend le valproate exceptionnel, c'est qu'il agit sur **trois cibles en m�
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Valproate = Vigilance Femme"** → programme de prévention grossesse OBLIGATOIRE chez toute femme en âge de procréer → obligation légale, pas une recommandation floue
 2. **"Carbapénèmes = Crises"** → font chuter les taux de 50-100% en quelques jours → risque de crise convulsive → à ne jamais associer sans concertation médicale explicite

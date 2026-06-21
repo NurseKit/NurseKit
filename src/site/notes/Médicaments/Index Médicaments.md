@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-21"}}
 ---
 
 
@@ -9,37 +9,37 @@
 
 ## Fiches rapides
 
-- [[Médicaments/Morphine\|Morphine]]
-- [[Médicaments/Paracétamol\|Paracétamol]]
-- [[Médicaments/Héparine\|Héparine]]
-- [[Médicaments/Warfarine\|Warfarine]]
-- [[Médicaments/Apixaban\|Apixaban]]
-- [[Médicaments/Aspirine antiagrégant\|Aspirine antiagrégant]]
-- [[Médicaments/Amoxicilline\|Amoxicilline]]
-- [[Médicaments/Vancomycine\|Vancomycine]]
-- [[Médicaments/Insuline\|Insuline]]
-- [[Médicaments/Metformine\|Metformine]]
-- [[Médicaments/Bisoprolol\|Bisoprolol]]
-- [[Médicaments/Furosémide\|Furosémide]]
-- [[Médicaments/Oméprazole\|Oméprazole]]
-- [[Médicaments/Adrénaline\|Adrénaline]]
-- [[Médicaments/Amiodarone\|Amiodarone]]
-- [[Médicaments/Midazolam\|Midazolam]]
-- [[Médicaments/Lévétiracétam\|Lévétiracétam]]
-- [[Médicaments/Corticoïdes\|Corticoïdes]]
-- [[Médicaments/Salbutamol\|Salbutamol]]
-- [[Médicaments/Trinitrine\|Trinitrine]]
-- [[Médicaments/Digoxine\|Digoxine]]
-- [[Médicaments/Métronidazole\|Métronidazole]]
-- [[Médicaments/Potassium IV\|Potassium IV]]
-- [[Médicaments/Magnésium sulfate\|Magnésium sulfate]]
-- [[Médicaments/Dopamine et Dobutamine\|Dopamine et Dobutamine]]
+- [[Médicaments/Antalgiques/Morphine\|Morphine]]
+- [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]
+- [[Médicaments/Anticoagulants/Héparine\|Héparine]]
+- [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]
+- [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]
+- [[Médicaments/Antiagrégants/Aspirine antiagrégant\|Aspirine antiagrégant]]
+- [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
+- [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]
+- [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
+- [[Médicaments/Antidiabétiques/Metformine\|Metformine]]
+- [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
+- [[Médicaments/Antiacides/Oméprazole\|Oméprazole]]
+- [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]]
+- [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
+- [[Médicaments/Sédatifs/Midazolam\|Midazolam]]
+- [[Médicaments/Antiépileptiques/Lévétiracétam\|Lévétiracétam]]
+- [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
+- [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]]
+- [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]
+- [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
+- [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]
+- [[Médicaments/Minéraux/Potassium IV\|Potassium IV]]
+- [[Médicaments/Minéraux/Magnésium sulfate\|Magnésium sulfate]]
+- [[Médicaments/Vasopresseurs/Dopamine et Dobutamine\|Dopamine et Dobutamine]]
 
 ## Toutes les catégories
 
 ### Antibiotiques
 
-- [[Médicaments/Amoxicilline\|Amoxicilline]]
+- [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 - [[Médicaments/Antibiotiques/Azithromycine\|Azithromycine]]
 - [[Médicaments/Antibiotiques/Cefalexine\|Cefalexine]]
 - [[Médicaments/Antibiotiques/Ceftazidime\|Ceftazidime]]
@@ -49,11 +49,11 @@
 - [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]
 - [[Médicaments/Antibiotiques/Mupirocine\|Mupirocine]]
 - [[Médicaments/Antibiotiques/Quinolones\|Quinolones]]
-- [[Médicaments/Vancomycine\|Vancomycine]]
+- [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]
 
 ### Anticoagulants
 
-- [[Médicaments/Apixaban\|Apixaban]]
+- [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]
 - [[Médicaments/Anticoagulants/Comparatif Anticoagulants\|Comparatif Anticoagulants]]
 - [[Médicaments/Anticoagulants/Coumadine\|Coumadine]]
 - [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran]]
@@ -64,18 +64,18 @@
 - [[Médicaments/Anticoagulants/Lovenox\|Lovenox]]
 - [[Médicaments/Anticoagulants/Pradaxa\|Pradaxa]]
 - [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]
-- [[Médicaments/Warfarine\|Warfarine]]
+- [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]
 - [[Médicaments/Anticoagulants/Xarelto\|Xarelto]]
 
 ### Antalgiques
 
-- [[Médicaments/AINS/Aspirine\|Aspirine]]
-- [[Médicaments/Antalgiques/Codeine\|Codeine]]
+- [[Médicaments/Antalgiques/Comparatif Antalgiques\|Comparatif Antalgiques]]
+- [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]
 - [[Médicaments/Antalgiques/Doliprane\|Doliprane]]
-- [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
-- [[Médicaments/Morphine\|Morphine]]
-- [[Médicaments/Antalgiques/Paracetamol\|Paracetamol]]
+- [[Médicaments/Antalgiques/Codeine\|Codéine]]
 - [[Médicaments/Antalgiques/Tramadol\|Tramadol]]
+- [[Médicaments/Antalgiques/Morphine\|Morphine]]
+- [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]
 
 ### AINS
 
@@ -148,17 +148,22 @@
 - [[Médicaments/Antidiabétiques/Gliclazide\|Gliclazide]]
 - [[Médicaments/Antidiabétiques/Glucophage\|Glucophage]]
 - [[Médicaments/Antidiabétiques/Humalog\|Humalog]]
-- [[Médicaments/Insuline\|Insuline]]
+- [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 - [[Médicaments/Antidiabétiques/Lantus\|Lantus]]
 - [[Médicaments/Antidiabétiques/Liraglutide\|Liraglutide]]
-- [[Médicaments/Metformine\|Metformine]]
+- [[Médicaments/Antidiabétiques/Metformine\|Metformine]]
 - [[Médicaments/Antidiabétiques/Repaglinide\|Repaglinide]]
 - [[Médicaments/Antidiabétiques/Sitagliptine\|Sitagliptine]]
+
+### Inhibiteurs calciques / Antihypertenseurs
+
+- [[Médicaments/Antihypertenseurs/Amlodipine\|Amlodipine]]
+- [[Médicaments/Antihypertenseurs/Nifédipine\|Nifédipine]]
 
 ### Bêta-bloquants
 
 - [[Médicaments/Bêta-bloquants/Atenolol\|Atenolol]]
-- [[Médicaments/Bisoprolol\|Bisoprolol]]
+- [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]
 - [[Médicaments/Bêta-bloquants/Carvedilol\|Carvedilol]]
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]
 - [[Médicaments/Bêta-bloquants/Propranolol\|Propranolol]]
@@ -199,7 +204,7 @@
 ### Bronchodilatateurs
 
 - [[Médicaments/Bronchodilatateurs/Ipratropium\|Ipratropium]]
-- [[Médicaments/Salbutamol\|Salbutamol]]
+- [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]]
 - [[Médicaments/Bronchodilatateurs/Tiotropium\|Tiotropium]]
 
 ### Vasopresseurs

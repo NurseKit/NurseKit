@@ -56,7 +56,7 @@ Mais attention : ce mécanisme n'est efficace que si la multiplication virale es
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **< 48h des symptômes = condition d'efficacité** : au-delà, le bénéfice est minimal en ambulatoire
 2. **Prendre avec les repas** : réduit significativement les nausées et vomissements

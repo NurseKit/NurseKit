@@ -80,5 +80,5 @@
 - Pré-éclampsie
 - Hémorragie du post-partum
 - Allaitement maternel
-- [[Médicaments/Magnésium sulfate\|Sulfate de magnésium]]
+- [[Médicaments/Minéraux/Magnésium sulfate\|Sulfate de magnésium]]
 - Surveillance du nouveau-né

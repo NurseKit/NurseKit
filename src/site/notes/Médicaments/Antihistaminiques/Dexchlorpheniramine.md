@@ -54,7 +54,7 @@ La dexchlorphéniramine bloque les récepteurs H1 de l'histamine comme tous les 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Sédation + effets anticholinergiques** → à éviter impérativement chez les sujets âgés, glaucomateux et patients prostatiques (liste de Beers)
 2. **Conduite et alcool = CI absolues** → informer systématiquement, pas juste "faire attention"

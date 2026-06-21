@@ -60,6 +60,6 @@
 
 ## Voir aussi
 
-[[Pathologies/Rupture prématurée des membranes\|Rupture prématurée des membranes]] · [[Pathologies/Pré-éclampsie\|Pré-éclampsie]] · [[Médicaments/Corticoïdes\|Corticoïdes]]
+[[Pathologies/Rupture prématurée des membranes\|Rupture prématurée des membranes]] · [[Pathologies/Pré éclampsie\|Pré éclampsie]] · [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
 
 > [!caution] Outil pédagogique · Source : CNGOF 2016, HAS

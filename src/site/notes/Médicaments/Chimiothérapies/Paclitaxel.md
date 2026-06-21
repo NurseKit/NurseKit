@@ -46,7 +46,7 @@ Le paclitaxel "colle" les microtubules (structures qui tirent les chromosomes lo
 - [ ] Alopécie : proposer casque réfrigérant (si disponible) dès le 1er cycle
 - [ ] Arthralgies J2-J4 : prévenir le patient, antalgiques si nécessaire
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Prémédication antiallergique OBLIGATOIRE** avant chaque perfusion (anaphylaxie)
 2. **Neuropathie des extrémités** = toxicité cumulative → évaluer à chaque cycle → peut nécessiter réduction de dose

@@ -59,7 +59,7 @@ La lamotrigine agit de deux façons :
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Titration très lente** (8-12 semaines) → monter trop vite = risque de Stevens-Johnson
 2. **Valproate double les taux** → diviser la dose de lamotrigine par 2 ; carbamazépine les diminue → doubler la dose

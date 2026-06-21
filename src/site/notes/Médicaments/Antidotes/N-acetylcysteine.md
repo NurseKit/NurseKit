@@ -55,7 +55,7 @@ La N-acétylcystéine reconstitue le glutathion et neutralise directement le NAP
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Commencer dans les 8h** → ne jamais attendre le bilan hépatique pour démarrer si l'intoxication est probable
 2. **Réaction anaphylactoïde phase 1** : fréquente (10-20%) → ralentir le débit, ne pas arrêter sauf vraie anaphylaxie

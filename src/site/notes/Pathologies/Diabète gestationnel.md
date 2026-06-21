@@ -53,6 +53,6 @@
 
 ## Voir aussi
 
-[[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/Pré-éclampsie\|Pré-éclampsie]] · [[Médicaments/Insuline\|Insuline]]
+[[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/Pré éclampsie\|Pré éclampsie]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 > [!caution] Outil pédagogique · Source : HAS 2010, CNGOF

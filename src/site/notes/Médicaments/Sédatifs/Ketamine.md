@@ -47,7 +47,7 @@ La kétamine bloque les récepteurs NMDA (récepteurs à l'excitation cérébral
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Maintient la TA** → le sédatif de choix en contexte de choc ou d'instabilité hémodynamique
 2. **Toujours + midazolam** → prévention des hallucinations à l'émergence

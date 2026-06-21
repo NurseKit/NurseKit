@@ -51,7 +51,7 @@ Le tramadol agit en même temps sur deux mécanismes distincts : comme opioïde 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **IMAO = CI absolue** → attendre 14 jours minimum après l'arrêt de tout IMAO
 2. **ISRS + tramadol = syndrome sérotoninergique** → vérifier le traitement AVANT, pas après

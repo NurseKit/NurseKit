@@ -23,11 +23,11 @@
 
 | Médicament  | Indication  | Point de vigilance IDE  |
 | ----------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Médicaments/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie  |
-| [[Médicaments/Warfarine\|AVK]] ([[Médicaments/Warfarine\|Warfarine]], acénocoumarol)  | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
+| [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie  |
+| [[Médicaments/Anticoagulants/Warfarine\|AVK]] ([[Médicaments/Anticoagulants/Warfarine\|Warfarine]], acénocoumarol)  | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
 | Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])  | Surcharge hydrique / IC  | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie  |
-| Dérivés nitrés ([[Médicaments/Trinitrine\|Trinitrine]], ISDN)  | Angor, OAP  | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes  |
-| [[Médicaments/Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
+| Dérivés nitrés ([[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]], ISDN)  | Angor, OAP  | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes  |
+| [[Médicaments/Anticoagulants/Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
 | IEC / ARA II  | IC, HTA  | Surveillance TA et kaliémie  |
 
 ## Soins quotidiens spécifiques
@@ -66,7 +66,7 @@
 ## Fiches détaillées
 
 - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
-- [[Pathologies/Fibrillation auriculaire\|Fibrillation auriculaire]]
+- [[Pathologies/Fibrillation atriale\|Fibrillation atriale]]
 - [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]]
 - [[Soins Infirmiers/ECG lecture systématique\|ECG]]
 - AVK - surveillance INR

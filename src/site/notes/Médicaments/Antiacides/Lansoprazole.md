@@ -55,7 +55,7 @@ La pompe à protons est la "machine" des cellules de l'estomac qui fabrique de l
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **30 min avant le repas à jeun** → règle commune à tous les IPP, sinon l'efficacité s'effondre
 2. **IPP de choix sous clopidogrel** → moins d'interaction CYP2C19 que l'oméprazole → l'antiagrégant garde toute son efficacité

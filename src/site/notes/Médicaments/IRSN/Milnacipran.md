@@ -51,7 +51,7 @@ Comme les autres IRSN, le milnacipran bloque les pompes de recapture de la séro
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Prédominance noradrénergique marquée** → plus d'effets cardiovasculaires et urinaires que les autres IRSN
 2. **Élimination rénale à 90 %** → adapter obligatoirement la dose si insuffisance rénale

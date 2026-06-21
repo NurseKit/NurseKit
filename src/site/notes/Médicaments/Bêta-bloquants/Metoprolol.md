@@ -47,7 +47,7 @@ Le métoprolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit le rythm
 - [ ] Chez le diabétique : renforcer l'autosurveillance glycémique (masque la tachycardie)
 - [ ] À l'initiation dans l'IC : surveiller les signes de rétention hydrique (poids, œdèmes)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Ne JAMAIS arrêter brutalement → sevrage progressif sur ≥ 2 semaines (risque de rebond)
 2. FC < 50/min avant la prise = ne pas administrer et alerter

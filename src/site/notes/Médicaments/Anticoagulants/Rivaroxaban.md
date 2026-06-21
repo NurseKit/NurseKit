@@ -51,7 +51,7 @@ Point clé : la prise avec le repas augmente l'absorption de 40% pour les doses 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Prise avec le repas obligatoire** (15 et 20 mg) → sinon efficacité réduite
 2. **Pas d'INR** → surveillance clinique uniquement

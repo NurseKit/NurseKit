@@ -53,7 +53,7 @@ Même mécanisme que la sertraline : blocage de la pompe de recapture de la sér
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Allongement QT dose-dépendant** (alerte ANSM 2011) → dose strictement ≤ 40 mg/j (≤ 20 mg/j chez > 65 ans)
 2. **L'escitalopram est souvent préféré** (énantiomère actif seul, profil légèrement meilleur)

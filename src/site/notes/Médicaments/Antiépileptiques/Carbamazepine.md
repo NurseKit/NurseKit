@@ -73,7 +73,7 @@ La carbamazépine bloque les canaux sodium des neurones épileptiques en prolong
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Puissant inducteur CYP3A4** → diminue l'efficacité de nombreux médicaments (pilule, anticoagulants, antipsychotiques) → vérifier toutes les interactions
 2. **Contraception non hormonale** obligatoire chez la femme (pilule moins efficace)

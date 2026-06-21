@@ -49,7 +49,7 @@ La loratadine bloque les récepteurs H1 de l'histamine comme la cétirizine ou l
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Parmi les moins sédatifs des anti-H1** → idéal pour les conducteurs et les personnes qui ont besoin de rester alertes toute la journée
 2. **Son métabolite actif = desloratadine (Aerius®)** → disponible directement en médicament, avec une durée d'action encore plus longue

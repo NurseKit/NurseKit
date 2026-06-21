@@ -1,48 +1,70 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pneumothorax/","tags":["pathologie","respiratoire","urgence","pneumothorax"],"noteIcon":"","dg-note-properties":{"nom":"Pneumothorax","titre":"Pneumothorax","tags":["pathologie","respiratoire","urgence","pneumothorax"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pneumothorax/","tags":["pathologie","respiratoire","urgence","pneumothorax"],"noteIcon":"","dg-note-properties":{"nom":"Pneumothorax","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","pneumothorax"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] Pneumothorax
-> Présence d'air dans l'espace pleural entraînant un collapsus pulmonaire partiel ou total.
-> Le pneumothorax compressif est une urgence absolue.
-> → Voir aussi : [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]] · [[Soins Infirmiers/Oxygénothérapie haut débit\|O2 haut débit]]
+> [!abstract] En 2 mots
+> Présence d'air dans l'espace pleural entraînant un collapsus pulmonaire partiel ou total. Le pneumothorax compressif est une urgence absolue (exsufflation immédiate AVANT la radio).
 
-## Classification
+## C'est quoi ?
+
+**Définition** : irruption d'air dans l'espace pleural (normalement virtuel) entraînant un collapsus du poumon ipsilatéral.
+
+**Types** :
 
 | Type | Caractéristiques |
 |------|-----------------|
-| Spontané primitif | Homme jeune, longiligne, sans maladie pulmonaire |
-| Spontané secondaire | Sur BPCO, emphysème, mucoviscidose |
+| Spontané primitif | Homme jeune longiligne, sans maladie pulmonaire sous-jacente |
+| Spontané secondaire | Sur BPCO, emphysème, mucoviscidose, cancer |
 | Traumatique | Fractures de côtes, plaie pénétrante thoracique |
-| Iatrogène | Après VVP sous-clavière, biopsie, VM |
-| Compressif | Urgence : déplacement médiastin, compression cœur et vaisseaux |
+| Iatrogène | Après pose VVP sous-clavière, biopsie pleurale, ventilation mécanique |
+| Compressif | Urgence : déplacement médiastinal, compression cardiaque et vasculaire |
 
-> [!danger] Pneumothorax compressif = urgence absolue
-> Tachycardie extrême + hypotension + trachée déviée + absence de murmure vésiculaire unilatéral + distension jugulaire
-> Exsufflation à l'aiguille en URGENCE (2ème espace intercostal, ligne médioclaviculaire) AVANT radio
-
-## Signes cliniques
+## Comment ça se présente ?
 
 | Symptôme | Description |
 |----------|-------------|
-| Douleur thoracique | Unilatérale, irradiante à l'épaule |
-| Dyspnée | D'installation brutale |
-| Hypoxémie | SpO2 diminuée |
-| Examen | Asymétrie auscultatoire, tympanisme à la percussion |
+| **Douleur thoracique** | Unilatérale, brutale, irradiant à l'épaule |
+| **Dyspnée** | D'installation brutale, tachypnée |
+| **Hypoxémie** | SpO2 diminuée, cyanose si sévère |
+| **Tachycardie** | Réflexe compensatoire |
+| **Auscultation** | Asymétrie, silence unilatéral, tympanisme à la percussion |
 
-## Traitement selon sévérité
+**Signes du pneumothorax compressif** : tachycardie extrême + hypotension + trachée déviée du côté sain + distension jugulaire + silence auscultatoire unilatéral. Triade de Beck partielle.
 
-| Degré | Traitement |
-|-------|-----------|
-| Petit (< 2 cm) | Surveillance, O2, repos |
-| Moyen (2-3 cm) | Exsufflation à l'aiguille si symptomatique |
-| Grand (> 3 cm) | Drainage thoracique avec valve de Heimlich ou bocal sous eau |
-| Compressif | Exsufflation immédiate + drainage secondaire |
+## Rôle IDE
 
-> [!warning] Surveillance drainage thoracique IDE
-> Vérifier l'étanchéité du système de drainage
-> Oscillations en rapport avec la respiration = drain perméable
-> Bulles permanentes en expiration = fuite persistante
-> Jamais clamper un drain sans prescription médicale
-> Position demi-assise (améliore la respiration)
+- Position demi-assise (améliore la mécanique ventilatoire)
+- O2 haut débit (accélère la résorption de l'air pleural)
+- Scope : SpO2, FC, FR, TA en continu
+- VVP + bilan (NFS, hémostase) + groupe + RAI si traumatique
+- Préparer le matériel d'exsufflation/drainage selon prescription
+- **Surveillance du drain thoracique** :
+  - Vérifier l'étanchéité du système à chaque passage
+  - Oscillations en respiration = drain perméable (normal)  - Bulles permanentes en expiration = fuite persistante (à signaler)
+  - Jamais clamper un drain sans prescription médicale
+  - Noter la quantité de liquide dans le bocal (si hémopneumothorax)
+- Radio thoracique de contrôle après drainage
+
+## Points de vigilance
+
+> [!danger] Pneumothorax compressif = urgence absolue
+> Tachycardie + hypotension + trachée déviée + silence auscultatoire = exsufflation à l'aiguille EN URGENCE (2ème espace intercostal ligne médioclaviculaire), AVANT toute radio. Ne pas attendre l'imagerie.
+
+> [!warning] Ne jamais clamper un drain sans prescription
+> Le clampage d'un drain à bulle active peut provoquer un pneumothorax compressif.
+
+> [!warning] Drain thoracique : chute du bocal
+> Si le bocal tombe et se casse, clamper le drain immédiatement avec la pince fournie, puis appeler le médecin.
+
+## Les 3 choses à retenir
+
+1. **Pneumothorax compressif = exsufflation AVANT la radio** : pas de temps à perdre
+2. **Jamais clamper un drain sans prescription** : risque de pneumothorax compressif iatrogène
+3. **Oscillations en respiration = drain perméable** : absence d'oscillations = obstruction à signaler
+
+## Voir aussi
+
+[[Pathologies/BPCO\|BPCO]] · [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]] · [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
+
+> [!caution] Outil pédagogique · Source : SPLF, BTS 2022

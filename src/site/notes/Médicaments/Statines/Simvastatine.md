@@ -47,7 +47,7 @@ Prodrogue liposoluble activée par hydrolyse dans le foie. Elle bloque la HMG-Co
 - [ ] Surveiller CPK si myalgies, transaminases si symptômes hépatiques
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire

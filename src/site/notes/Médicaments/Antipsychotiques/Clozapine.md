@@ -68,7 +68,7 @@ La clozapine bloque un très grand nombre de récepteurs en même temps → c'es
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Agranulocytose (1-2%)** = urgence vitale → **NFS hebdomadaire les 18 premières semaines** → sans NFS, pas de délivrance
 2. **BZD IV + clozapine = CI absolue** (dépression respiratoire mortelle)

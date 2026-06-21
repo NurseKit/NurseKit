@@ -12,7 +12,7 @@ Le polytraumatisme = au moins 2 lésions traumatiques dont au moins 1 engage le 
 
 Les 3 causes de mort évitables précoces : hémorragie incontrôlée, pneumothorax suffoquant, hémothorax massif. Toutes accessibles en quelques minutes si reconnues.
 
-## Bilan ABCDE initial
+## Comment ça se présente ?
 
 | Étape | Évaluation | Urgence si |
 |-------|------------|-----------|

@@ -56,7 +56,7 @@ Elle agit sur deux types de récepteurs :
 - Ne jamais arrêter brutalement : décroissance progressive sur PM
 - Préparer la seringue suivante avant la fin pour éviter toute interruption
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Dose fixe 0,03 U/min** → ne pas titrer, ne pas dépasser 0,04 U/min
 2. **Voie centrale obligatoire** → nécrose en cas d'extravasation

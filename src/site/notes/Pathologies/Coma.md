@@ -13,6 +13,10 @@ Le coma est un état d'inconscience profonde avec abolition de la vigilance et d
 > [!danger] L'hypoglycémie est LA cause réversible à éliminer en premier
 > Glycémie capillaire immédiate dans tout coma. Un patient avec glycémie < 0,50 g/L reçoit du glucose avant tout autre bilan.
 
+## Comment ça se présente ?
+
+Le score de Glasgow (GCS) est l'outil central d'évaluation du coma. Voir section suivante pour les signes de gravité.
+
 ## Score de Glasgow (GCS)
 
 | Composante | Réponse | Score |
@@ -83,6 +87,6 @@ Stimulation douloureuse : pression sur l'ongle, pression sus-orbitaire, pression
 
 ## Voir aussi
 
-[[Pathologies/HTIC\|HTIC]] · [[Pathologies/Etat de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escarre]]
+[[Pathologies/HTIC\|HTIC]] · [[Pathologies/État de mal épileptique\|EME]] · [[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Médicaments/Antidotes/Naloxone\|Naloxone]] · [[Soins Infirmiers/Prévention des escarres\|Prévention escarre]]
 
 > [!caution] Outil pédagogique : recommandations SFAR/SRLF, Teasdale & Jennett 1974 (GCS)

@@ -57,7 +57,7 @@ La terbinafine bloque une enzyme différente de celle ciblée par les azolés (l
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Fongicide sur dermatophytes = meilleur que les azolés pour les ongles** → mais n'oublie pas : **inactive sur Candida** (pas le bon médicament si c'est une candidose des ongles)
 2. **Durée réelle de 12-18 mois** pour la repousse visible de l'ongle → le traitement guérit la mycologie, l'ongle fait le reste à son rythme

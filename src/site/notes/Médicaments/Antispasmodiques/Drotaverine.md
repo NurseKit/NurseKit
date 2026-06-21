@@ -50,7 +50,7 @@ Inhibe une enzyme (phosphodiestérase IV) dans les cellules musculaires lisses �
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Peu utilisée en France** → phloroglucinol (Spasfon®) ou mébévérine préférés
 2. **Niveau de preuve C** → données cliniques limitées comparativement aux IPP ou salbutamol

@@ -45,7 +45,7 @@ La propafénone bloque les canaux sodium du cœur (même mécanisme que le fléc
 - [ ] Si digoxine associée : surveiller la digoxinémie
 - [ ] Ne pas écraser les comprimés LP (libération prolongée)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Même contre-indication que le flécaïnide : INTERDIT si cardiopathie ischémique ou IC (risque pro-arythmique fatal)
 2. Goût métallique quasi constant et spécifique de la propafénone → rassurer le patient

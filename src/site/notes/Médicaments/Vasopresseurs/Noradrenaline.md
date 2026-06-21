@@ -44,7 +44,7 @@ Stimule fortement les récepteurs α1 des artères → contraction des artères 
 - [ ] Ne jamais arrêter brutalement (chute tensionnelle) → diminuer progressivement
 - [ ] Préparer la seringue suivante avant la fin de la seringue courante
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Voie centrale OBLIGATOIRE → nécrose si extravasation en VVP
 2. Objectif PAM ≥ 65 mmHg → adapter le débit (0,1 à 3 µg/kg/min)

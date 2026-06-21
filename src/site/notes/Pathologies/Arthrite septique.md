@@ -52,6 +52,6 @@ Les bactéries atteignent l'articulation par voie hématogène (septicémie, foy
 
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Amoxicilline\|Antibiotiques]]
+[[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Antibiotiques/Amoxicilline\|Antibiotiques]]
 
 > [!caution] Outil pédagogique : Recommandations SPILF/SFR 2020. Toujours vérifier les prescriptions médicales

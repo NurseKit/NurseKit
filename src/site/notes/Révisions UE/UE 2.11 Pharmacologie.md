@@ -246,7 +246,7 @@
 [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
 Anticoagulants
 Lithium
-[[Médicaments/Digoxine\|Digoxine]]
+[[Médicaments/Digitaliques/Digoxine\|Digoxine]]
 Aminosides
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 

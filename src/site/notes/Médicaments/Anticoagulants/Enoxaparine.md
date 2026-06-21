@@ -56,7 +56,7 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Surveiller les plaquettes à J5 : J8 → dépister la HIT
 2. Ne pas masser après l'injection (hématome)
@@ -66,6 +66,6 @@ Le sang coagule grâce à une cascade de réactions en chaîne (facteurs de coag
 
 ## Voir aussi
 
-Plaquettes (HIT) · TCA (HNF) · INR (relais AVK) · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Héparine\|HBPM]] · HIT
+Plaquettes (HIT) · TCA (HNF) · INR (relais AVK) · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (AVK)]] · [[Médicaments/Anticoagulants/Héparine\|HBPM]] · HIT
 
 > [!caution] Outil pédagogique

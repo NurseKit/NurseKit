@@ -46,7 +46,7 @@ Le méthotrexate est un anti-folate → il perturbe l'utilisation de la vitamine
 - [ ] Contraception stricte pour les femmes et les hommes en âge de procréer → continuer 3 mois après l'arrêt
 - [ ] Zéro alcool pendant le traitement → répéter l'information à chaque consultation
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **1 FOIS PAR SEMAINE** uniquement → la prise quotidienne, c'est l'accident grave qui arrive encore
 2. **Acide folique le lendemain** → obligatoire pour protéger les muqueuses et la moelle

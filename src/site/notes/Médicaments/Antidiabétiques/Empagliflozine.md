@@ -42,7 +42,7 @@ Le rein filtre le glucose du sang puis le réabsorbe normalement. L'empagliflozi
 - [ ] Si douleur/rougeur/gonflement périnéal → signaler immédiatement (fasciite de Fournier)
 - [ ] Surveillance glycémie capillaire selon protocole
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Arrêt obligatoire 48h avant chirurgie ou jeûne** (acidocétose euglycémique possible même si glycémie normale)
 2. Infections génitales fréquentes → surveiller et éduquer

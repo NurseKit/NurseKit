@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : Choc Anaphylactique
 > **M. Nicolas, 34 ans** · ATCD : allergie pénicilline connue mais non documentée
 > Administration d'Amoxicilline IV prescrite pour pneumonie
-> → Voir aussi : [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Médicaments/Adrénaline\|Adrénaline]]
+> → Voir aussi : [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]]
 
 > [!note] Présentation initiale (10h30 - 10 min après le début de la perfusion)
 > **Cutané** : urticaire diffuse, visage rouge, prurit intense

@@ -45,7 +45,7 @@ C'est le seul corticoïde qui remplace à la fois le cortisol ET une partie de l
 - [ ] Choc anaphylactique : administrer après adrénaline et remplissage (ne pas retarder l'adrénaline)
 - [ ] IS chronique : 2-3 prises/j → expliquer de doubler la dose en cas de stress/fièvre (règle du doublement)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **IS aiguë = urgence vitale → 100 mg IV STAT** sans attendre
 2. Seul corticoïde avec double action glucocorticoïde + minéralocorticoïde

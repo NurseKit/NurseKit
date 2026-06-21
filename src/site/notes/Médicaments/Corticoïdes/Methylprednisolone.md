@@ -62,7 +62,7 @@ Même mécanisme anti-inflammatoire que la prednisone. L'avantage : disponible e
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Bolus sur 30-60 min minimum** → jamais en IV direct (arythmie grave)
 2. **Hyperglycémie** fréquente dans les 24-48h post-bolus → surveiller glycémie

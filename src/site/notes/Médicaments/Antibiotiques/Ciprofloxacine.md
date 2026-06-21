@@ -64,7 +64,7 @@ Son efficacité est « concentration-dépendante » : plus le pic sanguin est é
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Tendinopathie = arrêt immédiat** : toute douleur tendineuse impose l'arrêt et la consultation → risque de rupture irréversible
 2. **Antiacides/fer/zinc** : chélatent la ciprofloxacine et la rendent inactive → espacer de 2h

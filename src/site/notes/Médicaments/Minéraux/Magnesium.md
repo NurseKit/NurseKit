@@ -40,7 +40,7 @@ Le magnésium est un antagoniste naturel des canaux calciques → ralentit la co
 > - [ ] **Diurèse** : ≥ 25 mL/h (élimination rénale)
 > - [ ] **Antidote disponible** : gluconate de calcium 1 g IV à portée immédiate
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Urgences IV : **torsades de pointes** et **éclampsie** → perfuser lentement

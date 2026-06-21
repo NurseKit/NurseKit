@@ -43,7 +43,7 @@ Le pancréas possède des cellules bêta qui fabriquent l'insuline. Normalement,
 - Surveiller la fonction rénale (DFG) régulièrement
 - Signaler tout épisode hypoglycémique au médecin (adaptation posologique)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Toujours s'assurer que le patient mange** avant la prise → risque d'hypoglycémie
 2. **CI si DFG < 30** → accumulation et hypoglycémie prolongée

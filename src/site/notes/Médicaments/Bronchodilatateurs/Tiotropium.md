@@ -48,7 +48,7 @@ Même mécanisme que l'ipratropium (blocage des récepteurs M3 muscariniques bro
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **1 seule prise par jour** → bronchodilatation de 24h grâce à la fixation prolongée sur M3
 2. **Traitement de FOND de la BPCO** → ne remplace pas le salbutamol pour les crises aiguës

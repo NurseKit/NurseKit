@@ -48,7 +48,7 @@ La succinylcholine "ressemble" à l'acétylcholine (le messager de la jonction n
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Action en 60 sec, durée 8-12 min** → le curare de l'urgence (RSI)
 2. **CI formelle si hyperkaliémie** : brûlures, trauma musculaire, paraplégie, IRC → utiliser rocuronium

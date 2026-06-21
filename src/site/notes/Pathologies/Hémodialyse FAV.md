@@ -10,7 +10,7 @@
 
 L'hémodialyse épure le sang par diffusion à travers une membrane semi-perméable (dialyseur) qui élimine les déchets (urée, créatinine) et régule les électrolytes. Indication : IRC stade 5 (DFG < 15 mL/min avec symptômes). La **FAV** (anastomose chirurgicale artère-veine) crée une veine "fortifiée" facilement ponctionnable → c'est le meilleur accès vasculaire (durée de vie longue, risque infectieux faible). Maturation de la FAV : 6 semaines minimum avant utilisation.
 
-## Vérifier avant et pendant la dialyse
+## Comment ça se présente ?
 
 | Moment | Ce qu'on surveille |
 |-------|--------|

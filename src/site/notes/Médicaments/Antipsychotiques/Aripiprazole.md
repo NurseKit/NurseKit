@@ -54,7 +54,7 @@ Résultat intelligent :
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Akathisie très fréquente (20-25%)** : agitation motrice ≠ aggravation psychiatrique → ne pas augmenter la dose → signaler au médecin
 2. **Pas d'hyperprolactinémie, pas de SEP significatif** (mécanisme agoniste partiel) → profil favorable

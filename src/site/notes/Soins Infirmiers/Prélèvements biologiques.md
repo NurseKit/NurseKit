@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Médicaments/Héparine\|Héparine]]
+> [[index\|Accueil]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]]
 
 > [!abstract] L\'essentiel
 > Réaliser des prélèvements veineux dans le bon ordre et dans les bonnes conditions pour obtenir des résultats fiables.
@@ -26,8 +26,8 @@
 
 | Tube | Analyses cliniques | Pathologies concernées |
 |------|-------------------|----------------------|
-| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Pathologies/Insuffisance rénale aiguë\|IRA]] |
-| Bleu (citrate) | TCA, TP, INR | Anticoagulants ([[Médicaments/Héparine\|Héparine]], AVK) |
+| Rouge (sec) | Troponine, CRP, bilan rénal, ionogramme | [[Pathologies/IDM\|IDM]], [[Pathologies/Sepsis\|Sepsis]], [[Pathologies/Insuffisance rénale aigue\|IRA]] |
+| Bleu (citrate) | TCA, TP, INR | Anticoagulants ([[Médicaments/Anticoagulants/Héparine\|Héparine]], AVK) |
 | Violet (EDTA) | NFS, plaquettes, CRP | Infections, anémie, TIH |
 | Gris | Glycémie | [[Pathologies/Diabète de type 2\|Diabète]] |
 
@@ -54,4 +54,4 @@
 **Analyses :** pH (normal 7,38-7,42), PaO2 (80-100 mmHg), PaCO2 (35-45 mmHg), HCO3- (22-26 mEq/L), lactate (< 2 mmol/L)
 
 ---
-→ [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Médicaments/Héparine\|Héparine]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
+→ [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/IDM\|IDM]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]

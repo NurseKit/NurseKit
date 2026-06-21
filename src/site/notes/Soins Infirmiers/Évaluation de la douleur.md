@@ -6,7 +6,7 @@
 > [!abstract] Évaluation de la Douleur
 > La douleur est le 5ème signe vital. Son évaluation régulière est une obligation légale (Loi de 2002).
 > L'échelle choisie doit être adaptée à l'état cognitif du patient.
-> → Voir aussi : [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Paracétamol\|Paracétamol]] · [[Pharmacologie/Paliers antalgiques OMS\|Paliers antalgiques OMS]]
+> → Voir aussi : [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Pharmacologie/Paliers antalgiques OMS\|Paliers antalgiques OMS]]
 
 ## Outils d'évaluation selon profil patient
 

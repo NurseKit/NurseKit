@@ -64,7 +64,7 @@ Ce mécanisme explique sa très bonne sélectivité : les cellules humaines sain
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Encéphalite = urgence** : débuter l'aciclovir IV dès la suspicion clinique, sans attendre les résultats biologiques
 2. **Hydratation ++ en IV** : risque de cristaux dans les reins → ≥ 500 mL avant chaque perfusion

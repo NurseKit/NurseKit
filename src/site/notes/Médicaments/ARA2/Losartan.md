@@ -55,7 +55,7 @@ Le losartan bloque les récepteurs AT1 de l'angiotensine II → cette hormone qu
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"ARA2 = IEC de substitution"** → alternative aux IEC quand la toux est intolérable ; mêmes bénéfices cardio-rénaux sans l'effet secondaire qui fait arrêter le traitement
 2. **"IEC + ARA2 = jamais ensemble"** → double blocage du SRAA → hyperkaliémie grave + IRA → cette association est une contre-indication, pas une option thérapeutique

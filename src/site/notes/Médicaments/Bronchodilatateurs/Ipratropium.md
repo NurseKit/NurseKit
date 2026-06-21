@@ -53,7 +53,7 @@ L'avantage majeur : très peu d'absorption systémique → effets anticholinergi
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Ipratropium + Salbutamol = synergie"** → mécanismes complémentaires, souvent associés en nébulisation dans les exacerbations sévères de BPCO et l'asthme aigu grave
 2. **"Masque bien ajusté = protection des yeux"** → la fuite vers les yeux peut provoquer un glaucome aigu ; vérifier l'étanchéité du masque à chaque nébulisation

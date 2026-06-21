@@ -44,7 +44,7 @@ S'accumule dans le parasite du paludisme et l'empêche de digérer l'hémoglobin
 - [ ] Continuer 4 semaines après le retour de zone endémique
 - [ ] Ne pas conduire si vertiges ou troubles cognitifs apparaissent
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI si ATCD psychiatrique ou épilepsie** → contre-indication formelle et absolue
 2. **Commencer 2-3 semaines avant le départ** pour tester la tolérance en sécurité

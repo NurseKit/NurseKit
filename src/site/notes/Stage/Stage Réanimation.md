@@ -36,11 +36,11 @@
 |-----------|------|-----------------|
 | [[Médicaments/Vasopresseurs/Noradrenaline\|Noradrénaline]] | Vasopresseur (choc septique) | TA invasive, voie centrale, extrémités |
 | [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] | Inotrope (choc cardiogénique) | FC, PA, débit urinaire |
-| [[Médicaments/Midazolam\|Midazolam]] | Sédation | FR, Glasgow, BIS si monitoring |
-| [[Médicaments/Morphine\|Morphine]] | Analgésie | FR (seuil 10/min), score sédation |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | Sédation | FR, Glasgow, BIS si monitoring |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | Analgésie | FR (seuil 10/min), score sédation |
 | [[Médicaments/Vasopresseurs/Vasopressine\|Vasopressine]] | Vasopresseur 2ème ligne | Ischémie digitale |
-| [[Médicaments/Amiodarone\|Amiodarone]] | Antiarythmique | Thyroïde, hépatique, interstitielle |
-| [[Médicaments/Adrénaline\|Adrénaline]] | ACR, anaphylaxie | FC, TA, extrasystoles |
+| [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Antiarythmique | Thyroïde, hépatique, interstitielle |
+| [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]] | ACR, anaphylaxie | FC, TA, extrasystoles |
 
 ## Soins Infirmiers
 
@@ -70,4 +70,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Cardiologie\|Stage Cardiologie]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Cardiologie\|Stage Cardiologie]] · [[Stage/Stage Urgences\|Stage Urgences]] · [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]]

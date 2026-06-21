@@ -59,7 +59,7 @@ Même mécanisme que le diazépam : renforcement de l'inhibition GABA-A. Mais le
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"État de mal = 0,1 mg/kg IV"** (4 mg chez l'adulte standard) en 2 minutes → 1ère intention, dose à avoir en tête
 2. **"Avantage vs diazépam : pas de métabolite, IM fiable"** → préféré chez le sujet âgé, l'insuffisant hépatique, et en IM pour l'agitation

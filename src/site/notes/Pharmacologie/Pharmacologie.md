@@ -18,4 +18,4 @@
 
 ---
 
-← [[index\|Accueil]] · [[Médicaments/Médicaments\|Médicaments]]
+← [[index\|Accueil]] · [[Médicaments/Index Médicaments\|Médicaments]]

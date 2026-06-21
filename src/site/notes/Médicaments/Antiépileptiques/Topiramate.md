@@ -45,7 +45,7 @@ Agit sur 4 mécanismes à la fois pour stabiliser les neurones : bloque les cana
 - [ ] Surveiller bicarbonates si acidose respiratoire ou rénale associée
 - [ ] En cas de douleur lombaire, trouble urinaire → suspicion lithiase → signaler
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Boire 2L/jour minimum** pour prévenir les calculs rénaux
 2. **CI grossesse** + contrôler l'efficacité de la contraception (↓ pilule à dose ≥ 200 mg)

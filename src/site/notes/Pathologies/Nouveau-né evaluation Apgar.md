@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > Le score d'Apgar est l'outil de référence pour évaluer l'adaptation du nouveau-né à la vie extra-utérine à 1, 5 et 10 minutes de vie. La prise en charge en salle de naissance suit un protocole précis : séchage, stimulation, évaluation en 30 secondes, puis escalade thérapeutique si nécessaire.
 
-## Score d'Apgar
+## C'est quoi ?
 
 Évalué à **1 minute**, **5 minutes** et **10 minutes** de vie.
 
@@ -28,7 +28,7 @@
 
 > [!info] L'acrocyanose (mains et pieds bleus) est normale dans les premières minutes : ne pas déduire 2 points sur la coloration si le reste est rose
 
-## Protocole de salle de naissance
+## Comment ça se présente ?
 
 ### Évaluation initiale (30 premières secondes)
 
@@ -137,7 +137,7 @@ Dépiste 6 maladies par dosage sur sang séché (papier buvard) :
 - **Test auditif** : oto-émissions acoustiques (OEA) avant la sortie de maternité
 - **Dépistage MCSUD** (maladies du métabolisme) : extension en cours selon les régions
 
-## Surveillance IDE en maternité
+## Rôle IDE
 
 - Températures : 2 fois par jour (matin et soir)
 - Poids : J0, J1, J2... (perte physiologique max 10% poids naissance, reprise avant J10)
@@ -148,11 +148,22 @@ Dépiste 6 maladies par dosage sur sang séché (papier buvard) :
 - Ombilical : aspect, odeur, saignement
 - Dépistage Guthrie : prélèvement et transmission au laboratoire
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Le score d'Apgar s'évalue à 1, 5 et 10 minutes** : le premier geste en salle de naissance est toujours séchage + stimulation, et l'évaluation suit en 30 secondes
 2. **FC < 60 après ventilation efficace = MCE (3:1)** : la fréquence cardiaque est le critère le plus important pour décider de l'escalade thérapeutique
 3. **Ictère au J1 = toujours pathologique** / perte de poids > 10% = consultation urgente / méconium absent à 48h = à signaler
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Fiche réalisée à des fins d'apprentissage pour étudiants en soins infirmiers (ESI 2ème année). Ne se substitue pas aux protocoles institutionnels ni au jugement clinique. En situation réelle, toujours se référer aux recommandations en vigueur et aux protocoles du service.

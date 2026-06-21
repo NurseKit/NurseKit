@@ -38,12 +38,12 @@
 
 | Médicament | Indication | À retenir |
 |-----------|-----------|-----------|
-| [[Médicaments/Adrénaline\|Adrénaline]] | ACR, anaphylaxie | ACR : 1 mg IV/3-5 min. Anaphylaxie : 0,5 mg IM |
-| [[Médicaments/Morphine\|Morphine]] | Douleur aiguë intense | EN ≥ 6. Titration 2 mg/3 min. FR > 12 |
+| [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]] | ACR, anaphylaxie | ACR : 1 mg IV/3-5 min. Anaphylaxie : 0,5 mg IM |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] | Douleur aiguë intense | EN ≥ 6. Titration 2 mg/3 min. FR > 12 |
 | [[Médicaments/Antidotes/N-acetylcysteine\|N-acétylcystéine]] | Intox paracétamol | Perfusion 21h selon nomogramme |
-| [[Médicaments/Aspirine antiagrégant\|Aspirine 300 mg]] | SCA | Mâcher, pas avaler |
+| [[Médicaments/Antiagrégants/Aspirine antiagrégant\|Aspirine 300 mg]] | SCA | Mâcher, pas avaler |
 | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | OAP | Diurèse, K⁺, PA |
-| [[Médicaments/Midazolam\|Midazolam]] | EME, agitation | Buccal 10 mg ou IV. FR > 10 |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | EME, agitation | Buccal 10 mg ou IV. FR > 10 |
 | [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique (Exacyl®)]] | Hémorragie traumatique | < 3h du traumatisme |
 
 ## Soins Infirmiers
@@ -79,4 +79,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Cardiologie\|Stage Cardiologie]] · [[Stage/Stage Neurologie\|Stage Neurologie]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Cardiologie\|Stage Cardiologie]] · [[Stage/Stage Neurologie\|Stage Neurologie]]

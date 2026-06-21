@@ -36,7 +36,7 @@ Les sénnosides (principes actifs du séné) sont transformés par les bactérie
 - [ ] Informer : urines orange-brunes = **NORMAL** (anthracénosides) → rassurer le patient
 - [ ] Préférer le macrogol pour la constipation chronique
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Usage court terme uniquement** (max 7-10 jours) → même risques que le bisacodyl (dépendance, hypokaliémie)

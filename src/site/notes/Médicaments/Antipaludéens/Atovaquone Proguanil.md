@@ -58,7 +58,7 @@ La Malarone® est une association de deux médicaments qui attaquent le parasite
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Repas gras obligatoire** → l'absorption de l'atovaquone est multipliée par 3 avec du lait ou un avocat (sans repas, la moitié de la dose est perdue)
 2. **7 jours après le retour** → pas 4 semaines comme la méfloquine, c'est l'avantage de la Malarone®

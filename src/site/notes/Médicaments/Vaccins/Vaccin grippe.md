@@ -37,7 +37,7 @@ Le vaccin contient les antigènes de surface (hémagglutinine HA et neuraminidas
 - [ ] Informer : bras douloureux 48-72h = NORMAL
 - [ ] Traçabilité : lot, date, site dans le carnet de santé / dossier
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Annuel** en octobre-novembre → obligation vaccinale pour les professionnels de santé (loi 2021)

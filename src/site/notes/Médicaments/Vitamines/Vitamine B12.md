@@ -38,7 +38,7 @@ La B12 est essentielle à la fabrication de l'ADN (via les folates) et au métab
 - [ ] Metformine : doser B12 annuellement
 - [ ] Ne pas introduire folates sans B12 chez un patient à risque neurologique
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Biermer = facteur intrinsèque absent → **injection IM à vie** (pas de PO si malabsorption)

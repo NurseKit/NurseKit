@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : Exacerbation de BPCO
 > **M. Jacques, 71 ans** · ATCD : BPCO stade GOLD III, tabagisme 40 PA, sevrage partiel
 > Admission aux urgences pour dyspnée aggravée depuis 3 jours avec fièvre
-> → Voir aussi : [[Pathologies/BPCO\|BPCO]] · [[Médicaments/Salbutamol\|Salbutamol]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
+> → Voir aussi : [[Pathologies/BPCO\|BPCO]] · [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] · [[Soins Infirmiers/Soins respiratoires\|Soins respiratoires]]
 
 > [!note] Présentation à l'admission (16h30)
 > **Dyspnée** : FR 28/min, tirage intercostal, balancement thoraco-abdominal

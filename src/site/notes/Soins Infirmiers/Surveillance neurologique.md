@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Morphine\|Morphine]]
+> [[index\|Accueil]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Choc cardiogénique\|Choc cardiogénique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Antalgiques/Morphine\|Morphine]]
 
 > [!abstract] L\'essentiel
 > Evaluer et surveiller l'état neurologique pour détecter une aggravation précoce (AVC, HTIC, intoxication opioïde).
@@ -41,7 +41,7 @@
 | Anomalie | Interprétation |
 |---------|---------------|
 | Mydriase unilatérale fixe | Engagement temporal (compression NC III) - URGENCE |
-| Myosis bilatéral serré | Intoxication aux opioïdes ([[Médicaments/Morphine\|Morphine]]) |
+| Myosis bilatéral serré | Intoxication aux opioïdes ([[Médicaments/Antalgiques/Morphine\|Morphine]]) |
 | Anisocorie (inégale) | Lésion intracrânienne - urgence neurologique |
 | Pupilles réactives | Normal |
 
@@ -70,4 +70,4 @@
 6. Vigilance : agitation, confusion = signe de réveil difficile ou complication
 
 ---
-→ [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Morphine\|Morphine (opioïdes)]]
+→ [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Antalgiques/Morphine\|Morphine (opioïdes)]]

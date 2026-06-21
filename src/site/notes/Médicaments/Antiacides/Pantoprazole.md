@@ -57,7 +57,7 @@ Son avantage sur l'oméprazole : moins d'inhibition du CYP2C19, donc moins d'imp
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **IPP de choix sous clopidogrel** → moins d'interaction CYP2C19 = l'antiagrégant reste efficace
 2. **Hémorragie digestive IV** : 80 mg bolus → puis 8 mg/h IVSE 72h → dose à savoir par cœur

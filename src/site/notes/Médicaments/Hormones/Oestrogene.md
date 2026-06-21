@@ -46,7 +46,7 @@ Les œstrogènes remplacent l'estradiol que les ovaires ont arrêté de produire
 - [ ] Vérifier que le progestatif est bien associé si utérus présent
 - [ ] Éduquer sur les CI (tabac surtout si contraception orale, antécédents cardio)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Voie transdermique préférable** en cas de risque cardiovasculaire → elle court-circuite l'effet thrombogène hépatique
 2. **Toujours associer un progestatif** si l'utérus est présent → protection de l'endomètre obligatoire

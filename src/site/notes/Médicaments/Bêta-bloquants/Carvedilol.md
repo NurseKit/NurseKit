@@ -45,7 +45,7 @@ Le carvédilol fait un triple blocage : il ralentit le cœur (β1), évite la va
 - [ ] Éduquer le patient : NE JAMAIS arrêter seul
 - [ ] Interroger systématiquement sur les antécédents d'asthme avant administration
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Asthme = CONTRE-INDICATION ABSOLUE (blocage β2 = bronchospasme grave, pas comme les cardiosélectifs)
 2. Débuter toujours à dose faible (3,125 mg x2/j) et augmenter par paliers de 2 semaines → hypotension de première dose fréquente

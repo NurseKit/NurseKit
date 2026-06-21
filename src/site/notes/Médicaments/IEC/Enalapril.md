@@ -46,7 +46,7 @@ L'énalapril est une prodrogue : le foie le transforme en sa forme active, l'én
 - [ ] Informer sur le risque de toux sèche (normale, pas dangereuse mais parfois insupportable)
 - [ ] En IV : scope PA en continu, avoir du SSI 0,9% prêt en cas d'hypotension
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Toux sèche dans 10 à 15 % → si intolérable, on bascule vers un ARA2
 2. Hyperkaliémie → surveiller le K⁺, surtout si IR, diabète ou spironolactone associée

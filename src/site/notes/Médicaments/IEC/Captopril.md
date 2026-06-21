@@ -44,7 +44,7 @@ Il bloque l'enzyme de conversion qui fabrique l'angiotensine II → cette hormon
 - [ ] Contrôler créatinine + K⁺ à J7, M1, puis tous les 6 mois
 - [ ] Si angio-œdème (gonflement lèvres/langue/gorge) → STOP immédiat + appel 15
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Toux sèche dans 10 à 15 % → si insupportable, on switche vers un ARA2 (losartan, valsartan)
 2. Hyperkaliémie → surtout si IR, diabète ou spironolactone associée → surveiller le K⁺

@@ -4,7 +4,7 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
+> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 > [!abstract] L\'essentiel
 > Administrer un médicament par voie IV ou SC de façon sécurisée, avec les vérifications obligatoires.
@@ -30,7 +30,7 @@
 
 ## Perfusion IV (PSE ou flacon)
 
-1. Préparer la dilution prescrite (ex : [[Médicaments/Morphine\|Morphine]] 10 mg dans 10 mL NaCl = 1 mg/mL)
+1. Préparer la dilution prescrite (ex : [[Médicaments/Antalgiques/Morphine\|Morphine]] 10 mg dans 10 mL NaCl = 1 mg/mL)
 2. Purger la tubulure (éliminer l'air)
 3. Programmer le débit en mL/h → [[Exercices/Calculs Doses/Calcul de doses\|Calcul du débit]]
 4. **Etiqueter** la seringue/flacon : nom médicament + dilution + débit + heure de début + IDE
@@ -38,7 +38,7 @@
 
 ## Voie SC (sous-cutanée)
 
-**Indications principales :** [[Médicaments/Insuline\|Insuline]], [[Médicaments/Héparine\|HBPM]], antiémétiques
+**Indications principales :** [[Médicaments/Antidiabétiques/Insuline\|Insuline]], [[Médicaments/Anticoagulants/Héparine\|HBPM]], antiémétiques
 
 1. Choisir le site (abdomen ± 10 cm de l'ombilic, cuisse, bras) - **rotation obligatoire**
 2. Nettoyer le site à l'alcool, laisser sécher
@@ -55,4 +55,4 @@
 > | **Embolie aérique** | Malaise, cyanose, choc | Position Trendelenburg gauche + O2 + urgence |
 
 ---
-→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
+→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]

@@ -38,7 +38,7 @@ Les vaccins ARNm injectent une courte instruction (ARN messager) dans vos cellul
 - [ ] Conseiller de signaler douleur thoracique ou palpitations dans les 7 jours
 - [ ] Traçabilité : lot, date, site, heure
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. CI principale : allergie au **PEG** → vaccin protéique (Nuvaxovid®) en alternative

@@ -6,7 +6,7 @@
 > [!abstract] Médicaments à Risque - Vigilance IDE
 > Certains médicaments ont une marge thérapeutique étroite ou un risque majeur en cas d'erreur.
 > Des procédures spécifiques s'appliquent : double vérification, voie exclusive, dilution obligatoire.
-> → Voir aussi : [[Médicaments/Potassium IV\|Potassium IV]] · [[Médicaments/Héparine\|Héparine]] · [[Médicaments/Insuline\|Insuline]]
+> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 ## Catégories de médicaments à haut risque (ISMP)
 
@@ -42,7 +42,7 @@
 > [!danger] Potassium concentré
 > Les ampoules de KCl 10% ne doivent JAMAIS être en libre accès
 > Stockage sécurisé, étiquetage rouge, accès restreint
-> Toujours dilué avant administration (voir [[Médicaments/Potassium IV\|fiche Potassium IV]])
+> Toujours dilué avant administration (voir [[Médicaments/Minéraux/Potassium IV\|fiche Potassium IV]])
 
 > [!tip] Bonnes pratiques IDE
 > 5B avant chaque administration (bon médicament, bonne dose, bonne voie, bon patient, bon moment)

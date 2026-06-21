@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La neutropénie fébrile post-chimiothérapie est une urgence oncologique vitale. La fièvre est souvent le SEUL signe d'infection car l'absence de PNN empêche la formation de pus. Sans antibiotiques dans l'heure, la mortalité atteint 5 à 10 %.
 
-## Définition
+## C'est quoi ?
 
 - Fièvre **≥ 38,3°C** une fois **ou** ≥ 38°C pendant 1h
 - **ET** PNN < 500/mm³ (ou < 1000/mm³ avec descente prévisible < 500)
@@ -23,7 +23,7 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
  - Tube digestif (entérocolite, translocation bactérienne)
 - **Particularité** : absence de PNN → pas de pus, pas d'abcès visible → la fièvre est souvent le seul signe clinique d'alerte
 
-## Présentation clinique
+## Comment ça se présente ?
 
 | Signe | Particularité en aplasie |
 |-------|--------------------------|
@@ -76,16 +76,6 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
  - Pas de charcuterie crue
  - Aliments cuits et servis chauds
 
-## Surveillance IDE
-
-| Paramètre | Fréquence | Seuil d'alerte |
-|-----------|-----------|----------------|
-| Température | Toutes les 4-6h | ≥ 38°C : appel médecin immédiat |
-| Fréquence cardiaque | Toutes les 4-6h | > 100 bpm |
-| Pression artérielle | Toutes les 4-6h | TAS < 90 mmHg : urgence |
-| Diurèse | Quotidienne | < 0,5 mL/kg/h |
-| État du cathéter | À chaque soin | Rougeur, suintement |
-
 ## Rôle IDE : points clés
 
 - **Ne jamais attendre la confirmation du médecin pour signaler** une fièvre chez un patient sous chimio : appeler immédiatement
@@ -93,11 +83,22 @@ La chimiothérapie détruit les cellules à division rapide, dont les précurseu
 - Tracer l'heure exacte de la fièvre, du premier prélèvement et du premier antibiotique
 - Informer le patient de ne pas prendre de paracétamol seul à domicile sans signaler la fièvre (masque la fièvre)
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Fièvre + chimio = urgence vitale** : antibiotiques < 60 min, l'heure compte vraiment
 2. **Hémocultures AVANT les antibiotiques** : c'est l'unique chance d'identifier le germe
 3. **Pas de pus ne signifie pas pas d'infection** : les PNN manquent pour former l'abcès
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Cette fiche est un support de révision pour étudiants en soins infirmiers (ESI 2e année). Elle ne remplace pas les protocoles institutionnels ni le jugement clinique. Toujours se référer aux procédures du service et aux prescriptions médicales.

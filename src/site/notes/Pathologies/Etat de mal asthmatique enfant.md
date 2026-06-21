@@ -6,7 +6,11 @@
 > [!abstract] En 2 mots
 > L'état de mal asthmatique est une crise d'asthme sévère ou très sévère ne répondant pas au traitement bronchodilatateur initial. C'est une **urgence vitale** par épuisement respiratoire progressif. La prise en charge est graduée par paliers, avec une surveillance rapprochée de la réponse à chaque traitement.
 
-## Signes de gravité : savoir reconnaître l'urgence
+## C'est quoi ?
+
+Voir le contexte clinique dans les sections suivantes.
+
+## Comment ça se présente ?
 
 > [!danger] Signes d'alarme immédiats : APPEL RÉANIMATION
 > - **Silence auscultatoire** (poumon muet) : bronchospasme total, ventilation nulle
@@ -82,11 +86,22 @@
 > - Bonne entrée d'air auscultatoire bilatérale
 > - Délai de surveillance minimum : 1h après dernière nébulisation
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Position assise immédiate + ne jamais allonger** - silence auscultatoire = appel réanimation sans délai
 2. **Salbutamol 0,15 mg/kg nébulisé toutes les 20 min x3 + ipratropium + méthylprednisolone 1 mg/kg IV** en crise sévère
 3. **Surveiller FC (tachycardie normale jusqu'à 140/min sous salbutamol) et noter la réponse à chaque nébulisation**
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Cette fiche est un support de révision pour les ESI. Elle ne remplace pas les protocoles institutionnels ni les recommandations de la Société Française de Pédiatrie. Les doses mentionnées sont indicatives : toujours vérifier avec le médecin prescripteur et les protocoles du service.

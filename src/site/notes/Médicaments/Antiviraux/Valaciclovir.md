@@ -55,7 +55,7 @@ Résultat : mêmes effets que l'aciclovir, mais moins de prises par jour (3/j vs
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Zona : < 72h impératif** → l'efficacité est maximale si débuté dans les 72h après les premières vésicules
 2. **Prodrogue de l'aciclovir** : même mécanisme, meilleure absorption (54 % vs 10-20 %) → moins de prises/j

@@ -40,7 +40,7 @@ Même mécanisme que toutes les statines : bloque la HMG-CoA réductase dans le 
 - [ ] Vérifier les interactions médicamenteuses (CYP3A4)
 - [ ] Contraception efficace chez la femme en âge de procréer
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Myalgies → doser CPK : si > 10× LSN = arrêt immédiat (rhabdomyolyse)
 2. Grossesse CI absolue → contraception obligatoire

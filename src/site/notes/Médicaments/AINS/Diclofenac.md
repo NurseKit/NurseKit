@@ -54,7 +54,7 @@ Il bloque les enzymes COX-1 et COX-2 qui fabriquent les prostaglandines, ces pet
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI cardio strictes** → pire profil cardiovasculaire parmi les AINS classiques : jamais si coronarien ou AVC
 2. **Triade néphrotoxique** : IEC + diurétique + diclofénac = IRA → scanner l'ordonnance

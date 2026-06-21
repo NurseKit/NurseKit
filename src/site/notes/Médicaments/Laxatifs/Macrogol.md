@@ -35,7 +35,7 @@ Le macrogol (PEG) est un gros polymère que l'intestin ne peut ni absorber ni di
 - [ ] Peut être utilisé au **long cours** si nécessaire
 - [ ] **Grossesse** : sûr (non absorbé)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **1ère ligne** de la constipation chronique selon la HAS → à recommander avant les stimulants (bisacodyl, séné)

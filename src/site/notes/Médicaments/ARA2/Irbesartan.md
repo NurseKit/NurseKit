@@ -52,7 +52,7 @@ L'irbésartan bloque les récepteurs AT1 de l'angiotensine II → l'hormone qui 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Irbesartan = Indiqué dans le diabète T2"** → seul ARA2 avec AMM spécifique pour la néphroprotection du diabétique (étude IDNT) ; c'est sa différence
 2. **"K⁺ + créatinine à J15"** → surveillance rénale obligatoire après toute initiation ou changement de dose

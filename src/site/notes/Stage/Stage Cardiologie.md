@@ -33,13 +33,13 @@
 
 | Médicament | Indication | Surveillance IDE |
 |-----------|-----------|-----------------|
-| [[Médicaments/Warfarine\|Warfarine (Coumadine®)]] | FA, TVP/EP, valves | INR cible 2-3, alimentation vit. K |
-| [[Médicaments/Apixaban\|Apixaban (Eliquis®)]] | FA, TVP/EP | Pas d'INR, vigilance hémorragique |
+| [[Médicaments/Anticoagulants/Warfarine\|Warfarine (Coumadine®)]] | FA, TVP/EP, valves | INR cible 2-3, alimentation vit. K |
+| [[Médicaments/Anticoagulants/Apixaban\|Apixaban (Eliquis®)]] | FA, TVP/EP | Pas d'INR, vigilance hémorragique |
 | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban (Xarelto®)]] | FA, TVP/EP | Prise obligatoire au repas du soir |
 | [[Médicaments/Anticoagulants/Dabigatran\|Dabigatran (Pradaxa®)]] | FA, TVP/EP | ClCr > 30, capsules entières |
 | [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol (Lopressor®)]] | FA, IDM, IC | FC, PA, bronchospasme |
-| [[Médicaments/Amiodarone\|Amiodarone]] | FA, TV, FV | ECG (QT), thyroïde, poumon |
-| [[Médicaments/Trinitrine\|Trinitrine]] | Angor, OAP | PA (hypotension), céphalées |
+| [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | FA, TV, FV | ECG (QT), thyroïde, poumon |
+| [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] | Angor, OAP | PA (hypotension), céphalées |
 | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | OAP, IC | Diurèse, K⁺, PA, poids/j |
 | [[Médicaments/Antiagrégants/Ticagrelor\|Ticagrelor (Brilique®)]] | SCA (avec aspirine) | Dyspnée, saignements |
 
@@ -71,4 +71,4 @@
 
 ## Voir aussi
 
-[[Stage/Index Par Stage\|Index Par Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Urgences\|Stage Urgences]]
+[[Stage/Index Stage\|Index Stage]] · [[Stage/Stage Réanimation\|Stage Réanimation]] · [[Stage/Stage Neurologie\|Stage Neurologie]] · [[Stage/Stage Urgences\|Stage Urgences]]

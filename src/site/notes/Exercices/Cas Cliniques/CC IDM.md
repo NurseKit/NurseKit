@@ -4,12 +4,12 @@
 
 
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · [[Médicaments/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Morphine\|Morphine]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
+> [[index\|Accueil]] · [[Pathologies/IDM\|IDM]] · [[Soins Infirmiers/ECG lecture systématique\|ECG]] · [[Médicaments/Antiagrégants/Aspirine antiagrégant\|Aspirine]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Soins Infirmiers/Transmissions DAR\|DAR]]
 
 > [!note] Présentation du patient
 > **M. Bernard, 58 ans**, technicien. Amené par les pompiers à 15h00.
 > **Motif :** douleur thoracique constrictive depuis 45 min, irradiant au bras gauche, sueurs profuses.
-> **ATCD :** HTA traitée ([[Médicaments/Bisoprolol\|Bisoprolol]]), tabagisme actif 30 PA.
+> **ATCD :** HTA traitée ([[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]), tabagisme actif 30 PA.
 > **Constantes à l'arrivée :** TA 145/90 mmHg - FC 98 bpm - SpO2 96% - FR 20/min - T° 37,2°C - EVA 8/10
 
 ## Evaluation initiale
@@ -25,9 +25,9 @@
 | 15h05 | Scope + SpO2 + TA bilat  | Monitoring continu, asymétrie TA  |
 | 15h07 | ECG 18 dérivations + alerte cardiologue  | Diagnostic STEMI = délai porte-ballon < 90 min |
 | 15h10 | [[Soins Infirmiers/Pose VVP\|VVP 18G]] bras droit + [[Soins Infirmiers/Prélèvements biologiques\|prélèvements]] | Accès veineux + troponine, NFS, coagulation  |
-| 15h12 | [[Médicaments/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer  | Antiagrégation d'urgence - absorption rapide  |
-| 15h15 | [[Médicaments/Morphine\|Morphine 4 mg IV]] (titration 2 mg/2 min)  | EVA 8/10, résistant aux nitrés  |
-| 15h20 | [[Médicaments/Héparine\|Héparine]] bolus IV (sur prescription)  | Anticoagulation avant coronarographie  |
+| 15h12 | [[Médicaments/Antiagrégants/Aspirine antiagrégant\|Aspirine 500 mg]] à croquer  | Antiagrégation d'urgence - absorption rapide  |
+| 15h15 | [[Médicaments/Antalgiques/Morphine\|Morphine 4 mg IV]] (titration 2 mg/2 min)  | EVA 8/10, résistant aux nitrés  |
+| 15h20 | [[Médicaments/Anticoagulants/Héparine\|Héparine]] bolus IV (sur prescription)  | Anticoagulation avant coronarographie  |
 | 15h25 | Réévaluation EVA + constantes  | EVA 4/10, TA 138/85, FC 92  |
 | 15h35 | Transfert USIC - scope continu  | Coronarographie en urgence programmée  |
 

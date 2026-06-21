@@ -57,7 +57,7 @@ Sa particularité remarquable : une biodisponibilité orale de 90%. Autrement di
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Candidose vaginale = 1 comprimé unique** → simple, efficace, mémorable
 2. **Inhibiteur CYP2C9 puissant** : l'INR peut doubler avec la warfarine, les taux de tacrolimus peuvent grimper → vérifier TOUTES les associations avant d'administrer

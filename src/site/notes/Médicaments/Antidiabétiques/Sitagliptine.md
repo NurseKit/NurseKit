@@ -39,7 +39,7 @@ Juste après un repas, l'intestin sécrète des hormones appelées incrétines (
 - [ ] Expliquer au patient : seul, ce médicament ne peut pas provoquer d'hypoglycémie → mais en combinaison, la vigilance reste de mise
 - [ ] Signaler tout signe de pancréatite (douleur épigastrique irradiant dans le dos, nausées intenses)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Zéro hypoglycémie en monothérapie** → action glucose-dépendante, le médicament "sait" quand s'arrêter
 2. **Adapter selon le rein** : DFG 30-50 → 50 mg ; DFG < 30 → 25 mg (deux paliers à connaître par cœur)

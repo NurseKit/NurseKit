@@ -6,7 +6,7 @@
 > [!abstract] Bilan Hydrique
 > Calcul de la différence entre les entrées et les sorties de liquides sur 24h.
 > Outil de surveillance clé en réanimation, soins intensifs, et tout patient à risque.
-> → Voir aussi : [[Pathologies/Insuffisance cardiaque\|IC]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Surveillance post-opératoire\|Post-op]]
+> → Voir aussi : [[Pathologies/Insuffisance cardiaque\|IC]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Soins Infirmiers/Surveillance post-opératoire\|Post-op]]
 
 ## Calcul du bilan hydrique
 

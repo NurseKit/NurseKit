@@ -6,7 +6,6 @@
 > [!abstract] En 2 mots
 > Des neurones qui s'éteignent un à un, sans retour possible → la mémoire, le langage, l'autonomie disparaissent dans l'ordre. Aucun médicament ne guérit, mais une prise en soin de qualité change tout pour le patient et ses proches. Ton rôle IDE est immense ici.
 
----
 
 ## C'est quoi ?
 
@@ -20,7 +19,6 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 
 > **Le piège classique :** oublier où on a posé ses clés = vieillissement normal. Oublier à quoi servent ses clés = signal d'alarme. La frontière est là.
 
----
 
 ## Épidémiologie
 
@@ -28,9 +26,8 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - **60 000 nouveaux cas/an** → 3ème cause de mortalité
 - Le risque double tous les 5 ans après 65 ans
 
----
 
-## Signes cliniques → Évolution en 3 phases
+## Comment ça se présente ?
 
 | Phase | Durée estimée | Ce qu'on observe |
 |-------|-------|----------------|
@@ -45,7 +42,6 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - Inversion du rythme nuit/jour → la famille n'en peut plus
 - Fugues, comportements sexuels inadaptés
 
----
 
 ## Diagnostic
 
@@ -60,7 +56,6 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - Bilan bio systématique : éliminer les causes curables qui miment Alzheimer (TSH, B12/folates, NFS, glycémie, sérologies)
 - **PET scan amyloïde / biomarqueurs LCR** (Aβ42, Tau, phospho-Tau) : pour la confirmation spécialisée
 
----
 
 ## Traitements
 
@@ -80,7 +75,6 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - Musicothérapie, art-thérapie → la mémoire musicale résiste très longtemps
 - Maintien des repères stables : routine, luminosité forte le jour, pictogrammes
 
----
 
 ## Ce qu'il ne faut PAS faire
 
@@ -93,9 +87,8 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 > - Ne pas laisser seul un patient à risque de fugue sans dispositif de protection adapté
 > - Sécuriser l'environnement : gaz, eau chaude, escaliers, médicaments hors de portée
 
----
 
-## Ce que je fais en tant qu'IDE
+## Rôle IDE
 
 - [ ] Évaluer la dépendance avec la grille AGGIR à chaque contact → ça change vite
 - [ ] Communication adaptée : phrases courtes, une idée à la fois, contact visuel, prénom toujours → ne jamais parler "sur" le patient devant lui
@@ -106,7 +99,6 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 - [ ] **Évaluer l'aidant** à chaque visite : dort-il ? A-t-il des moments de répit ? L'épuisement de l'aidant est une urgence soignante → orienter vers structures de répit
 - [ ] Tracer tous les épisodes d'agitation/SPCD avec le contexte dans le dossier → indispensable pour adapter la prise en charge
 
----
 
 ## Dispositifs de prise en charge
 
@@ -118,15 +110,22 @@ Les **TNCM** (anciennement appelés "démences", terme qu'on évite aujourd'hui)
 | **HAD** | Soins complexes à domicile quand la sortie est possible |
 | **Consultation mémoire** | Diagnostic, suivi, annonce → souvent le premier maillon |
 
----
 
-## Les 3 choses à retenir absolument
+
+## Points de vigilance
+
+> [!danger] Délirium superposé à la démence
+> Toute aggravation aiguë du comportement chez un patient dément = chercher une cause curable (infection, douleur, médicament, fécalome). Ce n'est pas une évolution normale de la maladie.
+
+> [!warning] Risques liés à la déambulation
+> Fugues, chutes, mise en danger. Environnement sécurisé, balisage, pas de contention sans prescription médicale.
+
+## Les 3 choses à retenir
 
 1. **MMSE < 24 = signal d'alarme** → adresser en consultation mémoire sans tarder
 2. **Valide, ne confronte pas** → "Oui, votre mari va arriver" plutôt que "Non, votre mari est décédé il y a 10 ans". L'important c'est l'émotion, pas le fait
 3. **L'aidant est aussi ton patient** → son épuisement précède souvent une crise. Évalue-le à chaque passage et oriente vers le répit
 
----
 
 ## Voir aussi
 

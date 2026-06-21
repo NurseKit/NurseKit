@@ -49,7 +49,7 @@ Le phloroglucinol agit directement sur les fibres musculaires lisses des viscèr
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Pas d'effet anticholinergique** → utilisable sans restriction chez le glaucomateux, le patient prostatique, la femme enceinte
 2. **Efficacité modeste** sur la douleur → associer un AINS ou antalgique pour les coliques sévères

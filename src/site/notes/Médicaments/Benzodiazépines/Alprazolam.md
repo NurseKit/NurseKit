@@ -54,7 +54,7 @@ Sa particularité : une demi-vie courte (6-15h), sans métabolite actif. Résult
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Demi-vie courte = sevrage plus dur"** → par rapport au diazépam, la réduction doit être encore plus progressive et lente ; l'arrêt brutal peut tuer
 2. **"4 semaines maximum"** → règle HAS, souvent contournée en pratique ; rappeler à chaque renouvellement

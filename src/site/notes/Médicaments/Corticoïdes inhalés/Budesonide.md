@@ -41,7 +41,7 @@ Le budésonide se dépose dans les bronches et réduit **l'inflammation chroniqu
 - [ ] Si dysphonie persistante → signaler au médecin
 - [ ] Éducation : l'effet est progressif (ne pas arrêter si pas d'effet immédiat)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Rincer la bouche après chaque inhalation** (candidose oropharyngée si non fait)
 2. Traitement de **fond** uniquement → pas d'effet en crise aiguë

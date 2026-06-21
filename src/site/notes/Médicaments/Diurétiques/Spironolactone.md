@@ -45,7 +45,7 @@ Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et d
 - [ ] Informer l'homme du risque de gynécomastie → mieux qu'il ne soit pas surpris
 - [ ] Si K⁺ > 5,5 mmol/L → suspendre et alerter le médecin immédiatement
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Hyperkaliémie K⁺ > 6 mmol/L = urgence cardiaque → ne jamais laisser passer sans réagir
 2. Elle épargne le potassium (contrairement au furosémide) → souvent associés pour équilibrer les pertes

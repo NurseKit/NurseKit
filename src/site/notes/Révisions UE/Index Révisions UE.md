@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Index Révisions UE/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/Index Révisions UE/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] Révisions UE
-> Synthèses par Unité d'Enseignement : 1ère et 2ème année IFSI
+> [!abstract] Révisions UE : 29 fiches
+> Synthèses par Unité d'Enseignement : 3 années IFSI complètes.
 > → [[index\| Accueil]]
 
 ## Par année
 
 - [[Révisions UE/Révisions 1ère Année\| Toutes les UEs de 1ère année (13 fiches)]]
 - [[Révisions UE/Révisions 2ème Année\| Toutes les UEs de 2ème année (9 fiches)]]
+- [[Révisions UE/Révisions 3ème Année\| Toutes les UEs de 3ème année (4 fiches)]]
 
 ---
 
@@ -41,3 +42,10 @@
 - [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]]
 - [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
 - [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]]
+
+## 3ème année
+
+- [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]]
+- [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]]
+- [[Révisions UE/UE 3.5 Encadrement des professionnels de santé\|UE 3.5 Encadrement des professionnels de santé]]
+- [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]]

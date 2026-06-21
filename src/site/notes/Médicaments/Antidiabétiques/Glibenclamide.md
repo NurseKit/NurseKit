@@ -42,7 +42,7 @@ Le glibenclamide **force** les cellules du pancréas à libérer de l'insuline, 
 - [ ] En cas d'hypo sévère : resucrage IV (glucosé 30%) et hospitalisation (demi-vie longue)
 - [ ] Vérifier DFG et âge avant de valider l'administration
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Hypoglycémies sévères et prolongées** → risque principal, surtout sujet âgé et IR
 2. Prendre **avant le repas** → ne pas administrer si repas sauté

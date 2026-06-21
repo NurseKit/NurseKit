@@ -43,7 +43,7 @@ L'azathioprine est une prodrogue → elle n'est pas active telle quelle. Dans le
 - [ ] Alerter immédiatement sur tout signe infectieux (fièvre, frissons, toux inhabituelle)
 - [ ] Éduquer : ne jamais arrêter seul, signaler tout saignement inhabituel ou fièvre
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **NFS obligatoire et régulière** → la leucopénie est silencieuse jusqu'à ce qu'elle ne l'est plus
 2. **Allopurinol = interaction potentiellement fatale** → diviser la dose par 4 ou changer de médicament

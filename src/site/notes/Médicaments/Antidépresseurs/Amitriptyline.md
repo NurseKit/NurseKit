@@ -47,7 +47,7 @@ L'amitriptyline est une clé universelle qui touche plein de serrures à la fois
 - [ ] Rappeler : pas d'alcool, pas de conduite en début de traitement
 - [ ] Si surdosage suspecté → appel SAMU immédiat sans attendre (urgence vitale)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Effets anticholinergiques quasi constants** → bouche sèche, constipation, rétention : anticiper et prévenir, pas attendre que le patient se plaigne
 2. **ECG avant si cardiopathie** → l'allongement du QT peut mener aux torsades de pointes

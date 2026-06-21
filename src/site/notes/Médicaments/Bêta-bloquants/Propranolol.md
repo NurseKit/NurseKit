@@ -52,7 +52,7 @@ Le propranolol bloque les récepteurs bêta-1 (cœur) ET bêta-2 (bronches, vais
 - [ ] Chez le diabétique : masque tachycardie ET tremblements (plus complet que les cardiosélectifs) → renforcer l'autosurveillance glycémique
 - [ ] Informer des troubles du sommeil possibles (cauchemars, insomnie, liposolubilité élevée)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Non sélectif (β1+β2) = ASTHME CONTRE-INDIQUÉ ABSOLUMENT (bronchospasme fatal possible)
 2. Liposoluble = passe dans le cerveau = effets neuropsychiques fréquents (cauchemars, dépression) ET utile pour tremblements/anxiété

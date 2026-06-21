@@ -43,7 +43,7 @@ Le mycophénolate bloque une enzyme (IMPDH) que les lymphocytes utilisent pour f
 - [ ] Ne jamais écraser ni ouvrir les gélules → risque tératogène pour le soignant
 - [ ] Si diarrhée sévère → signaler au médecin (peut nécessiter une réduction de dose ou un switch)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Tératogène majeur** → double contraception obligatoire pendant et 6 semaines après l'arrêt, sans exception
 2. **NFS mensuelle** → la leucopénie est fréquente et peut favoriser des infections graves

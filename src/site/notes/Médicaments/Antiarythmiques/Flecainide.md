@@ -42,7 +42,7 @@ Le flécaïnide bloque les canaux sodium du cœur, ralentissant la conduction é
 - [ ] Alerter si QRS augmente de plus de 25% par rapport à la valeur de référence
 - [ ] Pill-in-the-pocket : éduquer le patient → cette stratégie ne peut être utilisée qu'après un test supervisé en cardiologie. Ne pas improviser.
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Cœur sain uniquement** → mortalité multipliée par 3 en post-IDM (CAST 1989) : vérifier les ATCD cardiaques AVANT chaque administration
 2. **Allongement du QRS = effet attendu** → surveiller l'ECG et alerter si > +25%

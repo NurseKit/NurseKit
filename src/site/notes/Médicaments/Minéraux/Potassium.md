@@ -38,7 +38,7 @@ Le potassium est le principal sel intérieur des cellules → il maintient l'éq
 - [ ] Kaliémie de contrôle à **4h** après correction
 - [ ] Prévenir le patient : brûlures possibles sur la veine (dilution insuffisante)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **JAMAIS de KCl IV en bolus** (même dilué trop vite) → arrêt cardiaque

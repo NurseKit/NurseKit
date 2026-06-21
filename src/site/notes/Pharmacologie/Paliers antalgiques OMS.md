@@ -6,7 +6,7 @@
 > [!abstract] Paliers Antalgiques OMS
 > Classification internationale de l'OMS pour le traitement de la douleur en 3 paliers.
 > Chaque palier est adapté à l'intensité de la douleur et peut être utilisé seul ou en association.
-> → Voir aussi : [[Soins Infirmiers/Évaluation de la douleur\|Évaluation douleur]] · [[Médicaments/Morphine\|Morphine]] · [[Médicaments/Paracétamol\|Paracétamol]]
+> → Voir aussi : [[Soins Infirmiers/Évaluation de la douleur\|Évaluation douleur]] · [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]]
 
 ## Les 3 paliers OMS
 

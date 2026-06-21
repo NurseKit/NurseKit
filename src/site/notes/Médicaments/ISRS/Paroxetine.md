@@ -54,7 +54,7 @@ Même mécanisme de base que la sertraline (blocage SERT), mais avec deux partic
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **CI absolue avec tamoxifène** (cancer du sein) → mécanisme CYP2D6
 2. **Syndrome de sevrage parmi les plus sévères** des ISRS → réduction très progressive obligatoire

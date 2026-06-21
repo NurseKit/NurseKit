@@ -43,7 +43,7 @@ Les AVK bloquent la régénération de la vitamine K → les facteurs de coagula
 | Hémorragie peu sévère + INR > 3 | Vit K1 PO 1-5 mg |
 | **Hémorragie grave** (quel que soit l'INR) | **PPSB 25 UI/kg IV** + **Vit K1 10 mg IV lente (15 min)** → urgences/réa |
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Antidote AVK = **Konakion®** (K1) → mais efficacité **différée** → associer PPSB si urgence hémorragique

@@ -41,7 +41,7 @@ Le vaccin contient l'antigène de surface HBs (AgHBs) produit par des levures �
 > 3. **Ig anti-HBs 500 UI IM** + **1ère dose vaccin** (site contralateral) dans les **4 heures**
 > 4. Sérologie VIH, VHC, VHB à J0, M1, M3, M6
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **3 doses** à M0-M1-M6, puis **sérologie anti-HBs obligatoire** (titre ≥ 10 UI/L = immunisé)

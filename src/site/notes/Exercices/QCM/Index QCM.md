@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/Index QCM/","title":"QCM","tags":["index","qcm"],"noteIcon":"","dg-note-properties":{"title":"QCM","nom":"Index QCM","tags":["index","qcm"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Exercices/QCM/Index QCM/","title":"QCM","tags":["index","qcm","révisions","entraînement"],"noteIcon":"","dg-note-properties":{"title":"QCM","nom":"Index QCM","tags":["index","qcm","révisions","entraînement"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] QCM
-> 15 questions par thème : réponses masquées à déplier
+> [!abstract] QCM : 6 thèmes
+> 15 questions par thème, réponses repliables. Teste tes connaissances rapidement.
 > → [[index\| Accueil]]
+
+> [!tip] Méthode
+> Lis la question, formule ta réponse, puis déplie le corrigé.
 
 ## QCM disponibles
 

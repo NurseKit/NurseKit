@@ -54,7 +54,7 @@ Il est surtout efficace sur les vomissements aigus du premier jour (0-24h post-c
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"8 mg = le plafond IV"** → alerte ANSM 2013 sur le risque de torsades de pointes ; plus de 8 mg en une injection, c'est non
 2. **"Apomorphine = CI absolue"** → hypotension sévère et perte de conscience ; toujours vérifier le traitement antiparkinsonien

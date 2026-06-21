@@ -63,7 +63,7 @@ La forme liposomale (Ambisome®) emballe le médicament dans des sphères graiss
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **SG5% UNIQUEMENT** → si tu dilues dans du SSI, le médicament précipite et devient inutilisable (et potentiellement dangereux)
 2. **Voie centrale obligatoire** pour Fungizone® → une phlébite sur VVP avec ce produit, c'est très douloureux et néfaste pour le patient

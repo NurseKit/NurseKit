@@ -51,7 +51,7 @@ Le bevacizumab est un anticorps monoclonal qui **capture le VEGF** avant qu'il n
 - Traçabilité : numéro de lot, heure de début et de fin de perfusion, tolérance, TA avant/après
 - Rappeler au patient l'arrêt impératif avant toute intervention chirurgicale (même extraction dentaire)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Pas de neutropénie ni alopécie** → profil de toxicité différent de la chimio classique
 2. **TA + BU avant chaque cure** → HTA et protéinurie sont les effets les plus fréquents

@@ -75,6 +75,6 @@
 - Score d'Aldrete
 - [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Évaluation de la douleur\|Prise en charge de la douleur]]
-- [[Médicaments/Héparine\|HBPM]]
+- [[Médicaments/Anticoagulants/Héparine\|HBPM]]
 - Infection de site opératoire
 - [[Pathologies/Occlusion intestinale\|Occlusion intestinale]]

@@ -43,7 +43,7 @@ Il agit directement sur les récepteurs μ de la douleur dans le cerveau et la m
 - [ ] Surveiller la FR, la SpO2 et la sédation régulièrement
 - [ ] Anticiper la constipation avec un laxatif systématique
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Stupéfiant** → ordonnance sécurisée + traçabilité stricte à chaque administration
 2. **Jamais chez un naïf aux opioïdes** → le patch est réservé aux patients déjà morphinés

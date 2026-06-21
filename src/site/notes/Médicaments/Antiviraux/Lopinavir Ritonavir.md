@@ -60,7 +60,7 @@ Le ritonavir en faible dose bloque le foie de détruire trop vite le lopinavir �
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Ritonavir = boosteur** uniquement à cette dose (ne traite pas directement le VIH à faible dose, amplifie juste le lopinavir)
 2. **Interactions majeures** : rifampicine (CI), simvastatine (CI), midazolam oral (CI) → vérifier TOUT médicament ajouté

@@ -53,7 +53,7 @@ Sa demi-vie de 10-20h avec quelques métabolites actifs lui donne une durée d'a
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"4 semaines max, souvent non respecté"** → c'est le médicament qui illustre le mieux le problème de surconsommation chronique des BZD en France ; repère les patients qui en prennent depuis des mois ou des années
 2. **"Sujet âgé = demi-dose"** → chutes, confusion, accumulation ; c'est automatique, pas optionnel

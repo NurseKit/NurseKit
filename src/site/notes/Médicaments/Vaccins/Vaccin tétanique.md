@@ -41,7 +41,7 @@ L'anatoxine tétanique est la toxine inactivée par le formol → le système im
 - [ ] Surveillance 15-30 min (anaphylaxie)
 - [ ] Traçabilité dans le carnet de santé et le dossier
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Rappel tous les 10 ans** → souvent oubliés chez l'adulte, vérifier systématiquement

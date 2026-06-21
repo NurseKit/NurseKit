@@ -6,7 +6,7 @@
 > [!abstract] Ionogramme Sanguin - Interprétation pour l'IDE
 > L'ionogramme mesure les principaux ions du sang. L'IDE doit identifier les anomalies urgentes.
 > Normal : Na+ 135-145 · K+ 3,5-5,0 · Cl- 95-105 · HCO3- 22-26 (mmol/L)
-> → Voir aussi : [[Médicaments/Potassium IV\|Potassium IV]] · [[Pathologies/Insuffisance rénale aiguë\|IRA]] · [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]
+> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]
 
 ## Sodium (Na+) : Natrémie
 

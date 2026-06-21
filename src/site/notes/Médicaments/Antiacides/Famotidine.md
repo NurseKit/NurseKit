@@ -54,7 +54,7 @@ Contrairement aux IPP qui bloquent directement la pompe à acide, la famotidine 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Remplaçante officielle de la ranitidine** (retirée en 2020, contamination NDMA cancérogène)
 2. **Adapter la dose en insuffisance rénale** → c'est souvent oublié en pratique

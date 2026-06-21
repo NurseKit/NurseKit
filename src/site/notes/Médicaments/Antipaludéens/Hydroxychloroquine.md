@@ -60,7 +60,7 @@ Bonus : légère protection cardiovasculaire (anti-agrégant) et effet insulino-
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Traitement de fond du lupus → ne jamais arrêter sans avis médical** : l'arrêt du Plaquenil® peut déclencher une poussée lupique sévère
 2. **Fond d'œil annuel dès 5 ans** de traitement → la rétinopathie est irréversible si non dépistée à temps

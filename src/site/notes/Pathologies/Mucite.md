@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La mucite est une inflammation des muqueuses buccales et digestives causée par certains cytotoxiques ou la radiothérapie cervico-faciale. Elle peut mener à la dénutrition et aux infections graves. Les soins de bouche pluriquotidiens sont le pilier de la prévention et du traitement.
 
-## Définition
+## C'est quoi ?
 
 Inflammation et ulcération des muqueuses du tube digestif causées par :
 - Chimiothérapies : **5-FU**, **méthotrexate**, **doxorubicine** (adriamycine), cytarabine
@@ -24,7 +24,7 @@ Mécanisme : la chimio détruit les cellules épithéliales à renouvellement ra
 | **3** | Ulcérations étendues et confluentes | Alimentation liquide uniquement | Antalgiques palier 2-3, antifongiques |
 | **4** | Ulcérations nécrotiques, douleurs intenses | Impossible de s'alimenter | Nutrition entérale/parentérale, hospitalisation, morphine |
 
-## Complications
+## Comment ça se présente ?
 
 - **Douleur** : nécessite parfois morphine (palier 3)
 - **Infections** : Candida albicans (muguet), Herpès simplex (réactivation)
@@ -80,11 +80,22 @@ Mécanisme : la chimio détruit les cellules épithéliales à renouvellement ra
 - Proposer des glaces pilées ou sucettes glacées pour soulager la douleur (effet antalgique local)
 - Peser le patient quotidiennement : perte de poids > 2 kg en 48h = alerte diététicienne
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Bains de bouche bicarbonatés 5x/j dès J1 de chimio** : c'est le geste préventif le plus efficace
 2. **Stade 4 = urgence nutritionnelle** : nutrition entérale et hospitalisation, ne pas sous-estimer
 3. **Photographier la bouche à J0** de chaque cure pour objectiver l'évolution
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Cette fiche est un support de révision pour étudiants en soins infirmiers (ESI 2e année). Elle ne remplace pas les protocoles institutionnels ni le jugement clinique. Toujours se référer aux procédures du service et aux prescriptions médicales.

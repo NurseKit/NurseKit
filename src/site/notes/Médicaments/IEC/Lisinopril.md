@@ -45,7 +45,7 @@ Contrairement à l'énalapril ou au ramipril, le lisinopril est directement acti
 - [ ] Adapter systématiquement la dose si DFG < 30 mL/min
 - [ ] Si angio-œdème → STOP immédiat + appel 15
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Toux sèche dans 10 à 15 % → bascule vers ARA2 si intolérable
 2. Hyperkaliémie → surveiller le K⁺, surtout si IR ou diabète

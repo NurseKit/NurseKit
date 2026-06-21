@@ -48,7 +48,7 @@ La codéine est une "prodrogue" : elle est inactive telle quelle. Le foie la tra
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Interdit < 12 ans** → le génotype CYP2D6 rend la dose "normale" potentiellement mortelle
 2. **Constipation systématique** → laxatif préventif dès J1, sans attendre

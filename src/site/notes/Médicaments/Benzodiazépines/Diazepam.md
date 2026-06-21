@@ -59,7 +59,7 @@ Sa demi-vie très longue (20-100h) avec un métabolite actif (le nordazépam) qu
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Antidote = Flumazénil (Anexate®) → attention à la re-sédation"** → le flumazénil dure 45-90 min, le diazépam peut durer 24-100h → risque de re-sédation après l'antidote → surveillance prolongée obligatoire
 2. **"Arrêt brutal interdit"** → après traitement prolongé, les convulsions de sevrage peuvent être plus graves que l'épilepsie initiale ; réduction toujours progressive

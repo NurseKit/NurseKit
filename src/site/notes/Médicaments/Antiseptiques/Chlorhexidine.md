@@ -48,7 +48,7 @@ Elle s'attaque directement à la membrane des bactéries et la détruit → comm
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Jamais avec la Bétadine** (incompatibilité chimique, l'une neutralise l'autre)
 2. **Laisser sécher** avant le geste → si on pique dans le mouillé, l'antisepsie est nulle

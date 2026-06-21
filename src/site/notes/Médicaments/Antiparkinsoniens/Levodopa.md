@@ -42,7 +42,7 @@ La dopamine ne traverse pas la barrière entre le sang et le cerveau. La lévodo
 - [ ] Éviter métoclopramide et halopéridol (antagonistes dopaminergiques)
 - [ ] Éduquer patient et famille : ne jamais arrêter seul, signaler tout changement de comportement
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Jamais d'arrêt brutal** → syndrome malin parkinsonien (urgence vitale)
 2. Prendre à distance des repas protéinés (compétition d'absorption)

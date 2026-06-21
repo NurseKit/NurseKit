@@ -45,7 +45,7 @@ L'aténolol bloque les récepteurs bêta-1 du cœur, ce qui ralentit la fréquen
 - [ ] Éduquer le patient : NE JAMAIS arrêter seul
 - [ ] Chez le diabétique : renforcer l'autosurveillance glycémique
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. Ne JAMAIS arrêter brutalement → sevrage progressif sur ≥ 2 semaines (risque de rebond)
 2. Élimination rénale : adapter la dose en insuffisance rénale (accumulation = bradycardie)

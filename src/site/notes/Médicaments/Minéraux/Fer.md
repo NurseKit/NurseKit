@@ -37,7 +37,7 @@ Le fer est la « brique » de l'hémoglobine qui transporte l'oxygène dans les 
 - [ ] Durée : **3 mois minimum** après normalisation de l'Hb
 - [ ] IV Ferinject® : diluer dans 100-250 mL SSI, perfuser 15 min, surveillance 30 min après
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Selles noires = NORMAL** sous fer PO → à expliquer avant la prescription pour éviter la panique

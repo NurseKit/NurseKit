@@ -36,7 +36,7 @@ Le bisacodyl stimule directement les cellules du côlon → augmentation du pér
 - [ ] Expliquer : comprimés à avaler entiers (ne pas croquer ni écraser), espacer du lait de 1-2h
 - [ ] Préférer le macrogol pour la constipation chronique
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Usage occasionnel uniquement** (max 5-7 jours) → risque de dépendance colique si prolongé

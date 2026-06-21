@@ -48,7 +48,7 @@ Triple mécanisme : s'intercale entre les brins d'ADN + bloque la topoisomérase
 - [ ] Antiémétiques (HEC) : trithérapie avant administration
 - [ ] NFS J10-14 (nadir myélosuppression)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Vésicant majeur = VVC obligatoire** → extravasation = urgence chirurgicale
 2. **FEVG avant chaque cycle** → dose max cumulative 450-550 mg/m²

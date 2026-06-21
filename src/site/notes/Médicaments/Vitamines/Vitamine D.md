@@ -38,7 +38,7 @@ La vitamine D est fabriquée par la peau sous l'effet des UVB → activée dans 
 - [ ] Calcémie si traitement intensif ou patient à risque (sarcoïdose, greffe)
 - [ ] Inducteurs CYP (rifampicine, phénytoïne) → augmenter la dose de supplémentation
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **Carence quasi-universelle** chez le sujet âgé institutionnalisé → supplémenter systématiquement (1000-2000 UI/j)

@@ -6,7 +6,7 @@
 > [!abstract] En 2 mots
 > La déshydratation aiguë est une urgence potentielle chez le nourrisson dont l'eau représente 80% du poids corporel. La gastro-entérite aiguë à rotavirus en est la cause n°1. La réhydratation orale par SRO est le traitement de référence des formes légères à modérées ; la voie veineuse est réservée aux formes sévères.
 
-## Particularités physiologiques pédiatriques
+## C'est quoi ?
 
 | Paramètre | Nouveau-né | Nourrisson | Adulte |
 |---|---|---|---|
@@ -26,7 +26,7 @@
 - Insuffisance d'apport (erreur de préparation des biberons, mauvaise technique d'allaitement)
 - Diabète insipide, diarrhées chroniques
 
-## Évaluation de la sévérité
+## Comment ça se présente ?
 
 > [!warning] Évaluation basée sur le % de perte de poids corporel (peser si poids antérieur connu)
 
@@ -102,7 +102,7 @@ Composition des SRO (OMS) : Na 75 mmol/L, K 20 mmol/L, glucose 75 mmol/L, osmola
 - Régime alimentaire : pas de régime restrictif, alimentation normale adaptée à l'âge
 - Pas d'anti-diarrhéiques chez l'enfant (lopéramide CI < 2 ans)
 
-## Surveillance IDE
+## Rôle IDE
 
 | Paramètre | Fréquence | Critère d'alarme |
 |---|---|---|
@@ -118,11 +118,22 @@ Composition des SRO (OMS) : Na 75 mmol/L, K 20 mmol/L, glucose 75 mmol/L, osmola
 > [!info] Les couches pesées sont la méthode de référence pour évaluer la diurèse du nourrisson
 > Poids couche mouillée - poids couche sèche = volume urinaire (1g = 1 mL)
 
+
+## Points de vigilance
+
+> [!warning] Points à surveiller
+> Repérer toute aggravation clinique et alerter le médecin.
+
 ## Les 3 choses à retenir
 
 1. **Le SRO est le traitement de référence** des déshydratations légères à modérées : jamais d'eau pure, de jus de fruit ou de soda en remplacement
 2. **Déshydratation sévère = voie veineuse ou intra-osseuse** : NaCl 0,9% 20 mL/kg en 20 min, réévaluation après chaque bolus
 3. **La surveillance IDE passe par le poids et les couches pesées** : c'est la manière la plus objective d'évaluer l'évolution de la déshydratation chez le nourrisson
+
+
+## Voir aussi
+
+→ Liens à compléter
 
 > [!caution] Outil pédagogique
 > Fiche réalisée à des fins d'apprentissage pour étudiants en soins infirmiers (ESI 2ème année). Ne se substitue pas aux protocoles institutionnels ni au jugement clinique. En situation réelle, toujours se référer aux recommandations en vigueur et aux protocoles du service.

@@ -46,7 +46,7 @@ Le sotalol agit de deux façons : comme un bêta-bloquant (ralentit le cœur) et
 - [ ] Ne JAMAIS arrêter brutalement (rebond sympathique)
 - [ ] Surveiller les signes de bronchospasme (BB non sélectif)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. QTc > 500 ms = DANGER IMMÉDIAT = torsades de pointes possibles = alerter et arrêter
 2. Corriger hypokaliémie et hypomagnésémie AVANT toute initiation (facteurs aggravants majeurs)

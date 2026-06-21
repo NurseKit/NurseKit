@@ -36,7 +36,7 @@ Le zinc est co-facteur de plus de 300 enzymes : synthèse protéique, division c
 - [ ] Espacer des tétracyclines/quinolones de 2h si association
 - [ ] Réévaluer la cicatrisation et la nutrition globale à 3 mois
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. Indication principale en pratique : **cicatrisation** chez le dénutri (escarres, ulcères)

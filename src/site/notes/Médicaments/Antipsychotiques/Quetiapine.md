@@ -57,7 +57,7 @@ En plus, son métabolite actif (norquétiapine) inhibe la pompe à noradrénalin
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Seul antipsychotique avec AMM dans la dépression bipolaire** (grâce au métabolite norquétiapine)
 2. **Interactions CYP3A4 majeures** : azolés × quétiapine (toxicité) ; carbamazépine ÷ quétiapine (perte d'efficacité)

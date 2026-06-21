@@ -56,7 +56,7 @@ Le clotrimazole fonctionne comme le fluconazole → il bloque la fabrication de 
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Usage topique exclusif** → pas de forme systémique en France, s'applique uniquement localement
 2. **Zéro interaction médicamenteuse** → absorption < 5% → très sécuritaire même pour les patients polymédiqués

@@ -1,24 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sevrage alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"noteIcon":"","dg-note-properties":{"nom":"Sevrage alcoolique","titre":"Syndrome de Sevrage Alcoolique","tags":["pathologie","addictologie","alcool","sevrage","benzodiazépines"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sevrage alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de sevrage alcoolique","systeme":"Psychiatrie","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"revision":"2026-06-21"}}
 ---
 
 
-> [!abstract] Syndrome de Sevrage Alcoolique
-> Syndrome de manque appraissant 6-24h après arrêt ou réduction de l'alcool chez un patient dépendant.
-> Complications graves : delirium tremens, convulsions, mort.
-> → Voir aussi : [[Médicaments/Midazolam\|Midazolam]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
+> [!abstract] En 2 mots
+> Syndrome de manque apparaissant 6-24h après arrêt ou réduction de l'alcool chez un patient dépendant. Complications graves : convulsions (24-48h), delirium tremens (48-96h). Mortalité < 1% avec traitement, 5-15% sans.
 
-## Chronologie du sevrage
+## C'est quoi ?
+
+**Définition** : syndrome neurologique et végétatif survenant lors de l'arrêt ou de la réduction brutale de l'alcool chez un sujet dépendant (consommation chronique > 8-10 verres/j).
+
+**Mécanisme** : l'alcool est un dépresseur du SNC. L'arrêt lève l'inhibition chronique → hyperexcitabilité neuronale (rebond GABA/glutamate).
+
+**Facteurs de risque de sévérité** : alcoolisme ancien, sevrages antérieurs, convulsions passées, dénutrition, comorbidités.
+
+## Comment ça se présente ?
+
+**Chronologie** :
 
 | Délai après dernière prise | Signes |
 |--------------------------|--------|
-| 6-12h | Tremblements, sueurs, anxiété, irritabilité, tachycardie |
-| 12-24h | Aggravation, possible hallucinations visuelles/tactiles |
-| 24-48h | Risque de convulsions (pic) |
-| 48-96h | Risque de delirium tremens (pic) |
+| 6-12h | Tremblements, sueurs, anxiété, irritabilité, tachycardie, HTA |
+| 12-24h | Aggravation, hallucinations visuelles/tactiles possibles |
+| 24-48h | Pic de risque de convulsions tonico-cloniques |
+| 48-96h | Pic de risque de delirium tremens |
 | > 5 jours | Atténuation progressive si traitement bien conduit |
 
-## Score CIWA-Ar (Clinical Institute Withdrawal Assessment)
+**Score CIWA-Ar** (évalue la sévérité, oriente les doses de BZD) :
 
 | Item | Score 0-7 |
 |------|-----------|
@@ -29,25 +37,41 @@
 | Agitation | 0 = absent, 7 = agitation extrême |
 | Perturbations sensorielles | 0 = absent, 7 = hallucinations continues |
 | Céphalées | 0 = absent, 7 = sévères |
-| Orientation | 0 = orienté, 4 = désorientation |
+| Orientation | 0 = orienté, 4 = désorienté |
 
-> [!danger] Delirium tremens - Urgence médicale
-> Confusion + hallucinations + agitation + hyperthermie + sueurs profuses + tachycardie
-> Apparaît 48-96h après arrêt alcool
-> Benzodiazépines IV (Diazépam) à fortes doses + surveillance réanimation
-> Mortalité 5-15% sans traitement, < 1% avec traitement adapté
+Score > 10 = sevrage sévère ; > 15 = risque de delirium tremens.
 
-## Traitement du sevrage
+## Rôle IDE
 
-> [!warning] Protocole IDE
-> Benzodiazépines : Diazépam PO ou IV selon score CIWA-Ar
-> Thiamine (Vitamine B1) IV : 500 mg x3/j les 3 premiers jours (prévention Gayet-Wernicke)
-> Toujours donner la thiamine AVANT le glucose (risque d'encéphalopathie)
-> Vitamines B1B6 PO relais
-> Hydratation, correction troubles ioniques (hypomagnésémie, hypokaliémie)
+- Score CIWA-Ar toutes les 4-8h (adapter les doses de BZD selon le score)
+- Scope : FC, TA, T°, SpO2, glycémie capillaire régulière
+- VVP et bilan : ionogramme, glycémie, NFS, TP/TCA, magnésium, phosphore, alcoolémie, B9/B12
+- **Thiamine (Vitamine B1) IV 500 mg x3/j les 3 premiers jours** : prévention encéphalopathie de Gayet-Wernicke
+- Toujours donner la thiamine **AVANT** le glucose (risque d'encéphalopathie de Gayet-Wernicke si ordre inversé)
+- Benzodiazépines (diazépam) PO ou IV selon prescription et score CIWA-Ar
+- Hydratation, correction des troubles ioniques (hypomagnésémie, hypokaliémie fréquentes)
+- Sécurité du patient : barrières de lit, environnement calme, chambre peu stimulante
+- Surveillance convulsions : position latérale de sécurité, ne rien mettre dans la bouche
 
-> [!tip] Surveillance IDE
-> Score CIWA-Ar toutes les 4-8h (adaptation doses BZD)
-> FC, PA, T°, conscience régulièrement
-> Glycémie (hypoglycémie fréquente)
-> Sécurité du patient : barrières de lit, prévention chutes
+## Points de vigilance
+
+> [!danger] Delirium tremens = urgence médicale
+> Confusion + hallucinations + agitation + hyperthermie + sueurs + tachycardie, survenant 48-96h après arrêt. Benzodiazépines IV à fortes doses + transfert en réanimation si besoin. Mortalité 5-15% sans traitement.
+
+> [!danger] Encéphalopathie de Gayet-Wernicke
+> Triade : confusion + ophtalmoplégie + ataxie. Carence en vitamine B1 (thiamine). Toujours donner la thiamine AVANT le glucose, jamais l'inverse. Traitement = thiamine IV en urgence.
+
+> [!warning] Convulsions : pic à 24-48h
+> Généralisées tonico-cloniques, souvent isolées. Appel médecin, position latérale de sécurité. Les BZD couvrent le risque convulsif en première intention.
+
+## Les 3 choses à retenir
+
+1. **Thiamine IV AVANT le glucose** : Gayet-Wernicke si ordre inversé, irréversible
+2. **Score CIWA-Ar toutes les 4-8h** : guide les doses de BZD, dépiste la dégradation
+3. **Delirium tremens à 48-96h = urgence réanimatoire** : anticiper, ne pas attendre l'aggravation
+
+## Voir aussi
+
+[[Médicaments/Benzodiazépines/Diazepam\|Diazepam]] · [[Médicaments/Sédatifs/Midazolam\|Midazolam]] · [[Pathologies/Confusion aigue delirium\|Confusion aigue delirium]] · [[Soins Infirmiers/Soins sans consentement psychiatrie\|Soins sans consentement psychiatrie]]
+
+> [!caution] Outil pédagogique · Source : ANAES, SFA

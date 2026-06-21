@@ -58,7 +58,7 @@ Deux spécificités importantes à retenir :
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **"Tolérance à 3-6 mois"** → l'efficacité antiépileptique peut diminuer progressivement ; à surveiller et signaler au neurologue ; c'est fréquent et prévisible
 2. **"Arrêt brutal = convulsions"** → même chez un non-épileptique traité longtemps ; réduction obligatoirement progressive, toujours sous supervision médicale

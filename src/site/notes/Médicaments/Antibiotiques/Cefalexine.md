@@ -55,7 +55,7 @@ Attention : spectre étroit = n'agit que sur certaines bactéries (cocci Gram+).
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Spectre étroit** : uniquement pour infections à cocci Gram+ (peau, ORL) → inefficace sur entérobactéries résistantes
 2. **Allergie croisée pénicilline** : faible (1-2 %) mais CI si anaphylaxie vraie aux pénicillines

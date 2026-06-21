@@ -241,6 +241,6 @@ C1 × V1 = C2 × V2
 [[Soins Infirmiers/Administration IV SC\|Injection sous-cutanée]]
 Perfusion IV
 Anticoagulants
-[[Médicaments/Insuline\|Insuline]]
+[[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI

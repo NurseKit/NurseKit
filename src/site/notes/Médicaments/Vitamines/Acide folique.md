@@ -35,7 +35,7 @@ Les folates sont des co-facteurs indispensables à la division cellulaire (synth
 - [ ] MTX : acide folique le **lendemain** de la prise (jamais le même jour)
 - [ ] Antiépileptiques : signaler la grossesse au neurologue → renforcer folates 5 mg/j
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **PRÉ-conceptionnelle** : débuter 1 mois avant la conception, pas après la grossesse confirmée

@@ -45,7 +45,7 @@ Le ticagrelor bloque directement le récepteur P2Y12 des plaquettes → sans pas
 - [ ] Vérifier la dose d'aspirine concomitante : **75-100 mg max** (dose > 100 mg réduit l'efficacité du ticagrelor)
 - [ ] Avant chirurgie programmée : arrêt 3-5 jours (délai plus court qu'avec le clopidogrel)
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **P2Y12 réversible et non prodrogue** = effet plus rapide et prévisible que clopidogrel → délai retour 3-5j
 2. **Dyspnée fréquente (~15%)** = effet attendu NON dangereux → toujours expliquer au patient dès le début

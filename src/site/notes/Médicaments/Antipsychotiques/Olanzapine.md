@@ -57,7 +57,7 @@ L'olanzapine bloque un très grand nombre de récepteurs en même temps (l'un de
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Syndrome métabolique +++ (prise de poids, diabète)** → bilan métabolique régulier obligatoire
 2. **Olanzapine IM + BZD IM = dangereux** → délai minimum 1 heure

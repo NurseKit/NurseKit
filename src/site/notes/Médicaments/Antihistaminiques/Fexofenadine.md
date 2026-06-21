@@ -50,7 +50,7 @@ Elle est le métabolite actif de la terfénadine, retirée du marché dans les a
 
 ---
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 1. **Non sédatif** grâce à la P-glycoprotéine → compatible avec toutes les activités nécessitant de la vigilance
 2. **Jus de fruits = -36% d'absorption** → pamplemousse, orange, pomme : tous à éviter avec la prise. Eau uniquement.

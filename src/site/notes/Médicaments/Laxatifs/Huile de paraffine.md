@@ -35,7 +35,7 @@ L'huile minérale n'est pas absorbée par l'intestin → elle lubrifie la muqueu
 - [ ] Éviter chez les patients sous AVK ou vitamines liposolubles (malabsorption)
 - [ ] Préférer le macrogol dans tous les cas possibles
 
-## Les 3 choses à retenir absolument
+## Les 3 choses à retenir
 
 > [!caution] Outil pédagogique
 > 1. **CI absolue** chez le patient alité ou dysphagique → pneumopathie lipoïde irréversible

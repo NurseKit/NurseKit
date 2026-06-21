@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : OAP sur Insuffisance Cardiaque
 > **Mme Hélène, 78 ans** · ATCD : IC chronique, HTA, FA sous Warfarine, Furosémide 40 mg/j
 > Appelée pour dyspnée brutale au repos à 3h du matin
-> → Voir aussi : [[Pathologies/Insuffisance cardiaque\|IC]] · [[Médicaments/Furosémide\|Furosémide]] · [[Médicaments/Trinitrine\|Trinitrine]]
+> → Voir aussi : [[Pathologies/Insuffisance cardiaque\|IC]] · [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]
 
 > [!note] Présentation initiale (03h15)
 > **Dyspnée** : FR 32/min, orthopnée, impossible de s'allonger

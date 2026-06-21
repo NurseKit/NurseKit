@@ -6,7 +6,7 @@
 > [!abstract] Cas Clinique : ACR en Service
 > **M. Robert, 62 ans** · Post-IDM J2, en service de cardiologie sous monitoring
 > Alarme du scope à 14h45 : FV détectée
-> → Voir aussi : [[Pathologies/ACR\|ACR]] · [[Soins Infirmiers/Défibrillation CEE\|Défibrillation/CEE]] · [[Médicaments/Adrénaline\|Adrénaline]]
+> → Voir aussi : [[Pathologies/ACR & RCP\|ACR]] · [[Soins Infirmiers/Défibrillation CEE\|Défibrillation/CEE]] · [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]]
 
 > [!note] Situation initiale (14h45)
 > Alarme scope : FV (fibrillation ventriculaire)
