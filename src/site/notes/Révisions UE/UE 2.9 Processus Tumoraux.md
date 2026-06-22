@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.9 Processus Tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.9 Processus Tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 

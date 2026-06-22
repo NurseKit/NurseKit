@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition entérale/","tags":["soin","nutrition","sonde","alimentation","entérale"],"noteIcon":"","dg-note-properties":{"nom":"Nutrition entérale","titre":"Nutrition Entérale","tags":["soin","nutrition","sonde","alimentation","entérale"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition entérale/","tags":["soin","nutrition","sonde","alimentation","entérale"],"noteIcon":"","dg-note-properties":{"nom":"Nutrition entérale","titre":"Nutrition Entérale","tags":["soin","nutrition","sonde","alimentation","entérale"],"revision":"2026-06-22"}}
 ---
 
 
@@ -53,6 +53,9 @@
 > 20-30 mL eau stérile avant et après chaque médicament
 > 20-30 mL toutes les 4-6h pendant nutrition continue
 > Ne jamais mélanger médicaments dans la poche de nutrition
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

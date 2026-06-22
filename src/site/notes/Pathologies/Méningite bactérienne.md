@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Méningite bactérienne/","tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","classe":["Pathologie infectieuse","Urgence neurologique","Urgence vitale"],"tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Méningite bactérienne/","tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Méningite bactérienne","classe":["Pathologie infectieuse","Urgence neurologique","Urgence vitale"],"tags":["pathologie","infectieux","neurologie","urgence","réanimation"],"revision":"2026-06-22"}}
 ---
 
 

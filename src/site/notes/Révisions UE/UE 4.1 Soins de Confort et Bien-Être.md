@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.1 Soins de Confort et Bien-Être/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.1 Soins de Confort et Bien-Être/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

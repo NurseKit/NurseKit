@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention des escarres/","tags":["soin","escarre","prévention","mobilisation","pression"],"noteIcon":"","dg-note-properties":{"nom":"Prévention des escarres","titre":"Prévention des Escarres","tags":["soin","escarre","prévention","mobilisation","pression"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Prévention des escarres/","tags":["soin","escarre","prévention","mobilisation","pression"],"noteIcon":"","dg-note-properties":{"nom":"Prévention des escarres","titre":"Prévention des Escarres","tags":["soin","escarre","prévention","mobilisation","pression"],"revision":"2026-06-22"}}
 ---
 
 
@@ -51,6 +51,9 @@
 | I | Protection film transparent | Réduire friction |
 | II | Hydrocolloïde ou hydrogel | Milieu humide, protection |
 | III/IV | Pansement absorbant + détersion | Détersion, combler |
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

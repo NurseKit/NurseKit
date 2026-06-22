@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/","title":"Conditions Générales d'Utilisation","tags":["readme","cgu","legal"],"noteIcon":"","dg-note-properties":{"title":"Conditions Générales d'Utilisation","nom":"Conditions Générales d'Utilisation (CGU)","type":"Conditions Générales d'Utilisation (CGU)","tags":["readme","cgu","legal"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/README/","title":"Conditions Générales d'Utilisation","tags":["readme","cgu","legal"],"noteIcon":"","dg-note-properties":{"title":"Conditions Générales d'Utilisation","nom":"Conditions Générales d'Utilisation (CGU)","type":"Conditions Générales d'Utilisation (CGU)","tags":["readme","cgu","legal"],"revision":"2026-06-22"}}
 ---
 
 

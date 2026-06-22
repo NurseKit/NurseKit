@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilans sanguins et normes/","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"noteIcon":"","dg-note-properties":{"nom":"Bilans sanguins et Normes de référence","classe":["Soin infirmier","Référence"],"type":"Fiche référence","systeme":"Biologie médicale","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilans sanguins et normes/","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"noteIcon":"","dg-note-properties":{"nom":"Bilans sanguins et Normes de référence","classe":["Soin infirmier","Référence"],"type":"Fiche référence","systeme":"Biologie médicale","tags":["bilan-sanguin","norme","biologie","reference","NFS","ionogramme"],"revision":"2026-06-22"}}
 ---
 
 

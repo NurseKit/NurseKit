@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Révisions 2ème Année/","title":"Révisions 2ème Année","tags":["index","révisions-ue","2eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 2ème Année","nom":"Révisions 2ème Année IFSI","type":"Index","tags":["index","révisions-ue","2eme-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/Révisions 2ème Année/","title":"Révisions 2ème Année","tags":["index","révisions-ue","2eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 2ème Année","nom":"Révisions 2ème Année IFSI","type":"Index","tags":["index","révisions-ue","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 

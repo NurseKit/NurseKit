@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.4 Initiation à la démarche de recherche/","tags":["révision","ue-3-4","ifsi","3eme-annee","recherche"],"noteIcon":"","dg-note-properties":{"nom":"Initiation à la démarche de recherche","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.4","tags":["révision","ue-3-4","ifsi","3eme-annee","recherche"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.4 Initiation à la démarche de recherche/","tags":["révision","ue-3-4","ifsi","3eme-annee","recherche"],"noteIcon":"","dg-note-properties":{"nom":"Initiation à la démarche de recherche","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.4","tags":["révision","ue-3-4","ifsi","3eme-annee","recherche"],"revision":"2026-06-22"}}
 ---
 
 

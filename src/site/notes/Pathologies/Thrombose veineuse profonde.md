@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Thrombose veineuse profonde/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"Thrombose veineuse profonde","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Thrombose veineuse profonde/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"Thrombose veineuse profonde","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-22"}}
 ---
 
 

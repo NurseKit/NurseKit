@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Fièvre enfant conduite à tenir/","tags":["pathologie","pédiatrie","urgence","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Fièvre de l'enfant : conduite à tenir","tags":["pathologie","pédiatrie","urgence","infectieux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Fièvre enfant conduite à tenir/","tags":["pathologie","pédiatrie","urgence","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Fièvre de l'enfant : conduite à tenir","tags":["pathologie","pédiatrie","urgence","infectieux"],"revision":"2026-06-22"}}
 ---
 
 
@@ -60,6 +60,9 @@ La fièvre est définie par une température rectale ≥ 38°C (axillaire ≥ 37
 ## Voir aussi
 
 [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] · [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] · [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] · [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

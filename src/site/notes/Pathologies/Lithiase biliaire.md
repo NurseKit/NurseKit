@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lithiase biliaire/","tags":["pathologie","digestif","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase biliaire / Colique hépatique","systeme":"Digestif","tags":["pathologie","digestif","chirurgie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Lithiase biliaire/","tags":["pathologie","digestif","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase biliaire / Colique hépatique","systeme":"Digestif","tags":["pathologie","digestif","chirurgie"],"revision":"2026-06-22"}}
 ---
 
 

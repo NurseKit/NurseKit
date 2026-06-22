@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Cas Cliniques/","tags":["index","entrainement","cas-cliniques","transmissions"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques & Transmissions","tags":["index","entrainement","cas-cliniques","transmissions"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Cas Cliniques/","tags":["index","entrainement","cas-cliniques","transmissions"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques & Transmissions","tags":["index","entrainement","cas-cliniques","transmissions"],"revision":"2026-06-22"}}
 ---
 
 
-> [!abstract] Cas Cliniques & Transmissions : 16 fiches
+> [!abstract] Cas Cliniques & Transmissions : 19 fiches
 > Situations cliniques complètes + transmissions ciblées rédigées. Idéal pour s'entraîner aux examens IFSI.
 > → [[index\| Accueil]]
 
@@ -24,7 +24,17 @@
 | [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]] | Diabète et sepsis |
 | [[Exercices/Cas Cliniques/CC FA\|CC FA]] | Fibrillation atriale |
 | [[Exercices/Cas Cliniques/CC IDM\|CC IDM]] | Infarctus du myocarde |
-| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]]
+| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]] | Méningite bactérienne |
+| [[Exercices/Cas Cliniques/CC OAP\|CC OAP]] | Œdème aigu pulmonaire |
+| [[Exercices/Cas Cliniques/CC Post-op\|CC Post-op]] | Post-opératoire |
+
+## Cas Cliniques S5 (3ème année)
+
+| Cas | Thème |
+|-----|-------|
+| [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC S5 Diabète IRC IDM]] | Poly-pathologie : Diabète + IRC + IDM |
+| [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC S5 Sujet âgé poly-médicamenté]] | Gériatrie : PTH + décompensation cardiaque + délirium |
+| [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC S5 Aplasie fébrile chimio]] | Oncologie : Aplasie fébrile post-chimiothérapie |
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

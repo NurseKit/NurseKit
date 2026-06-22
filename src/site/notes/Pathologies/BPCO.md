@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/BPCO/","tags":["pathologie","respiratoire","chronique","tabac"],"noteIcon":"","dg-note-properties":{"nom":"BPCO (Bronchopneumopathie chronique obstructive)","systeme":"Respiratoire","tags":["pathologie","respiratoire","chronique","tabac"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/BPCO/","tags":["pathologie","respiratoire","chronique","tabac"],"noteIcon":"","dg-note-properties":{"nom":"BPCO (Bronchopneumopathie chronique obstructive)","systeme":"Respiratoire","tags":["pathologie","respiratoire","chronique","tabac"],"revision":"2026-06-22"}}
 ---
 
 

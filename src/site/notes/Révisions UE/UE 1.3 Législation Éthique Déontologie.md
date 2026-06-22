@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.3 Législation Éthique Déontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 1.3 Législation Éthique Déontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

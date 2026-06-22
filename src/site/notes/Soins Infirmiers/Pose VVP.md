@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Pose VVP/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"noteIcon":"","dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Pose VVP/","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"noteIcon":"","dg-note-properties":{"nom":"Pose de Voie Veineuse Périphérique (VVP)","type":"Soin infirmier","domaine":"Technique","tags":["VVP","cathéter","veineux","injection","abord veineux","phlébite"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -50,6 +50,9 @@ Cathéter de la taille choisie + garrot + compresses stériles + chlorhexidine a
 
 ---
 → [[Soins Infirmiers/Administration IV SC\|Administration IV/SC]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Pathologies/IDM\|IDM]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

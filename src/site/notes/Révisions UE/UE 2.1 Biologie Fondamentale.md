@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.1 Biologie Fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.1 Biologie Fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

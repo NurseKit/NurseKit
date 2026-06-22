@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Neutrophiles/","tags":["norme","biologie","reference","NFS","neutrophiles","neutropénie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Neutrophiles (PNN : Polynucléaires Neutrophiles)","categorie":"NFS : Formule leucocytaire","norme":"1,8-7,5 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","neutrophiles","neutropénie","oncologie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Neutrophiles/","tags":["norme","biologie","reference","NFS","neutrophiles","neutropénie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Neutrophiles (PNN : Polynucléaires Neutrophiles)","categorie":"NFS : Formule leucocytaire","norme":"1,8-7,5 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","neutrophiles","neutropénie","oncologie"],"revision":"2026-06-22"}}
 ---
 
 

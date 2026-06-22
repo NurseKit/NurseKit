@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Gériatrie/","tags":["fiche-de-service","gériatrie","ehpad"],"noteIcon":"","dg-note-properties":{"nom":"Fiche de Service : Gériatrie & EHPAD","tags":["fiche-de-service","gériatrie","ehpad"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Fiches de Service/Gériatrie/","tags":["fiche-de-service","gériatrie","ehpad"],"noteIcon":"","dg-note-properties":{"nom":"Fiche de Service : Gériatrie & EHPAD","tags":["fiche-de-service","gériatrie","ehpad"],"revision":"2026-06-22"}}
 ---
 
 

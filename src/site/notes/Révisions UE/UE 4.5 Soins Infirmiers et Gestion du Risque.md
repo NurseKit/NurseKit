@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque/","tags":["révision","ue-4-5","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.5 - Soins Infirmiers et Gestion du Risque","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.5","tags":["révision","ue-4-5","ifsi","2eme-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque/","tags":["révision","ue-4-5","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.5 - Soins Infirmiers et Gestion du Risque","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.5","tags":["révision","ue-4-5","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 

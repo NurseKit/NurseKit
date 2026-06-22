@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du myocarde (IDM)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du myocarde (IDM)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"revision":"2026-06-22"}}
 ---
 
 

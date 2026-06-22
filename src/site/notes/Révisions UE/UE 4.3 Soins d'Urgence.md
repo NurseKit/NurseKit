@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.3 Soins d'Urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.3 Soins d'Urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

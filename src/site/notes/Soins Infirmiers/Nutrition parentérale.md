@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition parentérale/","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"noteIcon":"","dg-note-properties":{"nom":"Nutrition parentérale","titre":"Nutrition Parentérale (NP)","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Nutrition parentérale/","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"noteIcon":"","dg-note-properties":{"nom":"Nutrition parentérale","titre":"Nutrition Parentérale (NP)","tags":["soin","nutrition","parentérale","voie centrale","cathéter"],"revision":"2026-06-22"}}
 ---
 
 
@@ -51,6 +51,9 @@
 > Manipulation en asepsie rigoureuse (gants stériles, champ stérile)
 > Changement pansement cathéter toutes les 72h ou si souillé
 > Signaler tout signe local (rougeur, douleur, écoulement)
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

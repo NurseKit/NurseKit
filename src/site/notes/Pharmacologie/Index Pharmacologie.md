@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Index Pharmacologie/","title":"Pharmacologie","tags":["index","pharmacologie"],"noteIcon":"","dg-note-properties":{"title":"Pharmacologie","nom":"Index Pharmacologie","tags":["index","pharmacologie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Index Pharmacologie/","title":"Pharmacologie","tags":["index","pharmacologie"],"noteIcon":"","dg-note-properties":{"title":"Pharmacologie","nom":"Index Pharmacologie","tags":["index","pharmacologie"],"revision":"2026-06-22"}}
 ---
 
 

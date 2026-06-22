@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilan hydrique/","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"Bilan hydrique","titre":"Bilan Hydrique","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Bilan hydrique/","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"Bilan hydrique","titre":"Bilan Hydrique","tags":["soin","bilan hydrique","diurèse","hydratation","surveillance"],"revision":"2026-06-22"}}
 ---
 
 
@@ -49,6 +49,9 @@
 > Entrées : additionner tous les flacons de perfusion passés + boissons notées
 > Sorties : relevé de la poche urinaire, noter heure et volume à chaque relevé
 > Calcul final à la fin du poste (transmissions à l'équipe suivante)
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

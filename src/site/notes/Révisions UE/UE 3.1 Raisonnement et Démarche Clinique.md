@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.1 Raisonnement et Démarche Clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.1 Raisonnement et Démarche Clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Index Normes/","title":"Normes biologiques","tags":["index","norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"title":"Normes biologiques","nom":"Index Normes","tags":["index","norme","biologie","reference"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Index Normes/","title":"Normes biologiques","tags":["index","norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"title":"Normes biologiques","nom":"Index Normes","tags":["index","norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

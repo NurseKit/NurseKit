@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.3 Santé Maladie Handicap/","tags":["révision","ue-2-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.3 - Santé, Maladie, Handicap, Accidents de la Vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.3","tags":["révision","ue-2-3","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.3 Santé Maladie Handicap/","tags":["révision","ue-2-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.3 - Santé, Maladie, Handicap, Accidents de la Vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.3","tags":["révision","ue-2-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

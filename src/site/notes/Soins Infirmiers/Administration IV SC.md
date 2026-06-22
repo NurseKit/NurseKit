@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Administration IV SC/","tags":["injection","IV","SC","médicaments","voie","5B"],"noteIcon":"","dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Administration IV SC/","tags":["injection","IV","SC","médicaments","voie","5B"],"noteIcon":"","dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -56,6 +56,9 @@
 
 ---
 → [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

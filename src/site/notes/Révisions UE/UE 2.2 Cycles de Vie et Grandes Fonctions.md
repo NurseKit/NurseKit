@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

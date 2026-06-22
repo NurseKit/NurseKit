@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Rupture prématurée des membranes/","tags":["pathologie","obstétrique","urgence","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Rupture prématurée des membranes (RPM)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","grossesse"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Pathologies/Rupture prématurée des membranes/","tags":["pathologie","obstétrique","urgence","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Rupture prématurée des membranes (RPM)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","grossesse"],"revision":"2026-06-22"}}
 ---
 
 

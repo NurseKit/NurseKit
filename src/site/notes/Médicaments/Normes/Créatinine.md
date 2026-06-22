@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Créatinine/","tags":["norme","biologie","reference","fonction-rénale","créatinine","IRC","IRA"],"noteIcon":"","dg-note-properties":{"nom":"Créatinine","categorie":"Fonction rénale","norme":"H : 62-107 µmol/L | F : 44-80 µmol/L","unite":"µmol/L","tags":["norme","biologie","reference","fonction-rénale","créatinine","IRC","IRA"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Créatinine/","tags":["norme","biologie","reference","fonction-rénale","créatinine","IRC","IRA"],"noteIcon":"","dg-note-properties":{"nom":"Créatinine","categorie":"Fonction rénale","norme":"H : 62-107 µmol/L | F : 44-80 µmol/L","unite":"µmol/L","tags":["norme","biologie","reference","fonction-rénale","créatinine","IRC","IRA"],"revision":"2026-06-22"}}
 ---
 
 

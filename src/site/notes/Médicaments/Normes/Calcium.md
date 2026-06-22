@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Calcium/","tags":["norme","biologie","reference","ionogramme","calcémie","calcium"],"noteIcon":"","dg-note-properties":{"nom":"Calcémie (Ca²⁺)","categorie":"Ionogramme sanguin","norme":"2,20-2,65 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","calcémie","calcium"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Calcium/","tags":["norme","biologie","reference","ionogramme","calcémie","calcium"],"noteIcon":"","dg-note-properties":{"nom":"Calcémie (Ca²⁺)","categorie":"Ionogramme sanguin","norme":"2,20-2,65 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","calcémie","calcium"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Péricardite/","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Péricardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Péricardite/","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Péricardite","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","cardiologie","infectieux"],"revision":"2026-06-22"}}
 ---
 
 

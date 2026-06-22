@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Artérite des membres inférieurs/","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Artérite des membres inférieurs / AOMI","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Artérite des membres inférieurs/","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Artérite des membres inférieurs / AOMI","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","vasculaire","chirurgie"],"revision":"2026-06-22"}}
 ---
 
 

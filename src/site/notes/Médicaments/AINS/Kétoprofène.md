@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/AINS/Kétoprofène/","tags":["médicament","AINS","antalgique","anti-inflammatoire"],"noteIcon":"","dg-note-properties":{"nom":"Kétoprofène","classe":"AINS (anti-inflammatoire non stéroïdien)","tags":["médicament","AINS","antalgique","anti-inflammatoire"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/AINS/Kétoprofène/","tags":["médicament","AINS","antalgique","anti-inflammatoire"],"noteIcon":"","dg-note-properties":{"nom":"Kétoprofène","classe":"AINS (anti-inflammatoire non stéroïdien)","tags":["médicament","AINS","antalgique","anti-inflammatoire"],"revision":"2026-06-22"}}
 ---
 
 

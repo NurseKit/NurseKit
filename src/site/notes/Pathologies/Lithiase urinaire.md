@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Lithiase urinaire/","tags":["pathologie","urologie","rein"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase urinaire / Colique néphrétique","systeme":"Urologique","tags":["pathologie","urologie","rein"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Lithiase urinaire/","tags":["pathologie","urologie","rein"],"noteIcon":"","dg-note-properties":{"nom":"Lithiase urinaire / Colique néphrétique","systeme":"Urologique","tags":["pathologie","urologie","rein"],"revision":"2026-06-22"}}
 ---
 
 

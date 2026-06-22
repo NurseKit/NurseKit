@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stage/Index Stage/","pinned":true,"tags":["index","stage"],"noteIcon":"","dg-note-properties":{"nom":"Index Stage","tags":["index","stage"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Stage/Index Stage/","pinned":true,"tags":["index","stage"],"noteIcon":"","dg-note-properties":{"nom":"Index Stage","tags":["index","stage"],"revision":"2026-06-22"}}
 ---
 
 
@@ -19,6 +19,7 @@
 | [[Stage/Stage Maternité\|Stage Maternité]] | CTG, pré-éclampsie, HPP, utérotoniques, soin obstétrical |
 | [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]] | Confort, sédation, accompagnement, communication fin de vie |
 | [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] | Syndromes gériatriques, polypharmacie, chutes, escarre, démence |
+| [[Stage/Stage 3ème Année\|Stage 3ème Année]] | Préparation S5/S6 : autonomie, encadrement pairs, TFE, compétences avancées |
 
 ## Comment se préparer à un stage
 
@@ -33,3 +34,8 @@
 - [[Médicaments/Index Médicaments\|Index Médicaments]] : Tous les médicaments par classe thérapeutique
 - [[Soins Infirmiers/Index Soins Infirmiers\|Index Soins Infirmiers]] : Tous les soins et techniques IDE
 - [[Fiches de Service/Index Fiches de Service\|Index Fiches de Service]]
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

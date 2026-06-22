@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/D-Dimères/","tags":["norme","biologie","reference","hémostase","D-dimères","EP","TVP","thrombose"],"noteIcon":"","dg-note-properties":{"nom":"D-Dimères","categorie":"Hémostase","norme":"< 500 µg/L (< 0,5 mg/L)","unite":"µg/L","tags":["norme","biologie","reference","hémostase","D-dimères","EP","TVP","thrombose"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/D-Dimères/","tags":["norme","biologie","reference","hémostase","D-dimères","EP","TVP","thrombose"],"noteIcon":"","dg-note-properties":{"nom":"D-Dimères","categorie":"Hémostase","norme":"< 500 µg/L (< 0,5 mg/L)","unite":"µg/L","tags":["norme","biologie","reference","hémostase","D-dimères","EP","TVP","thrombose"],"revision":"2026-06-22"}}
 ---
 
 

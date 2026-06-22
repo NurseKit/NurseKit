@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/CRP/","tags":["norme","biologie","reference","inflammation","infection","CRP"],"noteIcon":"","dg-note-properties":{"nom":"CRP : Protéine C-Réactive","categorie":"Inflammation / Infectieux","norme":"< 5 mg/L","unite":"mg/L","tags":["norme","biologie","reference","inflammation","infection","CRP"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/CRP/","tags":["norme","biologie","reference","inflammation","infection","CRP"],"noteIcon":"","dg-note-properties":{"nom":"CRP : Protéine C-Réactive","categorie":"Inflammation / Infectieux","norme":"< 5 mg/L","unite":"mg/L","tags":["norme","biologie","reference","inflammation","infection","CRP"],"revision":"2026-06-22"}}
 ---
 
 

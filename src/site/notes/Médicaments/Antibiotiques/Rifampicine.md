@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Rifampicine/","tags":["médicament","antibiotique","antituberculeux"],"noteIcon":"","dg-note-properties":{"nom":"Rifampicine","classe":"Antibiotique / Rifamycine","tags":["médicament","antibiotique","antituberculeux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Rifampicine/","tags":["médicament","antibiotique","antituberculeux"],"noteIcon":"","dg-note-properties":{"nom":"Rifampicine","classe":"Antibiotique / Rifamycine","tags":["médicament","antibiotique","antituberculeux"],"revision":"2026-06-22"}}
 ---
 
 

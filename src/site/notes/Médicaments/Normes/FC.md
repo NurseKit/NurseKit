@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/FC/","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"noteIcon":"","dg-note-properties":{"nom":"FC : Fréquence Cardiaque","categorie":"Constante vitale","norme":"60-100 bpm","unite":"battements par minute (bpm)","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/FC/","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"noteIcon":"","dg-note-properties":{"nom":"FC : Fréquence Cardiaque","categorie":"Constante vitale","norme":"60-100 bpm","unite":"battements par minute (bpm)","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Révisions 1ère Année/","title":"Révisions 1ère Année","tags":["index","révisions-ue","1ere-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 1ère Année","nom":"Révisions 1ère Année IFSI","type":"Index","tags":["index","révisions-ue","1ere-annee"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Révisions UE/Révisions 1ère Année/","title":"Révisions 1ère Année","tags":["index","révisions-ue","1ere-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 1ère Année","nom":"Révisions 1ère Année IFSI","type":"Index","tags":["index","révisions-ue","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

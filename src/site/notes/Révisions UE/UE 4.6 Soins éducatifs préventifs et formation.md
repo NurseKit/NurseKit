@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.6 Soins éducatifs préventifs et formation/","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs, préventifs et formation","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.6","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 4.6 Soins éducatifs préventifs et formation/","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs, préventifs et formation","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.6","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.5 Processus Inflammatoires Infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 2.5 Processus Inflammatoires Infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

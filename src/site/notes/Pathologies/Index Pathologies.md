@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-22"}}
 ---
 
 
-> [!abstract] Pathologies : 103 fiches
+> [!abstract] Pathologies : 107 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
@@ -25,6 +25,7 @@
 - [[Pathologies/Embolie pulmonaire\|EP]]
 - [[Pathologies/CIVD\|CIVD]]
 - [[Pathologies/Hémodialyse FAV\|Hémodialyse FAV]]
+- [[Pathologies/Myocardite\|Myocardite]]
 
 ## Neurologie
 
@@ -70,6 +71,7 @@
 - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]]
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Lithiase urinaire\|Lithiase urinaire]]
+- [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]]
 
 ## Gastro-Hépatologie
 
@@ -81,6 +83,8 @@
 - [[Pathologies/Péritonite\|Péritonite]]
 - [[Pathologies/Appendicite\|Appendicite]]
 - [[Pathologies/Lithiase biliaire\|Lithiase biliaire]]
+- [[Pathologies/Cholangite aiguë\|Cholangite aiguë]]
+- [[Pathologies/Diverticulite\|Diverticulite]]
 
 ## Hématologie / Oncologie
 
@@ -115,10 +119,6 @@
 - [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
 - [[Pathologies/Bronchiolite\|Bronchiolite]]
 - [[Pathologies/Convulsions fébriles\|Convulsions fébriles]]
-- [[Pathologies/Deshydratation aigue enfant\|Deshydratation aigue enfant]]
-- [[Pathologies/Detresse respiratoire nourrisson\|Detresse respiratoire nourrisson]]
-- [[Pathologies/Etat de mal asthmatique enfant\|Etat de mal asthmatique enfant]]
-- [[Pathologies/Fievre enfant conduite a tenir\|Fievre enfant conduite a tenir]]
 - [[Pathologies/Nouveau-né evaluation Apgar\|Nouveau-né evaluation Apgar]]
 
 ## Gériatrie
@@ -156,3 +156,8 @@
 - [[Pathologies/Polytraumatisme\|Polytraumatisme]]
 - [[Pathologies/Intoxication médicamenteuse\|Intoxication médicamenteuse]]
 - [[Pathologies/Douleur palliative\|Douleur palliative]]
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

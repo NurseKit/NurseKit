@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sevrage alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de sevrage alcoolique","systeme":"Psychiatrie","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sevrage alcoolique/","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de sevrage alcoolique","systeme":"Psychiatrie","tags":["pathologie","addictologie","alcool","sevrage","urgence"],"revision":"2026-06-22"}}
 ---
 
 

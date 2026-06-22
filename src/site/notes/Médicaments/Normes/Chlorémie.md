@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Chlorémie/","tags":["norme","biologie","reference","ionogramme","chlorémie"],"noteIcon":"","dg-note-properties":{"nom":"Chlorémie (Cl⁻)","categorie":"Ionogramme sanguin","norme":"95-107 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","chlorémie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Chlorémie/","tags":["norme","biologie","reference","ionogramme","chlorémie"],"noteIcon":"","dg-note-properties":{"nom":"Chlorémie (Cl⁻)","categorie":"Ionogramme sanguin","norme":"95-107 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","chlorémie"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Transmissions DAR/","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions Ciblées : Méthode DAR","type":"Soin infirmier","domaine":"Communication","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Transmissions DAR/","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions Ciblées : Méthode DAR","type":"Soin infirmier","domaine":"Communication","tags":["transmissions","DAR","ciblage","communication","soins","dossier"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -51,6 +51,9 @@ Une transmission = une cible. Si plusieurs problèmes, rédiger plusieurs transm
 
 ---
 → [[Exercices/Cas Cliniques/CC IDM\|CC IDM]] · [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] · [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

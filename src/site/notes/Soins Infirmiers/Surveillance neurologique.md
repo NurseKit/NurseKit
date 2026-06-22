@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-16","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Surveillance neurologique/","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"noteIcon":"","dg-note-properties":{"nom":"Surveillance Neurologique","type":"Soin infirmier","domaine":"Neurologie","tags":["neurologie","Glasgow","conscience","AVC","surveillance","NIHSS","HTIC"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
 ---
 
 
@@ -71,6 +71,9 @@
 
 ---
 → [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Médicaments/Antalgiques/Morphine\|Morphine (opioïdes)]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

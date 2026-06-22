@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter veineux central/","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter veineux central","titre":"Cathéter Veineux Central (CVC)","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter veineux central/","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter veineux central","titre":"Cathéter Veineux Central (CVC)","tags":["soin","cathéter","voie centrale","CVC","PICC","réanimation"],"revision":"2026-06-22"}}
 ---
 
 
@@ -46,6 +46,9 @@
 > Pneumothorax (CVC thoracique) : dyspnée, désaturation post-pose
 > Embolie gazeuse : toujours clamper avant déconnexion
 > Thrombose sur cathéter : résistance à l'injection, pas de reflux
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

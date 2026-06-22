@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Médicaments
-> 229 molécules classées par 44 classes thérapeutiques.
+> 242 molécules classées par 44 classes thérapeutiques.
 > → [[index\| Accueil]]
 
 ## Fiches rapides (les plus utilisées)
@@ -364,3 +364,8 @@
 
 - [[Médicaments/Minéraux/Potassium\|Potassium]]
 - [[Potassium I
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>

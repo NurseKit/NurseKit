@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Natrémie/","tags":["norme","biologie","reference","ionogramme","natrémie","sodium","hydratation"],"noteIcon":"","dg-note-properties":{"nom":"Natrémie (Na⁺)","categorie":"Ionogramme sanguin","norme":"135-145 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","natrémie","sodium","hydratation"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Natrémie/","tags":["norme","biologie","reference","ionogramme","natrémie","sodium","hydratation"],"noteIcon":"","dg-note-properties":{"nom":"Natrémie (Na⁺)","categorie":"Ionogramme sanguin","norme":"135-145 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","natrémie","sodium","hydratation"],"revision":"2026-06-22"}}
 ---
 
 

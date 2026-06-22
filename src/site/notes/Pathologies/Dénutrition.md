@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Dénutrition/","tags":["pathologie","nutrition","gériatrie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Dénutrition","tags":["pathologie","nutrition","gériatrie","oncologie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Dénutrition/","tags":["pathologie","nutrition","gériatrie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Dénutrition","tags":["pathologie","nutrition","gériatrie","oncologie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -67,6 +67,9 @@ La **dénutrition** est définie par l'HAS (2019) comme un état pathologique r�
 ## Voir aussi
 
 [[Pathologies/Anémie\|Anémie]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] · [[Fiches de Service/Soins Palliatifs\|Soins palliatifs]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/PSA/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"PSA total : Antigène prostatique spécifique","categorie":"Marqueurs tumoraux","tags":["norme","biologie","reference"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/PSA/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"PSA total : Antigène prostatique spécifique","categorie":"Marqueurs tumoraux","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

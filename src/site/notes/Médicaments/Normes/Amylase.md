@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Amylase/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Amylase","categorie":"Bilan pancréatique","tags":["norme","biologie","reference"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Amylase/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Amylase","categorie":"Bilan pancréatique","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

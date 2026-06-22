@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Diurese/","tags":["norme","constantes","diurèse","IRA","fonction-rénale","oligurie"],"noteIcon":"","dg-note-properties":{"nom":"Diurèse","categorie":"Constante vitale / Fonction rénale","norme":"0,5-1 mL/kg/h (soit ~800-1500 mL/24h pour 70 kg)","unite":"mL/kg/h","tags":["norme","constantes","diurèse","IRA","fonction-rénale","oligurie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Diurese/","tags":["norme","constantes","diurèse","IRA","fonction-rénale","oligurie"],"noteIcon":"","dg-note-properties":{"nom":"Diurèse","categorie":"Constante vitale / Fonction rénale","norme":"0,5-1 mL/kg/h (soit ~800-1500 mL/24h pour 70 kg)","unite":"mL/kg/h","tags":["norme","constantes","diurèse","IRA","fonction-rénale","oligurie"],"revision":"2026-06-22"}}
 ---
 
 

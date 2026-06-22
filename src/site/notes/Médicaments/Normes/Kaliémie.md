@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Kaliémie/","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"noteIcon":"","dg-note-properties":{"nom":"Kaliémie (K⁺)","categorie":"Ionogramme sanguin","norme":"3,5-5,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Kaliémie/","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"noteIcon":"","dg-note-properties":{"nom":"Kaliémie (K⁺)","categorie":"Ionogramme sanguin","norme":"3,5-5,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"revision":"2026-06-22"}}
 ---
 
 

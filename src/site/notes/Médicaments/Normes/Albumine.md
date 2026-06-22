@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Albumine/","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"noteIcon":"","dg-note-properties":{"nom":"Albumine sérique","categorie":"Bilan hépatique / Nutritionnel","norme":"35-50 g/L","unite":"g/L","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Albumine/","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"noteIcon":"","dg-note-properties":{"nom":"Albumine sérique","categorie":"Bilan hépatique / Nutritionnel","norme":"35-50 g/L","unite":"g/L","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"revision":"2026-06-22"}}
 ---
 
 

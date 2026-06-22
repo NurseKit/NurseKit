@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie/","tags":["révision","ue-1-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.1 - Psychologie, Sociologie, Anthropologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.1","tags":["révision","ue-1-1","ifsi","1ere-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie/","tags":["révision","ue-1-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.1 - Psychologie, Sociologie, Anthropologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.1","tags":["révision","ue-1-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

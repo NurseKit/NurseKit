@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Interactions médicamenteuses/","tags":["pharmacologie","interactions","médicament","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Interactions médicamenteuses","titre":"Interactions Médicamenteuses Majeures","tags":["pharmacologie","interactions","médicament","sécurité"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pharmacologie/Interactions médicamenteuses/","tags":["pharmacologie","interactions","médicament","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Interactions médicamenteuses","titre":"Interactions Médicamenteuses Majeures","tags":["pharmacologie","interactions","médicament","sécurité"],"revision":"2026-06-22"}}
 ---
 
 

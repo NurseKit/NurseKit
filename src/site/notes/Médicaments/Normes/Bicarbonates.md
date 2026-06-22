@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Bicarbonates/","tags":["norme","biologie","reference","ionogramme","bicarbonates","acide-base","acidose"],"noteIcon":"","dg-note-properties":{"nom":"Bicarbonates (HCO₃⁻)","categorie":"Ionogramme sanguin / Équilibre acide-base","norme":"22-26 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","bicarbonates","acide-base","acidose"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Bicarbonates/","tags":["norme","biologie","reference","ionogramme","bicarbonates","acide-base","acidose"],"noteIcon":"","dg-note-properties":{"nom":"Bicarbonates (HCO₃⁻)","categorie":"Ionogramme sanguin / Équilibre acide-base","norme":"22-26 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","bicarbonates","acide-base","acidose"],"revision":"2026-06-22"}}
 ---
 
 

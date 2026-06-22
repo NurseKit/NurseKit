@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Sonde naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"noteIcon":"","dg-note-properties":{"nom":"Sonde naso-gastrique","titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-16"}}
+{"dg-publish":true,"permalink":"/Soins Infirmiers/Sonde naso-gastrique/","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"noteIcon":"","dg-note-properties":{"nom":"Sonde naso-gastrique","titre":"Sonde Naso-Gastrique (SNG)","tags":["soin","digestif","sonde","naso-gastrique","alimentation","aspiration"],"revision":"2026-06-22"}}
 ---
 
 
@@ -48,6 +48,9 @@
 > Fixation adhésive à la narine (ne pas coller sur le nez)
 > Rinçage eau stérile après médicaments (30 mL)
 > Ne jamais plier ou écraser la sonde
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

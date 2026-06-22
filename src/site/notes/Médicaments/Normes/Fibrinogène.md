@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Fibrinogène/","tags":["norme","biologie","reference","hémostase","fibrinogène","CIVD"],"noteIcon":"","dg-note-properties":{"nom":"Fibrinogène","categorie":"Hémostase","norme":"2-4 g/L","unite":"g/L","tags":["norme","biologie","reference","hémostase","fibrinogène","CIVD"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Fibrinogène/","tags":["norme","biologie","reference","hémostase","fibrinogène","CIVD"],"noteIcon":"","dg-note-properties":{"nom":"Fibrinogène","categorie":"Hémostase","norme":"2-4 g/L","unite":"g/L","tags":["norme","biologie","reference","hémostase","fibrinogène","CIVD"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/ALAT/","tags":["norme","biologie","reference","bilan-hépatique","ALAT","transaminases","foie","hépatite"],"noteIcon":"","dg-note-properties":{"nom":"ALAT (TGP) : Alanine Aminotransférase","categorie":"Bilan hépatique","norme":"H : < 41 UI/L | F : < 33 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","ALAT","transaminases","foie","hépatite"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/ALAT/","tags":["norme","biologie","reference","bilan-hépatique","ALAT","transaminases","foie","hépatite"],"noteIcon":"","dg-note-properties":{"nom":"ALAT (TGP) : Alanine Aminotransférase","categorie":"Bilan hépatique","norme":"H : < 41 UI/L | F : < 33 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","ALAT","transaminases","foie","hépatite"],"revision":"2026-06-22"}}
 ---
 
 

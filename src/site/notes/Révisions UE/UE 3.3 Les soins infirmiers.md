@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.3 Les soins infirmiers/","tags":["révision","ue-3-3","ifsi","3eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Les soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.3","tags":["révision","ue-3-3","ifsi","3eme-annee"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Révisions UE/UE 3.3 Les soins infirmiers/","tags":["révision","ue-3-3","ifsi","3eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Les soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.3","tags":["révision","ue-3-3","ifsi","3eme-annee"],"revision":"2026-06-22"}}
 ---
 
 

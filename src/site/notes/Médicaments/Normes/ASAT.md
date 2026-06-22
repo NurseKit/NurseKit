@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/ASAT/","tags":["norme","biologie","reference","bilan-hépatique","ASAT","transaminases","foie"],"noteIcon":"","dg-note-properties":{"nom":"ASAT (TGO) : Aspartate Aminotransférase","categorie":"Bilan hépatique","norme":"H : < 37 UI/L | F : < 31 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","ASAT","transaminases","foie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/ASAT/","tags":["norme","biologie","reference","bilan-hépatique","ASAT","transaminases","foie"],"noteIcon":"","dg-note-properties":{"nom":"ASAT (TGO) : Aspartate Aminotransférase","categorie":"Bilan hépatique","norme":"H : < 37 UI/L | F : < 31 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","ASAT","transaminases","foie"],"revision":"2026-06-22"}}
 ---
 
 
