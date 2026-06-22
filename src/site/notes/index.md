@@ -14,7 +14,7 @@
 
 | Section                                              | Fiches | Contenu                                                                       |
 | ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------- |
-| [[Pathologies/Index Pathologies\|Pathologies]]                   | 98     | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
+| [[Pathologies/Index Pathologies\|Pathologies]]                   | 103    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
 | [[Médicaments/Index Médicaments\|Médicaments]]                   | 229    | Molécules classées par 44 classes thérapeutiques                              |
 | [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 70     | Techniques, surveillances, ETP, soins palliatifs                              |
 | [[Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
@@ -62,4 +62,4 @@
 > [!warning] Avertissement médical et juridique
 > NurseKit est un **outil pédagogique** conçu par et pour les étudiants en soins infirmiers (ESI). Les fiches présentes sur ce site sont des **synthèses éducatives** destinées à faciliter l'apprentissage, et ne constituent en aucun cas des recommandations médicales officielles, un protocole de service, ni un substitut à la décision clinique d'un professionnel de santé qualifié.
 >
-> Toute décision concernant des soins ou l'administration de médic
+> Toute décision concernant des soins ou l'administration de médicaments doit être validée par un professionnel de santé habilité. L'auteur décline toute responsabilité en cas d'utilisation de ce contenu à des fins cliniques directes.
