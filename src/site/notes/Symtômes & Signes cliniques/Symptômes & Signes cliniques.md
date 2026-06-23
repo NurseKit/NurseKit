@@ -20,6 +20,7 @@
 | Dissection aortique | [[Pathologies/Dissection aortique\|Dissection aortique]] |
 | OAP / Insuffisance cardiaque | [[Pathologies/OAP\|OAP]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] |
 | Pneumothorax | [[Pathologies/Pneumothorax\|Pneumothorax]] |
+| Myocardite (jeune + contexte viral) | [[Pathologies/Myocardite\|Myocardite]] |
 
 **Normes clés :** [[Médicaments/Normes/Troponine\|Troponine]] · [[Médicaments/Normes/D-Dimères\|D-Dimères]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/SpO2\|SpO₂]]
 
@@ -69,7 +70,9 @@
 | Sepsis / Choc septique | [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Choc septique\|Choc septique]] |
 | Méningite bactérienne | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
 | Endocardite | [[Pathologies/Endocardite\|Endocardite]] |
-| Neutropénie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
+| Neutropénie fébrile / Aplasie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
+| Cholangite aiguë (fièvre + ictère + douleur biliaire) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] |
+| Myocardite (post-virale + douleur thoracique) | [[Pathologies/Myocardite\|Myocardite]] |
 | Fièvre de l'enfant | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
 | Phlébite / TVP | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
 
@@ -86,6 +89,9 @@
 | Appendicite | [[Pathologies/Appendicite\|Appendicite]] |
 | Péritonite | [[Pathologies/Péritonite\|Péritonite]] |
 | Colique hépatique / cholécystite | [[Pathologies/Lithiase biliaire\|Lithiase biliaire]] |
+| Cholangite aiguë (triade de Charcot) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] |
+| Diverticulite sigmoïdienne | [[Pathologies/Diverticulite\|Diverticulite]] |
+| MICI (Crohn / RCH) | [[Pathologies/MICI\|MICI]] |
 | Cirrhose / décompensation | [[Pathologies/Cirrhose\|Cirrhose]] |
 | Colique néphrétique | [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] |
 
@@ -137,19 +143,6 @@
 
 ---
 
-## Trouble glycémique
-
-| Évoquer | Fiche |
-|---------|-------|
-| Hypoglycémie | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
-| Acidocétose diabétique | [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
-| Syndrome hyperosmolaire | [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
-| Corticoïdes (hyperglycémie iatrogène) | [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] |
-
-**Normes clés :** [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/HbA1c\|HbA1c]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/pH sanguin\|pH sanguin]] · [[Médicaments/Normes/Bicarbonates\|Bicarbonates]]
-
----
-
 ## Trouble de la coagulation / Hémorragie
 
 | Évoquer                          | Fiche                          |     |
@@ -170,10 +163,39 @@
 |---------|-------|
 | IRA pré-rénale (déshydratation, choc) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
 | IRA rénale (néphrotoxiques : AINS, aminosides) | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] |
+| Rhabdomyolyse (urines marron + CPK ↑) | [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]] |
+| Syndrome néphrotique (protéinurie + œdèmes) | [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]] |
 | IRA post-rénale (obstacle) | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
 | Syndrome de renutrition | [[Pathologies/Dénutrition\|Dénutrition]] |
 
 **Normes clés :** [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Urée\|Urée]] · [[Médicaments/Normes/Diurese\|Diurèse]]
+
+---
+
+## Trouble glycémique / Endocrinien
+
+| Évoquer | Fiche |
+|---------|-------|
+| Hypoglycémie | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
+| Acidocétose diabétique | [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
+| Syndrome hyperosmolaire | [[Pathologies/Diabète de type 2\|Diabète de type 2]] |
+| Corticoïdes (hyperglycémie iatrogène) | [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] |
+| Syndrome de Cushing (obésité tronculaire + HTA + vergetures pourpres) | [[Pathologies/Syndrome de Cushing\|Syndrome de Cushing]] |
+
+**Normes clés :** [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/HbA1c\|HbA1c]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/pH sanguin\|pH sanguin]] · [[Médicaments/Normes/Bicarbonates\|Bicarbonates]]
+
+---
+
+## Signes cutanés / Maladie systémique
+
+| Évoquer | Fiche |
+|---------|-------|
+| Érythème en ailes de papillon + arthralgies | [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]] |
+| Érysipèle (placard rouge + fièvre) | [[Pathologies/Erysipele\|Erysipele]] |
+| Zona | [[Zona\|Zona]] |
+| Ictère (peau jaune) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Lithiase biliaire\|Lithiase biliaire]] |
+
+**Normes clés :** [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]]
 
 ---
 
@@ -185,6 +207,16 @@
 | Détresse respiratoire (bronchiolite, laryngite) | [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
 | Déshydratation (gastro-entérite) | [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] |
 | Fièvre | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
+
+---
+
+## Cas cliniques à utiliser pour révision
+
+| Cas | Thèmes |
+|-----|--------|
+| [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC S5 Diabète IRC IDM]] | DT2 + IRC + IDM — poly-pathologie, bilan bio, médicaments IRC |
+| [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC S5 Sujet âgé poly-médicamenté]] | Gériatrie, délirium, PTH, ICFEp, polypharmacie |
+| [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC S5 Aplasie fébrile chimio]] | Oncologie, aplasie fébrile, PAC, R-CHOP |
 
 ---
 

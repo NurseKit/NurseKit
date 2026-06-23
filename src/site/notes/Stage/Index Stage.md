@@ -20,6 +20,8 @@
 | [[Stage/Stage Soins Palliatifs\|Stage Soins Palliatifs]] | Confort, sédation, accompagnement, communication fin de vie |
 | [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] | Syndromes gériatriques, polypharmacie, chutes, escarre, démence |
 | [[Stage/Stage 3ème Année\|Stage 3ème Année]] | Préparation S5/S6 : autonomie, encadrement pairs, TFE, compétences avancées |
+| [[Stage/Stage Psychiatrie\|Stage Psychiatrie]] | Relation thérapeutique, antipsychotiques, soins sans consentement, agitation |
+| [[Stage/Stage Oncologie Hématologie\|Stage Oncologie Hématologie]] | Chimiothérapie, aplasie fébrile, PAC, cytotoxiques, accompagnement |
 
 ## Comment se préparer à un stage
 

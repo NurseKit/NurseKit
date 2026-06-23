@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Révisions UE : 33 fiches
+> [!abstract] Révisions UE : 37 fiches
 > Synthèses par Unité d'Enseignement : 3 années IFSI complètes.
 > → [[index\| Accueil]]
 
@@ -11,7 +11,7 @@
 
 - [[Révisions UE/Révisions 1ère Année\| Toutes les UEs de 1ère année (13 fiches)]]
 - [[Révisions UE/Révisions 2ème Année\| Toutes les UEs de 2ème année (9 fiches)]]
-- [[Révisions UE/Révisions 3ème Année\| Toutes les UEs de 3ème année (6 fiches)]]
+- [[Révisions UE/Révisions 3ème Année\| Toutes les UEs de 3ème année (10 fiches)]]
 
 ---
 
@@ -50,6 +50,10 @@
 - [[Révisions UE/UE 3.5 Encadrement des professionnels de santé\|UE 3.5 Encadrement des professionnels de santé]]
 - [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]]
 - [[Révisions UE/TFE Mémoire infirmier\|TFE / Mémoire infirmier]]
+- [[Révisions UE/UE 5.1 Accompagnement de la personne dans la réalisation de ses soins\|UE 5.1 — Accompagnement]]
+- [[Révisions UE/UE 5.2 Évaluation des pratiques professionnelles\|UE 5.2 — EPP]]
+- [[Révisions UE/UE 5.3 Communication et conduite de projet\|UE 5.3 — Communication]]
+- [[Révisions UE/UE 5.4 Soins éducatifs et formation des professionnels\|UE 5.4 — Soins éducatifs]]
 - [[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 Mise en oeuvre des thérapeutiques et coordination]]
 - [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]]
 

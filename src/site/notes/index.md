@@ -14,7 +14,7 @@
 
 | Section                                              | Fiches | Contenu                                                                       |
 | ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------- |
-| [[Pathologies/Index Pathologies\|Pathologies]]                   | 107    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
+| [[Pathologies/Index Pathologies\|Pathologies]]                   | 111    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
 | [[Médicaments/Index Médicaments\|Médicaments]]                   | 242    | Molécules classées par 44 classes thérapeutiques                              |
 | [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 70     | Techniques, surveillances, ETP, soins palliatifs                              |
 | [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
@@ -36,12 +36,12 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[Révisions UE/Index Révisions UE\|Révisions UE]] | 33 | Toutes les UEs 1ère, 2ème et 3ème année : synthèses structurées + QCM |
+| [[Révisions UE/Index Révisions UE\|Révisions UE]] | 37 | Toutes les UEs 1ère, 2ème et 3ème année : synthèses structurées + QCM |
 | [[Législation/Index Législation\|Législation]] | 8 | Loi Kouchner, consentement, secret professionnel, responsabilité IDE |
 | [[Hygiène/Index Hygiène\|Hygiène]] | 7 | Précautions standard/complémentaires, hygiène des mains, DASRI |
 | [[Fiches de Service/Index Fiches de Service\|Fiches de Service]] | 10 | Aide-mémoire par service : Cardio, Neuro, Urgences, Réa, Pédiatrie… |
 | [[Médicaments/Normes/Index Normes\|Normes biologiques]] | 71 | Valeurs normales : NFS, ionogramme, GDS, coagulation, bilan hépatique… |
-| [[Stage/Index Stage\|Stage]] | 11 | Préparation par service : Réa, Cardio, Neuro, Urgences, Chir, Pédiatrie, Maternité, Palliatif, Gériatrie/EHPAD, 3ème année |
+| [[Stage/Index Stage\|Stage]] | 13 | Préparation par service : Réa, Cardio, Neuro, Urgences, Chir, Pédiatrie, Maternité, Palliatif, Gériatrie/EHPAD, 3ème année |
 
 ---
 

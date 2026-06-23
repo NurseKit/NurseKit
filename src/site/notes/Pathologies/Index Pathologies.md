@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Pathologies : 107 fiches
+> [!abstract] Pathologies : 111 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
@@ -62,6 +62,7 @@
 - [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]]
 - [[Pathologies/Hypothyroïdie\|Hypothyroïdie]]
 - [[Pathologies/Insuffisance surrénalienne\|Insuffisance surrénalienne]]
+- [[Pathologies/Syndrome de Cushing\|Syndrome de Cushing]]
 - [[Pathologies/Obésité\|Obésité]]
 - [[Pathologies/Equilibre hydroélectrolytique\|Equilibre hydroélectrolytique]]
 
@@ -72,6 +73,7 @@
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Lithiase urinaire\|Lithiase urinaire]]
 - [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]]
+- [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]]
 
 ## Gastro-Hépatologie
 
@@ -85,6 +87,7 @@
 - [[Pathologies/Lithiase biliaire\|Lithiase biliaire]]
 - [[Pathologies/Cholangite aiguë\|Cholangite aiguë]]
 - [[Pathologies/Diverticulite\|Diverticulite]]
+- [[Pathologies/MICI\|MICI]]
 
 ## Hématologie / Oncologie
 
@@ -148,6 +151,7 @@
 
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
 - [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]]
+- [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]]
 
 ## Urgences / Réanimation
 

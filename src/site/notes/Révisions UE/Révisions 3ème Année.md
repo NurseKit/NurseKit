@@ -21,6 +21,18 @@
 
 ## Unités d'intégration (S5)
 
+> [!tip] UE 5.x — Ce qui change en 3ème année
+> Les UE 5.x ne sont plus des "savoirs associés" — ce sont des **unités d'intégration** : elles mobilisent simultanément les compétences des années précédentes dans des situations complexes. L'évaluation passe majoritairement par les stages et le portfolio.
+
+| UE | Thème | ECTS |
+|----|-------|------|
+| [[Révisions UE/UE 5.1 Accompagnement de la personne dans la réalisation de ses soins\|UE 5.1]] | Accompagnement · Autonomie · Projet de soins | 4 |
+| [[Révisions UE/UE 5.2 Évaluation des pratiques professionnelles\|UE 5.2]] | EPP · Réflexivité · Gestion des risques | 3 |
+| [[Révisions UE/UE 5.3 Communication et conduite de projet\|UE 5.3]] | Communication · Conduite de projet · Dossier de soins | 3 |
+| [[Révisions UE/UE 5.4 Soins éducatifs et formation des professionnels\|UE 5.4]] | ETP avancée · Encadrement · Formation par les pairs | 3 |
+| [[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5]] | Thérapeutiques complexes · Coordination | 5 |
+| [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6]] | Qualité · HAS · CREX · DMP | 3 |
+
 - [[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 : Coordination des soins et thérapeutiques complexes]]
 - [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 : Qualité des soins, EPP, CREX, HAS, DMP]]
 
