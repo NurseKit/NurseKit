@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 2/","tags":["pathologie","endocrinologie","chronique","diabète"],"noteIcon":"","dg-note-properties":{"nom":"Diabète de type 2","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","chronique","diabète"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Diabète de type 2/","tags":["pathologie","endocrinologie","chronique","diabète"],"noteIcon":"","dg-note-properties":{"nom":"Diabète de type 2","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","chronique","diabète"],"revision":"2026-06-22"}}
 ---
 
 

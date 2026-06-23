@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/SpO2/","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"SpO₂ : Saturation pulsée en oxygène","categorie":"Constante vitale","norme":"≥ 95 % (88-92 % chez le BPCO)","unite":"%","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/SpO2/","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"SpO₂ : Saturation pulsée en oxygène","categorie":"Constante vitale","norme":"≥ 95 % (88-92 % chez le BPCO)","unite":"%","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"revision":"2026-06-22"}}
 ---
 
 

@@ -5,7 +5,7 @@
 
 > [!abstract] Fièvre de l'enfant
 > T° rectale ≥ 38°C. Identifier la cause et les signes de gravité.
-> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
 

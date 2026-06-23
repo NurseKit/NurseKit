@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Glasgow/","tags":["norme","constantes","Glasgow","conscience","coma","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Score de Glasgow (GCS)","categorie":"Constante vitale / Neurologie","norme":"15/15 (normal)","unite":"/15","tags":["norme","constantes","Glasgow","conscience","coma","neurologie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Glasgow/","tags":["norme","constantes","Glasgow","conscience","coma","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Score de Glasgow (GCS)","categorie":"Constante vitale / Neurologie","norme":"15/15 (normal)","unite":"/15","tags":["norme","constantes","Glasgow","conscience","coma","neurologie"],"revision":"2026-06-22"}}
 ---
 
 

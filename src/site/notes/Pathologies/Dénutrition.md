@@ -5,7 +5,7 @@
 
 > [!abstract] Dénutrition
 > Déséquilibre entre apports et besoins nutritionnels → altération de la composition corporelle.
-> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
 

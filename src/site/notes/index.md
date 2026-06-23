@@ -17,7 +17,7 @@
 | [[Pathologies/Index Pathologies\|Pathologies]]                   | 107    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
 | [[Médicaments/Index Médicaments\|Médicaments]]                   | 242    | Molécules classées par 44 classes thérapeutiques                              |
 | [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 70     | Techniques, surveillances, ETP, soins palliatifs                              |
-| [[Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
+| [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
 
 ---
 

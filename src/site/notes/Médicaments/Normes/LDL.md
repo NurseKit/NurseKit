@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/LDL/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"LDL-cholestérol (« mauvais cholestérol »)","categorie":"Bilan lipidique","tags":["norme","biologie","reference"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/LDL/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"LDL-cholestérol (« mauvais cholestérol »)","categorie":"Bilan lipidique","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

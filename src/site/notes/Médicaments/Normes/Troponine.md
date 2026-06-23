@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Troponine/","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"noteIcon":"","dg-note-properties":{"nom":"Troponine hs (haute sensibilité)","categorie":"Bilan cardiaque","norme":"< 14 ng/L (variable selon labo)","unite":"ng/L","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Troponine/","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"noteIcon":"","dg-note-properties":{"nom":"Troponine hs (haute sensibilité)","categorie":"Bilan cardiaque","norme":"< 14 ng/L (variable selon labo)","unite":"ng/L","tags":["norme","biologie","reference","cardiaque","troponine","IDM","SCA","douleur-thoracique"],"revision":"2026-06-22"}}
 ---
 
 

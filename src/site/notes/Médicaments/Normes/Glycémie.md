@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Glycémie/","tags":["norme","biologie","reference","glycémie","diabète","hypoglycémie","insuline"],"noteIcon":"","dg-note-properties":{"nom":"Glycémie à jeun","categorie":"Glycémie / Diabète","norme":"3,9-6,0 mmol/L (0,70-1,10 g/L)","unite":"mmol/L ou g/L","tags":["norme","biologie","reference","glycémie","diabète","hypoglycémie","insuline"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Glycémie/","tags":["norme","biologie","reference","glycémie","diabète","hypoglycémie","insuline"],"noteIcon":"","dg-note-properties":{"nom":"Glycémie à jeun","categorie":"Glycémie / Diabète","norme":"3,9-6,0 mmol/L (0,70-1,10 g/L)","unite":"mmol/L ou g/L","tags":["norme","biologie","reference","glycémie","diabète","hypoglycémie","insuline"],"revision":"2026-06-22"}}
 ---
 
 

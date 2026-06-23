@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Magnésium/","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"noteIcon":"","dg-note-properties":{"nom":"Magnésémie (Mg²⁺)","categorie":"Ionogramme sanguin","norme":"0,75-1,10 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Magnésium/","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"noteIcon":"","dg-note-properties":{"nom":"Magnésémie (Mg²⁺)","categorie":"Ionogramme sanguin","norme":"0,75-1,10 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"revision":"2026-06-22"}}
 ---
 
 

@@ -5,7 +5,7 @@
 
 > [!abstract] Pathologies : 107 fiches
 > Toutes les pathologies classées par spécialité.
-> → [[Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
+> → [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
 ## Cardio-vasculaire
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Erysipele/","tags":["pathologie","dermatologie","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Érysipèle","systeme":"Dermatologique","tags":["pathologie","dermatologie","infectieux","antibiotique"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Erysipele/","tags":["pathologie","dermatologie","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Érysipèle","systeme":"Dermatologique","tags":["pathologie","dermatologie","infectieux","antibiotique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -62,7 +62,7 @@ L'érysipèle est une infection cutanée bactérienne causée par le **Streptoco
 
 ## Voir aussi
 
-[[Pathologies/Arthrite septique\|Arthrite septique]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/Choc septique\|Choc septique]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/Arthrite septique\|Arthrite septique]] · [[Pathologies/TVP\|TVP]] · [[Pathologies/Choc septique\|Choc septique]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : SPILF/SFD recommandations érysipèle 2019
 

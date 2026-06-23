@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Détresse respiratoire nourrisson/","tags":["pathologie","pédiatrie","urgence","pneumologie"],"noteIcon":"","dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","tags":["pathologie","pédiatrie","urgence","pneumologie"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Détresse respiratoire nourrisson/","tags":["pathologie","pédiatrie","urgence","pneumologie"],"noteIcon":"","dg-note-properties":{"nom":"Détresse respiratoire du nourrisson","tags":["pathologie","pédiatrie","urgence","pneumologie"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Détresse respiratoire du nourrisson
 > Urgence pédiatrique fréquente : bronchiolite, laryngite, corps étranger.
-> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
 
@@ -67,6 +67,9 @@ Ensemble de signes témoignant d'une insuffisance respiratoire aiguë chez le no
 ## Voir aussi
 
 [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]] · [[Pathologies/Pneumonie\|Pneumonie]] · [[Pharmacologie/Score NEWS2\|Score NEWS2]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

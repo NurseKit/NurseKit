@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Diabète gestationnel/","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Diabète gestationnel","systeme":"Obstétrique","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Pathologies/Diabète gestationnel/","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Diabète gestationnel","systeme":"Obstétrique","tags":["pathologie","obstétrique","endocrinologie","grossesse"],"revision":"2026-06-22"}}
 ---
 
 

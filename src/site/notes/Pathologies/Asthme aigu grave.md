@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Asthme aigu grave/","tags":["pathologie","respiratoire","urgence","asthme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave (AAG)","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","asthme"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Asthme aigu grave/","tags":["pathologie","respiratoire","urgence","asthme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave (AAG)","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","asthme"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/GGT/","tags":["norme","biologie","reference","bilan-hépatique","GGT","cholestase","alcool"],"noteIcon":"","dg-note-properties":{"nom":"GGT : Gamma-Glutamyltransférase","categorie":"Bilan hépatique","norme":"H : < 55 UI/L | F : < 38 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","GGT","cholestase","alcool"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/GGT/","tags":["norme","biologie","reference","bilan-hépatique","GGT","cholestase","alcool"],"noteIcon":"","dg-note-properties":{"nom":"GGT : Gamma-Glutamyltransférase","categorie":"Bilan hépatique","norme":"H : < 55 UI/L | F : < 38 UI/L","unite":"UI/L","tags":["norme","biologie","reference","bilan-hépatique","GGT","cholestase","alcool"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/TA diastolique/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"TA diastolique (PAD)","categorie":"Constante vitale","tags":["norme","biologie","reference"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/TA diastolique/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"TA diastolique (PAD)","categorie":"Constante vitale","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

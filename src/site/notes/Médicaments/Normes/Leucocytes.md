@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Leucocytes/","tags":["norme","biologie","reference","NFS","leucocytes","infection"],"noteIcon":"","dg-note-properties":{"nom":"Leucocytes (Globules blancs)","categorie":"NFS","norme":"4-10 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","leucocytes","infection"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/Leucocytes/","tags":["norme","biologie","reference","NFS","leucocytes","infection"],"noteIcon":"","dg-note-properties":{"nom":"Leucocytes (Globules blancs)","categorie":"NFS","norme":"4-10 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","leucocytes","infection"],"revision":"2026-06-22"}}
 ---
 
 

@@ -71,7 +71,7 @@ L'AOMI est un marqueur de risque cardiovasculaire global : un patient AOMI a un 
 
 ## Voir aussi
 
-[[Pathologies/TVP\|TVP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/TVP\|TVP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : ESC Guidelines AOMI 2017, HAS
 

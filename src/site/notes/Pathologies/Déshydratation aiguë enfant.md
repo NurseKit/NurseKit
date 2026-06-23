@@ -5,7 +5,7 @@
 
 > [!abstract] Déshydratation aiguë de l'enfant
 > Urgence pédiatrique fréquente (gastro-entérite++). Évaluation du % de déshydratation.
-> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+> → [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
 

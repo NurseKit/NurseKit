@@ -59,7 +59,7 @@ Des calculs (principalement oxalate de calcium, urate) se forment dans le bassin
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : AFU recommandations lithiase 2022, HAS
 

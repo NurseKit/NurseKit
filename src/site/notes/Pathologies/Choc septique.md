@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Choc septique/","tags":["pathologie","urgence","réanimation","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Choc septique","tags":["pathologie","urgence","réanimation","infectieux"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Pathologies/Choc septique/","tags":["pathologie","urgence","réanimation","infectieux"],"noteIcon":"","dg-note-properties":{"nom":"Choc septique","tags":["pathologie","urgence","réanimation","infectieux"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Choc septique
 > Défaillance circulatoire sur sepsis sévère → urgence vitale absolue.
-> → [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+> → [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Index Pathologies\|Index Pathologies]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 ## C'est quoi ?
 
@@ -65,6 +65,9 @@ Critères SOFA : dysfonction d'organe (PaO₂/FiO₂, Glasgow, créatinine, bili
 ## Voir aussi
 
 [[Pathologies/Sepsis\|Sepsis]] · [[Médicaments/Vasopresseurs/Noradrenaline\|Noradrénaline]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] · [[Pharmacologie/Score NEWS2\|Score NEWS2]]
+
+
+> [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

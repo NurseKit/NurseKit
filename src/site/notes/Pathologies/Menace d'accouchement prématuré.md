@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Menace d'accouchement prématuré/","tags":["pathologie","obstétrique","urgence","prématurité"],"noteIcon":"","dg-note-properties":{"nom":"Menace d'accouchement prématuré (MAP)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","prématurité"],"revision":"2026-06-20"}}
+{"dg-publish":true,"permalink":"/Pathologies/Menace d'accouchement prématuré/","tags":["pathologie","obstétrique","urgence","prématurité"],"noteIcon":"","dg-note-properties":{"nom":"Menace d'accouchement prématuré (MAP)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","prématurité"],"revision":"2026-06-22"}}
 ---
 
 

@@ -56,7 +56,7 @@ Des calculs (cholestérol ou pigmentaires) se forment dans la vésicule biliaire
 
 ## Voir aussi
 
-[[Pathologies/Pancréatite aigue\|Pancréatite aigue]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Appendicite\|Appendicite]] · [[Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
+[[Pathologies/Pancréatite aigue\|Pancréatite aigue]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Appendicite\|Appendicite]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 
 > [!caution] Outil pédagogique · Réf : SNFGE recommandations, HAS 2019
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/FR/","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"FR : Fréquence Respiratoire","categorie":"Constante vitale","norme":"12-20 /min","unite":"respirations par minute","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"revision":"2026-06-21"}}
+{"dg-publish":true,"permalink":"/Médicaments/Normes/FR/","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"FR : Fréquence Respiratoire","categorie":"Constante vitale","norme":"12-20 /min","unite":"respirations par minute","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"revision":"2026-06-22"}}
 ---
 
 
