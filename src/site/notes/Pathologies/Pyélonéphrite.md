@@ -1,53 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pyélonéphrite/","tags":["pathologie","infectieux","urinaire","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Rénal","tags":["pathologie","infectieux","urinaire","antibiotique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/Pathologies/Pyélonéphrite/","tags":["pathologie","infectieux","rénal","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Infectieux / Rénal","tags":["pathologie","infectieux","rénal","urgence"],"revision":"2026-06-23"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Une infection bactérienne du rein → une cystite qui est montée trop haut. E. coli dans 80 % des cas. Fièvre + douleur lombaire = PNA jusqu'à preuve du contraire. L'ECBU AVANT les antibiotiques est non négociable, et l'amélioration doit commencer dans les 48-72h.
+> Infection bactérienne du parenchyme rénal, le plus souvent ascendante depuis la vessie (E. coli dans 80 % des cas). Triade clinique : **fièvre + douleur lombaire unilatérale (douleur à la percussion de la loge rénale) + signes urinaires**. Urgence diagnostique et thérapeutique pour éviter le sepsis et les séquelles rénales.
 
 ## C'est quoi ?
 
-Des bactéries (le plus souvent E. coli) remontent de la vessie via les uretères et infectent le parenchyme rénal → fièvre élevée + douleur lombaire. C'est une infection **haute** → ce qui la distingue de la cystite (infection basse, sans fièvre). La PNA peut évoluer vers le sepsis ou un abcès rénal si elle n'est pas traitée rapidement. Facteurs de risque : femme (court urètre), grossesse, diabète, uropathie, immunodépression.
+Montée bactérienne depuis la vessie → urètres → bassinet → parenchyme rénal. La femme jeune est davantage touchée (anatomie). Une PNA non traitée peut évoluer vers un sepsis urinaire, un abcès rénal ou une infection sur obstacle (urgence urologique).
+
+**Facteurs de risque :** femme, grossesse, obstacle (lithiase, tumeur, adénome), diabète, immunodépression, sonde urinaire, malformation urologique.
 
 ## Comment ça se présente ?
 
-| Signe | Ce qu'on observe |
-|-------|--------|
-| **Fièvre élevée + frissons** | Souvent > 38,5°C → début souvent brutal |
-| **Douleur lombaire unilatérale** | Angle costo-vertébral, percussion douloureuse (signe de Giordano) |
-| Signes urinaires | Brûlures mictionnelles, pollakiurie (pas toujours présents) |
-| Nausées, vomissements | Indiquent une hospitalisation |
-| **Signes de sepsis** | Hypotension + tachycardie → urgence vitale |
+| Signe | Description |
+|-------|-------------|
+| **Fièvre élevée** | > 38,5°C, frissons, altération de l'état général |
+| **Douleur lombaire** | Unilatérale, souvent spontanée + douleur à la percussion de la loge rénale (poing-percussion) |
+| **Signes urinaires** | Brûlures mictionnelles, pollakiurie, urines troubles (cystite associée souvent) |
+| **Nausées / vomissements** | Fréquents, liés au syndrome infectieux |
+| **Défense lombaire** | Dans les formes sévères |
+
+> [!tip] PNA simple vs compliquée
+> **Simple** : femme non enceinte, sans facteur de risque → traitement ambulatoire possible.
+> **Compliquée** : homme, femme enceinte, obstacle, diabète, immunodépression, sepsis → hospitalisation obligatoire.
 
 ## Rôle IDE
 
-- [ ] BU + **ECBU AVANT les antibiotiques** → pour identifier le germe et guider l'antibiothérapie ; le résultat prend 48h, mais l'échantillon doit être prélevé avant la première dose
-- [ ] Hémocultures si fièvre élevée ou frissons intenses (bactériémie possible)
-- [ ] Scope : T°, FC, TA, SpO₂ → surveiller les signes de sepsis
-- [ ] Hydrater abondamment pour favoriser l'élimination bactérienne et surveiller la diurèse
-- [ ] Antalgiques selon prescription (paracétamol), pas d'AINS (néphrotoxiques et masquent les signes)
-- [ ] Surveiller l'évolution : l'apyrexie doit survenir dans les **48-72h** sous antibiothérapie adaptée → si la fièvre persiste au-delà, c'est une anomalie à signaler
+- [ ] Bilan en urgence : ECBU (bandelette urinaire + culture + antibiogramme) AVANT toute antibiothérapie, hémocultures si fièvre > 38,5 °C ou frissons, NFS, CRP, créatinine, ionogramme, échographie rénale (obstacle ?)
+- [ ] Antibiothérapie IV ou PO selon la gravité : fluoroquinolones (ciprofloxacine) ou C3G (ceftriaxone) en 1re intention — surveiller les signes d'allergie
+- [ ] Surveillance : température × 3/j, diurèse (oligurie = signe d'IRA débutante), TA, FC
+- [ ] Hydratation : IV si vomissements, orale sinon (objectif 1,5-2 L/j pour "chasser" les bactéries)
+- [ ] Antalgiques et antipyrétiques : paracétamol, AINS contre-indiqués si suspicion d'obstruction (aggravent l'IRA)
+- [ ] Éducation patient : terminer l'antibiotique même si amélioration rapide, ECBU de contrôle à J4-J7 sur prescription
 
 ## Points de vigilance
 
-> [!danger] PNA obstructive : uro-sepsis
-> Fièvre + obstacle sur les voies urinaires (lithiase, sténose) = pyonéphrose → uro-sepsis → drainage urgent (sonde double-J ou néphrostomie) + antibiotiques IV. Toute PNA qui ne s'améliore pas à 48h doit faire chercher un obstacle à l'écho.
+> [!danger] PNA obstructive = urgence urologique
+> Si l'imagerie révèle un obstacle (lithiase, tumeur) avec dilatation pyélocalicielle → infection sur obstacle → drainage urologique en urgence (sonde JJ ou néphrostomie percutanée) AVANT de débuter les antibiotiques. L'antibiotique seul ne peut pas éliminer l'infection si le rein ne se draine pas.
 
-> [!warning] Pas d'amélioration à 48-72h
-> Fièvre persistante sous antibiotiques = germe résistant, ou abcès rénal, ou obstacle non drainé. Ne pas attendre passivement → signaler au médecin, nouvelles imageries.
+> [!warning] AINS contre-indiqués dans la PNA
+> Les AINS (ibuprofène, kétoprofène) masquent la fièvre (critère de surveillance d'efficacité), risquent d'aggraver la fonction rénale et sont associés à un risque d'abcès rénal. Utiliser uniquement le paracétamol comme antipyrétique/antalgique.
 
 ## Les 3 choses à retenir
 
-1. **"ECBU avant les antibiotiques"** → c'est la règle absolue : une fois l'antibiotique donné, le germe ne poussera plus en culture et on traite à l'aveugle
-2. **"Amélioration à 48-72h"** → si la fièvre persiste au-delà, c'est une anomalie à signaler immédiatement
-3. **"Hospitalisation si vomissements, sepsis, grossesse, homme, uropathie"** → ces situations justifient un traitement IV et une surveillance rapprochée
+1. **"Fèvre + douleur lombaire + signes urinaires = PNA jusqu'à preuve du contraire"** → ECBU en urgence avant ATB
+2. **"AINS contre-indiqués"** → paracétamol uniquement, vérifier chaque prescription d'antalgique
+3. **"PNA + obstacle = urgence chirurgicale"** → le drainage prime sur l'antibiothérapie
 
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · CRP
+[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/CRP\|CRP]]
 
-> [!caution] Outil pédagogique : HAS/SPILF recommandations
+> [!caution] Outil pédagogique · Source : SPILF / HAS recommandations
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -54,7 +54,7 @@ La lyse des fibres musculaires libère de grandes quantités de myoglobine (prot
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/CIVD\|CIVD]] · [[Pathologies/Polytraumatisme\|Polytraumatisme]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[CPK\|CPK]] · [[Médicaments/Normes/LDH\|LDH]]
+[[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] · [[Pathologies/CIVD\|CIVD]] · [[Pathologies/Polytraumatisme\|Polytraumatisme]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/LDH\|LDH]]
 
 > [!caution] Outil pédagogique · Source : HAS/SFMU recommandations
 

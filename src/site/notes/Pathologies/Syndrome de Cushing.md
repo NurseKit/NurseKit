@@ -59,7 +59,7 @@ Le cortisol est une hormone stéroïde produite par le cortex surrénalien sous 
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance surrénalienne\|Insuffisance surrénalienne]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/HTA\|HTA]] · [[Ostéoporose\|Ostéoporose]] · [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
+[[Pathologies/Insuffisance surrénalienne\|Insuffisance surrénalienne]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Pathologies/HTA\|HTA]] · [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
 
 > [!caution] Outil pédagogique · Source : HAS/SFE recommandations
 

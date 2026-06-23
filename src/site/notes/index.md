@@ -14,9 +14,9 @@
 
 | Section                                              | Fiches | Contenu                                                                       |
 | ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------- |
-| [[Pathologies/Index Pathologies\|Pathologies]]                   | 111    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
+| [[Pathologies/Index Pathologies\|Pathologies]]                   | 117    | Cardio, neuro, pneumo, psy, pédiatrie, gériatrie, obstétrique, oncologie      |
 | [[Médicaments/Index Médicaments\|Médicaments]]                   | 242    | Molécules classées par 44 classes thérapeutiques                              |
-| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 70     | Techniques, surveillances, ETP, soins palliatifs                              |
+| [[Soins Infirmiers/Index Soins Infirmiers\|Soins Infirmiers]]         | 72     | Techniques, surveillances, ETP, soins palliatifs                              |
 | [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes]] | -      | Navigation clinique par symptôme : douleur thoracique, dyspnée, fièvre, choc… |
 
 ---
@@ -25,7 +25,7 @@
 
 | Section | Fiches | Contenu |
 |---------|--------|---------|
-| [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques]] | 19 | Cas IFSI complets avec solutions masquées + transmissions ciblées |
+| [[Exercices/Cas Cliniques/Cas Cliniques\|Cas Cliniques]] | 20 | Cas IFSI complets avec solutions masquées + transmissions ciblées |
 | [[Exercices/QCM/Index QCM\|QCM]] | 8 | QCM par thème avec réponses repliables |
 | [[Exercices/Calculs Doses/Index Calculs Doses\|Calculs Doses]] | 8 | Exercices avec corrigés masqués (débit, dilution, pédiatrie, SE) |
 | [[Pharmacologie/Index Pharmacologie\|Pharmacologie]] | 9 | Interactions, sécurité médicamenteuse, antibio, paliers OMS |

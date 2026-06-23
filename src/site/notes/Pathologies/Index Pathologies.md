@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Pathologies : 111 fiches
+> [!abstract] Pathologies : 117 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
@@ -30,6 +30,8 @@
 ## Neurologie
 
 - [[Pathologies/AVC ischémique\|AVC ischémique]]
+- [[Pathologies/Maladie de Parkinson\|Maladie de Parkinson]]
+- [[Pathologies/Sclérose en plaques\|Sclérose en plaques]]
 - [[Pathologies/AVC hémorragique\|AVC hémorragique]]
 - [[Pathologies/Traumatisme crânien\|Traumatisme crânien]]
 - [[Pathologies/Coma\|Coma]]
@@ -73,6 +75,7 @@
 - [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Lithiase urinaire\|Lithiase urinaire]]
 - [[Pathologies/Syndrome néphrotique\|Syndrome néphrotique]]
+- [[Pathologies/Pyélonéphrite\|Pyélonéphrite]]
 - [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]]
 
 ## Gastro-Hépatologie
@@ -151,6 +154,7 @@
 
 - [[Pathologies/Arthrite septique\|Arthrite septique]]
 - [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]]
+- [[Pathologies/Lombalgies et hernie discale\|Lombalgies et hernie discale]]
 - [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]]
 
 ## Urgences / Réanimation

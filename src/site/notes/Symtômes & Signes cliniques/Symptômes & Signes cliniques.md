@@ -57,6 +57,7 @@
 | Crise comitiale | [[Pathologies/Epilepsie\|Epilepsie]] |
 | Insuffisance hépatique | [[Pathologies/Cirrhose\|Cirrhose]] |
 | Encéphalopathie urémique | [[Pathologies/Insuffisance rénale aigue\|Insuffisance rénale aigue]] |
+| Parkinson (rigidité + tremblement repos) | [[Pathologies/Maladie de Parkinson\|Maladie de Parkinson]] |
 
 **Normes clés :** [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Lactates\|Lactates]] · [[Médicaments/Normes/Créatinine\|Créatinine]]
 
@@ -72,6 +73,7 @@
 | Endocardite | [[Pathologies/Endocardite\|Endocardite]] |
 | Neutropénie fébrile / Aplasie fébrile (chimio) | [[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] |
 | Cholangite aiguë (fièvre + ictère + douleur biliaire) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] |
+| Pyélonéphrite (fièvre + douleur lombaire + signes urinaires) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
 | Myocardite (post-virale + douleur thoracique) | [[Pathologies/Myocardite\|Myocardite]] |
 | Fièvre de l'enfant | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
 | Phlébite / TVP | [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] |
@@ -195,34 +197,4 @@
 | Zona | [[Zona\|Zona]] |
 | Ictère (peau jaune) | [[Pathologies/Cholangite aiguë\|Cholangite aiguë]] · [[Pathologies/Cirrhose\|Cirrhose]] · [[Pathologies/Lithiase biliaire\|Lithiase biliaire]] |
 
-**Normes clés :** [[Médicaments/Normes/Bilirubine\|Bilirubine]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]]
-
----
-
-## Urgences pédiatriques
-
-| Situation | Fiche |
-|-----------|-------|
-| Arrêt cardio-respiratoire enfant/nourrisson | [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]] |
-| Détresse respiratoire (bronchiolite, laryngite) | [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]] |
-| Déshydratation (gastro-entérite) | [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]] |
-| Fièvre | [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]] |
-
----
-
-## Cas cliniques à utiliser pour révision
-
-| Cas | Thèmes |
-|-----|--------|
-| [[Exercices/Cas Cliniques/CC S5 Diabète IRC IDM\|CC S5 Diabète IRC IDM]] | DT2 + IRC + IDM — poly-pathologie, bilan bio, médicaments IRC |
-| [[Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté\|CC S5 Sujet âgé poly-médicamenté]] | Gériatrie, délirium, PTH, ICFEp, polypharmacie |
-| [[Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio\|CC S5 Aplasie fébrile chimio]] | Oncologie, aplasie fébrile, PAC, R-CHOP |
-
----
-
-> [!tip] Comment utiliser cett
-
-<div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
-<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
-<a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
-</div>
+**Normes clés :**

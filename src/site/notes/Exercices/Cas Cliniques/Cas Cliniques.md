@@ -3,7 +3,7 @@
 ---
 
 
-> [!abstract] Cas Cliniques & Transmissions : 19 fiches
+> [!abstract] Cas Cliniques & Transmissions : 20 fiches
 > Situations cliniques complètes + transmissions ciblées rédigées. Idéal pour s'entraîner aux examens IFSI.
 > → [[index\| Accueil]]
 

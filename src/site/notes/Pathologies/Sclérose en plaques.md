@@ -1,67 +1,61 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sclérose en plaques/","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"noteIcon":"","dg-note-properties":{"nom":"Sclérose en Plaques (SEP)","systeme":"Neurologie","tags":["pathologie","neurologie","auto-immune","maladie-chronique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/Pathologies/Sclérose en plaques/","tags":["pathologie","neurologie","auto-immune","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Sclérose en plaques (SEP)","systeme":"Neurologique","tags":["pathologie","neurologie","auto-immune","chronique"],"revision":"2026-06-23"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Maladie auto-immune démyélinisante du SNC touchant l'adulte jeune (20-40 ans), 2× plus fréquente chez la femme. Évolution par poussées (SEPR) ou progressive. Traitement de fond = immunomodulateurs. Pas de guérison mais maladie chronique gérable.
+> Maladie inflammatoire et démyélinisante du SNC, auto-immune. La femme jeune est principalement touchée (sex-ratio 3F/1H). Évolution par poussées et rémissions (forme RR majoritaire). Pas de traitement curatif, mais les traitements de fond réduisent la fréquence des poussées.
 
 ## C'est quoi ?
 
-La SEP est une maladie inflammatoire chronique du SNC. Le système immunitaire attaque la myéline (gaine des neurones) → plaques de démyélinisation dans la substance blanche (cerveau, moelle, nerf optique, cervelet) → symptômes variables selon la localisation. La remyélinisation partielle explique la récupération partielle après les poussées.
+Le système immunitaire attaque la myéline du SNC → plaques de démyélinisation dans le cerveau et la moelle épinière → ralentissement ou blocage de la transmission nerveuse. Les localisations des plaques sont variables, d'où la diversité des symptômes.
 
 **Formes évolutives :**
-- **SEPR** (récurrente-rémittente) : 85% → poussées avec récupération partielle ou totale
-- **SEP progressive** primaire ou secondaire : aggravation progressive sans poussées nettes
+- **Rémittente (RR)** : 85 % des cas — poussées + rémissions complètes ou partielles
+- **Progressive secondaire** : aggravation progressive après une phase RR
+- **Progressive primaire** : aggravation d'emblée sans poussée claire
 
 ## Comment ça se présente ?
 
-| Symptôme | Mécanisme |
-|----------|-----------|
-| Névrite optique rétrobulbaire | Baisse d'acuité visuelle unilatérale + douleur à la mobilisation oculaire |
-| Troubles sensitifs | Paresthésies (fourmillements, engourdissements) membres ou visage |
-| Troubles moteurs | Faiblesse d'un membre, trouble de la marche, spasticité |
-| Troubles vésico-sphinctériens | Urgences mictionnelles, rétention, incontinence (très fréquents) |
-| Fatigue | Symptôme n°1 : invalidante, majorée par la chaleur (signe d'Uhthoff) |
-| Troubles cognitifs | Ralentissement, troubles de mémoire (formes évoluées) |
-| Signe de Lhermitte | Décharge électrique dans la nuque à la flexion cervicale = atteinte médullaire cervicale |
+| Signe | Description |
+|-------|-------------|
+| **Troubles visuels** | Névrite optique rétrobulbaire (NORB) : douleur oculaire + baisse brutale d'acuité visuelle unilatérale → souvent 1er signe |
+| **Troubles sensitifs** | Paresthésies, engourdissements, fourmillements des membres ou du tronc |
+| **Troubles moteurs** | Faiblesse, spasticité, difficulté à la marche |
+| **Fatigue** | Asthénie majeure, signe le plus constant et invalidant |
+| **Troubles sphinctériens** | Urgences mictionnelles, incontinence, rétention — très fréquents |
+| **Troubles cognitifs** | Ralentissement, troubles de la mémoire dans les formes évoluées |
+| **Signe de Lhermitte** | Décharge électrique dans le dos à la flexion du cou — très évocatrice de SEP |
 
 ## Rôle IDE
 
-**Poussée → hospitalisation :**
-- [ ] Corticothérapie : méthylprednisolone (Solumédrol®) 1 g/j IV × 3 j → accélère la récupération (ne change pas le pronostic à long terme)
-- [ ] Surveillance : TA (effet corticoïde), glycémie, œdèmes, humeur (agitation cortisonique)
-- [ ] Kiné → maintien de la mobilité, lutte contre la spasticité
-
-**Suivi au long cours :**
-- [ ] Éducation sur les facteurs déclenchants des poussées : fièvre, infections, grossesse, chaleur excessive
-- [ ] Autosondage : apprendre à la personne à se sonder si rétention urinaire chronique
-- [ ] Traitement de fond injectable (interféron, acétate de glatiramère) : apprentissage de l'auto-injection
-- [ ] Soutien psychologique : maladie chronique invalidante, angoisse de la prochaine poussée
-- [ ] Suivi pluridisciplinaire : neurologue, kiné, urologue, ophtalmo, assistante sociale
+- [ ] Évaluer la fatigue (EVA fatigue) : signe le plus invalidant, aggravé par la chaleur (signe d'Uhthoff)
+- [ ] Surveillance des traitements de fond (interférons, natalizumab, ocrélizumab) : syndrome grippal, réactions injection, risque infectieux
+- [ ] Poussée traitée par corticoïdes IV (méthylprednisolone 1 g/j × 3 j) : surveiller glycémie, TA, humeur, insomnie
+- [ ] Gestion des troubles urinaires : ECBU si suspicion d'infection, sondage intermittent propre (SIP) si rétention chronique
+- [ ] Prévention des chutes : évaluation équilibre, kiné, adaptation de l'environnement
+- [ ] Conseiller d'éviter la chaleur excessive (douche chaude, fièvre, effort intense par forte chaleur) → aggrave les symptômes de façon transitoire
+- [ ] Soutien psychologique : annonce difficile chez une femme jeune, accompagnement des craintes sur grossesse et avenir
 
 ## Points de vigilance
 
-> [!danger] Poussée sévère : atteinte médullaire transverse
-> Paraplégie aiguë + rétention urinaire + niveau sensitif → atteinte médullaire → urgence neurologique → imagerie IRM urgente + corticothérapie IV.
+> [!danger] Poussée vs pseudo-poussée
+> Une aggravation des symptômes peut être une vraie poussée (inflammation nouvelle) ou une pseudo-poussée (aggravation temporaire par fièvre, infection urinaire, fatigue). Toute infection urinaire chez un patient SEP peut simuler une poussée → ECBU systématique avant corticoïdes. Traiter l'infection d'abord.
 
-> [!warning] Signe d'Uhthoff
-> Aggravation temporaire des symptômes avec la chaleur (bain chaud, fièvre, effort) → ne pas confondre avec une vraie poussée. Réversible au refroidissement.
-
-> [!caution] Vaccins vivants atténués contre-indiqués
-> Sous traitement immunosuppresseur (natalizumab, fingolimod, etc.) → JAMAIS de vaccins vivants atténués (fièvre jaune, ROR, BCG, varicelle). Vaccins inactivés autorisés.
+> [!warning] Signe d'Uhthoff et chaleur
+> La chaleur ralentit davantage la conduction nerveuse déjà altérée → aggravation transitoire des symptômes. Prévenir : éviter bains chauds, pièces surchauffées, exercices intenses par forte chaleur. L'aggravation est réversible avec le refroidissement.
 
 ## Les 3 choses à retenir
 
-1. **Méthylprednisolone 1 g × 3 j** en poussée → accélère la récupération
-2. **Troubles vésico-sphinctériens** très fréquents → évaluer systématiquement, proposer l'autosondage
-3. **Chaleur = aggravation temporaire** (Uhthoff) → pas de bain chaud, pas d'effort intense en période de poussée
+1. **"NORB chez une femme jeune = penser SEP"** → névrite optique rétrobulbaire, souvent premier signe révélateur de la maladie
+2. **"Fatigue + chaleur aggravante = signe d'Uhthoff"** → conseiller la fraîcheur, adapter les activités
+3. **"Infection urinaire = pseudo-poussée possible"** → ECBU avant de diagnostiquer une poussée et donner des corticoïdes
 
 ## Voir aussi
 
-[[Médicaments/Corticoïdes/Methylprednisolone\|Méthylprednisolone]] · [[Médicaments/Immunosuppresseurs/Azathioprine\|Immunosuppresseurs]]
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]] · [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
 
-> [!caution] Outil pédagogique : Recommandations HAS 2023. Toujours vérifier les prescriptions médicales
+> [!caution] Outil pédagogique · Source : HAS 2023 / ECTRIMS recommandations
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

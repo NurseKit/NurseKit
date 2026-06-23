@@ -55,7 +55,7 @@ Inflammation chronique du tube digestif d'origine auto-immune et multifactoriell
 
 ## Voir aussi
 
-[[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Pathologies/Dénutrition\|Dénutrition]] · [[Peritonite\|Péritonite]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]] · [[Médicaments/Normes/CRP\|CRP]]
+[[Pathologies/Hémorragie digestive\|Hémorragie digestive]] · [[Pathologies/Dénutrition\|Dénutrition]] · [[Pathologies/Péritonite\|Péritonite]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]] · [[Médicaments/Normes/CRP\|CRP]]
 
 > [!caution] Outil pédagogique · Source : ECCO Guidelines / HAS recommandations
 
