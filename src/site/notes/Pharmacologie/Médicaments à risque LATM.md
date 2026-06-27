@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Médicaments à risque LATM/","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"noteIcon":"","dg-note-properties":{"nom":"Médicaments à risque LATM","titre":"Médicaments à Risque - REMED / Liste","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/medicaments-a-risque-latm/","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"noteIcon":"","dg-note-properties":{"nom":"Médicaments à risque LATM","titre":"Médicaments à Risque - REMED / Liste","tags":["pharmacologie","sécurité","médicaments risque","LATM","erreurs"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Médicaments à Risque - Vigilance IDE
 > Certains médicaments ont une marge thérapeutique étroite ou un risque majeur en cas d'erreur.
 > Des procédures spécifiques s'appliquent : double vérification, voie exclusive, dilution obligatoire.
-> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
+> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|[[Médicaments/Minéraux/Potassium\|Potassium]] IV]] · [[Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 ## Catégories de médicaments à haut risque (ISMP)
 
@@ -16,10 +16,10 @@
 | Insulines | Toutes insulines | Hypoglycémie grave |
 | Chlorure de potassium IV | KCl concentré | Arrêt cardiaque si IV direct |
 | Chlorure de sodium concentré | NaCl 20% | Hypernatrémie, convulsions |
-| Opioïdes forts | Morphine, Fentanyl, Oxycodone | Dépression respiratoire |
+| Opioïdes forts | [[Médicaments/Antalgiques/Morphine\|Morphine]], [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]], Oxycodone | [[Pathologies/Dépression\|Dépression]] respiratoire |
 | Cytotoxiques | Chimiothérapies | Toxicité irréversible si erreur de dose |
-| Hypoglycémiants oraux | Metformine, Glibenclamide | Hypoglycémie, acidose lactique |
-| Antiépileptiques | Phénytoïne, Valproate | Surdosage ou sous-dosage |
+| Hypoglycémiants oraux | [[Médicaments/Antidiabétiques/Metformine\|Metformine]], [[Médicaments/Antidiabétiques/Glibenclamide\|Glibenclamide]] | Hypoglycémie, acidose lactique |
+| Antiépileptiques | Phénytoïne, [[Médicaments/Antiépileptiques/Valproate\|Valproate]] | Surdosage ou sous-dosage |
 
 ## Règles de sécurité pour médicaments à risque
 
@@ -32,14 +32,14 @@
 
 | Erreur | Médicament | Conséquence |
 |--------|-----------|------------|
-| KCl IV direct | Potassium non dilué | Arrêt cardiaque |
-| Dix fois la dose insuline | Insuline UI mal calculés | Hypoglycémie profonde coma |
+| KCl IV direct | [[Médicaments/Minéraux/Potassium\|Potassium]] non dilué | Arrêt cardiaque |
+| Dix fois la dose insuline | [[Médicaments/Antidiabétiques/Insuline\|Insuline]] UI mal calculés | Hypoglycémie profonde coma |
 | Voie IV vs SC | Médicaments IM uniquement | Dose choc IV vs absorption lente SC |
 | Confusion morphine PO/IV | Rapport 3:1 (PO 3x plus que IV) | Surdosage si pas de conversion |
 | Héparine sur pompe ambulatoire | Sans surveillance | Hémorragie interne |
 | Administration sans RAI | Transfusion | Choc hémolytique mortel |
 
-> [!danger] Potassium concentré
+> [!danger] [[Médicaments/Minéraux/Potassium\|Potassium]] concentré
 > Les ampoules de KCl 10% ne doivent JAMAIS être en libre accès
 > Stockage sécurisé, étiquetage rouge, accès restreint
 > Toujours dilué avant administration (voir [[Médicaments/Minéraux/Potassium IV\|fiche Potassium IV]])

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Albumine urinaire/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Albuminurie / Microalbuminurie","categorie":"Fonction rénale","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/albumine-urinaire/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Albuminurie / Microalbuminurie","categorie":"Fonction rénale","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

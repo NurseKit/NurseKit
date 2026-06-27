@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Escarre/","tags":["pathologie","dermatologie","soins","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Escarre","systeme":"Dermatologie / Soins Infirmiers","tags":["pathologie","dermatologie","soins","prévention"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/escarre/","tags":["pathologie","dermatologie","soins","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Escarre","systeme":"Dermatologie / Soins Infirmiers","tags":["pathologie","dermatologie","soins","prévention"],"revision":"2026-06-23"}}
 ---
 
 
@@ -48,7 +48,7 @@ Compression des capillaires entre la peau et l'os → ischémie → nécrose tis
 
 ## Voir aussi
 
-[[Pathologies/Dénutrition\|Dénutrition]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Fiches de Service/Soins Palliatifs\|Soins palliatifs]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]]
+[[Pathologies/Dénutrition\|Dénutrition]] · [[Pathologies/Diabète de type 2\|Diabète de type 2]] · [[Fiches de Service/Soins Palliatifs\|Soins Palliatifs]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]]
 
 > [!caution] Outil pédagogique · Source : HAS 2014 / NPUAP-EPUAP-PPPIA recommandations
 

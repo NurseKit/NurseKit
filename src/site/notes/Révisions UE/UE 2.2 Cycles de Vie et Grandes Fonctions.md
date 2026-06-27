@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-2-cycles-de-vie-et-grandes-fonctions/","tags":["révision","ue-2-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.2 - Cycles de la Vie et Grandes Fonctions","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.2","tags":["révision","ue-2-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -96,7 +96,7 @@ Trajet : Bouche → Œsophage → Estomac → Intestin grêle → Côlon → Rec
 
 | Paramètre | Valeur normale |
 |-----------|---------------|
-| [[Médicaments/Normes/Glycémie\|Glycémie à jeun]] | 0,70-1,10 g/L |
+| [[Médicaments/Normes/Glycémie\|[[Glycémie]] à jeun]] | 0,70-1,10 g/L |
 | [[Médicaments/Normes/Natrémie\|Natrémie]] | 135-145 mmol/L |
 | [[Médicaments/Normes/Kaliémie\|Kaliémie]] | 3,5-5 mmol/L |
 | [[Médicaments/Normes/Créatinine\|Créatininémie]] | 60-110 µmol/L (H), 45-80 (F) |

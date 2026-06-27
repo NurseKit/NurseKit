@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.4 Processus Traumatiques/","tags":["révision","ue-2-4","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.4 - Processus Traumatiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.4","tags":["révision","ue-2-4","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-4-processus-traumatiques/","tags":["révision","ue-2-4","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.4 - Processus Traumatiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.4","tags":["révision","ue-2-4","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -90,7 +90,7 @@
 | III | 1500-2000 mL (30-40%) | 120-140 | ↓↓ | confusion |
 | IV | >2000 mL (>40%) | >140 | effondrée | inconscience |
 
-**CAT** : STOP le saignement → O2 haut débit → 2 VVP de gros calibre → remplissage vasculaire → [[Soins Infirmiers/Transfusion CGR\|transfusion si nécessaire]]
+**CAT** : STOP le saignement → O2 haut débit → 2 VVP de gros calibre → remplissage vasculaire → [[Transfusion CGR\|transfusion si nécessaire]]
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## Voir aussi
 
-[[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Pansements et cicatrisation\|Pansements et cicatrisation]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]]
+[[Soin de plaie\|Soin de plaie]] · [[Soins Infirmiers/Pansements et cicatrisation\|Pansements et cicatrisation]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]] · [[Transfusion CGR\|Transfusion CGR]]
 
 > [!caution] Outil pédagogique · Réf : ATLS 10th ed., Référentiel plaies et cicatrisation HAS - IFSI
 

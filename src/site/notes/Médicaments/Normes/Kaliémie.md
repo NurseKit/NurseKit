@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Kaliémie/","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"noteIcon":"","dg-note-properties":{"nom":"Kaliémie (K⁺)","categorie":"Ionogramme sanguin","norme":"3,5-5,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/kaliemie/","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"noteIcon":"","dg-note-properties":{"nom":"Kaliémie (K⁺)","categorie":"Ionogramme sanguin","norme":"3,5-5,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","kaliémie","potassium","arythmie","diurétique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -43,7 +43,7 @@ Le potassium est l'ion majoritaire du **milieu intracellulaire**. Sa concentrati
 
 ## Voir aussi
 
-[[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Magnésium\|Magnésium]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Soins Infirmiers/ECG\|ECG (effet K+)]]
+[[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Magnésium\|Magnésium]] · [[Soins Infirmiers/ECG\|ECG (effet K+)]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/EVA/","tags":["norme","evaluation","douleur","reference"],"noteIcon":"","dg-note-properties":{"nom":"EVA / EN : Évaluation de la douleur","categorie":"Évaluation clinique","norme":"Objectif thérapeutique : EN ≤ 3/10","unite":"/10","tags":["norme","evaluation","douleur","reference"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/eva/","tags":["norme","evaluation","douleur","reference"],"noteIcon":"","dg-note-properties":{"nom":"EVA / EN : Évaluation de la douleur","categorie":"Évaluation clinique","norme":"Objectif thérapeutique : EN ≤ 3/10","unite":"/10","tags":["norme","evaluation","douleur","reference"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-L'**Échelle Visuelle Analogique (EVA)** est une réglette de 10 cm (de "pas de douleur" à "douleur maximale imaginable"). L'**Échelle Numérique (EN)** demande au patient de coter sa douleur de 0 à 10 verbalement — plus simple en pratique quotidienne. L'**Échelle Verbale Simple (EVS)** utilise des qualificatifs (absente / légère / modérée / intense / insupportable).
+L'**Échelle Visuelle Analogique (EVA)** est une réglette de 10 cm (de "pas de douleur" à "douleur maximale imaginable"). L'**Échelle Numérique (EN)** demande au patient de coter sa douleur de 0 à 10 verbalement : plus simple en pratique quotidienne. L'**Échelle Verbale Simple (EVS)** utilise des qualificatifs (absente / légère / modérée / intense / insupportable).
 
 ---
 
@@ -44,7 +44,7 @@ L'**Échelle Visuelle Analogique (EVA)** est une réglette de 10 cm (de "pas de 
 
 ## Voir aussi
 
-[[Révisions UE/UE 4.1 Soins de Confort et Bien-Être\|UE 4.1 Soins de Confort et Bien-Être]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]] · [[Médicaments/Antalgiques/Morphine\|Morphine]]
+[[Révisions UE/UE 4.1 Soins de Confort et Bien-Être\|UE 4.1 Soins de Confort et Bien-Être]] · [[Évaluation de la douleur\|Évaluation de la douleur]] · [[Médicaments/Antalgiques/Morphine\|Morphine]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

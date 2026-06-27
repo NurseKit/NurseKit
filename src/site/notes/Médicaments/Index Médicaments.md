@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Index Médicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/index-medicaments/","title":"Médicaments","tags":["index","médicaments"],"noteIcon":"","dg-note-properties":{"title":"Médicaments","nom":"Index Médicaments","tags":["index","médicaments"],"revision":"2026-06-22"}}
 ---
 
 
@@ -44,7 +44,7 @@
 - [[Médicaments/AINS/Comparatif AINS\|Comparatif AINS]]
 - [[Médicaments/AINS/Aspirine\|Aspirine]]
 - [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]
-- [[Médicaments/AINS/Kétoprofène\|Kétoprofène]]
+- [[Kétoprofène\|Kétoprofène]]
 - [[Médicaments/AINS/Diclofenac\|Diclofenac]]
 - [[Médicaments/AINS/Naproxene\|Naproxene]]
 - [[Médicaments/AINS/Ketoprofene\|Ketoprofene]]
@@ -76,6 +76,7 @@
 
 ### Antibiotiques
 
+- [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Comparatif Antibiotiques]]
 - [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 - [[Médicaments/Antibiotiques/Clamoxyl\|Clamoxyl]]
 - [[Médicaments/Antibiotiques/Azithromycine\|Azithromycine]]
@@ -138,6 +139,7 @@
 
 ### Bêta-bloquants
 
+- [[Médicaments/Bêta-bloquants/Comparatif Bêtabloquants\|Comparatif Bêtabloquants]]
 - [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]
 - [[Médicaments/Bêta-bloquants/Atenolol\|Atenolol]]
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]
@@ -206,6 +208,7 @@
 
 ### Corticoïdes
 
+- [[Médicaments/Corticoïdes/Comparatif Corticoïdes\|Comparatif Corticoïdes]]
 - [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]
 - [[Médicaments/Corticoïdes/Prednisone\|Prednisone]]
 - [[Médicaments/Corticoïdes/Methylprednisolone\|Methylprednisolone]]
@@ -354,7 +357,7 @@
 
 ### Vitamines
 
-- [[Médicaments/Normes/Vitamine D\|Vitamine D]]
+- [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D]]
 - [[Médicaments/Vitamines/Vitamine C\|Vitamine C]]
 - [[Médicaments/Vitamines/Vitamine B12\|Vitamine B12]]
 - [[Médicaments/Vitamines/Vitamine K\|Vitamine K]]
@@ -363,9 +366,36 @@
 ### Minéraux
 
 - [[Médicaments/Minéraux/Potassium\|Potassium]]
-- [[Potassium I
+- [[Médicaments/Minéraux/Potassium IV\|Potassium IV]]
+- [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|NurseKit/NurseKit Lite/Médicaments/Normes/Calcium]]
+- [[Médicaments/Minéraux/Gluconate calcium\|Gluconate calcium]]
+- [[Médicaments/Minéraux/Magnésium sulfate\|Magnésium sulfate]]
+- [[Médicaments/Minéraux/Magnesium\|Magnésium]]
+- [[Médicaments/Minéraux/Bicarbonate sodium\|Bicarbonate de sodium]]
+- [[Médicaments/Minéraux/Fer\|Fer]]
+- [[Médicaments/Minéraux/Zinc\|Zinc]]
+
+### Vaccins
+
+- [[Médicaments/Vaccins/Vaccin grippe\|Vaccin grippe]]
+- [[Médicaments/Vaccins/Vaccin COVID-19\|Vaccin COVID-19]]
+- [[Médicaments/Vaccins/Vaccin tétanique\|Vaccin tétanique]]
+- [[Médicaments/Vaccins/Vaccin hépatite B\|Vaccin hépatite B]]
+- [[Médicaments/Vaccins/Vaccin pneumocoque\|Vaccin pneumocoque]]
+
+### Antiseptiques
+
+- [[Médicaments/Antiseptiques/Chlorhexidine\|Chlorhexidine]]
+
+### Antidotes
+
+- [[Médicaments/Antidotes/Naloxone\|Naloxone]]
+- [[Médicaments/Antidotes/Flumazenil\|Flumazenil]]
+- [[Médicaments/Antidotes/N-acetylcysteine\|N-acétylcystéine]]
+- [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
+</div>ze:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
 </div>

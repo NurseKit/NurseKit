@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Cirrhose/","tags":["pathologie","digestif","foie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/cirrhose/","tags":["pathologie","digestif","foie","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Cirrhose hépatique","systeme":"Digestif","tags":["pathologie","digestif","foie","chronique"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Le foie fibrosé ne filtre plus et le sang reflue dans le système porte → d'où les varices œsophagiennes qui peuvent exploser. Irréversible. La seule arme : traiter la cause et arrêter l'agression. Chez le cirrhotique, une hématémèse est toujours une urgence vitale.
@@ -18,12 +22,12 @@
 | **Ascite** | Ventre qui gonfle, matité déclive, nombrile saillant, pesée qui monte |
 | **Ictère** | Jaunisse → insuffisance hépatique avancée (bilirubine accumulée) |
 | **Encéphalopathie** | Confusion, désorientation, astérixis (mains qui "battent" = flapping tremor) |
-| **Hémorragie digestive** | Hématémèse ou méléna = rupture de varices → urgence vitale |
+| **[[Pathologies/Hémorragie digestive\|Hémorragie digestive]]** | Hématémèse ou méléna = rupture de varices → urgence vitale |
 
 ## Rôle IDE
 
 - [ ] **Pesée quotidienne** à la même heure, même tenue → prise de poids > 1 kg/j = ascite qui s'aggrave → signaler
-- [ ] Surveiller l'encéphalopathie : orientation temporo-spatiale, astérixis (bras tendus, doigts écartés, cherche les "battements"), Glasgow
+- [ ] Surveiller l'encéphalopathie : orientation temporo-spatiale, astérixis (bras tendus, doigts écartés, cherche les "battements"), [[Médicaments/Normes/Glasgow\|Glasgow]]
 - [ ] Observer les selles et les vomissements : méléna (noires, goudronneuses) ou hématémèse = appel immédiat
 - [ ] Bilan biologique régulier : TP, albumine, ionogramme, créatinine (syndrome hépatorénal qui guette)
 - [ ] **Aucun AINS** → hépatotoxiques et néphrotoxiques chez le cirrhotique
@@ -34,7 +38,7 @@
 > [!danger] Rupture de varices œsophagiennes : urgence vitale
 > Hématémèse chez un cirrhotique = urgence sans équivoque. VVP × 2 de gros calibre, scope, terlipressine IV (vasoconstricteur splanchnique), antibioprophylaxie (ceftriaxone), FOGD en urgence + ligature élastique. Ne jamais minimiser un "petit peu de sang".
 
-> [!warning] Péritonite bactérienne spontanée (PBS)
+> [!warning] [[Pathologies/Péritonite\|Péritonite]] bactérienne spontanée (PBS)
 > Fièvre ou douleurs abdominales chez un cirrhotique avec ascite = PBS jusqu'à preuve du contraire → ponction diagnostique urgente. La PBS peut tuer sans signes locaux évidents.
 
 ## Les 3 choses à retenir

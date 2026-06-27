@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/FEVG/","tags":["norme","biologie","reference","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"FEVG : Fraction d'éjection du ventricule gauche","categorie":"Bilan cardiaque","norme":"≥ 55 %","unite":"%","tags":["norme","biologie","reference","cardiologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/fevg/","tags":["norme","biologie","reference","cardiologie"],"noteIcon":"","dg-note-properties":{"nom":"FEVG : Fraction d'éjection du ventricule gauche","categorie":"Bilan cardiaque","norme":"≥ 55 %","unite":"%","tags":["norme","biologie","reference","cardiologie"],"revision":"2026-06-22"}}
 ---
 
 

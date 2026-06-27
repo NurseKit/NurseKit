@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/SpO2/","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"SpO₂ : Saturation pulsée en oxygène","categorie":"Constante vitale","norme":"≥ 95 % (88-92 % chez le BPCO)","unite":"%","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/sp-o2/","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"SpO₂ : Saturation pulsée en oxygène","categorie":"Constante vitale","norme":"≥ 95 % (88-92 % chez le BPCO)","unite":"%","tags":["norme","constantes","SpO2","oxygène","respiratoire"],"revision":"2026-06-22"}}
 ---
 
 
@@ -39,7 +39,7 @@ Constante de surveillance permanente en soins intensifs et à chaque prise en ch
 
 ## Voir aussi
 
-[[Médicaments/Normes/FR\|Fréquence respiratoire]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Soins Infirmiers/FiO2\|FiO₂]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Pathologies/BPCO\|BPCO]]
+[[Médicaments/Normes/FR\|Fréquence respiratoire]] · [[Soins Infirmiers/FiO2\|FiO₂]] · [[Pathologies/BPCO\|BPCO]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

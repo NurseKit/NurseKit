@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Dénutrition/","tags":["pathologie","nutrition","gériatrie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Dénutrition","tags":["pathologie","nutrition","gériatrie","oncologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/denutrition/","tags":["pathologie","nutrition","gériatrie","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Dénutrition","tags":["pathologie","nutrition","gériatrie","oncologie"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] Dénutrition
 > Déséquilibre entre apports et besoins nutritionnels → altération de la composition corporelle.
@@ -55,7 +59,7 @@ La **dénutrition** est définie par l'HAS (2019) comme un état pathologique r�
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Albumine\|Albumine (< 30 g/L = dénutrition sévère)]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]] · [[Médicaments/Normes/Lymphocytes\|Lymphocytes]] · [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/Phosphore\|Phosphorémie (renutrition)]]
+[[Médicaments/Normes/Albumine\|[[Albumine]] (< 30 g/L = dénutrition sévère)]] · [[Médicaments/Normes/Protéines totales\|Protéines totales]] · [[Médicaments/Normes/Lymphocytes\|Lymphocytes]] · [[Médicaments/Normes/Glycémie\|Glycémie]] · [[Médicaments/Normes/Phosphore\|Phosphorémie (renutrition)]]
 
 ## Les 3 choses à retenir
 
@@ -66,7 +70,7 @@ La **dénutrition** est définie par l'HAS (2019) comme un état pathologique r�
 
 ## Voir aussi
 
-[[Pathologies/Anémie\|Anémie]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] · [[Fiches de Service/Soins Palliatifs\|Soins palliatifs]]
+[[Pathologies/Anémie\|Anémie]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] · [[Fiches de Service/Soins Palliatifs\|Soins Palliatifs]]
 
 
 > [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur

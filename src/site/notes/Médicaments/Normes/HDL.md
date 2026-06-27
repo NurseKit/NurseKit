@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/HDL/","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"HDL-cholestérol (bon cholestérol)","categorie":"Bilan lipidique","norme":"Femme : > 1,3 mmol/L | Homme : > 1,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/hdl/","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"noteIcon":"","dg-note-properties":{"nom":"HDL-cholestérol (bon cholestérol)","categorie":"Bilan lipidique","norme":"Femme : > 1,3 mmol/L | Homme : > 1,0 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","lipidique","cardiovasculaire"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-Le HDL-cholestérol (High Density Lipoprotein) est le cholestérol transporté vers le foie pour être éliminé — c'est le "transport retour". Plus le HDL est élevé, mieux les artères sont protégées. C'est l'inverse du LDL : un HDL **bas** est un facteur de risque cardiovasculaire, un HDL **élevé** est protecteur.
+Le HDL-cholestérol (High Density Lipoprotein) est le cholestérol transporté vers le foie pour être éliminé : c'est le "transport retour". Plus le HDL est élevé, mieux les artères sont protégées. C'est l'inverse du LDL : un HDL **bas** est un facteur de risque cardiovasculaire, un HDL **élevé** est protecteur.
 
 ---
 

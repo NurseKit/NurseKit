@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/PAL/","tags":["norme","biologie","reference","hepatique","osseux"],"noteIcon":"","dg-note-properties":{"nom":"PAL : Phosphatases alcalines","categorie":"Bilan hépatique / Os","norme":"40-130 U/L","unite":"U/L","tags":["norme","biologie","reference","hepatique","osseux"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/pal/","tags":["norme","biologie","reference","hepatique","osseux"],"noteIcon":"","dg-note-properties":{"nom":"PAL : Phosphatases alcalines","categorie":"Bilan hépatique / Os","norme":"40-130 U/L","unite":"U/L","tags":["norme","biologie","reference","hepatique","osseux"],"revision":"2026-06-22"}}
 ---
 
 
@@ -18,13 +18,13 @@ Les phosphatases alcalines (PAL) sont des enzymes présentes dans le foie (voies
 
 ## Pourquoi on la mesure ?
 
-Bilan hépatique complet (avec ALAT, ASAT, GGT, bilirubine), suspicion de cholestase (ictère, prurit, douleur abdominale), suivi de métastases osseuses (PAL d'origine osseuse), bilan de la maladie de Paget, suivi grossesse (PAL d'origine placentaire — normale au 3ème trimestre).
+Bilan hépatique complet (avec ALAT, ASAT, GGT, bilirubine), suspicion de cholestase (ictère, prurit, douleur abdominale), suivi de métastases osseuses (PAL d'origine osseuse), bilan de la maladie de Paget, suivi grossesse (PAL d'origine placentaire : normale au 3ème trimestre).
 
 ---
 
 ## Quand c'est anormal ?
 
-**PAL élevée — orienter par contexte :**
+**PAL élevée : orienter par contexte :**
 - Élevée + GGT élevée → **origine hépatique** (cholestase) : lithiase biliaire, cholangite, cancer voies biliaires, cirrhose
 - Élevée + GGT normale → **origine osseuse** : Paget, métastases osseuses, fracture récente, ostéomalacie, hyperparathyroïdie
 - Élevée physiologique : enfants et adolescents (croissance osseuse), grossesse 3ème trimestre

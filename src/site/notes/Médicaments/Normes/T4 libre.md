@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/T4 libre/","tags":["norme","biologie","reference","thyroide","endocrinologie"],"noteIcon":"","dg-note-properties":{"nom":"T4 libre (thyroxine libre)","categorie":"Bilan thyroïdien","norme":"10-25 pmol/L","unite":"pmol/L","tags":["norme","biologie","reference","thyroide","endocrinologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/t4-libre/","tags":["norme","biologie","reference","thyroide","endocrinologie"],"noteIcon":"","dg-note-properties":{"nom":"T4 libre (thyroxine libre)","categorie":"Bilan thyroïdien","norme":"10-25 pmol/L","unite":"pmol/L","tags":["norme","biologie","reference","thyroide","endocrinologie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -30,7 +30,7 @@ Deuxième examen en cas de TSH anormale : confirmer une hyperthyroïdie (T4 libr
 
 **T4 libre basse + TSH haute = Hypothyroïdie franche :**
 - Thyroïdite de Hashimoto (principale cause), post-thyroïdectomie, après iode radioactif
-- Traitement : lévothyroxine (L-Thyroxine) — cible TSH 0,5-2,5 mUI/L, contrôle 6-8 semaines après ajustement
+- Traitement : lévothyroxine (L-Thyroxine) : cible TSH 0,5-2,5 mUI/L, contrôle 6-8 semaines après ajustement
 
 **T4 libre normale + TSH anormale :**
 - Hypothyroïdie fruste (TSH ↑, T4 normale) : traiter si symptômes ou TSH > 10
@@ -43,7 +43,7 @@ Deuxième examen en cas de TSH anormale : confirmer une hyperthyroïdie (T4 libr
 
 ## Voir aussi
 
-[[Médicaments/Normes/TSH\|TSH]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/Calcium\|Calcium]]
+[[Médicaments/Normes/TSH\|TSH]] · [[Médicaments/Normes/FC\|FC]] · [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcium]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

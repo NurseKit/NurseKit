@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Beta hCG/","tags":["norme","biologie","reference","grossesse","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Beta-hCG : Gonadotrophine chorionique humaine","categorie":"Marqueurs de grossesse / Oncologie","norme":"< 5 UI/L (hors grossesse)","unite":"UI/L","tags":["norme","biologie","reference","grossesse","oncologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/beta-h-cg/","tags":["norme","biologie","reference","grossesse","oncologie"],"noteIcon":"","dg-note-properties":{"nom":"Beta-hCG : Gonadotrophine chorionique humaine","categorie":"Marqueurs de grossesse / Oncologie","norme":"< 5 UI/L (hors grossesse)","unite":"UI/L","tags":["norme","biologie","reference","grossesse","oncologie"],"revision":"2026-06-22"}}
 ---
 
 

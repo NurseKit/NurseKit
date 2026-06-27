@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Insuffisance cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/insuffisance-cardiaque/","tags":["pathologie","cardiovasculaire","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Insuffisance cardiaque (IC)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","chronique","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -60,7 +60,7 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 
 1. **"2 kg en 2 jours = appel médecin"** → la pesée quotidienne n'est pas un détail administratif : c'est l'alarme précoce de décompensation la plus fiable qu'on ait
 2. **"Asseoir les jambes pendantes en OAP"** → cette seule position réduit le retour veineux et soulage le VG en attendant les médicaments
-3. **"Kaliémie sous diurétique"** → le furosémide fait perdre du potassium vite : surveiller la kaliémie et les signes d'hypokaliémie (crampes, arythmies, faiblesse musculaire)
+3. **"[[Médicaments/Normes/Kaliémie\|Kaliémie]] sous diurétique"** → le furosémide fait perdre du potassium vite : surveiller la kaliémie et les signes d'hypokaliémie (crampes, arythmies, faiblesse musculaire)
 
 ## Normes à surveiller
 
@@ -68,7 +68,7 @@ Le cœur n'assure plus un débit suffisant. Il existe deux grands profils : l'**
 
 ## Voir aussi
 
-[[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · BNP · Kaliémie
+[[Pathologies/OAP\|OAP]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · BNP · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 > [!caution] Outil pédagogique : ESC Guidelines HF 2021, HAS
 

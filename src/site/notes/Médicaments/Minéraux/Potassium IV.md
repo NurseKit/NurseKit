@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Minéraux/Potassium IV/","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"noteIcon":"","dg-note-properties":{"nom":"Potassium IV","titre":"Potassium IV (Chlorure de Potassium)","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/mineraux/potassium-iv/","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"noteIcon":"","dg-note-properties":{"nom":"Potassium IV","titre":"Potassium IV (Chlorure de Potassium)","tags":["médicament","électrolyte","potassium","hypokaliémie","KCl"],"revision":"2026-06-22"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > Classe : Électrolyte essentiel
 > Indication : Hypokaliémie (K+ < 3,5 mmol/L)
 > Valeur normale : 3,5-5,0 mmol/L
-> → Voir aussi : [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · [[Pharmacologie/Ionogramme interprétation\|Ionogramme]]
+> → Voir aussi : [[Furosémide\|Furosémide]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · [[Pharmacologie/Ionogramme interprétation\|Ionogramme]]
 
 ## Risques selon kaliémie
 

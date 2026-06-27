@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/BNP/","tags":["norme","biologie","reference","cardiaque","BNP","insuffisance-cardiaque","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"BNP / NT-proBNP","categorie":"Bilan cardiaque","norme":"BNP < 100 pg/mL | NT-proBNP < 125 pg/mL","unite":"pg/mL","tags":["norme","biologie","reference","cardiaque","BNP","insuffisance-cardiaque","dyspnée"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/bnp/","tags":["norme","biologie","reference","cardiaque","BNP","insuffisance-cardiaque","dyspnée"],"noteIcon":"","dg-note-properties":{"nom":"BNP / NT-proBNP","categorie":"Bilan cardiaque","norme":"BNP < 100 pg/mL | NT-proBNP < 125 pg/mL","unite":"pg/mL","tags":["norme","biologie","reference","cardiaque","BNP","insuffisance-cardiaque","dyspnée"],"revision":"2026-06-22"}}
 ---
 
 

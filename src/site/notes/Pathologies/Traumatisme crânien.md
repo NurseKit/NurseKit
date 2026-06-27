@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Traumatisme crânien/","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Traumatisme Crânien Grave (TCG)","systeme":"Réanimation / Neurochirurgie / Urgence","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/traumatisme-cranien/","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Traumatisme Crânien Grave (TCG)","systeme":"Réanimation / Neurochirurgie / Urgence","tags":["pathologie","réanimation","neurologie","neurochirurgie","traumatologie","urgence"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Impact violent sur le crâne avec GCS ≤ 8 = urgence neurochirurgicale. Deux types de lésions : primaires (immédiates, irréductibles) et secondaires (évitables). Le rôle de l'IDE : prévenir les lésions secondaires → maintenir PA, SpO₂, normocapnie, normoglycémie, normothermie.
@@ -16,7 +20,7 @@ Le TCG est défini par un GCS ≤ 8 après traumatisme crânien. Lésions primai
 - Hypercapnie ou hypocapnie
 - Hyperthermie > 38°C
 - Hypoglycémie ou hyperglycémie
-- Anémie < 8 g/dL
+- [[Pathologies/Anémie\|Anémie]] < 8 g/dL
 - Hypernatrémie ou hyponatrémie
 
 ## Comment ça se présente ?
@@ -39,11 +43,11 @@ Le TCG est défini par un GCS ≤ 8 après traumatisme crânien. Lésions primai
  - PAS ≥ 120 mmHg → remplissage et vasopresseurs si nécessaire
  - SpO₂ ≥ 98 % sous VM
  - PaCO₂ 35-40 mmHg (normocapnie stricte → éviter hyperventilation)
- - Glycémie 6-10 mmol/L
- - Température ≤ 37,5°C → refroidissement actif si fièvre
- - Natrémie 145-155 mmol/L (légère hypernatrémie tolérée, hyponatrémie interdite)
+ - [[Médicaments/Normes/Glycémie\|Glycémie]] 6-10 mmol/L
+ - [[Médicaments/Normes/Température\|Température]] ≤ 37,5°C → refroidissement actif si fièvre
+ - [[Médicaments/Normes/Natrémie\|Natrémie]] 145-155 mmol/L (légère hypernatrémie tolérée, hyponatrémie interdite)
 - [ ] Bilan biologique urgent : NFS, coagulation (TP, TCA, fibrinogène), groupe RAI, ionogramme, GDS, glycémie
-- [ ] Glasgow et pupilles toutes les 30 min à 1 h (post-intubation : surveiller les signes d'engagement si pas sédaté)
+- [ ] [[Médicaments/Normes/Glasgow\|Glasgow]] et pupilles toutes les 30 min à 1 h (post-intubation : surveiller les signes d'engagement si pas sédaté)
 - [ ] Si capteur de PIC posé : noter les valeurs, alerter si PIC > 20 mmHg
 - [ ] Prévenir le collecteur cervical si polytraumatisme → ne retirer qu'après élimination d'une lésion cervicale
 - [ ] Prévenir l'hyponatrémie : perfusion NaCl 0,9% (jamais de glucosé ou de sérum hypotonique)
@@ -55,7 +59,7 @@ Le TCG est défini par un GCS ≤ 8 après traumatisme crânien. Lésions primai
 > Chaque épisode d'hypotension (PAS < 90 mmHg) dans les premières heures double la mortalité du TCG. Objectif PAS ≥ 120 mmHg. Signaler immédiatement toute chute tensionnelle.
 
 > [!danger] Anticoagulants avant le trauma
-> Patient sous AVK ou AOD → risque d'hématome intracrânien expansif. Antagonisation en urgence : vitamine K + PPSB pour AVK, idarucizumab (Pradaxa) ou andexanet alfa (Xarelto/Eliquis).
+> Patient sous AVK ou AOD → risque d'hématome intracrânien expansif. Antagonisation en urgence : vitamine K + PPSB pour AVK, idarucizumab ([[Médicaments/Anticoagulants/Pradaxa\|Pradaxa]]) ou andexanet alfa ([[Médicaments/Anticoagulants/Xarelto\|Xarelto]]/[[Médicaments/Anticoagulants/Eliquis\|Eliquis]]).
 
 > [!warning] Ne jamais hyperventiler un TCG
 > L'hypocapnie provoque une vasoconstriction cérébrale qui aggrave l'ischémie. L'hyperventilation n'est autorisée que quelques minutes en cas d'engagement imminent (mesure de sauvetage temporaire).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/FR/","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"FR : Fréquence Respiratoire","categorie":"Constante vitale","norme":"12-20 /min","unite":"respirations par minute","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/fr/","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"noteIcon":"","dg-note-properties":{"nom":"FR : Fréquence Respiratoire","categorie":"Constante vitale","norme":"12-20 /min","unite":"respirations par minute","tags":["norme","constantes","FR","respiration","tachypnée","détresse-respiratoire"],"revision":"2026-06-22"}}
 ---
 
 
@@ -38,7 +38,7 @@ La FR est souvent la constante la **moins surveillée** alors qu'elle est l'une 
 
 ## Voir aussi
 
-[[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FC\|FC]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Soins Infirmiers/FiO2\|FiO₂]]
+[[Médicaments/Normes/SpO2\|SpO₂]] · [[Médicaments/Normes/FC\|FC]] · [[Soins Infirmiers/FiO2\|FiO₂]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

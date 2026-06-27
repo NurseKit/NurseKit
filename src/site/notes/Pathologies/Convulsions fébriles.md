@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Convulsions fébriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"noteIcon":"","dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/convulsions-febriles/","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"noteIcon":"","dg-note-properties":{"nom":"Convulsions Fébriles de l'Enfant","systeme":"Pédiatrie / Neurologie","tags":["pathologie","pédiatrie","neurologie","urgence","convulsions"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Convulsions survenant dans un contexte fébrile (> 38°C) chez l'enfant de 6 mois à 5 ans, sans infection neurologique sous-jacente. Simples dans 80% des cas : bénignes, < 15 min, généralisées. Complexes ou prolongées : risque d'état de mal.
@@ -31,12 +35,12 @@ Les convulsions fébriles touchent 2-5% des enfants. Elles surviennent lors d'un
 - [ ] Chronométrer la durée de la crise
 - [ ] Libérer les voies aériennes, O₂ si cyanose
 - [ ] Appel médecin immédiat
-- [ ] Si crise > 5 min → diazépam intrarectal (Valium® 0,5 mg/kg) ou midazolam buccal → préparer
+- [ ] Si crise > 5 min → diazépam intrarectal ([[Médicaments/Benzodiazépines/Valium\|Valium]]® 0,5 mg/kg) ou midazolam buccal → préparer
 
 **Post-critique :**
-- [ ] Température rectale + déshabiller l'enfant, paracétamol IV/PO
-- [ ] Glycémie capillaire (hypoglycémie ?)
-- [ ] Surveillance neurologique : conscience, tonus, déficit moteur focal
+- [ ] [[Médicaments/Normes/Température\|Température]] rectale + déshabiller l'enfant, paracétamol IV/PO
+- [ ] [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] (hypoglycémie ?)
+- [ ] [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] : conscience, tonus, déficit moteur focal
 - [ ] Rassurer les parents (très stressés) → expliquer le caractère bénin si forme simple
 - [ ] Éducation : reconnaître une récidive, que faire (position, pas de doigt dans la bouche, appel 15)
 
@@ -45,7 +49,7 @@ Les convulsions fébriles touchent 2-5% des enfants. Elles surviennent lors d'un
 > [!danger] Convulsion > 5 min → traiter comme état de mal
 > Diazépam intrarectal 0,5 mg/kg (max 10 mg) sans attendre. Si > 20 min → état de mal épileptique → protocole EME (voir fiche).
 
-> [!danger] Méningite jusqu'à preuve du contraire
+> [!danger] [[Pathologies/Méningite\|Méningite]] jusqu'à preuve du contraire
 > Raideur de la nuque + purpura + altération de la conscience persistante → méningite → ponction lombaire → ATB urgence. La fièvre seule ne suffit pas à expliquer les convulsions si celles-ci sont complexes.
 
 > [!warning] Récidive dans les 24 h → bilan neurologique

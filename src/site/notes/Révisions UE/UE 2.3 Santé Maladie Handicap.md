@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.3 Santé Maladie Handicap/","tags":["révision","ue-2-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.3 - Santé, Maladie, Handicap, Accidents de la Vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.3","tags":["révision","ue-2-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-3-sante-maladie-handicap/","tags":["révision","ue-2-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.3 - Santé, Maladie, Handicap, Accidents de la Vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.3","tags":["révision","ue-2-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -108,7 +108,7 @@ Rôle IDE : évaluer les circonstances, signaler si suspicion de maltraitance, o
 
 ## Voir aussi
 
-[[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs\|UE 2.7 Défaillances Organiques et Processus Dégénératifs]]
+[[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[UE 1.3 [[Législation\|UE 1.3 [[Législation]] Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs\|UE 2.7 Défaillances Organiques et Processus Dégénératifs]]
 
 > [!caution] Outil pédagogique · Réf : Loi 11 février 2005, CIF OMS 2001, Loi Kouchner 2002 - IFSI
 

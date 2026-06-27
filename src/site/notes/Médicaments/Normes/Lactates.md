@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Lactates/","tags":["norme","biologie","reference","sepsis","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Lactates sanguins","categorie":"Gaz du sang / Sepsis","norme":"0,5-1,6 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","sepsis","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/lactates/","tags":["norme","biologie","reference","sepsis","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Lactates sanguins","categorie":"Gaz du sang / Sepsis","norme":"0,5-1,6 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","sepsis","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-Les lactates sont produits par le métabolisme anaérobie quand les cellules manquent d'oxygène. Leur élévation est le signe que les tissus ne reçoivent plus assez d'O₂ — soit parce que la perfusion est insuffisante (choc), soit parce que les cellules ne peuvent plus l'utiliser (sepsis sévère, défaillance hépatique).
+Les lactates sont produits par le métabolisme anaérobie quand les cellules manquent d'oxygène. Leur élévation est le signe que les tissus ne reçoivent plus assez d'O₂ : soit parce que la perfusion est insuffisante (choc), soit parce que les cellules ne peuvent plus l'utiliser (sepsis sévère, défaillance hépatique).
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/SaO2 gds/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"SaO₂ (GDS) : Saturation artérielle en O₂","categorie":"Gaz du sang","norme":"95-100 %","unite":"%","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/sa-o2-gds/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"SaO₂ (GDS) : Saturation artérielle en O₂","categorie":"Gaz du sang","norme":"95-100 %","unite":"%","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
 ---
 
 

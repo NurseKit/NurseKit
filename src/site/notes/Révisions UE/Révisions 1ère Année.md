@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Révisions 1ère Année/","title":"Révisions 1ère Année","tags":["index","révisions-ue","1ere-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 1ère Année","nom":"Révisions 1ère Année IFSI","type":"Index","tags":["index","révisions-ue","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/revisions-1ere-annee/","title":"Révisions 1ère Année","tags":["index","révisions-ue","1ere-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 1ère Année","nom":"Révisions 1ère Année IFSI","type":"Index","tags":["index","révisions-ue","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -13,7 +13,7 @@
 
 - [[Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie\|UE 1.1 : Psychologie, Sociologie, Anthropologie]]
 - [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 : Santé Publique et Économie de la Santé]]
-- [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 : Législation, Éthique, Déontologie]]
+- [[UE 1.3 [[Législation\|UE 1.3 [[Législation/Législation\|Législation]] Éthique Déontologie|UE 1.3 : [[Législation/Législation\|Législation]], Éthique, Déontologie]]
 
 ## Sciences biologiques et médicales
 

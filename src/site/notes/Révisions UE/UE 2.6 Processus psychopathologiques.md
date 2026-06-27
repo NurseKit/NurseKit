@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.6 Processus psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-6-processus-psychopathologiques/","tags":["révision","ue-2-6","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Processus psychopathologiques","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.6","tags":["révision","ue-2-6","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -22,7 +22,7 @@
 
 ## Points clés
 
-### Schizophrénie
+### [[Pathologies/Schizophrénie\|Schizophrénie]]
 
 **Définition** : Trouble psychotique chronique débutant avant 30 ans, évoluant par poussées
 
@@ -50,7 +50,7 @@
 | Phase | Caractéristiques |
 |-------|-----------------|
 | **Manie** | Euphorie, grandiosité, désinhibition, insomnie sans fatigue, logorrhée, passage à l'acte |
-| **Dépression** | Tristesse, ralentissement psychomoteur, anhédonie, idées suicidaires |
+| **[[Pathologies/Dépression\|Dépression]]** | Tristesse, ralentissement psychomoteur, anhédonie, idées suicidaires |
 | **Hypomanie** | Manie moins intense, sans rupture avec la réalité |
 | **Euthymie** | Phase inter-critique (stabilisation) |
 
@@ -65,7 +65,7 @@
 
 ---
 
-### Dépression
+### [[Pathologies/Dépression\|Dépression]]
 
 **Critères DSM-5** : ≥ 5 symptômes pendant ≥ 2 semaines, dont tristesse OU anhédonie :
 1. Tristesse persistante
@@ -160,7 +160,7 @@
 
 **Contention psychique** : Relation thérapeutique, parole, présence, environnement sécurisant → toujours en PREMIÈRE INTENTION
 
-**Contention physique** : Immobilisation mécanique (sangles) → DERNIER RECOURS
+**[[Soins Infirmiers/Contention physique\|Contention physique]]** : Immobilisation mécanique (sangles) → DERNIER RECOURS
 
 **Cadre légal (décret 2017-848)** :
 - Prescription médicale écrite, horodatée, motivée
@@ -184,7 +184,7 @@
 > - **Rôle IDE ≠ rôle psy** : observer, transmettre, maintenir le lien → pas de psychothérapie
 > - **Loi 27/09/2013** : 3 modes → SDT, SPI, SDRE
 > - **JLD** contrôle les SPSC dans les **12 jours**
-> - **Contention physique** = DERNIER RECOURS → prescription médicale obligatoire, réévaluation ≥ 1h
+> - **[[Soins Infirmiers/Contention physique\|Contention physique]]** = DERNIER RECOURS → prescription médicale obligatoire, réévaluation ≥ 1h
 > - **Lithium** = index thérapeutique étroit : cible 0,6-0,8 mEq/L, surdosage = tremblements + confusion → urgence
 > - **Antidépresseurs** : délai 2-4 semaines, risque suicidaire accru en début de traitement
 > - **Évaluation suicidaire** : toujours poser la question directement (ne pas augmenter le risque)

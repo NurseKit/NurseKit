@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/AVC hémorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/avc-hemorragique/","tags":["pathologie","neurologique","urgence","hémorragie"],"noteIcon":"","dg-note-properties":{"nom":"AVC hémorragique / Hémorragie méningée","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","hémorragie"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Du sang dans ou autour du cerveau → minoritaire (15-20 % des AVC) mais redoutable. La règle absolue : jamais de thrombolyse, jamais. Et surveille les pupilles : une pupille qui se dilate d'un côté, c'est un engagement cérébral en cours → tu appelles immédiatement.
@@ -25,12 +29,12 @@ Deux entités distinctes à différencier :
 ## Rôle IDE
 
 - [ ] Scope continu : TA toutes les heures (objectif PAS < 140 mmHg, progressivement, jamais en brutal), FC, SpO₂, température
-- [ ] Surveillance neurologique rapprochée : **Glasgow + pupilles toutes les heures** (taille, symétrie, réactivité à la lumière) → noter même les petits changements
+- [ ] [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] rapprochée : **[[Médicaments/Normes/Glasgow\|Glasgow]] + pupilles toutes les heures** (taille, symétrie, réactivité à la lumière) → noter même les petits changements
 - [ ] Tête à 30° → pas à plat, pas trop haut : ce compromis limite la pression intracrânienne
 - [ ] Environnement calme, lumières tamisées, stimulations au minimum : bruit et agitation font monter la PIC
 - [ ] VVP de bon calibre (ou VVC selon gravité) pour les traitements IV
 - [ ] **Antagonisation urgente des anticoagulants** si patient sous AVK (vitamine K + PPSB) ou AOD (antidotes spécifiques) → ne pas traîner
-- [ ] Glycémie capillaire régulière : l'hyperglycémie aggrave silencieusement le pronostic neurologique
+- [ ] [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] régulière : l'hyperglycémie aggrave silencieusement le pronostic neurologique
 - [ ] Prévention TVP : compression pneumatique des membres inférieurs (bas discutés en HM, vérifier avec le médecin)
 - [ ] Scanner sans injection en urgence si non fait → "sans injection" est le mot clé
 
@@ -39,7 +43,7 @@ Deux entités distinctes à différencier :
 > [!danger] Signes d'engagement cérébral : appel immédiat
 > - **Mydriase unilatérale** : une pupille qui se dilate d'un côté → engagement temporal, le cerveau se coince
 > - **Triade de Cushing** : HTA + bradycardie + bradypnée = HTIC sévère
-> - Chute brutale du Glasgow (même de 2 points)
+> - Chute brutale du [[Médicaments/Normes/Glasgow\|Glasgow]] (même de 2 points)
 > - Apnées ou respiration irrégulière
 > Pas de temporisation → appelle le médecin en urgence absolue
 
@@ -52,12 +56,12 @@ Deux entités distinctes à différencier :
 ## Les 3 choses à retenir
 
 1. **"Scanner SANS injection"** → le sang est hyperdense immédiatement et visible sans produit de contraste ; l'injection peut compliquer la lecture
-2. **"Thrombolyse = interdit absolu"** → même si ça ressemble cliniquement à un AVC ischémique : jamais sans scanner
+2. **"Thrombolyse = interdit absolu"** → même si ça ressemble cliniquement à un [[Pathologies/AVC ischémique\|AVC ischémique]] : jamais sans scanner
 3. **"Pupille anormale = appel immédiat"** → la mydriase unilatérale est le signe d'engagement le plus fiable et le plus urgent : ne pas attendre une "confirmation"
 
 ## Voir aussi
 
-[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/HTA\|HTA]] · Glasgow · TA
+[[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/HTA\|HTA]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · TA
 
 > [!caution] Outil pédagogique : ESO/EANS Guidelines, HAS
 

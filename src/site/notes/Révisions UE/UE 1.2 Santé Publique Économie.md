@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.2 Santé Publique Économie/","tags":["révision","ue-1-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.2 - Santé Publique et Économie de la Santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.2","tags":["révision","ue-1-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-1-2-sante-publique-economie/","tags":["révision","ue-1-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.2 - Santé Publique et Économie de la Santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.2","tags":["révision","ue-1-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -117,7 +117,7 @@
 
 ## Voir aussi
 
-[[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+[[UE 1.3 [[Législation\|UE 1.3 [[Législation]] Éthique Déontologie]] · [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]]
 
 > [!caution] Outil pédagogique · Réf : Code de la Santé Publique, Loi HPST 2009, Loi Santé 2016 - IFSI
 

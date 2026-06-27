@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/PaCO2/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"PaCO₂ : Pression artérielle en CO₂","categorie":"Gaz du sang","norme":"35-45 mmHg","unite":"mmHg","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/pa-co-2/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"PaCO₂ : Pression artérielle en CO₂","categorie":"Gaz du sang","norme":"35-45 mmHg","unite":"mmHg","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Antibiothérapie guide IDE/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"noteIcon":"","dg-note-properties":{"nom":"Antibiothérapie guide IDE","titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/antibiotherapie-guide-ide/","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"noteIcon":"","dg-note-properties":{"nom":"Antibiothérapie guide IDE","titre":"Antibiothérapie : Guide Pratique IDE","tags":["pharmacologie","antibiotique","ATB","infection","pratique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,13 +12,13 @@
 
 | Famille | Exemples | Spectre principal |
 |---------|---------|------------------|
-| Pénicillines | Amoxicilline, Pipéracilline-Tazobactam | Bactéries Gram+, anaérobies |
+| Pénicillines | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]], Pipéracilline-Tazobactam | Bactéries Gram+, anaérobies |
 | Céphalosporines (C1G, C2G, C3G) | Cefazoline, Cefotaxime, Ceftriaxone | Gram+, Gram- (C3G plus large) |
-| Glycopeptides | Vancomycine | Gram+ uniquement (SARM, Entérocoque) |
-| Fluoroquinolones | Ciprofloxacine, Lévofloxacine | Gram+, Gram-, atypiques |
-| Macrolides | Azithromycine, Érythromycine | Gram+, Atypiques, Légionelle |
-| Nitro-imidazolés | Métronidazole | Anaérobies, parasites |
-| Aminosides | Amikacine, Gentamicine | Gram- (bactéricide, synergie) |
+| Glycopeptides | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Gram+ uniquement (SARM, Entérocoque) |
+| Fluoroquinolones | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]], Lévofloxacine | Gram+, Gram-, atypiques |
+| Macrolides | [[Médicaments/Antibiotiques/Azithromycine\|Azithromycine]], Érythromycine | Gram+, Atypiques, Légionelle |
+| Nitro-imidazolés | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] | Anaérobies, parasites |
+| [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | Amikacine, [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] | Gram- (bactéricide, synergie) |
 | Carbapénèmes | Imipénème, Méropénème | Large spectre dont BLSE |
 
 ## Règles d'or de l'antibiothérapie
@@ -34,17 +34,17 @@
 
 | ATB | EI principal | Surveillance IDE |
 |-----|-------------|-----------------|
-| Bêta-lactamines (Amoxicilline...) | Allergie, anaphylaxie | 30 min après 1ère injection |
-| Aminosides | Néphrotoxicité, ototoxicité | Créatinine, diurèse |
-| Vancomycine | Néphrotoxicité, Red Man syndrome | Perfusion lente > 60 min, créatinine |
+| Bêta-lactamines ([[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]...) | Allergie, anaphylaxie | 30 min après 1ère injection |
+| [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | Néphrotoxicité, ototoxicité | [[Médicaments/Normes/Créatinine\|Créatinine]], diurèse |
+| [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Néphrotoxicité, Red Man syndrome | Perfusion lente > 60 min, créatinine |
 | Fluoroquinolones | Tendinopathie, allongement QT | Douleur tendon, ECG si FA |
-| Métronidazole | Effet antabuse, troubles digestifs | Interdire alcool |
+| [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] | Effet antabuse, troubles digestifs | Interdire alcool |
 | Clindamycine | C. difficile | Diarrhées profuses |
 
 > [!tip] Conservation et dilution
 > Certains ATB se dégradent rapidement après reconstitution (Pipéracilline-Tazobactam : 4h)
 > Préparer au moment de l'administration, pas à l'avance
-> Respecter la concentration maximale (Amoxicilline : 20 mg/mL en IV)
+> Respecter la concentration maximale ([[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] : 20 mg/mL en IV)
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

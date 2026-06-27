@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Index Normes/","title":"Normes biologiques","tags":["index","norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"title":"Normes biologiques","nom":"Index Normes","tags":["index","norme","biologie","reference"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/index-normes/","title":"Normes biologiques","tags":["index","norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"title":"Normes biologiques","nom":"Index Normes","tags":["index","norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 
@@ -68,7 +68,7 @@
 | Créatinine | [[Médicaments/Normes/Créatinine\|Créatinine]] | H: 62-107 · F: 44-80 µmol/L |
 | DFG | [[Médicaments/Normes/DFG\|DFG]] | ≥ 90 mL/min/1,73m² |
 | Urée | [[Médicaments/Normes/Urée\|Urée]] | 2,5-7,5 mmol/L |
-| Calcium | [[Médicaments/Normes/Calcium\|Calcémie]] | 2,20-2,65 mmol/L |
+| Calcium | [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcémie]] | 2,20-2,65 mmol/L |
 | Magnésium | [[Médicaments/Normes/Magnésium\|Magnésémie]] | 0,75-1,10 mmol/L |
 | Phosphore | [[Médicaments/Normes/Phosphore\|Phosphorémie]] | 0,87-1,45 mmol/L |
 
@@ -154,7 +154,7 @@
 |---|---|---|
 | Ferritine | [[Médicaments/Normes/Ferritine\|Ferritine]] | H: 20-250 · F: 10-120 µg/L |
 | Saturation transferrine | [[Médicaments/Normes/Saturation transferrine\|CST Transferrine]] | 20-40 % |
-| Vitamine D | [[Médicaments/Normes/Vitamine D\|Vitamine D]] | 30-60 ng/mL |
+| Vitamine D | [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|Vitamine D]] | 30-60 ng/mL |
 | Vitamine B12 | [[Médicaments/Normes/Vitamine B12 dosage\|Vitamine B12]] | 145-650 pmol/L |
 | Folates (B9) | [[Médicaments/Normes/Folates\|Folates]] | 6-40 nmol/L |
 | Acide urique | [[Médicaments/Normes/Acide urique\|Acide urique]] | H: 180-420 · F: 150-360 µmol/L |

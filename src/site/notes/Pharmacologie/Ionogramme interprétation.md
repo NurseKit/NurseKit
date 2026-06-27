@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Ionogramme interprétation/","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"noteIcon":"","dg-note-properties":{"nom":"Ionogramme interprétation","titre":"Ionogramme Sanguin : Interprétation IDE","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/ionogramme-interpretation/","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"noteIcon":"","dg-note-properties":{"nom":"Ionogramme interprétation","titre":"Ionogramme Sanguin : Interprétation IDE","tags":["pharmacologie","ionogramme","électrolytes","biologie","interprétation"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Ionogramme Sanguin - Interprétation pour l'IDE
 > L'ionogramme mesure les principaux ions du sang. L'IDE doit identifier les anomalies urgentes.
 > Normal : Na+ 135-145 · K+ 3,5-5,0 · Cl- 95-105 · HCO3- 22-26 (mmol/L)
-> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Soins Infirmiers/Bilan hydrique\|Bilan hydrique]]
+> → Voir aussi : [[Médicaments/Minéraux/Potassium IV\|[[Médicaments/Minéraux/Potassium\|Potassium]] IV]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Bilan hydrique\|Bilan hydrique]]
 
-## Sodium (Na+) : Natrémie
+## Sodium (Na+) : [[Médicaments/Normes/Natrémie\|Natrémie]]
 
 | Valeur | Trouble | Signes cliniques |
 |--------|---------|----------------|
@@ -21,7 +21,7 @@
 > Hyponatrémie : correction max 8-10 mmol/L/24h (risque myélinolyse centropontine)
 > Hypernatrémie : correction max 10-12 mmol/L/24h (risque oedème cérébral)
 
-## Potassium (K+) : Kaliémie
+## [[Médicaments/Minéraux/Potassium\|Potassium]] (K+) : [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 | Valeur | Trouble | Signes ECG |
 |--------|---------|-----------|
@@ -39,7 +39,7 @@
 |---------|--------------------------------|
 | Hypokaliémie | Diurétiques (Furosémide), diarrhées, vomissements, corticoïdes |
 | Hyperkaliémie | IRA, IEC/Sartans, HBPM, défaut d'élimination rénale |
-| Hyponatrémie | Insuffisance cardiaque, cirrhose, SIADH, potomanie |
+| Hyponatrémie | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]], cirrhose, SIADH, potomanie |
 | Hypernatrémie | Déshydratation, diabète insipide, apport insuffisant eau |
 
 ## Rôle IDE face à une anomalie ionique

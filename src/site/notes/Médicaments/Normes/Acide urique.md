@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Acide urique/","tags":["norme","biologie","reference","rhumatologie"],"noteIcon":"","dg-note-properties":{"nom":"Acide urique (uricémie)","categorie":"Métabolisme / Rhumatologie","norme":"Femme : 150-360 µmol/L | Homme : 200-420 µmol/L","unite":"µmol/L","tags":["norme","biologie","reference","rhumatologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/acide-urique/","tags":["norme","biologie","reference","rhumatologie"],"noteIcon":"","dg-note-properties":{"nom":"Acide urique (uricémie)","categorie":"Métabolisme / Rhumatologie","norme":"Femme : 150-360 µmol/L | Homme : 200-420 µmol/L","unite":"µmol/L","tags":["norme","biologie","reference","rhumatologie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -25,7 +25,7 @@ Diagnostic de la goutte (hyperuricémie), suivi du traitement hypo-uricémiant (
 ## Quand c'est anormal ?
 
 **Hyperuricémie (> 420 µmol/L H, > 360 µmol/L F) :**
-- Asymptomatique fréquente — ne traiter que si crise de goutte ou tophus
+- Asymptomatique fréquente : ne traiter que si crise de goutte ou tophus
 - Crise de goutte : douleur articulaire aiguë nocturne, mono-arthrite, gros orteil (métatarso-phalangien) typique, rougeur, chaleur, impotence fonctionnelle
 - Syndrome de lyse tumorale : élévation brutale après chimio → risque d'insuffisance rénale aiguë
 - Causes : alimentation riche en purines (viande rouge, alcool, fructose), insuffisance rénale, diurétiques thiazidiques
@@ -39,7 +39,7 @@ Diagnostic de la goutte (hyperuricémie), suivi du traitement hypo-uricémiant (
 
 ## Voir aussi
 
-[[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]] · [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] · [[Médicaments/AINS/Kétoprofène\|Kétoprofène]]
+[[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]] · [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] · [[Kétoprofène\|Kétoprofène]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

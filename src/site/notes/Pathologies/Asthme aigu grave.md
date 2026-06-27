@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Asthme aigu grave/","tags":["pathologie","respiratoire","urgence","asthme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave (AAG)","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","asthme"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/asthme-aigu-grave/","tags":["pathologie","respiratoire","urgence","asthme"],"noteIcon":"","dg-note-properties":{"nom":"Asthme aigu grave (AAG)","systeme":"Respiratoire","tags":["pathologie","respiratoire","urgence","asthme"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Crise d'asthme sévère résistante au traitement initial bronchodilatateur. Risque d'arrêt respiratoire par épuisement des muscles respiratoires. Urgence médicale : délai de traitement = pronostic vital.
@@ -35,8 +39,8 @@
 - O2 : maintenir SpO2 94-98% (lunettes, masque simple ou haute concentration)
 - VVP + bilan biologique (GDS, NFS, ionogramme)
 - Préparer et administrer les traitements prescrits :
-  - **Salbutamol nébulisé** 5 mg toutes les 20 min pendant 1h (+ ipratropium 0,5 mg en association)
-  - **Corticoïdes** : méthylprednisolone IV 1-2 mg/kg ou prednisone PO 1 mg/kg
+  - **[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] nébulisé** 5 mg toutes les 20 min pendant 1h (+ ipratropium 0,5 mg en association)
+  - **[[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]]** : méthylprednisolone IV 1-2 mg/kg ou prednisone PO 1 mg/kg
   - **Sulfate de magnésium** IV 2 g en 20 min si refractaire
 - Mesurer le DEP avant et apres chaque nebulisation (objectif : gain > 15%)
 - Scope : SpO2, FC, FR en continu
@@ -48,10 +52,10 @@
 > Persistance de la dyspnee apres 3 nebulisations ou aggravation (GCS, bradycardie, silence auscultatoire) = escalade vers reanimation. Ne pas sous-estimer un AAG "calme en apparence" : l'epuisement peut survenir brutalement.
 
 > [!warning] Medicaments contre-indiques en crise
-> Betabloquants (meme en collyres), AINS, aspirine : peuvent declencher ou aggraver un bronchospasme. Morphine : deprime le centre respiratoire.
+> Betabloquants (meme en collyres), AINS, aspirine : peuvent declencher ou aggraver un bronchospasme. [[Médicaments/Antalgiques/Morphine\|Morphine]] : deprime le centre respiratoire.
 
 > [!warning] Hypokaliemie sous salbutamol
-> Salbutamol a doses repetees provoque une hypokaliemie. Surveiller le ionogramme, corriger si K+ < 3,5 mmol/L.
+> [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] a doses repetees provoque une hypokaliemie. Surveiller le ionogramme, corriger si K+ < 3,5 mmol/L.
 
 ## Les 3 choses à retenir
 

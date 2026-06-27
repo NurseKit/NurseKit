@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Cholestérol total/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Cholestérol total","categorie":"Bilan lipidique","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/cholesterol-total/","tags":["norme","biologie","reference"],"noteIcon":"","dg-note-properties":{"nom":"Cholestérol total","categorie":"Bilan lipidique","tags":["norme","biologie","reference"],"revision":"2026-06-22"}}
 ---
 
 

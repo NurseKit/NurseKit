@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Plaquettes/","tags":["norme","biologie","reference","NFS","plaquettes","coagulation","thrombopénie"],"noteIcon":"","dg-note-properties":{"nom":"Plaquettes (Thrombocytes)","categorie":"NFS","norme":"150-400 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","plaquettes","coagulation","thrombopénie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/plaquettes/","tags":["norme","biologie","reference","NFS","plaquettes","coagulation","thrombopénie"],"noteIcon":"","dg-note-properties":{"nom":"Plaquettes (Thrombocytes)","categorie":"NFS","norme":"150-400 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","plaquettes","coagulation","thrombopénie"],"revision":"2026-06-22"}}
 ---
 
 

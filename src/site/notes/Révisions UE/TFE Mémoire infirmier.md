@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/TFE Mémoire infirmier/","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"noteIcon":"","dg-note-properties":{"nom":"TFE : Travail de Fin d'Études infirmier","classe":["Révision UE"],"type":"Fiche de révision","ue":"TFE","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/tfe-memoire-infirmier/","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"noteIcon":"","dg-note-properties":{"nom":"TFE : Travail de Fin d'Études infirmier","classe":["Révision UE"],"type":"Fiche de révision","ue":"TFE","tags":["révision","tfe","memoire","ifsi","3eme-annee","recherche"],"revision":"2026-06-22"}}
 ---
 
 
@@ -107,7 +107,7 @@ La quasi-totalité des TFE IFSI utilisent une méthode **qualitative** (comprend
 | **Type** | Semi-directif : questions ouvertes, l'interviewé s'exprime librement |
 | **Durée** | 30-60 minutes |
 | **Nombre** | 3-6 entretiens (saturation des données) |
-| **Population** | IDE, cadres, patients — selon la problématique |
+| **Population** | IDE, cadres, patients : selon la problématique |
 | **Enregistrement** | Avec accord écrit du participant (anonymat garanti) |
 
 **Construction du guide d'entretien :**
@@ -160,7 +160,7 @@ Format **Vancouver** (numérotation) ou **APA** (auteur-date) selon les recomman
 > La **question de départ** est large et exploratoire ("La douleur est-elle bien prise en charge en chirurgie ?"). La **question de recherche** est plus ciblée après la revue de littérature. La **problématique** formule un écart ou une tension entre deux réalités, à laquelle le mémoire va répondre. C'est le cœur du TFE.
 
 > [!question]- Pourquoi la méthode qualitative est-elle privilégiée dans les TFE IFSI ?
-> Car le TFE cherche à **comprendre** des vécus, des pratiques, des représentations — pas à les quantifier. Les entretiens semi-directifs permettent d'accéder à la parole des professionnels ou des patients, de saisir la complexité des situations cliniques. Les méthodes quantitatives nécessitent de larges échantillons difficilement accessibles à l'étudiant IFSI.
+> Car le TFE cherche à **comprendre** des vécus, des pratiques, des représentations : pas à les quantifier. Les entretiens semi-directifs permettent d'accéder à la parole des professionnels ou des patients, de saisir la complexité des situations cliniques. Les méthodes quantitatives nécessitent de larges échantillons difficilement accessibles à l'étudiant IFSI.
 
 > [!question]- Combien d'entretiens faut-il pour un TFE IFSI ?
 > En général **3 à 6 entretiens** suffisent pour atteindre la saturation des données (moment où les nouveaux entretiens n'apportent plus d'information nouvelle). La qualité et la profondeur des entretiens prime sur la quantité. Certains IFSI fixent un minimum (souvent 3).
@@ -177,7 +177,7 @@ Format **Vancouver** (numérotation) ou **APA** (auteur-date) selon les recomman
 
 [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[Révisions UE/UE 3.5 Encadrement des professionnels de santé\|UE 3.5 Encadrement des professionnels de santé]] · [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]]
 
-> [!caution] Outil pédagogique · Méthodologie basée sur le référentiel IFSI et les pratiques usuelles — toujours se référer aux consignes spécifiques de son IFSI
+> [!caution] Outil pédagogique · Méthodologie basée sur le référentiel IFSI et les pratiques usuelles : toujours se référer aux consignes spécifiques de son IFSI
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

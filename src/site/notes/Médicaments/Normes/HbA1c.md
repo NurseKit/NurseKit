@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/HbA1c/","tags":["norme","biologie","reference","glycémie","HbA1c","diabète"],"noteIcon":"","dg-note-properties":{"nom":"HbA1c : Hémoglobine Glyquée","categorie":"Glycémie / Diabète","norme":"< 5,7 % (cible DT2 : < 7 %)","unite":"%","tags":["norme","biologie","reference","glycémie","HbA1c","diabète"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/hb-a1c/","tags":["norme","biologie","reference","glycémie","HbA1c","diabète"],"noteIcon":"","dg-note-properties":{"nom":"HbA1c : Hémoglobine Glyquée","categorie":"Glycémie / Diabète","norme":"< 5,7 % (cible DT2 : < 7 %)","unite":"%","tags":["norme","biologie","reference","glycémie","HbA1c","diabète"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.1 Raisonnement et Démarche Clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-3-1-raisonnement-et-demarche-clinique/","tags":["révision","ue-3-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 3.1 - Raisonnement et Démarche Clinique Infirmière","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.1","tags":["révision","ue-3-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -121,12 +121,12 @@ Règle : "ce qui n'est pas écrit n'existe pas"
 > **S**pécifique (centré sur un comportement observable), **M**esurable (critère d'évaluation chiffrable), **A**tteignable (réaliste pour le patient), **R**éaliste (en accord avec les moyens), **T**emporel (délai défini). Ex : "Le patient sera capable d'identifier 3 signes d'hypoglycémie d'ici J+3".
 
 > [!question]- Q : Qu'est-ce qu'une transmission ciblée DAR ?
-> Structure d'une transmission écrite. **D**onnées : information observée ou recueillie (ex : "Patient agité, confusion brutale, T°38,5°C"). **A**ctions : interventions réalisées (ex : "Glycémie capillaire = 0,45 g/L, G30% 2 amp IV"). **R**ésultats : évolution après intervention (ex : "Patient calmé, glycémie 1,1 g/L à H+1").
+> Structure d'une transmission écrite. **D**onnées : information observée ou recueillie (ex : "Patient agité, confusion brutale, T°38,5°C"). **A**ctions : interventions réalisées (ex : "[[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] = 0,45 g/L, G30% 2 amp IV"). **R**ésultats : évolution après intervention (ex : "Patient calmé, glycémie 1,1 g/L à H+1").
 
 
 ## Voir aussi
 
-[[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]]
+[[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]]
 
 > [!caution] Outil pédagogique · Réf : Virginia Henderson 1966, NANDA-I taxonomie 2021-2023, Arrêté 31 juillet 2009 - IFSI
 

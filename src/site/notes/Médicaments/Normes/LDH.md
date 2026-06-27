@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/LDH/","tags":["norme","biologie","reference","oncologie","hemologie"],"noteIcon":"","dg-note-properties":{"nom":"LDH : Lacticodéshydrogénase","categorie":"Marqueurs cellulaires / Oncologie","norme":"140-280 U/L","unite":"U/L","tags":["norme","biologie","reference","oncologie","hemologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/ldh/","tags":["norme","biologie","reference","oncologie","hemologie"],"noteIcon":"","dg-note-properties":{"nom":"LDH : Lacticodéshydrogénase","categorie":"Marqueurs cellulaires / Oncologie","norme":"140-280 U/L","unite":"U/L","tags":["norme","biologie","reference","oncologie","hemologie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-La LDH est une enzyme intracellulaire présente dans la quasi-totalité des cellules. Quand des cellules sont détruites (nécrose, lyse, hypoxie), elles libèrent leurs LDH dans le sang. Ce n'est pas un marqueur spécifique d'un organe — c'est un **marqueur global de destruction cellulaire**.
+La LDH est une enzyme intracellulaire présente dans la quasi-totalité des cellules. Quand des cellules sont détruites (nécrose, lyse, hypoxie), elles libèrent leurs LDH dans le sang. Ce n'est pas un marqueur spécifique d'un organe : c'est un **marqueur global de destruction cellulaire**.
 
 ---
 
@@ -28,7 +28,7 @@ Suivi des lymphomes et leucémies (LDH = marqueur pronostique), évaluation des 
 - **Hématologie** : lymphomes (LDH > 2-3× = facteur pronostique défavorable dans les scores IPI), leucémies, anémie hémolytique, drépanocytose
 - **Oncologie** : métastases hépatiques, mélanome métastatique, cancer testiculaire
 - **Cardiologie** : IDM (élévation tardive, pic J3-J4, après troponine et CK-MB)
-- **Pneumologie** : pneumocystose (PCP) chez immunodéprimé — LDH très élevée > 500
+- **Pneumologie** : pneumocystose (PCP) chez immunodéprimé : LDH très élevée > 500
 - **Réanimation** : SDRA, ischémie mésentérique, rhabdomyolyse
 
 > [!abstract] LDH et hémolyse

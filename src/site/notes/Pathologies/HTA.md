@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/HTA/","tags":["pathologie","cardiologie","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Hypertension artérielle (HTA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","chronique","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/hta/","tags":["pathologie","cardiologie","chronique","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Hypertension artérielle (HTA)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","chronique","urgence"],"revision":"2026-06-22"}}
 ---
 
 
@@ -39,7 +39,7 @@ Souvent **asymptomatique** ("tueur silencieux"). Peut se manifester par :
 
 | Organe cible | Complication |
 |-------------|-------------|
-| Cerveau | AVC ischémique/hémorragique |
+| Cerveau | [[Pathologies/AVC ischémique\|AVC ischémique]]/hémorragique |
 | Coeur | IDM, insuffisance cardiaque, HVG |
 | Rein | Néphroangioscléroses, IRC |
 | Oeil | Rétinopathie hypertensive |
@@ -60,7 +60,7 @@ Souvent **asymptomatique** ("tueur silencieux"). Peut se manifester par :
 > Signes associés : céphalées intenses, confusion, troubles visuels, douleur thoracique, dyspnée. Position demi-assise, O2 si SpO2 < 92%, VVP + bilan, appel médecin immédiat. Objectif : baisser la TA de 25% en 1h, pas plus vite (risque AVC par hypoperfusion).
 
 > [!warning] Ne pas baisser trop rapidement
-> Une chute rapide de la TA chez un patient hypertendu chronique peut provoquer un AVC ischémique par hypoperfusion des zones habituées à de hautes pressions.
+> Une chute rapide de la TA chez un patient hypertendu chronique peut provoquer un [[Pathologies/AVC ischémique\|AVC ischémique]] par hypoperfusion des zones habituées à de hautes pressions.
 > [!warning] Hypotension orthostatique sous traitement
 > Mesurer la TA couche puis debout. Baisse >= 20 mmHg systolique = HOT. Risque de chute, surtout chez la personne agee et sous diuretiques.
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Cholangite aiguë/","tags":["pathologie","digestif","infectieux","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Cholangite aiguë","systeme":"Digestif","tags":["pathologie","digestif","infectieux","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/cholangite-aigue/","tags":["pathologie","digestif","infectieux","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Cholangite aiguë","systeme":"Digestif","tags":["pathologie","digestif","infectieux","urgence"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Une infection bactérienne des voies biliaires, le plus souvent sur calcul bloqué ou sténose. La triade de Charcot (fièvre + douleur + ictère) est le signal d'alarme classique. Sans drainage urgent, elle peut évoluer vers un choc septique en quelques heures.
@@ -20,7 +24,7 @@ Un obstacle sur la voie biliaire principale (calcul, tumeur, sténose post-chiru
 | **Douleur de l'hypochondre droit** | Similaire à la colique hépatique, irradie vers l'épaule droite |
 | **Ictère** | Jaunisse cutanée + sclérotique, urines foncées, selles décolorées |
 | Nausées, vomissements | Fréquents |
-| **Choc septique** | Hypotension + confusion = formes graves (pentade de Reynolds) |
+| **[[Pathologies/Choc septique\|Choc septique]]** | Hypotension + confusion = formes graves (pentade de Reynolds) |
 
 > [!tip] Triade de Charcot
 > Fièvre + douleur biliaire + ictère = cholangite jusqu'à preuve du contraire. Les 3 signes ne sont pas toujours présents simultanément (40-70 % des cas complets), mais toute association de 2 sur terrain suspect doit alerter.
@@ -36,7 +40,7 @@ Un obstacle sur la voie biliaire principale (calcul, tumeur, sténose post-chiru
 
 ## Points de vigilance
 
-> [!danger] Choc septique biliaire
+> [!danger] [[Pathologies/Choc septique\|Choc septique]] biliaire
 > Cholangite grave = hypotension + confusion (pentade de Reynolds : triade de Charcot + hypotension + confusion). Mortalité élevée sans drainage biliaire en urgence. Remplissage vasculaire + antibiotiques IV + CPRE/drainage percutané dans les 12-24h.
 
 > [!warning] Distinguer de la cholécystite

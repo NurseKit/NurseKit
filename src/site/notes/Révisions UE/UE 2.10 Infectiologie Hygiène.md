@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.10 Infectiologie Hygiène/","tags":["révision","ue-2-10","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.10 - Infectiologie, Hygiène","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.10","tags":["révision","ue-2-10","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-10-infectiologie-hygiene/","tags":["révision","ue-2-10","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.10 - Infectiologie, Hygiène","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.10","tags":["révision","ue-2-10","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -56,7 +56,7 @@ Applicables à TOUS les patients, TOUT le temps, quel que soit leur statut infec
 
 | Type | Particules | Pathologies | Protection soignant | Chambre |
 |------|-----------|-------------|---------------------|---------|
-| Air | <5 µm (suspension longue) | Tuberculose, varicelle, rougeole | FFP2 | Pression négative |
+| Air | <5 µm (suspension longue) | [[Pathologies/Tuberculose\|Tuberculose]], varicelle, rougeole | FFP2 | Pression négative |
 | Gouttelettes | >5 µm (portée <1 m) | Grippe, COVID, coqueluche, méningite | Masque chirurgical | Individuelle |
 | Contact | Surface/mains | BMR, gale, Clostridium difficile | Tablier + gants avant entrée | Individuelle |
 
@@ -68,14 +68,14 @@ Applicables à TOUS les patients, TOUT le temps, quel que soit leur statut infec
 
 Principales IRAS par fréquence :
 1. Infection urinaire (sonde urinaire)
-2. Pneumonie associée à la ventilation (PAV)
+2. [[Pathologies/Pneumonie\|Pneumonie]] associée à la ventilation (PAV)
 3. Bactériémie sur cathéter central
 4. Infection du site opératoire (ISO)
 
 **BMR (Bactéries Multi-Résistantes)** :
 - SARM : Staphylococcus aureus résistant à la méticilline
 - EBLSE : Entérobactéries productrices de BLSE
-- ERV : Entérocoques Résistants à la Vancomycine
+- ERV : Entérocoques Résistants à la [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]
 - BHRe : Bactéries Hautement Résistantes émergentes
 
 ---

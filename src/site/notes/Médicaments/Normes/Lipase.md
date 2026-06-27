@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Lipase/","tags":["norme","biologie","reference","digestif","pancreas"],"noteIcon":"","dg-note-properties":{"nom":"Lipase pancréatique","categorie":"Bilan digestif / Pancréas","norme":"< 60 U/L","unite":"U/L","tags":["norme","biologie","reference","digestif","pancreas"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/lipase/","tags":["norme","biologie","reference","digestif","pancreas"],"noteIcon":"","dg-note-properties":{"nom":"Lipase pancréatique","categorie":"Bilan digestif / Pancréas","norme":"< 60 U/L","unite":"U/L","tags":["norme","biologie","reference","digestif","pancreas"],"revision":"2026-06-22"}}
 ---
 
 
@@ -39,7 +39,7 @@ Le taux de lipase ne corrèle pas avec la sévérité → d'autres scores (BISAP
 
 ## Voir aussi
 
-[[Pathologies/Lithiase biliaire\|Lithiase biliaire]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Calcium\|Calcium]] · [[Médicaments/Normes/Triglycérides\|Triglycérides]]
+[[Pathologies/Lithiase biliaire\|Lithiase biliaire]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcium]] · [[Médicaments/Normes/Triglycérides\|Triglycérides]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Erysipele/","tags":["pathologie","dermatologie","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Érysipèle","systeme":"Dermatologique","tags":["pathologie","dermatologie","infectieux","antibiotique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/erysipele/","tags":["pathologie","dermatologie","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Érysipèle","systeme":"Dermatologique","tags":["pathologie","dermatologie","infectieux","antibiotique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -48,17 +48,17 @@ L'érysipèle est une infection cutanée bactérienne causée par le **Streptoco
 > 30% des patients récidivent. Chaque épisode aggrave le lymphœdème. Prévention : traiter la porte d'entrée, contention veineuse, pénicilline V prophylactique si ≥3 récidives/an.
 
 > [!warning] Diagnostic différentiel
-> Thrombose veineuse profonde (pas de fièvre, pas de placard), dermohypodermite non bactérienne (eczéma, œdème de stase), goutte (touche le pied, hyperuricémie).
+> [[Pathologies/Thrombose veineuse profonde\|Thrombose veineuse profonde]] (pas de fièvre, pas de placard), dermohypodermite non bactérienne (eczéma, œdème de stase), goutte (touche le pied, hyperuricémie).
 
 ## Les 3 choses à retenir
 
 1. **Tracer les limites au feutre** dès l'admission → surveiller l'extension sous antibiotiques
-2. **Amoxicilline = traitement de référence** → efficace sur le streptocoque
+2. **[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] = traitement de référence** → efficace sur le streptocoque
 3. **Zones noires/nécrotiques = fasciite nécrosante** → chirurgie en urgence, ne pas attendre
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Créatinine\|Créatinine (si pénicilline G IV)]]
+[[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/Température\|Température]] · [[Médicaments/Normes/Créatinine\|[[Créatinine]] (si pénicilline G IV)]]
 
 ## Voir aussi
 

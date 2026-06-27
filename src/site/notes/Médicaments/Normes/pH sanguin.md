@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/pH sanguin/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"pH artériel","categorie":"Gaz du sang","norme":"7,38-7,42","unite":"sans unité","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/p-h-sanguin/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"pH artériel","categorie":"Gaz du sang","norme":"7,38-7,42","unite":"sans unité","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
 ---
 
 

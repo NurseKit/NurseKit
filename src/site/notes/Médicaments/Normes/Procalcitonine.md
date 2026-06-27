@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Procalcitonine/","tags":["norme","biologie","reference","inflammation","infection","procalcitonine","sepsis"],"noteIcon":"","dg-note-properties":{"nom":"Procalcitonine (PCT)","categorie":"Inflammation / Infectieux","norme":"< 0,1 µg/L (ng/mL)","unite":"µg/L","tags":["norme","biologie","reference","inflammation","infection","procalcitonine","sepsis"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/procalcitonine/","tags":["norme","biologie","reference","inflammation","infection","procalcitonine","sepsis"],"noteIcon":"","dg-note-properties":{"nom":"Procalcitonine (PCT)","categorie":"Inflammation / Infectieux","norme":"< 0,1 µg/L (ng/mL)","unite":"µg/L","tags":["norme","biologie","reference","inflammation","infection","procalcitonine","sepsis"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/PaO2/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"PaO₂ : Pression artérielle en O₂","categorie":"Gaz du sang","norme":"80-100 mmHg","unite":"mmHg","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/pa-o2/","tags":["norme","biologie","reference","gaz-du-sang"],"noteIcon":"","dg-note-properties":{"nom":"PaO₂ : Pression artérielle en O₂","categorie":"Gaz du sang","norme":"80-100 mmHg","unite":"mmHg","tags":["norme","biologie","reference","gaz-du-sang"],"revision":"2026-06-22"}}
 ---
 
 

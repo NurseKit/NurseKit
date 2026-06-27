@@ -1,23 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"noteIcon":"","dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/coma/","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"noteIcon":"","dg-note-properties":{"nom":"Coma","systeme":"Réanimation / Neurologie / Urgence","tags":["pathologie","réanimation","neurologie","urgence","Glasgow","coma"],"revision":"2026-06-22"}}
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
-> Absence de réponse aux stimuli avec maintien des fonctions végétatives. L'IDE évalue, surveille et protège le patient inconscient. L'outil : le score de Glasgow. La règle : jamais allongé sur le dos si pas intubé (risque d'inhalation), surveiller toutes les heures.
+> Absence de réponse aux stimuli avec maintien des fonctions végétatives. L'IDE évalue, surveille et protège le patient inconscient. L'outil : le score de [[Médicaments/Normes/Glasgow\|Glasgow]]. La règle : jamais allongé sur le dos si pas intubé (risque d'inhalation), surveiller toutes les heures.
 
 ## C'est quoi ?
 
 Le coma est un état d'inconscience profonde avec abolition de la vigilance et des réponses aux stimulations. La cause détermine le pronostic et le traitement. Deux grandes familles : **causes neurologiques** (AVC, traumatisme crânien, encéphalite, EME, HTIC) et **causes métaboliques/toxiques** (hypoglycémie, intoxication, sepsis, IRA, IHC, CO, désordres hydro-électrolytiques).
 
 > [!danger] L'hypoglycémie est LA cause réversible à éliminer en premier
-> Glycémie capillaire immédiate dans tout coma. Un patient avec glycémie < 0,50 g/L reçoit du glucose avant tout autre bilan.
+> [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] immédiate dans tout coma. Un patient avec glycémie < 0,50 g/L reçoit du glucose avant tout autre bilan.
 
 ## Comment ça se présente ?
 
-Le score de Glasgow (GCS) est l'outil central d'évaluation du coma. Voir section suivante pour les signes de gravité.
+Le score de [[Médicaments/Normes/Glasgow\|Glasgow]] (GCS) est l'outil central d'évaluation du coma. Voir section suivante pour les signes de gravité.
 
-## Score de Glasgow (GCS)
+## Score de [[Médicaments/Normes/Glasgow\|Glasgow]] (GCS)
 
 | Composante | Réponse | Score |
 |------------|---------|-------|
@@ -50,13 +54,13 @@ Stimulation douloureuse : pression sur l'ongle, pression sus-orbitaire, pression
 | Mydriase bilatérale aréactive | Engagement central ou anoxie sévère |
 | Triade de Cushing | HTIC sévère → engagement imminent |
 | Mouvements anormaux | EME non convulsif → EEG urgent |
-| Hyperthermie | Méningite, encéphalite → PL urgente |
+| Hyperthermie | [[Pathologies/Méningite\|Méningite]], encéphalite → PL urgente |
 
 ## Rôle IDE
 
 - [ ] **Glasgow à l'admission puis toutes les heures** (Y + V + M, noter chaque composante)
 - [ ] **Pupilles** : taille (mm), symétrie, réactivité à la lumière → toutes les heures
-- [ ] **Glycémie capillaire immédiate** : si < 0,60 g/L → glucose IV en urgence
+- [ ] **[[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] immédiate** : si < 0,60 g/L → glucose IV en urgence
 - [ ] Voie veineuse + prélèvements : glycémie, Na, K, Ca, urée, créatinine, NFS, CRP, GDS, bilan toxicologique, taux d'alcoolémie
 - [ ] Scope continu : TA, FC, SpO₂, FR, température
 - [ ] **Position** :
@@ -76,13 +80,13 @@ Stimulation douloureuse : pression sur l'ongle, pression sus-orbitaire, pression
 > [!warning] Soins oculaires obligatoires
 > En coma profond, le patient ne ferme plus les yeux et ne cligne plus → cornée exposée → ulcération. Fermer les paupières (Lacri-Lube® ou sérum physiologique, sparadrap si nécessaire). Vérifier toutes les 4-6 h.
 
-> [!caution] Naloxone si suspicion d'intoxication aux opioïdes
+> [!caution] [[Médicaments/Antidotes/Naloxone\|Naloxone]] si suspicion d'intoxication aux opioïdes
 > Myosis serré + bradypnée + coma → évoquer overdose opioïdes → naloxone 0,4 mg IV (attention : demi-vie courte, le coma peut revenir → surveiller !)
 
 ## Les 3 choses à retenir
 
 1. **Glasgow toutes les heures** : noter Y + V + M séparément → toute baisse de 2 points = appel immédiat
-2. **Glycémie capillaire IMMÉDIATEMENT** → cause réversible la plus fréquente et la plus simple à corriger
+2. **[[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] IMMÉDIATEMENT** → cause réversible la plus fréquente et la plus simple à corriger
 3. **PLS si non intubé** → jamais décubitus dorsal pur : le vomissement en coma peut être fatal
 
 ## Voir aussi

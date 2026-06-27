@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Albumine/","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"noteIcon":"","dg-note-properties":{"nom":"Albumine sérique","categorie":"Bilan hépatique / Nutritionnel","norme":"35-50 g/L","unite":"g/L","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/albumine/","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"noteIcon":"","dg-note-properties":{"nom":"Albumine sérique","categorie":"Bilan hépatique / Nutritionnel","norme":"35-50 g/L","unite":"g/L","tags":["norme","biologie","reference","bilan-hépatique","albumine","nutrition","foie","œdème"],"revision":"2026-06-22"}}
 ---
 
 
@@ -40,7 +40,7 @@ Marqueur de **dénutrition** et d'**insuffisance hépatocellulaire**. Indispensa
 
 ## Voir aussi
 
-[[Médicaments/Normes/Calcium\|Calcémie (correction albumine)]] · [[Médicaments/Normes/ALAT\|ALAT]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]]
+[[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcémie (correction albumine)]] · [[Médicaments/Normes/ALAT\|ALAT]] · [[Médicaments/Normes/Bilirubine\|Bilirubine]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

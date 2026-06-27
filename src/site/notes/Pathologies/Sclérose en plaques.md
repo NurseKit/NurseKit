@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sclérose en plaques/","tags":["pathologie","neurologie","auto-immune","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Sclérose en plaques (SEP)","systeme":"Neurologique","tags":["pathologie","neurologie","auto-immune","chronique"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/sclerose-en-plaques/","tags":["pathologie","neurologie","auto-immune","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Sclérose en plaques (SEP)","systeme":"Neurologique","tags":["pathologie","neurologie","auto-immune","chronique"],"revision":"2026-06-23"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Maladie inflammatoire et démyélinisante du SNC, auto-immune. La femme jeune est principalement touchée (sex-ratio 3F/1H). Évolution par poussées et rémissions (forme RR majoritaire). Pas de traitement curatif, mais les traitements de fond réduisent la fréquence des poussées.
@@ -11,7 +15,7 @@
 Le système immunitaire attaque la myéline du SNC → plaques de démyélinisation dans le cerveau et la moelle épinière → ralentissement ou blocage de la transmission nerveuse. Les localisations des plaques sont variables, d'où la diversité des symptômes.
 
 **Formes évolutives :**
-- **Rémittente (RR)** : 85 % des cas — poussées + rémissions complètes ou partielles
+- **Rémittente (RR)** : 85 % des cas : poussées + rémissions complètes ou partielles
 - **Progressive secondaire** : aggravation progressive après une phase RR
 - **Progressive primaire** : aggravation d'emblée sans poussée claire
 
@@ -23,9 +27,9 @@ Le système immunitaire attaque la myéline du SNC → plaques de démyélinisat
 | **Troubles sensitifs** | Paresthésies, engourdissements, fourmillements des membres ou du tronc |
 | **Troubles moteurs** | Faiblesse, spasticité, difficulté à la marche |
 | **Fatigue** | Asthénie majeure, signe le plus constant et invalidant |
-| **Troubles sphinctériens** | Urgences mictionnelles, incontinence, rétention — très fréquents |
+| **Troubles sphinctériens** | Urgences mictionnelles, incontinence, rétention : très fréquents |
 | **Troubles cognitifs** | Ralentissement, troubles de la mémoire dans les formes évoluées |
-| **Signe de Lhermitte** | Décharge électrique dans le dos à la flexion du cou — très évocatrice de SEP |
+| **Signe de Lhermitte** | Décharge électrique dans le dos à la flexion du cou : très évocatrice de SEP |
 
 ## Rôle IDE
 

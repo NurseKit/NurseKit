@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Index Pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/index-pathologies/","title":"Pathologies","tags":["index","pathologies"],"noteIcon":"","dg-note-properties":{"title":"Pathologies","nom":"Index Pathologies","tags":["index","pathologies"],"revision":"2026-06-22"}}
 ---
 
 
-> [!abstract] Pathologies : 117 fiches
+> [!abstract] Pathologies : 123 fiches
 > Toutes les pathologies classées par spécialité.
 > → [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Navigation par symptôme]] · [[index\| Accueil]]
 
@@ -51,6 +51,8 @@
 - [[Pathologies/Asthme aigu grave\|Asthme aigu grave]]
 - [[Pathologies/BPCO\|BPCO]]
 - [[Pathologies/Pneumonie\|Pneumonie]]
+- [[Pathologies/Tuberculose\|Tuberculose]]
+- [[Pathologies/Hépatites B et C\|Hépatites B et C]]
 - [[Pathologies/Pneumothorax\|Pneumothorax]]
 - [[Pathologies/SDRA\|SDRA]]
 - [[Pathologies/PAVM\|PAVM]]
@@ -65,6 +67,8 @@
 - [[Pathologies/Hypothyroïdie\|Hypothyroïdie]]
 - [[Pathologies/Insuffisance surrénalienne\|Insuffisance surrénalienne]]
 - [[Pathologies/Syndrome de Cushing\|Syndrome de Cushing]]
+- [[Pathologies/Hypothyroïdie\|Hypothyroïdie]]
+- [[Pathologies/Hyperthyroïdie\|Hyperthyroïdie]]
 - [[Pathologies/Obésité\|Obésité]]
 - [[Pathologies/Equilibre hydroélectrolytique\|Equilibre hydroélectrolytique]]
 
@@ -80,7 +84,7 @@
 
 ## Gastro-Hépatologie
 
-- [[Pathologies/Cirrhose\|Cirrhose hépatique]]
+- [[Pathologies/Cirrhose\|[[Cirrhose]] hépatique]]
 - [[Pathologies/Hémorragie digestive\|Hémorragie digestive]]
 - [[Pathologies/Insuffisance hépatique aigue\|Insuffisance hépatique aigue]]
 - [[Pathologies/Pancréatite aigue\|Pancréatite aigue]]
@@ -102,7 +106,7 @@
 - [[Pathologies/Nausees Vomissements Chimio\|Nausees Vomissements Chimio]]
 - [[Pathologies/Neuropathie Peripherique Chimio\|Neuropathie Peripherique Chimio]]
 
-## Infectiologie / Sepsis
+## Infectiologie / [[Pathologies/Sepsis\|Sepsis]]
 
 - [[Pathologies/Sepsis\|Sepsis]]
 - [[Pathologies/Choc septique\|Choc septique]]
@@ -120,9 +124,9 @@
 ## Pédiatrie
 
 - [[Pathologies/ACR enfant nourrisson\|ACR enfant nourrisson]]
-- [[Pathologies/Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]]
-- [[Pathologies/Déshydratation aiguë enfant\|Déshydratation aiguë enfant]]
-- [[Pathologies/Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
+- [[Fièvre enfant conduite à tenir\|Fièvre enfant conduite à tenir]]
+- [[Déshydratation aiguë enfant\|Déshydratation aiguë enfant]]
+- [[Détresse respiratoire nourrisson\|Détresse respiratoire nourrisson]]
 - [[Pathologies/Bronchiolite\|Bronchiolite]]
 - [[Pathologies/Convulsions fébriles\|Convulsions fébriles]]
 - [[Pathologies/Nouveau-né evaluation Apgar\|Nouveau-né evaluation Apgar]]

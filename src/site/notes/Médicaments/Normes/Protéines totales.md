@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Protéines totales/","tags":["norme","biologie","reference","nutrition","hepatique"],"noteIcon":"","dg-note-properties":{"nom":"Protéines totales sériques","categorie":"Bilan nutritionnel / Hépatique","norme":"65-80 g/L","unite":"g/L","tags":["norme","biologie","reference","nutrition","hepatique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/proteines-totales/","tags":["norme","biologie","reference","nutrition","hepatique"],"noteIcon":"","dg-note-properties":{"nom":"Protéines totales sériques","categorie":"Bilan nutritionnel / Hépatique","norme":"65-80 g/L","unite":"g/L","tags":["norme","biologie","reference","nutrition","hepatique"],"revision":"2026-06-22"}}
 ---
 
 

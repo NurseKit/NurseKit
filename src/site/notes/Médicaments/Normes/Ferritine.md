@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Ferritine/","tags":["norme","biologie","reference","anemie","fer"],"noteIcon":"","dg-note-properties":{"nom":"Ferritine sérique","categorie":"Bilan martial / Fer","norme":"Femme : 12-150 µg/L | Homme : 20-300 µg/L","unite":"µg/L","tags":["norme","biologie","reference","anemie","fer"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/ferritine/","tags":["norme","biologie","reference","anemie","fer"],"noteIcon":"","dg-note-properties":{"nom":"Ferritine sérique","categorie":"Bilan martial / Fer","norme":"Femme : 12-150 µg/L | Homme : 20-300 µg/L","unite":"µg/L","tags":["norme","biologie","reference","anemie","fer"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-La ferritine est la principale protéine de stockage du fer. Son taux sanguin reflète fidèlement les **réserves en fer** de l'organisme. C'est le marqueur de choix pour diagnostiquer une carence martiale — bien avant que l'hémoglobine ne baisse. Elle est aussi un réactif de la phase aiguë → augmente lors des inflammations.
+La ferritine est la principale protéine de stockage du fer. Son taux sanguin reflète fidèlement les **réserves en fer** de l'organisme. C'est le marqueur de choix pour diagnostiquer une carence martiale : bien avant que l'hémoglobine ne baisse. Elle est aussi un réactif de la phase aiguë → augmente lors des inflammations.
 
 ---
 

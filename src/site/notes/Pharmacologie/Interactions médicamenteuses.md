@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Interactions médicamenteuses/","tags":["pharmacologie","interactions","médicament","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Interactions médicamenteuses","titre":"Interactions Médicamenteuses Majeures","tags":["pharmacologie","interactions","médicament","sécurité"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/interactions-medicamenteuses/","tags":["pharmacologie","interactions","médicament","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Interactions médicamenteuses","titre":"Interactions Médicamenteuses Majeures","tags":["pharmacologie","interactions","médicament","sécurité"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,18 +12,18 @@
 
 | Médicament 1 | Médicament 2 | Conséquence | Conduite |
 |--------------|--------------|-------------|----------|
-| [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] / [[Médicaments/AINS/Kétoprofène\|Kétoprofène]] (AINS) | Augmentation risque hémorragique | Éviter, surveiller INR |
+| [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] / [[Kétoprofène\|Kétoprofène]] (AINS) | Augmentation risque hémorragique | Éviter, surveiller INR |
 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Potentialisation AVK (INR monte) | Réduire dose, contrôle INR |
 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] | Diminution efficacité AVK (induction CYP) | Augmenter dose, contrôle INR |
-| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Hypokaliémie potentialise toxicité Digoxine | Surveiller K+ |
-| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Doublement concentration Digoxine | Diminuer dose Digoxine |
+| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Hypokaliémie potentialise toxicité [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Surveiller K+ |
+| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Doublement concentration [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Diminuer dose [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Augmentation concentration Digoxine + bradycardie | Réduire dose, surveiller FC |
 | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] | [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] (Viagra®) | Hypotension sévère potentiellement mortelle | CI absolue - délai 24h min |
 | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] | Alcool | Effet antabuse (flush, vomissements, tachycardie) | Alcool interdit |
 | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Néphrotoxicité cumulée | Adapter doses, surveiller créatinine |
 | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Ototoxicité et néphrotoxicité augmentées | Éviter ou adapter |
 | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] ou [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie sévère, bloc AV | Éviter association IV / CI |
-| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Médicaments/Antalgiques/Morphine\|Morphine]] | Dépression respiratoire cumulée | Doses réduites, monitoring |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Médicaments/Antalgiques/Morphine\|Morphine]] | [[Pathologies/Dépression\|Dépression]] respiratoire cumulée | Doses réduites, monitoring |
 | [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] | [[Médicaments/IEC/Ramipril\|IEC]] ([[Médicaments/IEC/Ramipril\|Ramipril]]) | Hyperkaliémie | Surveiller kaliémie |
 | [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] | Nombreux médicaments (CYP3A4) | Augmentation concentration médicament inhibé | Adapter doses |
 
@@ -34,7 +34,7 @@
 | Inhibition enzymatique (CYP450) | [[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] inhibe CYP3A4 | Augmentation concentration du médicament associé |
 | Induction enzymatique (CYP450) | [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] induit CYP450 | Diminution efficacité ([[Médicaments/Anticoagulants/Warfarine\|Warfarine]], pilule, antifongiques…) |
 | Compétition protéines plasmatiques | [[Médicaments/AINS/Ibuprofène\|AINS]] déplacent [[Médicaments/Anticoagulants/Warfarine\|AVK]] | Augmentation fraction libre = potentialisation |
-| Additivité pharmacodynamique | [[Médicaments/Antalgiques/Morphine\|Morphine]] + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | Dépression respiratoire augmentée |
+| Additivité pharmacodynamique | [[Médicaments/Antalgiques/Morphine\|Morphine]] + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Pathologies/Dépression\|Dépression]] respiratoire augmentée |
 | Antagonisme pharmacodynamique | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] vs [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] | Réduction de la bronchodilatation |
 | Toxicité cumulée organe | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] + [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Néphrotoxicité additive |
 
@@ -47,7 +47,7 @@
 | Cœur | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] + [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] + [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] | Accumulation Digoxine → toxicité |
 | Foie | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] + alcool | Effet antabuse |
 | Hémostase | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] + [[Médicaments/AINS/Ibuprofène\|AINS]] + [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] | Déséquilibre INR |
-| Respiration | [[Médicaments/Antalgiques/Morphine\|Morphine]] + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] + benzodiazépines | Dépression respiratoire |
+| Respiration | [[Médicaments/Antalgiques/Morphine\|Morphine]] + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] + benzodiazépines | [[Pathologies/Dépression\|Dépression]] respiratoire |
 | Pression artérielle | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] + [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] | Hypotension massive : CI absolue |
 
 > [!tip] Réflexe IDE

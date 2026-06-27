@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Hématocrite/","tags":["norme","biologie","reference","NFS","hématocrite"],"noteIcon":"","dg-note-properties":{"nom":"Hématocrite (Ht)","categorie":"NFS","norme":"H : 40-52 % | F : 37-47 %","unite":"%","tags":["norme","biologie","reference","NFS","hématocrite"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/hematocrite/","tags":["norme","biologie","reference","NFS","hématocrite"],"noteIcon":"","dg-note-properties":{"nom":"Hématocrite (Ht)","categorie":"NFS","norme":"H : 40-52 % | F : 37-47 %","unite":"%","tags":["norme","biologie","reference","NFS","hématocrite"],"revision":"2026-06-22"}}
 ---
 
 

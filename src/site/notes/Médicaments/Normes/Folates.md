@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Folates/","tags":["norme","biologie","reference","vitamine","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Folates (vitamine B9)","categorie":"Vitamines / Hématologie","norme":"Sérique : > 7 nmol/L | Érythrocytaire : > 340 nmol/L","unite":"nmol/L","tags":["norme","biologie","reference","vitamine","anemie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/folates/","tags":["norme","biologie","reference","vitamine","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Folates (vitamine B9)","categorie":"Vitamines / Hématologie","norme":"Sérique : > 7 nmol/L | Érythrocytaire : > 340 nmol/L","unite":"nmol/L","tags":["norme","biologie","reference","vitamine","anemie"],"revision":"2026-06-22"}}
 ---
 
 

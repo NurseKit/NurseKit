@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/CIVD/","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CIVD - Coagulation Intravasculaire Disséminée","systeme":"Réanimation / Hématologie","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/civd/","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"noteIcon":"","dg-note-properties":{"nom":"CIVD - Coagulation Intravasculaire Disséminée","systeme":"Réanimation / Hématologie","tags":["pathologie","réanimation","hématologie","coagulation","urgence"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > La coagulation s'emballe partout dans l'organisme en même temps → les caillots consomment tous les facteurs → plus rien ne coagule → hémorragies massives. C'est paradoxal : thrombose ET hémorragie simultanément. Traiter la cause en urgence.
@@ -31,8 +35,8 @@ Bilan biologique caractéristique : TP↓, TCA allongé, fibrinogène↓↓, pla
 - [ ] Voie veineuse centrale si pas encore posée (TP bas → contre-indication relative aux gestes invasifs)
 - [ ] Transfusions sur prescription en urgence :
  - **PFC (plasma frais congelé)** : apporte tous les facteurs de coagulation
- - **Plaquettes** si < 50 000/mm³ et saignement actif
- - **Fibrinogène** (Clottafact®) si fibrinogène < 1 g/L
+ - **[[Médicaments/Normes/Plaquettes\|Plaquettes]]** si < 50 000/mm³ et saignement actif
+ - **[[Médicaments/Normes/Fibrinogène\|Fibrinogène]]** (Clottafact®) si fibrinogène < 1 g/L
  - **CGR** si Hb basse et saignement actif
 - [ ] **Traiter la cause en priorité** : antibiotiques si sepsis, chirurgie si trauma, chimiothérapie si LAM3
 - [ ] Surveiller toutes les 2-4 h : plaquettes, TP, TCA, fibrinogène (cinétique de correction)
@@ -59,7 +63,7 @@ Bilan biologique caractéristique : TP↓, TCA allongé, fibrinogène↓↓, pla
 
 ## Voir aussi
 
-[[Pathologies/Sepsis\|Sepsis / Choc septique]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · [[Médicaments/Anticoagulants/Heparine\|Héparine]]
+[[Pathologies/Sepsis\|[[Sepsis]] / Choc septique]] · [[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Transfusion CGR\|Transfusion CGR]] · [[Médicaments/Anticoagulants/Heparine\|Héparine]]
 
 > [!caution] Outil pédagogique : recommandations ISTH 2018, protocoles locaux
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/sepsis/","tags":["pathologie","infectieux","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Sepsis / Choc septique","systeme":"Infectieux / Réanimation","tags":["pathologie","infectieux","urgence","réanimation"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Une infection qui déborde et met les organes en danger. Ton protocole IDE : hémocultures → antibios → remplissage, dans cet ordre, dans l'heure. Chaque heure de retard sur les antibiotiques augmente la mortalité de 7 %. Ce n'est pas une métaphore.
@@ -19,15 +23,15 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 | Fièvre | > 38,5 °C → ou hypothermie < 36 °C chez la PA ou l'immunodéprimé |
 | Tachycardie | FC > 90/min |
 | Polypnée | FR > 20/min |
-| Confusion | Glasgow qui chute, désorientation, agitation |
+| Confusion | [[Médicaments/Normes/Glasgow\|Glasgow]] qui chute, désorientation, agitation |
 | Hypotension | PAS < 90 mmHg |
 | Oligurie | < 0,5 mL/kg/h |
 | Marbrures | Membres froids, livedo réticulaire → signe de choc distributif |
-| Lactates | > 2 mmol/L = gravité. > 4 = choc septique confirmé |
+| [[Médicaments/Normes/Lactates\|Lactates]] | > 2 mmol/L = gravité. > 4 = choc septique confirmé |
 
 ## Rôle IDE
 
-- [ ] Scope continu dès l'admission : TA, FC, FR, SpO₂, température, Glasgow
+- [ ] Scope continu dès l'admission : TA, FC, FR, SpO₂, température, [[Médicaments/Normes/Glasgow\|Glasgow]]
 - [ ] **Hémocultures x2 AVANT les antibiotiques** → deux sites différents, technique stérile rigoureuse, noter l'heure et le site dans le dossier
 - [ ] Prélèvements selon foyer suspecté : ECBU, ECBC selon prescription
 - [ ] Lactate sanguin en urgence (> 2 mmol/L = gravité, > 4 = choc)
@@ -43,9 +47,9 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 
 > [!danger] Appeler en urgence
 > - Hypotension brutale (PAS < 90 mmHg) ou chute tensionnelle rapide
-> - Glasgow qui chute → altération de la conscience
+> - [[Médicaments/Normes/Glasgow\|Glasgow]] qui chute → altération de la conscience
 > - Marbrures extensives qui remontent jusqu'à la cuisse = choc installé
-> - Lactates > 4 mmol/L malgré remplissage correct
+> - [[Médicaments/Normes/Lactates\|Lactates]] > 4 mmol/L malgré remplissage correct
 > - Oligurie persistante ou anurie malgré remplissage
 > - SpO₂ < 92 % sous O₂ bien conduit
 
@@ -60,7 +64,7 @@ Le **qSOFA** sert de dépistage rapide hors réa : altération de conscience + F
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Lactates\|Lactates (> 2 = sepsis)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
+[[Lactates|[[Médicaments/Normes/Lactates\|Lactates]] (> 2 = sepsis)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/Procalcitonine\|PCT]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
 
 ## Voir aussi
 

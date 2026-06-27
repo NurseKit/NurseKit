@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.11 Pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-11-pharmacologie/","tags":["révision","ue-2-11","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Pharmacologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.11","tags":["révision","ue-2-11","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -68,7 +68,7 @@
 
 | Médicament | Surveillance | Cibles / Intervalles |
 |-----------|-------------|---------------------|
-| **Warfarine (AVK)** | TP/INR | INR 2-3 (plupart) ou 2,5-3,5 (valves mécaniques) |
+| **[[Médicaments/Anticoagulants/Warfarine\|Warfarine]] (AVK)** | TP/INR | INR 2-3 (plupart) ou 2,5-3,5 (valves mécaniques) |
 | **Héparine non fractionnée (HNF)** | TCA | Ratio TCA 2-3× témoin |
 | **HBPM** | Anti-Xa (profils à risque) | 0,5-1,0 UI/mL (curatif) |
 | **AOD** (rivaroxaban, apixaban, dabigatran) | Pas de surveillance systématique | Anti-Xa ou TT selon molécule |
@@ -80,18 +80,18 @@
 - Hématomes spontanés, épistaxis, gingivorragies
 - Hématurie, méléna, rectorragie
 - Hémoptysie
-- **Urgence** : hémorragie interne, AVC hémorragique
+- **Urgence** : hémorragie interne, [[Pathologies/AVC hémorragique\|AVC hémorragique]]
 
 **Antidotes** :
-- AVK → Vitamine K, PPSB (Kanokad)
+- AVK → [[Médicaments/Vitamines/Vitamine K\|Vitamine K]], PPSB (Kanokad)
 - HNF → Protamine
 - AOD → Idarucizumab (dabigatran), andexanet alfa (anti-Xa)
 
 ---
 
-#### Digitaliques : Digoxine
+#### Digitaliques : [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
 
-**Indication** : Insuffisance cardiaque à FEVG réduite, fibrillation auriculaire avec réponse ventriculaire rapide
+**Indication** : [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] à FEVG réduite, fibrillation auriculaire avec réponse ventriculaire rapide
 
 **Mécanisme** : Inhibition Na+/K+-ATPase → augmentation Ca2+ intracellulaire → effet inotrope positif + chronotrope négatif
 
@@ -111,7 +111,7 @@
 
 **Surveillance IDE** :
 - FC avant chaque administration : ne pas donner si FC < 60/min (bradycardie)
-- Kaliémie régulière (hypokaliémie = danger ++)
+- [[Médicaments/Normes/Kaliémie\|Kaliémie]] régulière (hypokaliémie = danger ++)
 - Digoxinémie si symptômes évocateurs
 
 ---
@@ -142,9 +142,9 @@
 
 ---
 
-#### Aminosides
+#### [[Médicaments/Antibiotiques/Aminosides\|Aminosides]]
 
-**Molécules** : Gentamicine, amikacine, tobramycine
+**Molécules** : [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]], amikacine, tobramycine
 
 **Indication** : Infections sévères (bactéricidie concentration-dépendante), endocardites, infections nosocomiales
 
@@ -152,8 +152,8 @@
 
 | | Valeurs | Objectif |
 |--|---------|---------|
-| **Pic** (1h après fin perfusion) | Amikacine : 60-80 mg/L ; Gentamicine : 8-12 mg/L | Efficacité bactéricide |
-| **Trough** (avant prochaine dose) | Amikacine : < 2,5 mg/L ; Gentamicine : < 1 mg/L | Prévention toxicité |
+| **Pic** (1h après fin perfusion) | Amikacine : 60-80 mg/L ; [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] : 8-12 mg/L | Efficacité bactéricide |
+| **Trough** (avant prochaine dose) | Amikacine : < 2,5 mg/L ; [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]] : < 1 mg/L | Prévention toxicité |
 
 **Effets indésirables** :
 - **Néphrotoxicité** : IRA (surveillance créatinine, diurèse)
@@ -184,12 +184,12 @@
 |-------------|-------------|-------|--------|
 | AVK (warfarine) | AINS, aspirine | Addition + inhibition cyP450 | Hémorragie sévère |
 | AVK | Antibiotiques (quinolones, métronidazole) | Inhibition cyP450 → INR ++ | Hémorragie |
-| ISRS | Tramadol | Syndrome sérotoninergique | Urgence vitale |
+| ISRS | [[Médicaments/Antalgiques/Tramadol\|Tramadol]] | Syndrome sérotoninergique | Urgence vitale |
 | Lithium | AINS / IEC / thiazidiques | Lithiémie augmentée | Toxicité lithium |
-| Digoxine | Hypokaliémiants (diurétiques) | Toxicité digitalique | Arythmies |
-| Metformine | PCI iodé | Insuffisance rénale aiguë | Acidose lactique |
-| Benzodiazépines | Opioïdes | Dépression respiratoire additive | Détresse respiratoire |
-| Statines | Fibrates | Myopathie additive | Rhabdomyolyse |
+| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Hypokaliémiants (diurétiques) | Toxicité digitalique | Arythmies |
+| [[Médicaments/Antidiabétiques/Metformine\|Metformine]] | PCI iodé | Insuffisance rénale aiguë | Acidose lactique |
+| Benzodiazépines | Opioïdes | [[Pathologies/Dépression\|Dépression]] respiratoire additive | Détresse respiratoire |
+| Statines | Fibrates | Myopathie additive | [[Pathologies/Rhabdomyolyse\|Rhabdomyolyse]] |
 | Cyclosporine | AINS | Néphrotoxicité | IRA |
 
 #### Syndrome sérotoninergique
@@ -231,11 +231,11 @@
 > - **Trough** = concentration résiduelle avant la prochaine dose (éviter surdosage)
 > - **Pic** = concentration maximale (vérifier efficacité + toxicité)
 > - **Lithiémie** cible 0,6-0,8 mEq/L, toxique > 1,5 mEq/L
-> - **Digoxine** : FC avant chaque prise, cible 0,5-1,0 ng/mL, hypokaliémie = danger
-> - **Aminosides** : ototoxicité (irréversible) + néphrotoxicité
-> - **Rifampicine** = inducteur enzymatique → sous-dose les autres médicaments
-> - **Fluconazole / érythromycine** = inhibiteurs CYP450 → surdosage
-> - **Metformine** + produit de contraste iodé = arrêter metformine 48h avant l'examen
+> - **[[Médicaments/Digitaliques/Digoxine\|Digoxine]]** : FC avant chaque prise, cible 0,5-1,0 ng/mL, hypokaliémie = danger
+> - **[[Médicaments/Antibiotiques/Aminosides\|Aminosides]]** : ototoxicité (irréversible) + néphrotoxicité
+> - **[[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]]** = inducteur enzymatique → sous-dose les autres médicaments
+> - **[[Médicaments/Antifongiques/Fluconazole\|Fluconazole]] / érythromycine** = inhibiteurs CYP450 → surdosage
+> - **[[Médicaments/Antidiabétiques/Metformine\|Metformine]]** + produit de contraste iodé = arrêter metformine 48h avant l'examen
 > - **ISRS + tramadol** = syndrome sérotoninergique → urgence
 
 ---
@@ -245,12 +245,12 @@
 - [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques et soins infirmiers]]
 - [[Révisions UE/UE 2.8 Processus obstructifs\|UE 2.8 Processus obstructifs]]
 - [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
-- Anticoagulants · Lithium · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · Aminosides
+- Anticoagulants · Lithium · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] · [[Médicaments/Antibiotiques/Aminosides\|Aminosides]]
 
 > [!caution] Outil pédagogique : Toujours se référer aux cours officiels de l'IFSI
 
 
-## Ressources NurseKit : Pharmacologie
+## Ressources NurseKit : [[Pharmacologie/Pharmacologie\|Pharmacologie]]
 
 - [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]] : tableaux complets avec mécanismes
 - [[Pharmacologie/Médicaments à risque LATM\|Médicaments à risque LATM]] : médicaments à haut risque

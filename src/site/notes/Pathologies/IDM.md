@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/IDM/","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du myocarde (IDM)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/idm/","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"noteIcon":"","dg-note-properties":{"nom":"Infarctus du myocarde (IDM)","systeme":"Cardiovasculaire","tags":["pathologie","cardiologie","urgence","IDM","SCA"],"revision":"2026-06-22"}}
 ---
 
 
@@ -35,13 +35,13 @@ Protocole MONA dans l'ordre :
 | Action | Détail | Surveillance |
 |--------|--------|-------------|
 | **Scope + ECG 18 dérivations** | En moins de 10 min | Alerte cardiologue immédiate si STEMI |
-| **VVP 18G + prélèvements** | Troponine, NFS, coagulation, groupe + RAI | |
-| **M** Morphine | 2-4 mg IV toutes les 2-3 min si douleur | FR, SpO2, PA |
+| **VVP 18G + prélèvements** | [[Médicaments/Normes/Troponine\|Troponine]], NFS, coagulation, groupe + RAI | |
+| **M** [[Médicaments/Antalgiques/Morphine\|Morphine]] | 2-4 mg IV toutes les 2-3 min si douleur | FR, SpO2, PA |
 | **O** Oxygène | Uniquement si SpO2 < 90% (pas en systématique) | SpO2 |
 | **N** Nitrés | Si TA > 90 mmHg sublingual | CI si PA < 90 mmHg |
-| **A** Aspirine | 250-500 mg à croquer (sauf allergie) | Antécédent ulcère |
+| **A** [[Médicaments/AINS/Aspirine\|Aspirine]] | 250-500 mg à croquer (sauf allergie) | Antécédent ulcère |
 | Héparine | Bolus IV selon protocole USIC | TCA, plaquettes |
-| **Transfert USIC** | Coronarographie en urgence (STEMI < 90 min) | |
+| **Transfert USIC** | [[Soins Infirmiers/Coronarographie\|Coronarographie]] en urgence (STEMI < 90 min) | |
 
 ## Points de vigilance
 
@@ -51,7 +51,7 @@ Protocole MONA dans l'ordre :
 > [!warning] O2 systématique = faux réflexe
 > L'oxygène n'est indiqué que si SpO2 < 90%. Un excès d'O2 est vasoconstricteur coronarien et aggrave la nécrose.
 
-> [!warning] Trinitrine CI si PA < 90 mmHg
+> [!warning] [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] CI si PA < 90 mmHg
 > Et absolument CI si prise de sildénafil (Viagra) dans les 24-48h : risque de choc hypotensif sévère.
 
 > [!warning] Douleur > 20 min résistante à la trinitrine
@@ -61,11 +61,11 @@ Protocole MONA dans l'ordre :
 
 1. **ECG en moins de 10 min** : STEMI = activation coronarographie, délai porte-ballon < 90 min
 2. **O2 uniquement si SpO2 < 90%** : pas en systématique
-3. **Trinitrine CI si PA < 90 mmHg ou sildénafil récent** : risque de choc
+3. **[[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] CI si PA < 90 mmHg ou sildénafil récent** : risque de choc
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Troponine\|Troponine (marqueur clé)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
+[[Troponine|[[Médicaments/Normes/Troponine\|Troponine]] (marqueur clé)]] · [[Médicaments/Normes/CRP\|CRP]] · [[Médicaments/Normes/FC\|FC]] · [[Médicaments/Normes/TA systolique\|TA]]
 
 ## Voir aussi
 

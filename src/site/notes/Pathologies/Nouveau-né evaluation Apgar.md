@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Le score d'Apgar est l'outil de référence pour évaluer l'adaptation du nouveau-né à la vie extra-utérine à 1, 5 et 10 minutes de vie. La prise en charge en salle de naissance suit un protocole précis : séchage, stimulation, évaluation en 30 secondes, puis escalade thérapeutique si nécessaire.
 

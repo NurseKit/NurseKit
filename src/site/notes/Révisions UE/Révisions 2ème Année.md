@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Révisions 2ème Année/","title":"Révisions 2ème Année","tags":["index","révisions-ue","2eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 2ème Année","nom":"Révisions 2ème Année IFSI","type":"Index","tags":["index","révisions-ue","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/revisions-2eme-annee/","title":"Révisions 2ème Année","tags":["index","révisions-ue","2eme-annee"],"noteIcon":"","dg-note-properties":{"title":"Révisions 2ème Année","nom":"Révisions 2ème Année IFSI","type":"Index","tags":["index","révisions-ue","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -20,12 +20,12 @@
 
 - [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 : Projet de Soins Infirmiers]]
 - [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 : Thérapeutiques et Soins Infirmiers]]
-- [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 : Soins Infirmiers et Gestion du Risque]]
+- [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers/Soins Infirmiers\|Soins Infirmiers]] et Gestion du Risque|UE 4.5 : [[Soins Infirmiers/Soins Infirmiers\|Soins Infirmiers]] et Gestion du Risque]]
 - [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 : Soins Palliatifs et Fin de Vie]]
 
-## Pharmacologie
+## [[Pharmacologie/Pharmacologie\|Pharmacologie]]
 
-- [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 : Pharmacologie]]
+- [[UE 2.11 [[Pharmacologie/Pharmacologie\|Pharmacologie]]|UE 2.11 : Pharmacologie]]
 
 ---
 

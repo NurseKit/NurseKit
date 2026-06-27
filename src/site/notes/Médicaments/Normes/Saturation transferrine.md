@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Saturation transferrine/","tags":["norme","biologie","reference","fer","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Coefficient de saturation de la transferrine (CST)","categorie":"Bilan martial / Fer","norme":"20-40 %","unite":"%","tags":["norme","biologie","reference","fer","anemie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/saturation-transferrine/","tags":["norme","biologie","reference","fer","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Coefficient de saturation de la transferrine (CST)","categorie":"Bilan martial / Fer","norme":"20-40 %","unite":"%","tags":["norme","biologie","reference","fer","anemie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-La transferrine est la protéine de transport du fer dans le sang. Le coefficient de saturation de la transferrine (CST) exprime la proportion de sites de liaison occupés par le fer. Il reflète la disponibilité du fer circulant pour l'érythropoïèse — complémentaire de la ferritine qui mesure les réserves.
+La transferrine est la protéine de transport du fer dans le sang. Le coefficient de saturation de la transferrine (CST) exprime la proportion de sites de liaison occupés par le fer. Il reflète la disponibilité du fer circulant pour l'érythropoïèse : complémentaire de la ferritine qui mesure les réserves.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.5 Encadrement des professionnels de santé/","tags":["révision","ue-3-5","ifsi","3eme-annee","encadrement","tutorat"],"noteIcon":"","dg-note-properties":{"nom":"Encadrement des professionnels de santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.5","tags":["révision","ue-3-5","ifsi","3eme-annee","encadrement","tutorat"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-3-5-encadrement-des-professionnels-de-sante/","tags":["révision","ue-3-5","ifsi","3eme-annee","encadrement","tutorat"],"noteIcon":"","dg-note-properties":{"nom":"Encadrement des professionnels de santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.5","tags":["révision","ue-3-5","ifsi","3eme-annee","encadrement","tutorat"],"revision":"2026-06-22"}}
 ---
 
 

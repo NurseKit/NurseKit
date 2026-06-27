@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/","title":"Conditions Générales d'Utilisation","tags":["readme","cgu","legal"],"noteIcon":"","dg-note-properties":{"title":"Conditions Générales d'Utilisation","nom":"Conditions Générales d'Utilisation (CGU)","type":"Conditions Générales d'Utilisation (CGU)","tags":["readme","cgu","legal"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/readme/","title":"Conditions Générales d'Utilisation","tags":["readme","cgu","legal"],"noteIcon":"","dg-note-properties":{"title":"Conditions Générales d'Utilisation","nom":"Conditions Générales d'Utilisation (CGU)","type":"Conditions Générales d'Utilisation (CGU)","tags":["readme","cgu","legal"],"revision":"2026-06-22"}}
 ---
 
 
@@ -30,7 +30,7 @@
 
 ### 1. Présentation du projet
 
-NurseKit est un site web pédagogique gratuit, développé et maintenu par un étudiant infirmier en 2ème année d'IFSI (Institut de Formation en Soins Infirmiers), à titre personnel et bénévole.
+NurseKit est un site web pédagogique développé et maintenu par un étudiant infirmier en 2ème année d'IFSI (Institut de Formation en Soins Infirmiers), à titre personnel.
 
 Le contenu est accessible sur [nursekit-lite.pages.dev](https://nursekit-lite.pages.dev) et publié librement pour la communauté des ESI francophones. NurseKit est un projet indépendant, sans affiliation avec un établissement de santé, un organisme de formation ou un éditeur médical.
 
@@ -53,13 +53,13 @@ Ces contenus **ne constituent pas** :
 L'utilisation de NurseKit est autorisée pour :
 - La révision personnelle dans le cadre d'études en soins infirmiers
 - La préparation aux examens et aux stages cliniques
-- Le partage entre étudiants à des fins pédagogiques non commerciales
+- Le partage entre étudiants à des fins pédagogiques
 
 ### 4. Utilisations interdites
 
 Il est strictement interdit de :
 - Utiliser ce contenu comme guide clinique auprès de patients
-- Reproduire ou redistribuer le contenu à des fins commerciales
+- Reproduire ou redistribuer le contenu sans autorisation préalable de l'auteur
 - Présenter ce contenu comme une source médicale officielle ou validée
 - Modifier et redistribuer le contenu en supprimant la mention de sa source pédagogique
 
@@ -81,7 +81,7 @@ Le contenu de NurseKit (textes, organisation, fiches) est protégé par le droit
 
 Les connaissances médicales et scientifiques présentées appartiennent au domaine public et sont issues de sources bibliographiques reconnues (HAS, ANAES, sociétés savantes, Vidal, manuels IFSI).
 
-La reproduction partielle à des fins personnelles ou éducatives est tolérée sous réserve de mentionner la source (nursekit.fr). Toute reproduction commerciale est interdite sans autorisation écrite préalable.
+La reproduction partielle à des fins personnelles ou éducatives est tolérée sous réserve de mentionner la source (nursekit.fr). Toute autre reproduction est interdite sans autorisation écrite préalable de l'auteur.
 
 ### 7. Protection des données personnelles
 

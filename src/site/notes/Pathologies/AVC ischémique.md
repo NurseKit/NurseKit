@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/AVC ischémique/","tags":["pathologie","neurologique","urgence","vasculaire"],"noteIcon":"","dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/avc-ischemique/","tags":["pathologie","neurologique","urgence","vasculaire"],"noteIcon":"","dg-note-properties":{"nom":"AVC ischémique","systeme":"Neurologique","tags":["pathologie","neurologique","urgence","vasculaire"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Une artère bouchée dans le cerveau, et chaque minute qui passe, 1,9 million de neurones meurent. "Time is brain" → ce n'est pas une métaphore, c'est la réalité neurobiologique. L'heure exacte de début des symptômes, c'est l'information la plus précieuse que tu puisses noter.
@@ -23,7 +27,7 @@ Les grandes causes : FA (cardio-embolique +++), athérosclérose, lacunes (HTA c
 | **S** | Speech | Bredouille, ne trouve plus ses mots, ne comprend plus |
 | **T** | Time | **Note l'heure exacte** → c'est le critère qui détermine si on peut thrombolyser |
 
-Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les céphalées brutales orientent plutôt vers un AVC hémorragique.
+Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les céphalées brutales orientent plutôt vers un [[Pathologies/AVC hémorragique\|AVC hémorragique]].
 
 ## Rôle IDE
 
@@ -42,7 +46,7 @@ Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les cépha
 ## Points de vigilance
 
 > [!danger] Aggravation neurologique : appel médecin immédiat
-> - Chute du Glasgow ou aggravation brutale du déficit
+> - Chute du [[Médicaments/Normes/Glasgow\|Glasgow]] ou aggravation brutale du déficit
 > - Céphalées intenses pendant ou après thrombolyse → transformation hémorragique ?
 > - Crise épileptique
 > - HTA > 220/120 mmHg (ou > 185/110 si thrombolyse en cours)
@@ -61,7 +65,7 @@ Aussi : troubles visuels, vertiges, troubles de la marche, dysphagie. Les cépha
 
 ## Voir aussi
 
-[[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · Glasgow · TA
+[[Pathologies/AVC hémorragique\|AVC hémorragique]] · [[Pathologies/HTA\|HTA]] · [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · TA
 
 > [!caution] Outil pédagogique : ESO Guidelines 2021, HAS
 

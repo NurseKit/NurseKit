@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Lymphocytes/","tags":["norme","biologie","reference","NFS","lymphocytes","immunité"],"noteIcon":"","dg-note-properties":{"nom":"Lymphocytes","categorie":"NFS : Formule leucocytaire","norme":"1,0-4,0 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","lymphocytes","immunité"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/lymphocytes/","tags":["norme","biologie","reference","NFS","lymphocytes","immunité"],"noteIcon":"","dg-note-properties":{"nom":"Lymphocytes","categorie":"NFS : Formule leucocytaire","norme":"1,0-4,0 G/L","unite":"G/L","tags":["norme","biologie","reference","NFS","lymphocytes","immunité"],"revision":"2026-06-22"}}
 ---
 
 

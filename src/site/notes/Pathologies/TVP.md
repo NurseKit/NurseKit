@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/TVP/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/tvp/","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"noteIcon":"","dg-note-properties":{"nom":"Thrombose veineuse profonde (TVP)","systeme":"Cardiovasculaire","tags":["pathologie","cardiovasculaire","thrombose","anticoagulant"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Un caillot dans une veine profonde → souvent le mollet, souvent après une immobilisation ou une chirurgie. L'urgence, ce n'est pas la jambe : c'est l'embolie pulmonaire que le caillot peut provoquer en migrant. Évalue toujours avec le score de Wells, pas à l'œil.
@@ -10,7 +14,7 @@
 
 Un thrombus se forme dans une veine profonde, le plus souvent aux membres inférieurs (veines fémorales, poplitées, tibiales). La triade de Virchow explique tout : **stase veineuse** (immobilisation, alitement) + **lésion endothéliale** (post-chirurgie, traumatisme) + **hypercoagulabilité** (cancer, contraceptifs œstroprogestatifs, thrombophilie). Complication redoutée : la migration vers les poumons → [[Pathologies/Embolie pulmonaire\|embolie pulmonaire]].
 
-Le **score de Wells** classe la probabilité clinique (faible, modérée, forte) avant de prescrire les examens → il oriente les D-Dimères et l'écho-Doppler.
+Le **score de Wells** classe la probabilité clinique (faible, modérée, forte) avant de prescrire les examens → il oriente les [[Médicaments/Normes/D-Dimères\|D-Dimères]] et l'écho-Doppler.
 
 ## Comment ça se présente ?
 
@@ -25,7 +29,7 @@ Le **score de Wells** classe la probabilité clinique (faible, modérée, forte)
 ## Rôle IDE
 
 - [ ] **Score de Wells** : faire le point clinique (chirurgie récente, immobilisation, antécédent TVP, cancer actif, signe de Homans, œdème asymétrique, veines superficielles dilatées, douleur mollet localisée) → orienter le médecin
-- [ ] D-Dimères si probabilité faible ou modérée (Wells < 2) → négatifs : exclut la TVP, pas besoin d'écho-Doppler
+- [ ] [[Médicaments/Normes/D-Dimères\|D-Dimères]] si probabilité faible ou modérée (Wells < 2) → négatifs : exclut la TVP, pas besoin d'écho-Doppler
 - [ ] Écho-Doppler veineux sur prescription → c'est l'examen de référence, non invasif
 - [ ] Mettre en place l'anticoagulation précoce selon prescription (HBPM ou AOD) → ne pas attendre l'écho si probabilité forte
 - [ ] Bas de compression si prescrit → mettre AVANT de lever le patient
@@ -39,7 +43,7 @@ Le **score de Wells** classe la probabilité clinique (faible, modérée, forte)
 > Dyspnée brutale + douleur thoracique + tachycardie chez un patient avec TVP connue ou suspectée = EP jusqu'à preuve du contraire. Ne pas attendre. O₂, scope, appel médecin, préparer angioTDM.
 
 > [!warning] Le signe de Homans n'est pas fiable
-> Dorsiflexion douloureuse du pied = TVP. C'est faux. Sensibilité < 50 %, positif dans des dizaines d'autres pathologies. C'est le score de Wells + D-Dimères + écho-Doppler qui font le diagnostic, pas Homans.
+> Dorsiflexion douloureuse du pied = TVP. C'est faux. Sensibilité < 50 %, positif dans des dizaines d'autres pathologies. C'est le score de Wells + [[Médicaments/Normes/D-Dimères\|D-Dimères]] + écho-Doppler qui font le diagnostic, pas Homans.
 
 > [!warning] TIH sous héparine
 > Si les plaquettes chutent de > 50 % entre J5 et J21 sous héparine (HBPM ou HNF) → TIH probable. Arrêt IMMÉDIAT de l'héparine + relais non-héparine. Ne jamais ignorer une chute de plaquettes chez un patient sous héparine.

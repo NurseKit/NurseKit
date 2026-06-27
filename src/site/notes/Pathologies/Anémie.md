@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Anémie/","tags":["pathologie","hématologie","carence","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/anemie/","tags":["pathologie","hématologie","carence","chronique"],"noteIcon":"","dg-note-properties":{"nom":"Anémie","systeme":"Hématologie","tags":["pathologie","hématologie","carence","chronique"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Pas assez d'hémoglobine pour oxygéner les organes → le corps compense jusqu'au point de rupture. Seuils à connaître : < 13 g/dL chez l'homme, < 12 g/dL chez la femme. L'essentiel : **classer avant de traiter** → micro ou macro ? régénérative ou pas ? Traiter à l'aveugle, c'est passer à côté de la cause.
@@ -41,16 +45,16 @@ L'hémoglobine transporte l'oxygène dans les globules rouges. Quand elle baisse
 ## Les 3 choses à retenir
 
 1. **"Classer avant de traiter"** → micro ou macro ? régénérative ou pas ? Traiter à l'aveugle (donner du fer à quelqu'un qui a une hémolyse), c'est passer à côté de la vraie cause
-2. **"Réticulocytes = baromètre de la moelle"** → élevés : elle compense (hémolyse, hémorragie) ; bas : elle flanche (aplasie, carence)
+2. **"[[Médicaments/Normes/Réticulocytes\|Réticulocytes]] = baromètre de la moelle"** → élevés : elle compense (hémolyse, hémorragie) ; bas : elle flanche (aplasie, carence)
 3. **"Contrôle ultime au lit, pas au bureau"** → l'identitovigilance transfusionnelle se fait toujours à côté du patient, jamais à distance
 
 ## Normes à surveiller
 
-[[Médicaments/Normes/Hémoglobine\|Hémoglobine (H: 13-17 · F: 12-16)]] · [[Médicaments/Normes/Hématocrite\|Hématocrite]] · [[Médicaments/Normes/VGM\|VGM]] · [[Médicaments/Normes/Ferritine\|Ferritine]] · [[Médicaments/Normes/Réticulocytes\|Réticulocytes]]
+[[Médicaments/Normes/Hémoglobine\|[[Hémoglobine]] (H: 13-17 · F: 12-16)]] · [[Médicaments/Normes/Hématocrite\|Hématocrite]] · [[Médicaments/Normes/VGM\|VGM]] · [[Médicaments/Normes/Ferritine\|Ferritine]] · [[Médicaments/Normes/Réticulocytes\|Réticulocytes]]
 
 ## Voir aussi
 
-[[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · NFS
+[[Pathologies/Neutropénie fébrile\|Neutropénie fébrile]] · [[Transfusion CGR\|Transfusion CGR]] · NFS
 
 > [!caution] Outil pédagogique : HAS, recommandations transfusionnelles EFS
 

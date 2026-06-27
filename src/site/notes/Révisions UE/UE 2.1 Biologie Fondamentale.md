@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.1 Biologie Fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-1-biologie-fondamentale/","tags":["révision","ue-2-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.1 - Biologie Fondamentale","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.1","tags":["révision","ue-2-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -42,7 +42,7 @@
 **Glucides** : énergie (4 kcal/g), réserve sous forme de glycogène (foie + muscles)
 
 **Lipides** :
-- Triglycérides : réserve énergétique (9 kcal/g)
+- [[Médicaments/Normes/Triglycérides\|Triglycérides]] : réserve énergétique (9 kcal/g)
 - Phospholipides : constituants de la membrane cellulaire
 - Cholestérol : membrane + précurseur hormones stéroïdes
 
@@ -90,9 +90,9 @@
 Maintien de la constance du milieu intérieur malgré les variations extérieures.
 
 **Paramètres régulés** :
-- Température : 36,5-37,5°C
-- [[pH artériel\|pH sanguin : 7,35-7,45]]
-- [[Médicaments/Normes/Glycémie\|Glycémie : 0,70-1,10 g/L à jeun]]
+- [[Médicaments/Normes/Température\|Température]] : 36,5-37,5°C
+- [[pH artériel\|[[pH sanguin]] : 7,35-7,45]]
+- [[Médicaments/Normes/Glycémie\|[[Glycémie]] : 0,70-1,10 g/L à jeun]]
 - [[Médicaments/Normes/TA systolique\|PA : ~120/80 mmHg]]
 
 **Mécanisme principal** : rétrocontrôle négatif (ramène à la valeur cible)

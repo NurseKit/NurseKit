@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/Index Révisions UE/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/index-revisions-ue/","title":"Révisions UE","tags":["index","révisions-ue"],"noteIcon":"","dg-note-properties":{"title":"Révisions UE","nom":"Index Révisions UE","tags":["index","révisions-ue"],"revision":"2026-06-22"}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 - [[Révisions UE/UE 1.1 Psychologie Sociologie Anthropologie\|UE 1.1 Psychologie Sociologie Anthropologie]]
 - [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]]
-- [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]]
+- [[UE 1.3 [[Législation\|UE 1.3 [[Législation]] Éthique Déontologie]]
 - [[Révisions UE/UE 2.1 Biologie Fondamentale\|UE 2.1 Biologie Fondamentale]]
 - [[Révisions UE/UE 2.2 Cycles de Vie et Grandes Fonctions\|UE 2.2 Cycles de Vie et Grandes Fonctions]]
 - [[Révisions UE/UE 2.3 Santé Maladie Handicap\|UE 2.3 Santé Maladie Handicap]]
@@ -40,7 +40,7 @@
 - [[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]]
 - [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]]
 - [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]]
-- [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+- [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]]
 - [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]]
 
 ## 3ème année
@@ -50,12 +50,14 @@
 - [[Révisions UE/UE 3.5 Encadrement des professionnels de santé\|UE 3.5 Encadrement des professionnels de santé]]
 - [[Révisions UE/UE 4.6 Soins éducatifs préventifs et formation\|UE 4.6 Soins éducatifs préventifs et formation]]
 - [[Révisions UE/TFE Mémoire infirmier\|TFE / Mémoire infirmier]]
-- [[Révisions UE/UE 5.1 Accompagnement de la personne dans la réalisation de ses soins\|UE 5.1 — Accompagnement]]
-- [[Révisions UE/UE 5.2 Évaluation des pratiques professionnelles\|UE 5.2 — EPP]]
-- [[Révisions UE/UE 5.3 Communication et conduite de projet\|UE 5.3 — Communication]]
-- [[Révisions UE/UE 5.4 Soins éducatifs et formation des professionnels\|UE 5.4 — Soins éducatifs]]
+- [[Révisions UE/UE 5.1 Accompagnement de la personne dans la réalisation de ses soins\|UE 5.1 : Accompagnement]]
+- [[Révisions UE/UE 5.2 Évaluation des pratiques professionnelles\|UE 5.2 : EPP]]
+- [[Révisions UE/UE 5.3 Communication et conduite de projet\|UE 5.3 : Communication]]
+- [[Révisions UE/UE 5.4 Soins éducatifs et formation des professionnels\|UE 5.4 : Soins éducatifs]]
 - [[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 Mise en oeuvre des thérapeutiques et coordination]]
 - [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]]
+
+| [[Révisions UE/Référentiel des 10 compétences IDE\|Référentiel des 10 compétences IDE]] | Navigation par compétence · 10 C |
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/CCMH/","tags":["norme","biologie","reference","nfs","anemie"],"noteIcon":"","dg-note-properties":{"nom":"CCMH : Concentration corpusculaire moyenne en hémoglobine","categorie":"NFS / Anémie","norme":"320-360 g/L","unite":"g/L","tags":["norme","biologie","reference","nfs","anemie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/ccmh/","tags":["norme","biologie","reference","nfs","anemie"],"noteIcon":"","dg-note-properties":{"nom":"CCMH : Concentration corpusculaire moyenne en hémoglobine","categorie":"NFS / Anémie","norme":"320-360 g/L","unite":"g/L","tags":["norme","biologie","reference","nfs","anemie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -32,7 +32,7 @@ Fait partie de la NFS systématiquement. Permet de distinguer une anémie **norm
 - Anémies normochromes normocytaires : insuffisance rénale chronique, anémie inflammatoire, hémolyse aiguë
 
 **CCMH haute (> 360 g/L) :**
-- Rare — sphérocytose héréditaire (les GR sont sphériques, donc concentrés)
+- Rare : sphérocytose héréditaire (les GR sont sphériques, donc concentrés)
 
 > [!abstract] Trilogie NFS pour anémie
 > VGM (taille) + CCMH (couleur) + Réticulocytes (production) = caractérisation complète de l'anémie → oriente vers la cause.

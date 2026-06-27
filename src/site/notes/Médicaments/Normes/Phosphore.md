@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Phosphore/","tags":["norme","biologie","reference","ionogramme","osseux"],"noteIcon":"","dg-note-properties":{"nom":"Phosphore (phosphorémie)","categorie":"Ionogramme / Métabolisme osseux","norme":"0,8-1,5 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","osseux"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/phosphore/","tags":["norme","biologie","reference","ionogramme","osseux"],"noteIcon":"","dg-note-properties":{"nom":"Phosphore (phosphorémie)","categorie":"Ionogramme / Métabolisme osseux","norme":"0,8-1,5 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","osseux"],"revision":"2026-06-22"}}
 ---
 
 
@@ -40,7 +40,7 @@ Bilan métabolisme phospho-calcique (avec calcium + vitamine D + PTH), surveilla
 
 ## Voir aussi
 
-[[Médicaments/Normes/Calcium\|Calcium]] · [[Médicaments/Normes/Vitamine D\|Vitamine D]] · [[Médicaments/Normes/Magnésium\|Magnésium]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
+[[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcium]] · [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|Vitamine D]] · [[Médicaments/Normes/Magnésium\|Magnésium]] · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/DFG\|DFG]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

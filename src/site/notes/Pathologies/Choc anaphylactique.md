@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Choc anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"noteIcon":"","dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/choc-anaphylactique/","tags":["pathologie","urgence","allergie","anaphylaxie"],"noteIcon":"","dg-note-properties":{"nom":"Choc anaphylactique","systeme":"Urgence / Allergologie","tags":["pathologie","urgence","allergie","anaphylaxie"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > L'allergie qui tue en quelques minutes. Un seul traitement sauve la vie : l'adrénaline en IM, immédiatement. Pas les antihistaminiques, pas les corticoïdes → ils agissent trop tard et ne remplacent pas l'adrénaline. Apprends cette séquence par cœur : tu en auras besoin un jour, et le patient ne pourra pas attendre.
@@ -37,7 +41,7 @@ Les premiers signes sont souvent cutanés : prurit des paumes et autour de la bo
 - [ ] Identifier et noter l'allergène suspect dans le dossier → fondamental pour la suite
 - [ ] Prélèvement tryptase sérique à H0, H1, H3 (confirmation rétrospective du diagnostic)
 - [ ] Observer le patient **minimum 4-8h** après la résolution des symptômes : risque de réaction biphasique à H4 : H12
-- [ ] Corticoïdes IV (méthylprednisolone) et antihistaminiques IV en traitement de 2ème ligne → ils ne remplacent pas l'adrénaline, ils préviennent les rechutes
+- [ ] [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] IV (méthylprednisolone) et antihistaminiques IV en traitement de 2ème ligne → ils ne remplacent pas l'adrénaline, ils préviennent les rechutes
 - [ ] Avant la sortie : ordonnance de stylo auto-injecteur (Anapen®, Jext®), carte d'allergique, faire pratiquer le geste devant toi
 - [ ] Orienter vers une consultation d'allergologie à distance pour identification précise de l'allergène
 

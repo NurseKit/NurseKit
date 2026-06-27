@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Bilirubine/","tags":["norme","biologie","reference","bilan-hépatique","bilirubine","ictère","jaunisse"],"noteIcon":"","dg-note-properties":{"nom":"Bilirubine totale","categorie":"Bilan hépatique","norme":"< 17 µmol/L (< 10 mg/L)","unite":"µmol/L","tags":["norme","biologie","reference","bilan-hépatique","bilirubine","ictère","jaunisse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/bilirubine/","tags":["norme","biologie","reference","bilan-hépatique","bilirubine","ictère","jaunisse"],"noteIcon":"","dg-note-properties":{"nom":"Bilirubine totale","categorie":"Bilan hépatique","norme":"< 17 µmol/L (< 10 mg/L)","unite":"µmol/L","tags":["norme","biologie","reference","bilan-hépatique","bilirubine","ictère","jaunisse"],"revision":"2026-06-22"}}
 ---
 
 

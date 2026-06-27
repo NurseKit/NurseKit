@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 1.3 Législation Éthique Déontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-1-3-legislation-ethique-deontologie/","tags":["révision","ue-1-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 1.3 - Législation, Éthique, Déontologie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 1.3","tags":["révision","ue-1-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
-> - Secret professionnel : absolu, art. 226-13 Code pénal (1 an + 15 000€)
+> - [[Législation/Secret professionnel\|Secret professionnel]] : absolu, art. 226-13 Code pénal (1 an + 15 000€)
 > - Consentement éclairé : obligatoire, libre et révocable à tout moment
 > - Droits des patients : loi du 4 mars 2002 (loi Kouchner)
 > - Rôle propre IDE : art. R.4311-5 CSP / Rôle sur prescription : art. R.4311-7
@@ -35,7 +35,7 @@
 
 ---
 
-### Secret professionnel
+### [[Législation/Secret professionnel\|Secret professionnel]]
 
 **Art. L.1110-4 CSP** : tout patient a droit au secret des informations le concernant
 
@@ -113,7 +113,7 @@
 
 ## Voir aussi
 
-[[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+[[Révisions UE/UE 3.3 Les soins infirmiers\|UE 3.3 Les soins infirmiers]] · [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|UE 4.7 Soins palliatifs & fin de vie]] · [[Révisions UE/UE 1.2 Santé Publique Économie\|UE 1.2 Santé Publique Économie]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]]
 
 > [!caution] Outil pédagogique · Réf : CSP art. R.4311-1 à R.4311-15, Loi Kouchner 2002, Loi Claeys-Leonetti 2016 - IFSI
 

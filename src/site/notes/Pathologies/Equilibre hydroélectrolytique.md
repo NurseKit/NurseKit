@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Equilibre hydroélectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/equilibre-hydroelectrolytique/","tags":["pathologie","physiologie","urgence","métabolique"],"noteIcon":"","dg-note-properties":{"nom":"Équilibre hydroélectrolytique","systeme":"Métabolique","tags":["pathologie","physiologie","urgence","métabolique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -15,7 +15,7 @@ L'eau représente ≈ 60 % du poids corporel, répartie en 3 compartiments : int
 | Désordre | Cause principale | Signes clés |
 |---------|-----------------|-------------|
 | **Déshydratation extracellulaire** | Pertes digestives (vomissements, diarrhée), hémorragie | Pli cutané, hypotension, tachycardie, oligurie |
-| **Hyperhydratation extracellulaire** | Insuffisance cardiaque, cirrhose, IRC | Œdèmes déclives, OAP |
+| **Hyperhydratation extracellulaire** | [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]], cirrhose, IRC | Œdèmes déclives, OAP |
 | **Déshydratation intracellulaire** | Hypernatrémie, manque d'eau | Soif intense, muqueuses sèches, confusion |
 | **Hyperhydratation intracellulaire** | Hyponatrémie sévère, SIADH | Céphalées, confusion, convulsions |
 
@@ -47,7 +47,7 @@ L'eau représente ≈ 60 % du poids corporel, répartie en 3 compartiments : int
 
 ## Voir aussi
 
-Natrémie · Kaliémie · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
+[[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Pathologies/Insuffisance rénale aigue\|IRA]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 
 > [!caution] Outil pédagogique : HAS, physiopathologie
 

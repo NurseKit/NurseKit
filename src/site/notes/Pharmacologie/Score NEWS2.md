@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Score NEWS2/","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"noteIcon":"","dg-note-properties":{"nom":"Score NEWS2","titre":"Score NEWS2 (National Early Warning Score)","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/score-news-2/","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"noteIcon":"","dg-note-properties":{"nom":"Score NEWS2","titre":"Score NEWS2 (National Early Warning Score)","tags":["pharmacologie","score","NEWS2","détresse","dégradation"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Score NEWS2
 > Score de détection précoce de la détérioration clinique du patient adulte hospitalisé.
 > Calculé à partir de 7 paramètres vitaux. Standardisé au Royaume-Uni, utilisé en France.
-> → Voir aussi : [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+> → Voir aussi : [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance CV]] · [[Pathologies/Sepsis\|Sepsis]] · [[Transmissions DAR\|Transmissions DAR]]
 
 ## Calcul du score NEWS2
 
@@ -18,7 +18,7 @@
 | Pression artérielle (mmHg) | ≤ 90 | 91-100 | 101-110 | 111-219 | | | ≥ 220 |
 | Fréquence cardiaque (/min) | ≤ 40 | | 41-50 | 51-90 | 91-110 | 111-130 | ≥ 131 |
 | Conscience | | | | Alerte | | | Altérée |
-| Température (°C) | ≤ 35,0 | | 35,1-36,0 | 36,1-38,0 | 38,1-39,0 | ≥ 39,1 | |
+| [[Médicaments/Normes/Température\|Température]] (°C) | ≤ 35,0 | | 35,1-36,0 | 36,1-38,0 | 38,1-39,0 | ≥ 39,1 | |
 | O2 supplémentaire | | Oui | | Non | | | |
 
 ## Interprétation et conduite à tenir

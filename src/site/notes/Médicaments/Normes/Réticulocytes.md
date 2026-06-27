@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Réticulocytes/","tags":["norme","biologie","reference","nfs","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Réticulocytes","categorie":"NFS / Anémie","norme":"25-100 G/L (0,5-2 %)","unite":"G/L","tags":["norme","biologie","reference","nfs","anemie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/reticulocytes/","tags":["norme","biologie","reference","nfs","anemie"],"noteIcon":"","dg-note-properties":{"nom":"Réticulocytes","categorie":"NFS / Anémie","norme":"25-100 G/L (0,5-2 %)","unite":"G/L","tags":["norme","biologie","reference","nfs","anemie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ## Ce que c'est
 
-Les réticulocytes sont des globules rouges jeunes (immatures), fraîchement libérés par la moelle osseuse. Leur taux reflète l'**activité érythropoïétique** de la moelle — c'est-à-dire la capacité du corps à fabriquer des GR. Indispensables pour caractériser une anémie.
+Les réticulocytes sont des globules rouges jeunes (immatures), fraîchement libérés par la moelle osseuse. Leur taux reflète l'**activité érythropoïétique** de la moelle : c'est-à-dire la capacité du corps à fabriquer des GR. Indispensables pour caractériser une anémie.
 
 ---
 

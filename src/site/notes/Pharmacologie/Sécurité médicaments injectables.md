@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Sécurité médicaments injectables/","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"noteIcon":"","dg-note-properties":{"nom":"Sécurité médicaments injectables","titre":"Sécurité des Médicaments Injectables","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/securite-medicaments-injectables/","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"noteIcon":"","dg-note-properties":{"nom":"Sécurité médicaments injectables","titre":"Sécurité des Médicaments Injectables","tags":["pharmacologie","injectables","sécurité","dilution","administration","erreurs"],"revision":"2026-06-22"}}
 ---
 
 
@@ -31,10 +31,10 @@
 
 | Médicament | Compatible avec | Incompatible avec |
 |-----------|----------------|------------------|
-| Furosémide | NaCl 0,9%, G5% | Solutions acides (pH < 7), Ciprofloxacine |
+| Furosémide | NaCl 0,9%, G5% | Solutions acides (pH < 7), [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] |
 | Héparine | NaCl 0,9%, G5% | Beaucoup de médicaments (ligne dédiée) |
 | KCl | NaCl 0,9%, G5% (dilué) | JAMAIS non dilué, JAMAIS IV direct |
-| Amiodarone | G5% (préféré) | NaCl (peut précipiter) |
+| [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | G5% (préféré) | NaCl (peut précipiter) |
 | Phénytoïne | NaCl 0,9% uniquement | G5% (précipite) |
 
 ## Étiquetage des seringues injectables

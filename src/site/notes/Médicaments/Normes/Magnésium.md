@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Magnésium/","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"noteIcon":"","dg-note-properties":{"nom":"Magnésémie (Mg²⁺)","categorie":"Ionogramme sanguin","norme":"0,75-1,10 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/magnesium/","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"noteIcon":"","dg-note-properties":{"nom":"Magnésémie (Mg²⁺)","categorie":"Ionogramme sanguin","norme":"0,75-1,10 mmol/L","unite":"mmol/L","tags":["norme","biologie","reference","ionogramme","magnésium","arythmie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -39,7 +39,7 @@ Dosé en même temps que le potassium en cas d'arythmie ou sous diurétiques. Un
 
 ## Voir aussi
 
-[[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Calcium\|Calcémie]]
+[[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|Calcémie]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 

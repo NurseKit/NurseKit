@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Pharmacologie/Index Pharmacologie/","title":"Pharmacologie","tags":["index","pharmacologie"],"noteIcon":"","dg-note-properties":{"title":"Pharmacologie","nom":"Index Pharmacologie","tags":["index","pharmacologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pharmacologie/index-pharmacologie/","title":"Pharmacologie","tags":["index","pharmacologie"],"noteIcon":"","dg-note-properties":{"title":"Pharmacologie","nom":"Index Pharmacologie","tags":["index","pharmacologie"],"revision":"2026-06-22"}}
 ---
 
 
-> [!abstract] Pharmacologie clinique
-> Interactions médicamenteuses, sécurité d'administration, antibiotiques, antalgiques, scores cliniques.
+> [!abstract] [[Pharmacologie/Pharmacologie\|Pharmacologie]] clinique
+> [[Pharmacologie/Interactions médicamenteuses\|Interactions médicamenteuses]], sécurité d'administration, antibiotiques, antalgiques, scores cliniques.
 > → [[index\|Accueil]] · [[Médicaments/Index Médicaments\|Médicaments]] · [[Médicaments/Normes/Index Normes\|Normes biologiques]]
 
 ## Sécurité médicamenteuse

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/Hémoglobine/","tags":["norme","biologie","reference","NFS","hémoglobine","anémie"],"noteIcon":"","dg-note-properties":{"nom":"Hémoglobine (Hb)","categorie":"NFS","norme":"H : 13-17 g/dL | F : 12-16 g/dL","unite":"g/dL","tags":["norme","biologie","reference","NFS","hémoglobine","anémie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/hemoglobine/","tags":["norme","biologie","reference","NFS","hémoglobine","anémie"],"noteIcon":"","dg-note-properties":{"nom":"Hémoglobine (Hb)","categorie":"NFS","norme":"H : 13-17 g/dL | F : 12-16 g/dL","unite":"g/dL","tags":["norme","biologie","reference","NFS","hémoglobine","anémie"],"revision":"2026-06-22"}}
 ---
 
 

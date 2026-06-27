@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Normes/FC/","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"noteIcon":"","dg-note-properties":{"nom":"FC : Fréquence Cardiaque","categorie":"Constante vitale","norme":"60-100 bpm","unite":"battements par minute (bpm)","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/normes/fc/","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"noteIcon":"","dg-note-properties":{"nom":"FC : Fréquence Cardiaque","categorie":"Constante vitale","norme":"60-100 bpm","unite":"battements par minute (bpm)","tags":["norme","constantes","FC","tachycardie","bradycardie","cardiaque"],"revision":"2026-06-22"}}
 ---
 
 
@@ -38,7 +38,7 @@ Constante de surveillance à chaque prise en charge. Une tachycardie ou bradycar
 
 ## Voir aussi
 
-[[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Perso/Projet/Glossaire Infirmier/Claude/NurseKit/Soins Infirmiers/ECG\|ECG]]
+[[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/SpO2\|SpO₂]] · [[Soins Infirmiers/ECG\|ECG]]
 
 > [!warning] Outil pédagogique : toujours interpréter avec le contexte clinique
 
