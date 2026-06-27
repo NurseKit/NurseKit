@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pneumonie/","tags":["pathologie","respiratoire","infectieux","antibiotique"],"noteIcon":"","dg-note-properties":{"nom":"Pneumonie / Pneumopathie infectieuse","systeme":"Respiratoire","tags":["pathologie","respiratoire","infectieux","antibiotique"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Infection des alvéoles pulmonaires → elles se remplissent de pus et ne filtrent plus l'oxygène. La SpO₂ est ta boussole. Si elle descend sous 92 % ou si le patient fait plus de 30 respirations par minute, le patient bascule vers le sepsis grave : il faut agir.
@@ -40,7 +44,7 @@ Le **score CRB-65** oriente la décision : confusion + FR ≥ 30 + TA < 90/60 + 
 > - FR > 30/min
 > - SpO₂ < 92 % malgré O₂ bien conduit
 > - TA < 90 mmHg (choc septique qui s'installe)
-> - Confusion, désorientation (Glasgow qui baisse)
+> - Confusion, désorientation ([[Médicaments/Normes/Glasgow\|Glasgow]] qui baisse)
 > Ces critères = sepsis grave sur pneumonie → O₂ haut débit, antibiotiques IV dans l'heure, réanimation à discuter
 
 > [!warning] Pas d'amélioration à 48-72h ?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.3 Les soins infirmiers/","tags":["révision","ue-3-3","ifsi","3eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Les soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.3","tags":["révision","ue-3-3","ifsi","3eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-3-3-les-soins-infirmiers/","tags":["révision","ue-3-3","ifsi","3eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Les soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.3","tags":["révision","ue-3-3","ifsi","3eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -53,7 +53,7 @@
 
 **Rôle sur prescription médicale** (Art. R. 4311-7) :
 - Administration des médicaments
-- Prélèvements biologiques
+- [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 - Pose et surveillance des dispositifs : sonde urinaire, VVP, drain…
 - Injections IV, SC, IM
 - Pansements prescrits
@@ -71,7 +71,7 @@
 |-------|----------|-----------------|
 | **NEWS2** | Score de gravité (FC, FR, SpO2, T°, PA, conscience) | ≥ 5 = appel médecin |
 | **ABCDE** | Évaluation systémique en urgence | Toute anomalie = priorité immédiate |
-| **Glasgow** | Évaluation neurologique | < 14 = appel médecin ; < 8 = intubation |
+| **[[Médicaments/Normes/Glasgow\|Glasgow]]** | Évaluation neurologique | < 14 = appel médecin ; < 8 = intubation |
 | **CIWA-Ar** | Sévérité du sevrage alcoolique | > 10 = sevrage sévère |
 | **RASS** | Niveau de sédation/agitation | -5 à +4 |
 | **NRS/EN/EVA** | Douleur | > 3 = réévaluation traitement |
@@ -117,7 +117,7 @@
 
 ## Voir aussi
 
-[[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|UE 3.1 Raisonnement et Démarche Clinique]] · [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]]
+[[Révisions UE/UE 3.1 Raisonnement et Démarche Clinique\|UE 3.1 Raisonnement et Démarche Clinique]] · [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins infirmiers]] · [[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]]
 
 > [!caution] Outil pédagogique · Source : Arrêté du 31 juillet 2009, référentiel IDE 2009-2026, ANSM
 

@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Contention physique/","tags":["soin","contention","éthique","agitation","chute","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Contention physique","titre":"Contention Physique Passive","tags":["soin","contention","éthique","agitation","chute","sécurité"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/contention-physique/","tags":["soin","contention","éthique","agitation","chute","sécurité"],"noteIcon":"","dg-note-properties":{"nom":"Contention physique","titre":"Contention Physique Passive","tags":["soin","contention","éthique","agitation","chute","sécurité"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] Contention Physique Passive
 > Toute méthode externe limitant les mouvements du corps ou l'accès à son corps.
 > Mesure exceptionnelle à visée de sécurité, soumise à prescription médicale et réévaluation régulière.
 > Acte de soins encadré par la loi (consentement, droits du patient, HAS 2017).
-> → Voir aussi : [[Soins Infirmiers/Évaluation de la douleur\|Évaluation douleur]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
+> → Voir aussi : [[Évaluation de la douleur\|Évaluation douleur]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
 
 ## Cadre légal et éthique
 

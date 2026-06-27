@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.3 Communication et conduite de projet/","tags":["révision","ue-5-3","ifsi","3eme-annee","communication","projet-soins"],"noteIcon":"","dg-note-properties":{"nom":"Communication et conduite de projet de soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.3","tags":["révision","ue-5-3","ifsi","3eme-annee","communication","projet-soins"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-3-communication-et-conduite-de-projet/","tags":["révision","ue-5-3","ifsi","3eme-annee","communication","projet-soins"],"noteIcon":"","dg-note-properties":{"nom":"Communication et conduite de projet de soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.3","tags":["révision","ue-5-3","ifsi","3eme-annee","communication","projet-soins"],"revision":"2026-06-22"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > - UE 5.3 = maîtriser la communication professionnelle et conduire un projet de soins complexe
 > - La communication professionnelle inclut : transmissions ciblées (SBAR/DAR), dossier de soins, réunions pluriprofessionnelles, annonce difficile
 > - Le projet de soins infirmiers est formalisé, centré sur le patient, évalué et réajusté régulièrement
-> - En 3ème année : situations complexes — annonce de mauvaise nouvelle, communication en fin de vie, conciliation médicamenteuse, coordination de sortie
+> - En 3ème année : situations complexes : annonce de mauvaise nouvelle, communication en fin de vie, conciliation médicamenteuse, coordination de sortie
 > - L'écriture professionnelle (dossier patient) engage la responsabilité IDE
 
 > [!info] Référentiel 2026
@@ -33,7 +33,7 @@
 | **ISBAR** | Version enrichie : I = Identité d'abord | Utile pour les appels téléphoniques |
 
 **Rédaction SBAR pour un appel médecin :**
-> "Bonjour Docteur, je vous appelle pour M. Dupont, chambre 12 (S). Il est entré hier pour pneumonie, traité par amox-clav IV (B). Depuis 1h : T° 39,8°C, SpO₂ 91% sous 2L/min, FR 26/min, TA 102/68 (A). Je pense qu'il faut réévaluer l'antibiothérapie et augmenter l'O₂ — votre avis ? (R)"
+> "Bonjour Docteur, je vous appelle pour M. Dupont, chambre 12 (S). Il est entré hier pour pneumonie, traité par amox-clav IV (B). Depuis 1h : T° 39,8°C, SpO₂ 91% sous 2L/min, FR 26/min, TA 102/68 (A). Je pense qu'il faut réévaluer l'antibiothérapie et augmenter l'O₂ : votre avis ? (R)"
 
 ---
 
@@ -43,12 +43,12 @@
 
 | Étape | Action |
 |-------|--------|
-| **S** — Setting | Préparer le lieu (calme, assis, sans interruption), s'assurer que le patient peut être accompagné |
-| **P** — Perception | Évaluer ce que le patient sait déjà ("qu'est-ce qu'on vous a dit jusqu'ici ?") |
-| **I** — Invitation | Demander si le patient veut en savoir plus ("Souhaitez-vous que je vous explique les résultats ?") |
-| **K** — Knowledge | Donner l'information progressivement, sans jargon, en pause après les informations difficiles |
-| **E** — Emotions | Reconnaître et valider les émotions ("c'est une nouvelle difficile, je comprends votre réaction") |
-| **S** — Strategy | Proposer la suite, ne pas laisser dans le vide ("voilà ce qu'on va faire maintenant…") |
+| **S** : Setting | Préparer le lieu (calme, assis, sans interruption), s'assurer que le patient peut être accompagné |
+| **P** : Perception | Évaluer ce que le patient sait déjà ("qu'est-ce qu'on vous a dit jusqu'ici ?") |
+| **I** : Invitation | Demander si le patient veut en savoir plus ("Souhaitez-vous que je vous explique les résultats ?") |
+| **K** : Knowledge | Donner l'information progressivement, sans jargon, en pause après les informations difficiles |
+| **E** : Emotions | Reconnaître et valider les émotions ("c'est une nouvelle difficile, je comprends votre réaction") |
+| **S** : Strategy | Proposer la suite, ne pas laisser dans le vide ("voilà ce qu'on va faire maintenant…") |
 
 > [!tip] Rôle IDE vs médecin dans l'annonce
 > Le médecin annonce le diagnostic. L'IDE assure **le temps d'après** : répondre aux questions, reformuler en langage accessible, soutenir émotionnellement, vérifier la compréhension, informer la famille si le patient le souhaite. L'IDE ne substitue pas le médecin mais est souvent la première à qui le patient exprime sa détresse.
@@ -59,12 +59,12 @@
 
 **Étapes du projet de soins infirmiers :**
 
-1. **Recueil de données** — anamnèse structurée, histoire de vie, entourage, ressources
-2. **Analyse / diagnostic infirmier** — identifier les problèmes de soins réels ET potentiels
-3. **Objectifs de soins** — SMART (Spécifique, Mesurable, Atteignable, Réaliste, Temporel)
-4. **Planification des interventions** — qui fait quoi, avec quels outils, à quelle fréquence
-5. **Mise en œuvre** — avec traçabilité dans le dossier de soins
-6. **Évaluation** — atteinte des objectifs ? réajustement nécessaire ?
+1. **Recueil de données** : anamnèse structurée, histoire de vie, entourage, ressources
+2. **Analyse / diagnostic infirmier** : identifier les problèmes de soins réels ET potentiels
+3. **Objectifs de soins** : SMART (Spécifique, Mesurable, Atteignable, Réaliste, Temporel)
+4. **Planification des interventions** : qui fait quoi, avec quels outils, à quelle fréquence
+5. **Mise en œuvre** : avec traçabilité dans le dossier de soins
+6. **Évaluation** : atteinte des objectifs ? réajustement nécessaire ?
 
 **Projet de sortie (coordination) :**
 - Anticipation dès l'admission pour les hospitalisations programmées

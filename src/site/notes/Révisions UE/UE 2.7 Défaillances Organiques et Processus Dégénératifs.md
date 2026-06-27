@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.7 Défaillances Organiques et Processus Dégénératifs/","tags":["révision","ue-2-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.7 - Défaillances Organiques et Processus Dégénératifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.7","tags":["révision","ue-2-7","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-7-defaillances-organiques-et-processus-degeneratifs/","tags":["révision","ue-2-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.7 - Défaillances Organiques et Processus Dégénératifs","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.7","tags":["révision","ue-2-7","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
-> - Insuffisance cardiaque : dyspnée, œdèmes, asthénie → FE <40% (systolique)
-> - Insuffisance rénale chronique : DFG <60 mL/min/1,73m² pendant >3 mois
+> - [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] : dyspnée, œdèmes, asthénie → FE <40% (systolique)
+> - [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]] : DFG <60 mL/min/1,73m² pendant >3 mois
 > - Diabète type 2 : hyperglycémie chronique → complications micro et macrovasculaires
 > - Maladie d'Alzheimer : démence dégénérative, atteinte mémoire épisodique en premier
 > - BPCO : tabac 80% des cas, VEMS/CV <70% → pas de retour en arrière
@@ -21,7 +21,7 @@
 
 ## Points clés
 
-### [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque (IC)]]
+### [[Insuffisance cardiaque|[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] (IC)]]
 
 **Définition** : incapacité du cœur à assurer un débit suffisant pour les besoins de l'organisme
 
@@ -43,7 +43,7 @@
 
 ---
 
-### [[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique (IRC)]]
+### [[Insuffisance rénale chronique|[[Pathologies/Insuffisance rénale chronique\|Insuffisance rénale chronique]] (IRC)]]
 
 **Définition** : diminution permanente et irréversible du DFG <60 mL/min/1,73m² pendant >3 mois
 
@@ -68,15 +68,15 @@
 **Physiopathologie** : insulinorésistance + déficit relatif d'insuline → hyperglycémie chronique
 
 **Critères diagnostiques** :
-- Glycémie à jeun ≥1,26 g/L à 2 reprises, ou
-- Glycémie occasionnelle ≥2 g/L + symptômes, ou
-- HbA1c ≥6,5%
+- [[Médicaments/Normes/Glycémie\|Glycémie]] à jeun ≥1,26 g/L à 2 reprises, ou
+- [[Médicaments/Normes/Glycémie\|Glycémie]] occasionnelle ≥2 g/L + symptômes, ou
+- [[Médicaments/Normes/HbA1c\|HbA1c]] ≥6,5%
 
 **Complications** :
 - Microvasculaires : rétinopathie, néphropathie (néphropathie diabétique), neuropathie
 - Macrovasculaires : coronaropathie, AVC, artériopathie oblitérante des membres inférieurs (AOMI)
 
-**Objectifs glycémiques** : HbA1c <7% (adaptable selon l'âge et les comorbidités)
+**Objectifs glycémiques** : [[Médicaments/Normes/HbA1c\|HbA1c]] <7% (adaptable selon l'âge et les comorbidités)
 
 **Éducation thérapeutique** : alimentation, activité physique, autosurveillance glycémique, soins des pieds
 
@@ -135,10 +135,10 @@
 > **Systolique** (FE <40%) : le ventricule gauche ne se contracte pas assez → débit insuffisant. **Diastolique** (FE préservée >50%) : le VG se remplit mal → pression de remplissage élevée. Même symptômes (dyspnée, œdèmes) mais mécanismes et traitements différents.
 
 > [!question]- Q : Quelles sont les complications de l'IRC ?
-> Anémie (↓ EPO), hyperphosphorémie + hypocalcémie (→ ostéodystrophie rénale), hyperkaliémie (risque arythmie), acidose métabolique, HTA, œdèmes. Stade G5 : dialyse ou transplantation.
+> [[Pathologies/Anémie\|Anémie]] (↓ EPO), hyperphosphorémie + hypocalcémie (→ ostéodystrophie rénale), hyperkaliémie (risque arythmie), acidose métabolique, HTA, œdèmes. Stade G5 : dialyse ou transplantation.
 
 > [!question]- Q : Qu'est-ce qu'une complication microvasculaire du diabète ?
-> Atteinte des petits vaisseaux due à l'hyperglycémie chronique : rétinopathie diabétique (cécité), néphropathie diabétique (IRC), neuropathie diabétique (pied diabétique). Contrôle HbA1c <7% prévient ces complications.
+> Atteinte des petits vaisseaux due à l'hyperglycémie chronique : rétinopathie diabétique (cécité), néphropathie diabétique (IRC), neuropathie diabétique (pied diabétique). Contrôle [[Médicaments/Normes/HbA1c\|HbA1c]] <7% prévient ces complications.
 
 
 ## Voir aussi

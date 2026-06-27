@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stage/Index Stage/","pinned":true,"tags":["index","stage"],"noteIcon":"","dg-note-properties":{"nom":"Index Stage","tags":["index","stage"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/stage/index-stage/","pinned":true,"tags":["index","stage"],"noteIcon":"","dg-note-properties":{"nom":"Index Stage","tags":["index","stage"],"revision":"2026-06-22"}}
 ---
 
 

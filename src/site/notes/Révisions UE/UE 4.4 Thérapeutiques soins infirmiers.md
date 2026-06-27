@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.4 Thérapeutiques soins infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-4-therapeutiques-soins-infirmiers/","tags":["révision","ue-4-4","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Thérapeutiques et soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.4","tags":["révision","ue-4-4","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -65,15 +65,15 @@ Dose à administrer = (Dose prescrite × Quantité disponible) / Concentration d
 Volume à prélever (mL) = Dose prescrite (mg) / Concentration (mg/mL)
 ```
 
-**Exemple** : Morphine 4 mg/mL, prescription 10 mg
+**Exemple** : [[Médicaments/Antalgiques/Morphine\|Morphine]] 4 mg/mL, prescription 10 mg
 → 10 / 4 = **2,5 mL**
 
-#### Insuline (unités)
+#### [[Médicaments/Antidiabétiques/Insuline\|Insuline]] (unités)
 
 ```
 Volume à prélever (mL) = Unités prescrites / Concentration (UI/mL)
 ```
-- Insuline standard : 100 UI/mL (seringue à insuline graduée en UI)
+- [[Médicaments/Antidiabétiques/Insuline\|Insuline]] standard : 100 UI/mL (seringue à insuline graduée en UI)
 
 ---
 
@@ -163,7 +163,7 @@ C1 × V1 = C2 × V2
 - Ne pas désaspirer (HBPM, insuline)
 - Ne pas masser après l'injection (HBPM)
 
-**Médicaments SC courants** : Insuline, HBPM, morphine, antiémétiques, EPO
+**Médicaments SC courants** : [[Médicaments/Antidiabétiques/Insuline\|Insuline]], HBPM, morphine, antiémétiques, EPO
 
 #### Voie intramusculaire (IM)
 
@@ -181,7 +181,7 @@ C1 × V1 = C2 × V2
 |------|---------|
 | Cutanée | Patchs, crèmes, gels |
 | Orale | Comprimés, gélules, sirops |
-| Sublinguale | Trinitrine, fentanyl |
+| Sublinguale | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]], fentanyl |
 | Rectale | Suppositoires, lavements |
 | Inhalée | Aérosols, nébulisations, poudres |
 | Oculaire | Collyres, pommades ophtalmiques |
@@ -236,7 +236,7 @@ C1 × V1 = C2 × V2
 
 ## Voir aussi
 
-[[Révisions UE/UE 2.11 Pharmacologie\|UE 2.11 Pharmacologie]]
+[[UE 2.11 [[Pharmacologie\|UE 2.11 [[Pharmacologie]]|UE 2.11 Pharmacologie]]
 [[Révisions UE/UE 3.2 Projet de soins infirmiers\|UE 3.2 Projet de soins]]
 [[Soins Infirmiers/Administration IV SC\|Injection sous-cutanée]]
 Perfusion IV

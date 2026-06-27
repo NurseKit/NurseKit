@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.4 Soins éducatifs et formation des professionnels/","tags":["révision","ue-5-4","ifsi","3eme-annee","etp","formation","encadrement"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs et formation des professionnels de santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.4","tags":["révision","ue-5-4","ifsi","3eme-annee","etp","formation","encadrement"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-4-soins-educatifs-et-formation-des-professionnels/","tags":["révision","ue-5-4","ifsi","3eme-annee","etp","formation","encadrement"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs et formation des professionnels de santé","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.4","tags":["révision","ue-5-4","ifsi","3eme-annee","etp","formation","encadrement"],"revision":"2026-06-22"}}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ## Points clés
 
-### ETP — Éducation Thérapeutique du Patient
+### ETP : Éducation Thérapeutique du Patient
 
 **Les 4 étapes de la démarche ETP (HAS) :**
 
@@ -66,7 +66,7 @@ L'apprentissage en stage repose sur l'observation → l'explication → la réal
 4. L'encadrant complète avec les points d'amélioration et les pistes concrètes
 
 > [!tip] L'ESI de 3ème année comme encadrant
-> En S5/S6, tu n'es pas un IDE confirmé — mais tu peux et dois encadrer les ESI de S1/S3. Cela fait partie de la compétence 10 (former et informer). Ne jamais laisser seul un junior dans une situation à risque, toujours vérifier la compréhension avant de le laisser autonome, et demander à l'IDE référente si tu as un doute sur une décision pédagogique.
+> En S5/S6, tu n'es pas un IDE confirmé : mais tu peux et dois encadrer les ESI de S1/S3. Cela fait partie de la compétence 10 (former et informer). Ne jamais laisser seul un junior dans une situation à risque, toujours vérifier la compréhension avant de le laisser autonome, et demander à l'IDE référente si tu as un doute sur une décision pédagogique.
 
 ---
 
@@ -100,7 +100,7 @@ L'apprentissage en stage repose sur l'observation → l'explication → la réal
 > Méthode Pendleton : (1) demander à l'ESI ce qu'il a bien fait, (2) confirmer et compléter les points positifs, (3) demander ce qu'il ferait différemment, (4) compléter avec les axes d'amélioration et des suggestions concrètes. Cette méthode favorise la réflexivité et préserve la motivation de l'apprenant.
 
 > [!question]- Un ESI de 3ème année peut-il superviser la pose d'une VVP par un ESI de 1ère année ?
-> Il peut accompagner et guider pédagogiquement — mais la **responsabilité professionnelle** reste à l'IDE diplômée du service. En pratique, l'ESI de 3ème année peut encadrer un geste dans le cadre du compagnonnage, à condition que l'IDE référente soit informée et disponible. L'ESI3 ne signe jamais à la place de l'IDE confirmée dans le dossier patient.
+> Il peut accompagner et guider pédagogiquement : mais la **responsabilité professionnelle** reste à l'IDE diplômée du service. En pratique, l'ESI de 3ème année peut encadrer un geste dans le cadre du compagnonnage, à condition que l'IDE référente soit informée et disponible. L'ESI3 ne signe jamais à la place de l'IDE confirmée dans le dossier patient.
 
 > [!question]- Quelle est la différence entre évaluation formative et évaluation sommative ?
 > **Formative** = évaluation continue pendant l'apprentissage, destinée à orienter et améliorer la progression (portfolio, entretiens de mi-stage, feedback de séance). Pas de note définitive. **Sommative** = évaluation terminale pour certifier l'acquisition des compétences (MSP, jury IFSI, examen). Note définitive comptant pour la validation de l'UE ou du stage.

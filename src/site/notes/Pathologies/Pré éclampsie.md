@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pré éclampsie/","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Pré-éclampsie et Éclampsie","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/pre-eclampsie/","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Pré-éclampsie et Éclampsie","systeme":"Maternité / Obstétrique","tags":["pathologie","maternité","obstétrique","urgence-vitale","grossesse"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > HTA gestationnelle + protéinurie après 20 SA. Peut évoluer vers l'éclampsie (convulsions), le HELLP syndrome ou le RCIU. Urgence obstétricale : traitement = accouchement.
@@ -46,7 +50,7 @@ La pré-éclampsie (PE) est un syndrome vasculo-rénal de la grossesse caractér
 > Convulsions tonico-cloniques → position latérale de sécurité, O₂ 15 L/min masque haute concentration, appel en urgence. Médicament : sulfate de magnésium 4 g IV lent. Accouchement en urgence après stabilisation.
 
 > [!danger] HELLP syndrome
-> Plaquettes < 100 000/mm³ + ASAT > 2N + hémolyse (LDH élevé, schizocytes) → risque d'HRP, de rupture hépatique, CIVD → unité de soins intensifs obstétricaux, accouchement urgent.
+> [[Médicaments/Normes/Plaquettes\|Plaquettes]] < 100 000/mm³ + ASAT > 2N + hémolyse (LDH élevé, schizocytes) → risque d'HRP, de rupture hépatique, CIVD → unité de soins intensifs obstétricaux, accouchement urgent.
 
 > [!danger] Sulfate de magnésium : surdosage
 > Disparition des réflexes ostéotendineux (ROT) → arrêt de la perfusion. FR < 12/min, SpO₂ ↓ → antidote = gluconate de calcium 1 g IV lent. JAMAIS d'association avec dérivés calciques.

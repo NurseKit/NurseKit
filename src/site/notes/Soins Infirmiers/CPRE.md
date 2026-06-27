@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/CPRE/","tags":["intervention","endoscopie","digestif","biliaire"],"noteIcon":"","dg-note-properties":{"nom":"CPRE : Cholangio-Pancréatographie Rétrograde Endoscopique","systeme":"Digestif","tags":["intervention","endoscopie","digestif","biliaire"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/cpre/","tags":["intervention","endoscopie","digestif","biliaire"],"noteIcon":"","dg-note-properties":{"nom":"CPRE : Cholangio-Pancréatographie Rétrograde Endoscopique","systeme":"Digestif","tags":["intervention","endoscopie","digestif","biliaire"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Geste endoscopique qui explore ET traite les voies biliaires et le pancréas en même temps (calculs, sténoses, prothèses), sous anesthésie. La complication à guetter en priorité : la pancréatite aiguë post-CPRE, qui survient dans 5 à 10 % des cas.
@@ -22,8 +26,8 @@ Endoscopie sous anesthésie générale ou sédation profonde qui permet d'explor
 
 **Après (surveillance 4-6h) :**
 - [ ] Surveiller la **douleur abdominale** (pancréatite post-CPRE = complication la plus fréquente, 5-10 %)
-- [ ] Lipase à H4 si douleur épigastrique → alerte pancréatite
-- [ ] Température : fièvre = angiocholite → antibiotiques en urgence
+- [ ] [[Médicaments/Normes/Lipase\|Lipase]] à H4 si douleur épigastrique → alerte pancréatite
+- [ ] [[Médicaments/Normes/Température\|Température]] : fièvre = angiocholite → antibiotiques en urgence
 - [ ] Selles et vomissements : hémorragie digestive possible si sphinctérotomie réalisée
 - [ ] TA + FC : hypotension + défense abdominale = signe de perforation → urgence chirurgicale
 - [ ] Reprise alimentaire selon protocole (généralement à H4 si pas de complication)

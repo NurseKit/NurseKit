@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Coronarographie/","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"noteIcon":"","dg-note-properties":{"nom":"Coronarographie : Angioplastie (ATL/PCI)","systeme":"Cardiologie","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/coronarographie/","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"noteIcon":"","dg-note-properties":{"nom":"Coronarographie : Angioplastie (ATL/PCI)","systeme":"Cardiologie","tags":["intervention","cardiologie","imagerie-interventionnelle","stent"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > L'examen invasif qui permet de visualiser les artères du cœur et, si nécessaire, de déboucher celles qui sont bouchées (pose de stent). Le point de ponction artériel → radiale ou fémorale → c'est ta priorité de surveillance au retour. Et après un stent, le clopidogrel n'est jamais optionnel.
@@ -18,7 +22,7 @@ Cathétérisme artériel (ponction radiale ou fémorale) permettant d'injecter u
 - [ ] **Arrêt metformine 48h AVANT** → risque d'acidose lactique avec le produit iodé
 - [ ] Allergie à l'iode ? → prémédication antihistaminique + corticoïdes selon protocole
 - [ ] Hydratation préventive (SSI avant et après) si créatinine limite
-- [ ] Pose VVP, consentement éclairé, jeûne
+- [ ] [[Soins Infirmiers/Pose VVP\|Pose VVP]], consentement éclairé, jeûne
 
 **Après (surveillance prioritaire, le point de ponction) :**
 - [ ] Abord **radial** : bracelet de compression TR Band® → surveiller pouls radial, couleur et chaleur de la main toutes les 30 min
@@ -39,7 +43,7 @@ Cathétérisme artériel (ponction radiale ou fémorale) permettant d'injecter u
 ## Les 3 choses à retenir
 
 1. **"Point de ponction = surveillance prioritaire au retour"** → hématome, disparition du pouls, froideur ou pâleur de la main
-2. **"Metformine arrêtée 48h avant + hydratation si créatinine limite"** → deux oublis fréquents aux conséquences sérieuses
+2. **"[[Médicaments/Antidiabétiques/Metformine\|Metformine]] arrêtée 48h avant + hydratation si créatinine limite"** → deux oublis fréquents aux conséquences sérieuses
 3. **"DAPT après stent : ne jamais arrêter le clopidogrel sans avis cardiologue"** → thrombose de stent = IDM
 
 ## Voir aussi

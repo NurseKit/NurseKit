@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Analgesie Multimodale PCA/","tags":["douleur","analgésie","PCA","morphine","ALR"],"noteIcon":"","dg-note-properties":{"nom":"Analgésie multimodale et PCA","classe":["Soin infirmier"],"type":"Thérapeutique antalgique","systeme":"Douleur","tags":["douleur","analgésie","PCA","morphine","ALR"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/analgesie-multimodale-pca/","tags":["douleur","analgésie","PCA","morphine","ALR"],"noteIcon":"","dg-note-properties":{"nom":"Analgésie multimodale et PCA","classe":["Soin infirmier"],"type":"Thérapeutique antalgique","systeme":"Douleur","tags":["douleur","analgésie","PCA","morphine","ALR"],"revision":"2026-06-22"}}
 ---
+
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
+> [!info]- Fiches liées
+> [[Médicaments/Antalgiques/Morphine\|Morphine]] · [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Soins Infirmiers/Echelles Douleur Completes\|Échelles douleur]] · [[Soins Infirmiers/Douleur Neuropathique\|Douleur neuropathique]] · [[Médicaments/Antalgiques/Comparatif Antalgiques\|Antalgiques]]
 
 
 > [!abstract] En 2 mots
@@ -12,7 +20,7 @@
 |--------|------------|-----------|-------------|
 | **1** | Paracétamol, AINS (ibuprofène, kétoprofène, diclofénac) | EN ≤ 3 (légère) | En base systématique |
 | **2** | Codéine, tramadol, nalbuphine | EN 4-6 (modérée) | Toujours + palier 1 |
-| **3** | Morphine, oxycodone, fentanyl | EN ≥ 7 (sévère) | Toujours + palier 1 |
+| **3** | [[Médicaments/Antalgiques/Morphine\|Morphine]], oxycodone, fentanyl | EN ≥ 7 (sévère) | Toujours + palier 1 |
 
 > [!abstract] L'essentiel
 > - "Par la bouche" : voie orale préférée dès que possible
@@ -34,12 +42,12 @@ Associer plusieurs médicaments aux **mécanismes d'action différents** pour :
 
 - Paracétamol 1 g IV toutes les 6h (en continu)
 - Kétoprofène 100 mg IV toutes les 12h (si pas de contre-indication)
-- Morphine IV en titration ou PCA (pour les accès douloureux)
+- [[Médicaments/Antalgiques/Morphine\|Morphine]] IV en titration ou PCA (pour les accès douloureux)
 
 ### Contre-indications courantes à mémoriser
 
 - **AINS** : insuffisance rénale, ulcère gastroduodénal, allergie AAS, post-op urologie/vasculaire, grossesse T3
-- **Morphine** : insuffisance respiratoire sévère, traumatisme crânien non évalué, allergie connue
+- **[[Médicaments/Antalgiques/Morphine\|Morphine]]** : insuffisance respiratoire sévère, traumatisme crânien non évalué, allergie connue
 
 ---
 
@@ -64,7 +72,7 @@ Douleur aiguë intense (EN ≥ 7) en urgences, SSPI (salle de surveillance post-
 
 ### Antidote disponible
 
-**Naloxone (Narcan®)** : 0,4 mg IV (ou 1-2 ampoules de 0,1 mg) si FR < 8/min ou sédation profonde non réveillable. À diluer et titrer pour lever l'opioïde sans provoquer de douleur brutale ou de syndrome de sevrage.
+**[[Médicaments/Antidotes/Naloxone\|Naloxone]] (Narcan®)** : 0,4 mg IV (ou 1-2 ampoules de 0,1 mg) si FR < 8/min ou sédation profonde non réveillable. À diluer et titrer pour lever l'opioïde sans provoquer de douleur brutale ou de syndrome de sevrage.
 
 ---
 

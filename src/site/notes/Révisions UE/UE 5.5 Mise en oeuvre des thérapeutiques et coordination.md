@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination/","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"noteIcon":"","dg-note-properties":{"nom":"Mise en oeuvre des thérapeutiques et coordination des soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.5","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-5-mise-en-oeuvre-des-therapeutiques-et-coordination/","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"noteIcon":"","dg-note-properties":{"nom":"Mise en oeuvre des thérapeutiques et coordination des soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.5","tags":["révision","ue-5-5","ifsi","3eme-annee","coordination","therapeutiques"],"revision":"2026-06-22"}}
 ---
 
 
@@ -42,7 +42,7 @@ L'infirmière est l'**acteur central de la coordination** au sein de l'équipe d
 
 ### Délégation à l'aide-soignant(e)
 
-**Cadre réglementaire** : Art. R.4311-4 du CSP — l'IDE peut déléguer aux AS les soins relevant de leur compétence propre.
+**Cadre réglementaire** : Art. R.4311-4 du CSP : l'IDE peut déléguer aux AS les soins relevant de leur compétence propre.
 
 **Ce que l'IDE peut déléguer à l'AS :**
 - Soins de nursing (toilette, habillage, change)
@@ -81,7 +81,7 @@ L'infirmière est l'**acteur central de la coordination** au sein de l'équipe d
 
 **Chimiothérapie IV** :
 - Vérification de la prescription (nom, dose en mg/m², dilution, débit)
-- Contrôle de la voie d'abord (PAC, PICC, VVP — selon protocole)
+- Contrôle de la voie d'abord (PAC, PICC, VVP : selon protocole)
 - Surveillance perf chimio : extravasation, réaction anaphylactique
 - Cf. [[Soins Infirmiers/Chimiotherapie\|Fiche chimiothérapie]]
 
@@ -89,9 +89,9 @@ L'infirmière est l'**acteur central de la coordination** au sein de l'équipe d
 - Risque infectieux majeur → précautions liées à l'immunodépression
 - Réactions infusionnelles fréquentes (frissons, hypotension) → prémédiquer selon protocole
 
-**Transfusion sanguine** :
+**[[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]** :
 - Contrôle ultime au lit du patient obligatoire (4 points)
-- Cf. [[Soins Infirmiers/Transfusion CGR\|Fiche transfusion CGR]]
+- Cf. [[Transfusion CGR\|Fiche transfusion CGR]]
 
 **Dispositifs implantables** :
 - PAC : aiguille de Huber, asepsie chirurgicale, rinçage Héparine
@@ -103,7 +103,7 @@ L'infirmière est l'**acteur central de la coordination** au sein de l'équipe d
 
 **1. Le diagramme de soins** : document de planification sur 24h par patient. Visualisation des soins réalisés, des constantes, des médicaments administrés. Support de la continuité des soins entre équipes.
 
-**2. Les transmissions ciblées (DAR)** : Données / Actions / Résultats. Ciblées sur un problème précis. Permettent de tracer l'évolution et les soins prodigués. Cf. [[Soins Infirmiers/Transmissions DAR\|Fiche transmissions DAR]]
+**2. Les transmissions ciblées (DAR)** : Données / Actions / Résultats. Ciblées sur un problème précis. Permettent de tracer l'évolution et les soins prodigués. Cf. [[Transmissions DAR\|Fiche transmissions DAR]]
 
 **3. Le Relève SBAR** (Situation / Background / Assessment / Recommendation) : transmissions orales structurées entre équipes (matin/soir), entre services (transfert), ou lors d'une alerte médicale. Cf. [[Soins Infirmiers/Releve SBAR\|Fiche SBAR]]
 
@@ -130,7 +130,7 @@ L'infirmière est l'**acteur central de la coordination** au sein de l'équipe d
 
 ## Voir aussi
 
-[[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]] · [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]] · [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]]
+[[Révisions UE/UE 4.4 Thérapeutiques soins infirmiers\|UE 4.4 Thérapeutiques soins infirmiers]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]] · [[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]] · [[Transmissions DAR\|Transmissions DAR]] · [[Soins Infirmiers/Releve SBAR\|Releve SBAR]] · [[Transfusion CGR\|Transfusion CGR]] · [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]]
 
 > [!caution] Outil pédagogique · Source : Arrêté du 31 juillet 2009, référentiel infirmier, décrets de compétences IDE (R.4311-1 à R.4311-15)
 

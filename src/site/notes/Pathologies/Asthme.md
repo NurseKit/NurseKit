@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/asthme/","tags":["pathologie","respiratoire","allergie","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Asthme","systeme":"Respiratoire","tags":["pathologie","respiratoire","allergie","urgence"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Des bronches qui se contractent et s'enflamment au moindre déclencheur → mais qui peuvent se desserrer (contrairement à la BPCO). L'AAG peut tuer en quelques minutes : silence auscultatoire = urgence absolue. Et ne jamais confondre : la Ventoline traite la crise, le corticoïde inhalé prévient les crises.
@@ -30,7 +34,7 @@ Les bronches de l'asthmatique sont en état d'alerte permanent. Au moindre signa
 
 ## Points de vigilance
 
-> [!danger] Asthme aigu grave (AAG) : urgence absolue
+> [!danger] [[Pathologies/Asthme aigu grave\|Asthme aigu grave]] (AAG) : urgence absolue
 > Silence auscultatoire (plus de sifflement = plus d'air qui passe) + SpO₂ < 92 % + FR > 30 + incapacité à parler = AAG. Appel médecin immédiat, O₂, salbutamol nébulisé, corticoïde IV. Préparer l'intubation si épuisement respiratoire.
 
 > [!danger] Bêtabloquants + AINS = interdits absolus
@@ -41,7 +45,7 @@ Les bronches de l'asthmatique sont en état d'alerte permanent. Au moindre signa
 
 ## Les 3 choses à retenir
 
-1. **"Salbutamol = crise / CSI = fond"** → le patient qui n'utilise que la Ventoline ne traite pas l'inflammation chronique ; sans traitement de fond, les crises reviendront
+1. **"[[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] = crise / CSI = fond"** → le patient qui n'utilise que la Ventoline ne traite pas l'inflammation chronique ; sans traitement de fond, les crises reviendront
 2. **"Peak-flow avant/après broncho"** → amélioration > 15 % confirme l'obstruction réversible ; sous 40 % du meilleur, c'est une crise sévère
 3. **"Bêtabloquants + AINS = interdit, même en collyre"** → à rappeler systématiquement, même "juste pour une semaine"
 

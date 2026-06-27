@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.3 Soins d'Urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-3-soins-d-urgence/","tags":["révision","ue-4-3","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.3 - Soins d'Urgence","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.3","tags":["révision","ue-4-3","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > - ABCDE : évaluation systématique de tout patient en urgence
 > - RCP : 30 compressions (5-6 cm, 100-120/min) puis 2 insufflations, ratio 30:2
 > - DAE : choc si FV ou TV sans pouls → allumer, électrodes, analyser, s'écarter
-> - Glasgow max=15 (normal), GCS ≤8 = intubation obligatoire
+> - [[Médicaments/Normes/Glasgow\|Glasgow]] max=15 (normal), GCS ≤8 = intubation obligatoire
 > - Anaphylaxie : ADRÉNALINE 0,5 mg IM cuisse en 1ère intention absolue
 
 ## Objectifs de l'UE
@@ -26,7 +26,7 @@
 - **A** (Airway) : voies aériennes libres ? corps étranger ? stridor ?
 - **B** (Breathing) : FR, SpO2, symétrie thoracique, tirage, cyanose ?
 - **C** (Circulation) : FC, PA, pouls périphériques, TRC, marbrures, saignement ?
-- **D** (Disability) : Glasgow, réactivité pupillaire, glycémie capillaire
+- **D** (Disability) : [[Médicaments/Normes/Glasgow\|Glasgow]], réactivité pupillaire, glycémie capillaire
 - **E** (Exposure) : déshabiller complètement, température, lésions cachées ?
 
 Traiter chaque problème identifié AVANT de passer au suivant.
@@ -56,7 +56,7 @@ Traiter chaque problème identifié AVANT de passer au suivant.
 
 ---
 
-### Score de Glasgow (GCS)
+### Score de [[Médicaments/Normes/Glasgow\|Glasgow]] (GCS)
 
 | Ouverture yeux (E) | Réponse verbale (V) | Réponse motrice (M) |
 |--------------------|---------------------|----------------------|

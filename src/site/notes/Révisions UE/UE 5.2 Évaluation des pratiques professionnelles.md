@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.2 Évaluation des pratiques professionnelles/","tags":["révision","ue-5-2","ifsi","3eme-annee","evaluation","epp","qualite"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation des pratiques professionnelles","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.2","tags":["révision","ue-5-2","ifsi","3eme-annee","evaluation","epp","qualite"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-2-evaluation-des-pratiques-professionnelles/","tags":["révision","ue-5-2","ifsi","3eme-annee","evaluation","epp","qualite"],"noteIcon":"","dg-note-properties":{"nom":"Évaluation des pratiques professionnelles","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.2","tags":["révision","ue-5-2","ifsi","3eme-annee","evaluation","epp","qualite"],"revision":"2026-06-22"}}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ## Points clés
 
-### Analyse réflexive — méthode pour le portfolio
+### Analyse réflexive : méthode pour le portfolio
 
 L'analyse réflexive est la capacité à revenir sur une situation vécue pour en extraire un apprentissage. C'est la compétence centrale évaluée dans le portfolio IFSI.
 
@@ -68,7 +68,7 @@ L'analyse réflexive est la capacité à revenir sur une situation vécue pour e
 1. Identifier → 2. Déclarer (fiche interne de signalement + OSIRIS) → 3. Analyser (méthode des 5 pourquoi, arbre des causes) → 4. Mettre en œuvre des actions correctives → 5. Évaluer l'efficacité
 
 > [!tip] Rôle IDE dans le signalement
-> Toute IDE (et tout ESI) a **l'obligation de signaler** les EI qu'elle observe ou commet. La déclaration n'est pas une dénonciation — c'est un outil d'amélioration. Les systèmes de déclaration sont anonymisés et non punitifs dans une culture de sécurité mature.
+> Toute IDE (et tout ESI) a **l'obligation de signaler** les EI qu'elle observe ou commet. La déclaration n'est pas une dénonciation : c'est un outil d'amélioration. Les systèmes de déclaration sont anonymisés et non punitifs dans une culture de sécurité mature.
 
 ---
 
@@ -112,7 +112,7 @@ En 3ème année, l'analyse réflexive ne se limite plus à "j'ai appris à faire
 
 ## Voir aussi
 
-[[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]] · [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|UE 1.3 Législation Éthique Déontologie]]
+[[Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique\|UE 5.6 Qualité des soins et analyse de la pratique]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]] · [[UE 1.3 [[Législation\|UE 1.3 [[Législation]] Éthique Déontologie]]
 
 > [!caution] Outil pédagogique · Source : Référentiel de formation infirmier 2009-2026, arrêté du 31 juillet 2009
 

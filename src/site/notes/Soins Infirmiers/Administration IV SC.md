@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Administration IV SC/","tags":["injection","IV","SC","médicaments","voie","5B"],"noteIcon":"","dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-22","statut":"Relecture pédagogique"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/administration-iv-sc/","tags":["injection","IV","SC","médicaments","voie","5B"],"noteIcon":"","dg-note-properties":{"nom":"Administration IV et SC","type":"Soin infirmier","domaine":"Thérapeutique","tags":["injection","IV","SC","médicaments","voie","5B"],"revision":"2026-06-22"}}
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!info]- Navigation
-> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
+> [[index\|Accueil]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 > [!abstract] L\'essentiel
 > Administrer un médicament par voie IV ou SC de façon sécurisée, avec les vérifications obligatoires.
@@ -36,9 +40,22 @@
 4. **Etiqueter** la seringue/flacon : nom médicament + dilution + débit + heure de début + IDE
 5. Vérifier le site VVP à chaque passage
 
+## Voie intramusculaire (IM)
+
+**Sites :** quadrant supéro-externe de la fesse (QSEF, volume jusqu'à 5 mL), deltoïde (volume ≤ 2 mL), vaste externe.
+
+1. Aiguille IM verte (0,8 × 40 mm adulte standard)
+2. Désinfecter, laisser sécher
+3. Tendre ou pincer selon la corpulence, piquer angle 90°
+4. **Ne pas aspirer** (recommandation OMS 2015)
+5. Injecter lentement (1 mL/10 sec), retirer d'un geste ferme, comprimer sans masser
+
+> [!warning] Double vérification obligatoire pour les médicaments à risque
+> [[Médicaments/Antidiabétiques/Insuline\|Insuline]], anticoagulants, morphine, potassium IV : vérification par un second IDE avant administration.
+
 ## Voie SC (sous-cutanée)
 
-**Indications principales :** [[Médicaments/Antidiabétiques/Insuline\|Insuline]], [[Médicaments/Anticoagulants/Héparine\|HBPM]], antiémétiques
+**Indications principales :** [[Médicaments/Antidiabétiques/Insuline\|Insuline]], [[Médicaments/Anticoagulants/Enoxaparine\|HBPM]], antiémétiques
 
 1. Choisir le site (abdomen ± 10 cm de l'ombilic, cuisse, bras) - **rotation obligatoire**
 2. Nettoyer le site à l'alcool, laisser sécher
@@ -55,7 +72,7 @@
 > | **Embolie aérique** | Malaise, cyanose, choc | Position Trendelenburg gauche + O2 + urgence |
 
 ---
-→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Médicaments/Anticoagulants/Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
+→ [[Soins Infirmiers/Pose VVP\|Pose VVP]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]] · [[Héparine\|Héparine]] · [[Médicaments/Antidiabétiques/Insuline\|Insuline]]
 
 
 > [!caution] Outil pédagogique · Toujours se référer aux protocoles du service et aux prescriptions médicales en vigueur

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.1 Accompagnement de la personne dans la réalisation de ses soins/","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"noteIcon":"","dg-note-properties":{"nom":"Accompagnement de la personne dans la réalisation de ses soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.1","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-1-accompagnement-de-la-personne-dans-la-realisation-de-ses-soins/","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"noteIcon":"","dg-note-properties":{"nom":"Accompagnement de la personne dans la réalisation de ses soins","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.1","tags":["révision","ue-5-1","ifsi","3eme-annee","accompagnement","autonomie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -108,7 +108,7 @@ L'aide doit être **proportionnelle** au déficit du patient et **réévaluée**
 > **ADL** évalue les activités de base de la vie quotidienne (toilette, habillage, déplacement, alimentation, continence, transfert) → mesure la dépendance physique. **IADL** évalue les activités instrumentales (courses, ménage, téléphone, gestion des médicaments, finances) → mesure l'autonomie dans la vie courante. IADL est plus sensible pour évaluer la capacité à vivre seul à domicile.
 
 > [!question]- Qu'est-ce que la personne de confiance et comment la différencier du proche aidant ?
-> La **personne de confiance** est désignée par écrit par le patient — elle sera consultée si le patient ne peut plus s'exprimer et accompagne le patient dans ses démarches. Elle n'est pas forcément la même que la personne à prévenir. Le **proche aidant** est la personne (famille ou entourage) qui aide le patient dans ses activités quotidiennes, souvent sans formation. L'IDE doit identifier, soutenir et ne pas épuiser le proche aidant.
+> La **personne de confiance** est désignée par écrit par le patient : elle sera consultée si le patient ne peut plus s'exprimer et accompagne le patient dans ses démarches. Elle n'est pas forcément la même que la personne à prévenir. Le **proche aidant** est la personne (famille ou entourage) qui aide le patient dans ses activités quotidiennes, souvent sans formation. L'IDE doit identifier, soutenir et ne pas épuiser le proche aidant.
 
 > [!question]- Dans quel cadre légal l'IDE peut-elle déléguer des soins de nursing à l'aide-soignant ?
 > Selon le **décret de compétences R.4311-4**, l'IDE peut confier à l'AS les soins de confort et d'hygiène qui ne requièrent pas les compétences IDE. La délégation doit être explicite, l'AS doit avoir les compétences requises, et la **responsabilité reste à l'IDE** qui supervise. En cas de doute sur les compétences de l'AS, l'IDE réalise le soin elle-même.

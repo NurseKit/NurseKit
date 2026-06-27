@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 3.2 Projet de soins infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-3-2-projet-de-soins-infirmiers/","tags":["révision","ue-3-2","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Projet de soins infirmiers","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 3.2","tags":["révision","ue-3-2","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -158,13 +158,13 @@
 **Soins relevant du rôle propre IDE** (article R.4311-3 à 4311-5 CSP) :
 - Évaluation de la douleur
 - Soins de confort, d'hygiène
-- Prévention des escarres
+- [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
 - Surveillance clinique
 - Éducation du patient
 
 **Soins relevant du rôle sur prescription** (article R.4311-7) :
 - Administration des médicaments
-- Prélèvements biologiques
+- [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 - Injections
 - Pansements complexes prescrits
 

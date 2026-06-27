@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.1 Soins de Confort et Bien-Être/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-1-soins-de-confort-et-bien-etre/","tags":["révision","ue-4-1","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.1 - Soins de Confort et de Bien-Être","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.1","tags":["révision","ue-4-1","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
 > - Soins d'hygiène : respect de la dignité, pudeur, autonomie maximale du patient
-> - Escarre : stades 1 à 4, prévention par mobilisation + matelas + nutrition
+> - [[Pathologies/Escarre\|Escarre]] : stades 1 à 4, prévention par mobilisation + matelas + nutrition
 > - Braden ≤18 = risque d'escarre à prévenir activement
 > - Douleur : EVA 0-10, réévaluation systématique après tout soin douloureux
 > - Contention : prescription médicale obligatoire + surveillance toutes les 2h + traçabilité
@@ -38,7 +38,7 @@
 
 ---
 
-### Prévention des escarres
+### [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
 
 **4 stades de l'escarre** :
 - Stade 1 : rougeur persistante ne blanchissant pas à la pression (peau intacte)
@@ -88,7 +88,7 @@ Réévaluation systématique 30-60 min après administration d'un antalgique.
 
 **Manutention sécurisée** : dos droit, genoux fléchis, pieds écartés → utiliser le lève-malade, drap de glisse, verticalisateur
 
-**Contention physique** : prescription médicale écrite obligatoire + surveillance toutes les 2h (pouls, couleur, mobilité) + traçabilité dans le dossier
+**[[Soins Infirmiers/Contention physique\|Contention physique]]** : prescription médicale écrite obligatoire + surveillance toutes les 2h (pouls, couleur, mobilité) + traçabilité dans le dossier
 
 ---
 
@@ -116,7 +116,7 @@ Réévaluation systématique 30-60 min après administration d'un antalgique.
 
 ## Voir aussi
 
-[[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Évaluation de la douleur\|Évaluation de la douleur]] · [[Soins Infirmiers/Soin de plaie\|Soin de plaie]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]]
+[[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Évaluation de la douleur\|Évaluation de la douleur]] · [[Soin de plaie\|Soin de plaie]] · [[Révisions UE/UE 4.2 Soins Relationnels\|UE 4.2 Soins Relationnels]] · [[Révisions UE/UE 4.3 Soins d'Urgence\|UE 4.3 Soins d'Urgence]]
 
 > [!caution] Outil pédagogique · Réf : HAS prévention escarres 2014, EPUAP/NPIAP 2019, Échelle de Braden - IFSI
 

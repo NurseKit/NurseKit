@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur en fin de vie/","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en fin de vie","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/douleur-en-fin-de-vie/","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"noteIcon":"","dg-note-properties":{"nom":"Douleur en fin de vie","classe":["Soin infirmier"],"type":"Soins palliatifs","systeme":"Soins palliatifs","tags":["soins-palliatifs","fin-de-vie","douleur","morphine","opioïdes","total-pain"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > La douleur palliative est multidimensionnelle, chronique et évolutive. Elle dépasse la seule composante physique : le concept de "Total Pain" de Cicely Saunders rappelle que souffrance physique, psychologique, sociale et spirituelle sont indissociables. La prise en charge vise le confort global, avec une morphine sans dose plafond en phase terminale.
@@ -66,7 +70,7 @@ Indiquée si effets secondaires intolérables ou inefficacité :
 |---|---|
 | Oxycodone (Oxynorm®, Oxycontin®) | Moins de confusion que la morphine |
 | Hydromorphone (Sophidone®) | Forte puissance, utile si insuffisance rénale |
-| Fentanyl transdermique (Durogésic®) | Patch 72h, bonne tolérance digestive |
+| [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]] transdermique (Durogésic®) | Patch 72h, bonne tolérance digestive |
 
 ## Douleur en phase agonique (dernières heures)
 
@@ -84,8 +88,8 @@ Indiquée si effets secondaires intolérables ou inefficacité :
 ### Prescription anticipée
 
 Le médecin laisse au dossier des prescriptions "si besoin" que l'IDE peut utiliser sans rappel médical :
-- Morphine SC en bolus (dose précisée)
-- Midazolam SC (si agitation ou angoisse)
+- [[Médicaments/Antalgiques/Morphine\|Morphine]] SC en bolus (dose précisée)
+- [[Médicaments/Sédatifs/Midazolam\|Midazolam]] SC (si agitation ou angoisse)
 - Hyoscine butylbromide SC (si encombrement)
 
 **Rôle IDE** : connaître ces prescriptions, les localiser dans le dossier, les utiliser sans hésitation dès que les signes sont présents.
@@ -94,11 +98,11 @@ Le médecin laisse au dossier des prescriptions "si besoin" que l'IDE peut utili
 
 ### Dyspnée
 
-- **Morphine SC** : efficace même en l'absence de douleur physique (réduit la sensation de manque d'air)
+- **[[Médicaments/Antalgiques/Morphine\|Morphine]] SC** : efficace même en l'absence de douleur physique (réduit la sensation de manque d'air)
 - **Oxygène** : seulement si le patient ressent un bénéfice subjectif (pas systématique)
 - **Position** : semi-assise ou assise, tête du lit relevée
 - **Courant d'air** : ventilateur ou fenêtre entrouverte - la sensation d'air sur le visage réduit la dyspnée
-- **Midazolam** SC si composante anxieuse majeure
+- **[[Médicaments/Sédatifs/Midazolam\|Midazolam]]** SC si composante anxieuse majeure
 
 ### Nausées / vomissements
 
@@ -118,13 +122,13 @@ Le médecin laisse au dossier des prescriptions "si besoin" que l'IDE peut utili
 ### Agitation terminale
 
 - Causes à rechercher : douleur non traitée, rétention urinaire, fécalome, anxiété, syndrome confusionnel
-- **Midazolam SC** : sédation légère à modérée selon l'intensité
+- **[[Médicaments/Sédatifs/Midazolam\|Midazolam]] SC** : sédation légère à modérée selon l'intensité
 - Environnement calme, présence rassurante, toucher doux
 
 ## Les 3 choses à retenir
 
 1. **Total Pain** : la douleur en palliatif est physique, psychologique, sociale et spirituelle - traiter toutes les dimensions, pas seulement la composante médicamenteuse
-2. **Morphine sans plafond + bolus au 1/6e de la dose journalière** : noter chaque bolus, signaler si > 3/24h, ne jamais retarder l'administration par crainte de "trop donner"
+2. **[[Médicaments/Antalgiques/Morphine\|Morphine]] sans plafond + bolus au 1/6e de la dose journalière** : noter chaque bolus, signaler si > 3/24h, ne jamais retarder l'administration par crainte de "trop donner"
 3. **Anticipation en phase agonique** : connaître les prescriptions anticipées du dossier, agir sur les signes non verbaux sans attendre que le patient demande - l'évaluation clinique remplace la verbalisation
 
 > [!caution] Outil pédagogique

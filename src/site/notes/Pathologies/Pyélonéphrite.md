@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Pyélonéphrite/","tags":["pathologie","infectieux","rénal","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Infectieux / Rénal","tags":["pathologie","infectieux","rénal","urgence"],"revision":"2026-06-23"}}
+{"dg-publish":true,"permalink":"/pathologies/pyelonephrite/","tags":["pathologie","infectieux","rénal","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Pyélonéphrite aiguë (PNA)","systeme":"Infectieux / Rénal","tags":["pathologie","infectieux","rénal","urgence"],"revision":"2026-06-23"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Infection bactérienne du parenchyme rénal, le plus souvent ascendante depuis la vessie (E. coli dans 80 % des cas). Triade clinique : **fièvre + douleur lombaire unilatérale (douleur à la percussion de la loge rénale) + signes urinaires**. Urgence diagnostique et thérapeutique pour éviter le sepsis et les séquelles rénales.
@@ -29,7 +33,7 @@ Montée bactérienne depuis la vessie → urètres → bassinet → parenchyme r
 ## Rôle IDE
 
 - [ ] Bilan en urgence : ECBU (bandelette urinaire + culture + antibiogramme) AVANT toute antibiothérapie, hémocultures si fièvre > 38,5 °C ou frissons, NFS, CRP, créatinine, ionogramme, échographie rénale (obstacle ?)
-- [ ] Antibiothérapie IV ou PO selon la gravité : fluoroquinolones (ciprofloxacine) ou C3G (ceftriaxone) en 1re intention — surveiller les signes d'allergie
+- [ ] Antibiothérapie IV ou PO selon la gravité : fluoroquinolones (ciprofloxacine) ou C3G (ceftriaxone) en 1re intention : surveiller les signes d'allergie
 - [ ] Surveillance : température × 3/j, diurèse (oligurie = signe d'IRA débutante), TA, FC
 - [ ] Hydratation : IV si vomissements, orale sinon (objectif 1,5-2 L/j pour "chasser" les bactéries)
 - [ ] Antalgiques et antipyrétiques : paracétamol, AINS contre-indiqués si suspicion d'obstruction (aggravent l'IRA)

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Polytraumatisme/","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Polytraumatisme","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/polytraumatisme/","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"noteIcon":"","dg-note-properties":{"nom":"Polytraumatisme","systeme":"Réanimation / Urgence / Chirurgie","tags":["pathologie","réanimation","traumatologie","urgence","chirurgie"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Patient avec au moins deux lésions traumatiques dont une met en jeu le pronostic vital. La prise en charge est simultanée, pas séquentielle : tout l'équipe en même temps selon le bilan ABCDE. L'hémorragie interne incontrôlée reste la première cause de mort évitable.
@@ -17,7 +21,7 @@ Les 3 causes de mort évitables précoces : hémorragie incontrôlée, pneumotho
 | Étape | Évaluation | Urgence si |
 |-------|------------|-----------|
 | **A** Airway | Liberté des voies aériennes | Corps étranger, obstruction → lever l'obstacle |
-| **B** Breathing | Fréquence, symétrie, SpO₂ | Pneumothorax suffoquant → exsufflation |
+| **B** Breathing | Fréquence, symétrie, SpO₂ | [[Pathologies/Pneumothorax\|Pneumothorax]] suffoquant → exsufflation |
 | **C** Circulation | TA, FC, signes de choc | Choc hémorragique → remplissage, garrot |
 | **D** Disability | GCS, pupilles | TCG, HTIC → cf. fiche TCG |
 | **E** Exposure | Déshabillage complet | Lésions cachées (dos, périnée) |
@@ -36,14 +40,14 @@ Les 3 causes de mort évitables précoces : hémorragie incontrôlée, pneumotho
  - Pansement hémostatique (Quikclot®, Celox®) si disponible
 - [ ] Collier cervical rigide jusqu'à élimination de lésion cervicale (imagerie)
 - [ ] Couverture de survie → prévention de l'hypothermie (triade de la mort)
-- [ ] **Acide tranexamique (Exacyl®)** si choc hémorragique traumatique < 3 h → sur prescription médicale
+- [ ] **[[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]] (Exacyl®)** si choc hémorragique traumatique < 3 h → sur prescription médicale
 - [ ] Sonde urinaire dès stabilisation : diurèse horaire (pas si suspicion de rupture urétrale)
 - [ ] Scanner corps entier ("pan-scan") en urgence si hémodynamiquement stable
 - [ ] Bilan radiographique d'urgence si instable : thorax, bassin, rachis cervical de profil
 
 ## Points de vigilance
 
-> [!danger] Pneumothorax suffoquant = urgence vitale en 2 minutes
+> [!danger] [[Pathologies/Pneumothorax\|Pneumothorax]] suffoquant = urgence vitale en 2 minutes
 > Déviation de trachée + absence murmure vésiculaire unilatéral + distension veineuse jugulaire + désaturation brutale → exsufflation à l'aiguille immédiate en 2e espace intercostal, ligne médioclaviculaire, SANS attendre la radio. Le médecin fait, mais l'IDE doit reconnaître.
 
 > [!danger] Bassin fracturé = hémorragie interne massive
@@ -60,7 +64,7 @@ Les 3 causes de mort évitables précoces : hémorragie incontrôlée, pneumotho
 
 ## Voir aussi
 
-[[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Pathologies/CIVD\|CIVD]] · [[Pathologies/Traumatisme crânien\|Traumatisme crânien grave]] · [[Soins Infirmiers/Transfusion CGR\|Transfusion CGR]]
+[[Pathologies/Choc hypovolémique\|Choc hypovolémique]] · [[Pathologies/CIVD\|CIVD]] · [[Pathologies/Traumatisme crânien\|[[Traumatisme crânien]] grave]] · [[Transfusion CGR\|Transfusion CGR]]
 
 > [!caution] Outil pédagogique : ATLS 10e édition, algorithme SAMU/SMUR, protocoles locaux de trauma center
 

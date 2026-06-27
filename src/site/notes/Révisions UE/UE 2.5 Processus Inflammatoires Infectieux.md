@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.5 Processus Inflammatoires Infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-5-processus-inflammatoires-infectieux/","tags":["révision","ue-2-5","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.5 - Processus Inflammatoires et Infectieux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.5","tags":["révision","ue-2-5","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] L'essentiel à retenir
 > - 4 signes cardinaux de l'inflammation : rougeur, chaleur, douleur, tuméfaction
 > - CRP normale <5 mg/L / VS normale <10 mm/h H, <15 mm/h F
-> - Sepsis (Sepsis-3) : dysfonction d'organe par réponse dérégulée à une infection (SOFA ≥2)
+> - [[Pathologies/Sepsis\|Sepsis]] ([[Pathologies/Sepsis\|Sepsis]]-3) : dysfonction d'organe par réponse dérégulée à une infection (SOFA ≥2)
 > - Immunité innée (immédiate, non spécifique) vs adaptative (délai 5-10j, spécifique, mémoire)
 > - Antibiotiques : UNIQUEMENT pour infections bactériennes, jamais pour les virus
 
@@ -36,7 +36,7 @@
 **Marqueurs biologiques** :
 - CRP : <5 mg/L normale, augmente en quelques heures
 - VS : <10 mm/h (H), <15 mm/h (F), augmente en 24-48h
-- Leucocytes : 4-10 G/L normale → hyperleucocytose si infection bactérienne (PNN prédominants)
+- [[Médicaments/Normes/Leucocytes\|Leucocytes]] : 4-10 G/L normale → hyperleucocytose si infection bactérienne (PNN prédominants)
 
 ---
 
@@ -59,9 +59,9 @@
 - Protéines : complément, lysozyme, interférons
 
 **Immunité adaptative** (spécifique, délai 5-10 jours) :
-- Lymphocytes B → plasmocytes → anticorps (immunoglobulines)
-- Lymphocytes T CD8 (cytotoxiques) : détruisent les cellules infectées
-- Lymphocytes T CD4 (auxiliaires) : coordonnent la réponse immune
+- [[Médicaments/Normes/Lymphocytes\|Lymphocytes]] B → plasmocytes → anticorps (immunoglobulines)
+- [[Médicaments/Normes/Lymphocytes\|Lymphocytes]] T CD8 (cytotoxiques) : détruisent les cellules infectées
+- [[Médicaments/Normes/Lymphocytes\|Lymphocytes]] T CD4 (auxiliaires) : coordonnent la réponse immune
 - Cellules mémoire : réponse plus rapide si réexposition (base de la vaccination)
 
 **Immunoglobulines** :
@@ -72,7 +72,7 @@
 
 ---
 
-### Sepsis (Sepsis-3, 2016)
+### [[Pathologies/Sepsis\|Sepsis]] (Sepsis-3, 2016)
 
 - **Infection** : présence d'un micro-organisme dans un tissu normalement stérile
 - **Bactériémie** : bactéries dans le sang (hémocultures positives)

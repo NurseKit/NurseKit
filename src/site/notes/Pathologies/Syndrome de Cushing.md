@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Syndrome de Cushing/","tags":["pathologie","endocrinologie","corticosurrenale"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Cushing","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","corticosurrenale"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/syndrome-de-cushing/","tags":["pathologie","endocrinologie","corticosurrenale"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de Cushing","systeme":"Endocrinologie","tags":["pathologie","endocrinologie","corticosurrenale"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Excès chronique de cortisol, le plus souvent iatrogène (corticothérapie au long cours). Tableau clinique caractéristique : obésité facio-tronculaire, vergetures pourpres, HTA, diabète cortico-induit, ostéoporose, immunodépression. L'IDE doit connaître ce syndrome pour surveiller les patients sous corticoïdes prolongés.
@@ -20,7 +24,7 @@ Le cortisol est une hormone stéroïde produite par le cortex surrénalien sous 
 
 | Signe | Description |
 |-------|-------------|
-| **Obésité facio-tronculaire** | Visage lunaire, bosse de bison (nuque), obésité abdominale avec membres grêles |
+| **[[Pathologies/Obésité\|Obésité]] facio-tronculaire** | Visage lunaire, bosse de bison (nuque), obésité abdominale avec membres grêles |
 | **Vergetures pourpres** | Larges, violacées (≠ vergetures blanches de la grossesse) sur abdomen, cuisses, hanches |
 | **HTA** | Liée à la rétention sodée et aux effets vasculaires du cortisol |
 | **Diabète cortico-induit** | Hyperglycémie par résistance à l'insuline |
@@ -28,7 +32,7 @@ Le cortisol est une hormone stéroïde produite par le cortex surrénalien sous 
 | **Fragilité cutanée** | Peau fine, ecchymoses faciles, cicatrisation lente |
 | **Amyotrophie** | Faiblesse musculaire proximale (se lever d'une chaise difficile) |
 | **Immunodépression** | Infections opportunistes, réactivation de tuberculose |
-| **Troubles psychiques** | Dépression, euphorie, psychose cortisonique |
+| **Troubles psychiques** | [[Pathologies/Dépression\|Dépression]], euphorie, psychose cortisonique |
 
 ## Rôle IDE
 
@@ -53,7 +57,7 @@ Le cortisol est une hormone stéroïde produite par le cortex surrénalien sous 
 
 ## Les 3 choses à retenir
 
-1. **"Obésité facio-tronculaire + vergetures pourpres + HTA = Cushing"** → association clinique très caractéristique
+1. **"[[Pathologies/Obésité\|Obésité]] facio-tronculaire + vergetures pourpres + HTA = Cushing"** → association clinique très caractéristique
 2. **"Cause principale = iatrogène"** → surveiller tous les patients sous corticoïdes prolongés pour ces signes
 3. **"Jamais d'arrêt brutal"** → l'éducation sur la décroissance progressive est une priorité de l'IDE
 

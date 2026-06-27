@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Cathéter intra péritonéal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/catheter-intra-peritoneal/","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"noteIcon":"","dg-note-properties":{"nom":"Cathéter intra péritonéal / Dialyse péritonéale","classe":["Soin infirmier"],"type":"Geste IDE","systeme":"Nephrologie / Dialyse péritonéale","tags":["soin-infirmier","dialyse-péritonéale","cathéter-intra-péritonéal","IRC","nephrologie"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Le péritoine, cette membrane naturelle qui tapisse l'abdomen, joue ici le rôle d'un filtre vivant. Un dialysat sucré infusé dans l'abdomen attire les déchets du sang par osmose, et le patient peut faire ça chez lui, sans machine, quatre fois par jour. La péritonite, c'est l'ennemi absolu.
@@ -78,7 +82,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 | Aspect du dialysat drainé | **Clair, jaune pâle**  | Trouble → péritonite  |   |
 | Volume drainé  | ≈ volume infusé ± ultrafiltration  | Volume très bas → obstruction |   |
 | Ultrafiltration  | Positive selon prescription  | Négative = rétention d'eau  |   |
-| Temperature  | Température  | 36,5-37,5 °C  | Fièvre → péritonite ? |
+| Temperature  | [[Médicaments/Normes/Température\|Température]]  | 36,5-37,5 °C  | Fièvre → péritonite ? |
 | Douleur abdominale  | Aucune ou légère en début d'infusion | Douleur intense → péritonite  |   |
 | Orifice de sortie  | Sec, sans rougeur  | Signes infectieux locaux  |   |
 
@@ -117,7 +121,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 | Complication  | Signes  | Conduite générale  |
 | --------------------- | -------------------------------------------- | -------------------------------------------------- |
-| **Péritonite**  | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[Pharmacologie/Antibiothérapie guide IDE\|ATB]] intrapéritonéal  |
+| **[[Pathologies/Péritonite\|Péritonite]]**  | Dialysat trouble, fièvre, douleur abdominale | URGENCE : prélèvement + [[Pharmacologie/Antibiothérapie guide IDE\|ATB]] intrapéritonéal  |
 | **Infection orifice** | Rougeur, écoulement purulent  | Prélèvement bactério + traitement local/systémique |
 | **Obstruction**  | Drainage lent ou impossible  | Radiographie, désobstruction, laxatifs  |
 | **Hernie**  | Bombement au niveau de plaies ou aine  | Chirurgie si symptomatique  |
@@ -135,7 +139,7 @@ Le péritoine est une membrane très fine irriguée par des capillaires sanguins
 
 ## Voir aussi
 
-DFG (IRC) · Créatinine · Kaliémie · Natrémie · Température · [[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Soins Infirmiers/Cathéter veineux central\|CVC (hémodialyse)]]
+DFG (IRC) · [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]] · [[Médicaments/Normes/Natrémie\|Natrémie]] · [[Médicaments/Normes/Température\|Température]] · [[Pathologies/Insuffisance rénale chronique\|IRC]] · [[Cathéter veineux central\|CVC (hémodialyse)]]
 
 > [!caution] Outil pédagogique : Toujours appliquer le protocole du service de néphro-dialyse et les recommandations ISPD (International Society for Peritoneal Dialysis)
 

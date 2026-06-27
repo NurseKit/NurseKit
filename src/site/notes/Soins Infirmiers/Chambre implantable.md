@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Chambre implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"noteIcon":"","dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/chambre-implantable/","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"noteIcon":"","dg-note-properties":{"nom":"PAC : Chambre implantable (Port-à-Cathéter)","systeme":"Abord veineux central","tags":["soin-infirmier","PAC","chambre-implantable","cathéter","oncologie","aiguille-huber"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Un petit réservoir en titane sous la peau, relié à une veine centrale → épargne aux patients de chimio des dizaines de piqûres. Seule l'aiguille de Huber peut l'utiliser : une aiguille ordinaire détruirait la membrane en quelques utilisations.
@@ -44,7 +48,7 @@ Chambre en titane implantée sous la peau (généralement thorax), reliée à un
 
 ## Voir aussi
 
-[[Soins Infirmiers/PICC Line\|PICC Line]] · [[Soins Infirmiers/Cathéter veineux central\|CVC]] · [[Soins Infirmiers/Pose VVP\|VVP]]
+[[Soins Infirmiers/PICC Line\|PICC Line]] · [[Cathéter veineux central\|CVC]] · [[Soins Infirmiers/Pose VVP\|VVP]]
 
 > [!caution] Outil pédagogique : SFHH/HAS recommandations
 

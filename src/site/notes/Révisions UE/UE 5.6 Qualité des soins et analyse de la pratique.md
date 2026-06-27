@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 5.6 Qualité des soins et analyse de la pratique/","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"noteIcon":"","dg-note-properties":{"nom":"Qualité des soins et analyse de la pratique professionnelle","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.6","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-5-6-qualite-des-soins-et-analyse-de-la-pratique/","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"noteIcon":"","dg-note-properties":{"nom":"Qualité des soins et analyse de la pratique professionnelle","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 5.6","tags":["révision","ue-5-6","ifsi","3eme-annee","qualité","epp","rias"],"revision":"2026-06-22"}}
 ---
 
 
@@ -44,7 +44,7 @@
 
 ---
 
-### L'EPP — Évaluation des Pratiques Professionnelles
+### L'EPP : Évaluation des Pratiques Professionnelles
 
 **Définition** : démarche volontaire d'analyse systématique des pratiques d'un service par rapport aux recommandations, dans le but de les améliorer.
 
@@ -67,7 +67,7 @@
 
 ---
 
-### Les événements indésirables — CREX et RMM
+### Les événements indésirables : CREX et RMM
 
 **Définitions :**
 - **EI** (événement indésirable) : tout écart par rapport au soin attendu, préjudiciable ou non au patient
@@ -128,7 +128,7 @@
 ## QCM de révision
 
 > [!question]- Quelles sont les 6 dimensions de la qualité des soins selon l'OMS ?
-> Efficacité (soins atteignent leur but), sécurité (pas de dommage évitable), accessibilité (disponibles pour tous), centrés patient (respectent ses préférences), efficience (ressources optimisées), équité (sans discrimination). Mémo : **ESCAPE** (Efficacité, Sécurité, Centré, Accessibilité, Performance, Équité — variante possible selon la source).
+> Efficacité (soins atteignent leur but), sécurité (pas de dommage évitable), accessibilité (disponibles pour tous), centrés patient (respectent ses préférences), efficience (ressources optimisées), équité (sans discrimination). Mémo : **ESCAPE** (Efficacité, Sécurité, Centré, Accessibilité, Performance, Équité : variante possible selon la source).
 
 > [!question]- Quelle est la différence entre CREX et RMM ?
 > Le **CREX** analyse tout événement indésirable (grave ou non) dans une logique de retour d'expérience non punitive, pour identifier des causes systémiques et des actions correctives. La **RMM** est réservée aux cas de décès ou de complications graves, et vise les mêmes objectifs mais sur des situations plus lourdes. Les deux sont multidisciplinaires et sans jugement individuel.
@@ -146,7 +146,7 @@
 
 ## Voir aussi
 
-[[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 Mise en oeuvre des thérapeutiques et coordination]] · [[Révisions UE/UE 4.5 Soins Infirmiers et Gestion du Risque\|UE 4.5 Soins Infirmiers et Gestion du Risque]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
+[[Révisions UE/UE 5.5 Mise en oeuvre des thérapeutiques et coordination\|UE 5.5 Mise en oeuvre des thérapeutiques et coordination]] · [[UE 4.5 [[Soins Infirmiers\|UE 4.5 [[Soins Infirmiers]] et Gestion du Risque]] · [[Révisions UE/UE 3.4 Initiation à la démarche de recherche\|UE 3.4 Initiation à la démarche de recherche]] · [[Soins Infirmiers/Prévention infections nosocomiales\|Prévention infections nosocomiales]]
 
 > [!caution] Outil pédagogique · Source : Arrêté du 31 juillet 2009, référentiel IFSI, HAS Certification V2020, RGPD 2016/679, Loi du 5 mars 2007 (EPP)
 

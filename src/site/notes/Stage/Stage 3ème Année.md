@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Stage/Stage 3ème Année/","tags":["stage","3eme-annee","ifsi","competences"],"noteIcon":"","dg-note-properties":{"nom":"Stage 3ème Année IFSI — S5 et S6","tags":["stage","3eme-annee","ifsi","competences"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/stage/stage-3eme-annee/","tags":["stage","3eme-annee","ifsi","competences"],"noteIcon":"","dg-note-properties":{"nom":"Stage 3ème Année IFSI : S5 et S6","tags":["stage","3eme-annee","ifsi","competences"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Ce qui change en 3ème année
-> Tu n'es plus un étudiant qui observe — tu **coordonnes**, **encadres** et **raisonne** au niveau d'une IDE junior. Les évaluateurs attendent autonomie, initiative et réflexivité. Tu gères les situations complexes et tu commences à encadrer les 1ères années.
+> Tu n'es plus un étudiant qui observe : tu **coordonnes**, **encadres** et **raisonne** au niveau d'une IDE junior. Les évaluateurs attendent autonomie, initiative et réflexivité. Tu gères les situations complexes et tu commences à encadrer les 1ères années.
 
 ---
 
-## S5 — Stage de consolidation (médecine ou chirurgie complexe)
+## S5 : Stage de consolidation (médecine ou chirurgie complexe)
 
 ### Objectifs de compétences en S5
 
@@ -16,16 +16,16 @@ En S5, tu dois atteindre le niveau **"acquis"** sur les 10 compétences, et vise
 
 | Compétence | Attendu S5 |
 |-----------|-----------|
-| C1 — Évaluation clinique | Recueil autonome complet, raisonnement diagnostique infirmier, détection précoce des complications |
-| C2 — Soins relationnels | Entretien infirmier structuré, annonce difficile accompagnée, relation famille |
-| C3 — Soins de confort | Protocoles douleur anticipés, prévention escarre niveau expert |
-| C4 — Soins et activités à visée diagnostique et thérapeutique | Gestion des thérapeutiques complexes sans supervision systématique |
-| C5 — Initier et mettre en œuvre des soins éducatifs | ETP structurée, diagnostic éducatif, évaluation de l'acquisition |
-| C6 — Communication et dossier | Transmissions SBAR autonomes, dossier patient complet et à jour |
-| C7 — Analyser la qualité | Participation active aux réunions qualité, signalement EI |
-| C8 — Rechercher et traiter les informations | Références bibliographiques pour le TFE, lien théorie-pratique |
-| C9 — Organiser et coordonner | Gestion d'un secteur de patients, délégation à l'AS, priorisation |
-| C10 — Former et informer | Début d'encadrement des 1ères et 2ème années |
+| C1 : Évaluation clinique | Recueil autonome complet, raisonnement diagnostique infirmier, détection précoce des complications |
+| C2 : Soins relationnels | Entretien infirmier structuré, annonce difficile accompagnée, relation famille |
+| C3 : Soins de confort | Protocoles douleur anticipés, prévention escarre niveau expert |
+| C4 : Soins et activités à visée diagnostique et thérapeutique | Gestion des thérapeutiques complexes sans supervision systématique |
+| C5 : Initier et mettre en œuvre des soins éducatifs | ETP structurée, diagnostic éducatif, évaluation de l'acquisition |
+| C6 : Communication et dossier | Transmissions SBAR autonomes, dossier patient complet et à jour |
+| C7 : Analyser la qualité | Participation active aux réunions qualité, signalement EI |
+| C8 : Rechercher et traiter les informations | Références bibliographiques pour le TFE, lien théorie-pratique |
+| C9 : Organiser et coordonner | Gestion d'un secteur de patients, délégation à l'AS, priorisation |
+| C10 : Former et informer | Début d'encadrement des 1ères et 2ème années |
 
 ---
 
@@ -47,7 +47,7 @@ En S5, tu dois atteindre le niveau **"acquis"** sur les 10 compétences, et vise
 
 ---
 
-## S6 — Stage de professionnalisation (libre choix ou imposé)
+## S6 : Stage de professionnalisation (libre choix ou imposé)
 
 ### Objectifs de compétences en S6
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.2 Soins Relationnels/","tags":["révision","ue-4-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.2 - Soins Relationnels","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.2","tags":["révision","ue-4-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-2-soins-relationnels/","tags":["révision","ue-4-2","ifsi","1ere-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 4.2 - Soins Relationnels","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.2","tags":["révision","ue-4-2","ifsi","1ere-annee"],"revision":"2026-06-22"}}
 ---
 
 

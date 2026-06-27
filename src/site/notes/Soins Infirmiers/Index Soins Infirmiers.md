@@ -3,36 +3,42 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] [[Soins Infirmiers/Soins Infirmiers\|Soins Infirmiers]]
 > Techniques infirmières, surveillances et éducation thérapeutique
 > → [[index\| Accueil]]
 
 ## Surveillance & Monitoring
 
-- [[ECG lecture systématique\|ECG lecture systématique]]
+- [[Soins Infirmiers/ECG Lecture Systematique\|ECG - Lecture systématique]]
 - [[Soins Infirmiers/Surveillance cardio-vasculaire\|Surveillance cardio-vasculaire]]
 - [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]]
 - [[Surveillance post-opératoire\|Surveillance post-opératoire]]
 - [[Soins Infirmiers/Surveillance sédation\|Surveillance sédation]]
-- [[Bilan hydrique\|Bilan hydrique]]
+- [[Soins Infirmiers/Balance hydrique\|Bilan hydrique]]
 
 ## Gestes techniques
 
-- [[Soins Infirmiers/Pose VVP\|Pose VVP]]
-- [[Cathéter veineux central\|Cathéter veineux central]]
+- [[Soins Infirmiers/Pose VVP\|Pose de VVP]]
+- [[Soins Infirmiers/Cathéter central\|Cathéter veineux central]]
 - [[Soins Infirmiers/Sondage vésical\|Sondage vésical]]
-- [[Sonde naso-gastrique\|Sonde naso-gastrique]]
-- [[Aspiration trachéale\|Aspiration trachéale]]
+- [[Soins Infirmiers/Sonde nasogastrique\|Sonde naso-gastrique]]
+- [[Soins Infirmiers/Aspiration trachéobronchique\|Aspiration trachéale]]
 - [[Soins Infirmiers/Défibrillation CEE\|Défibrillation CEE]]
 - [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]]
 - [[Soins Infirmiers/Prélèvements biologiques\|Prélèvements biologiques]]
 - [[Soins Infirmiers/Transfusion sanguine\|Transfusion sanguine]]
-- [[Soins Infirmiers/Administration IV SC\|Administration IV SC]]
+- [[Soins Infirmiers/Administration IV SC\|Administration médicaments IV / IM / SC]]
+- [[Soins Infirmiers/Injection IM\|Injection IM]]
+- [[Soins Infirmiers/Injection SC\|Injection SC]]
 
 ## Soins spécialisés
 
-- [[Nutrition entérale\|Nutrition entérale]]
-- [[Nutrition parentérale\|Nutrition parentérale]]
+- [[Soins Infirmiers/Nutrition enterale\|Nutrition entérale]]
+- [[Soins Infirmiers/Nutrition parenterale\|Nutrition parentérale]]
 - [[Soins Infirmiers/Oxygénothérapie haut débit\|Oxygénothérapie haut débit]]
 - [[Soins Infirmiers/Ventilation mécanique\|Ventilation mécanique]]
 - [[Soins Infirmiers/PICC Line\|PICC Line]]
@@ -40,19 +46,20 @@
 - [[Soins Infirmiers/Soins stomie\|Soins stomie]]
 - [[Soins Infirmiers/Soins trachéotomie\|Soins trachéotomie]]
 - [[Soins Infirmiers/Dialyse & hemodialyse\|Dialyse & hemodialyse]]
+- [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]]
 
 ## ETP & Éducation
 
 - [[Soins Infirmiers/ETP Principes fondamentaux\|ETP Principes fondamentaux]]
 - [[Soins Infirmiers/ETP Asthme\|ETP Asthme]]
-- [[Soins Infirmiers/ETP Diabete\|ETP Diabete]]
+- [[Soins Infirmiers/ETP Diabete\|ETP Diabète]]
 - [[Soins Infirmiers/ETP HTA\|ETP HTA]]
 - [[Soins Infirmiers/ETP Insuffisance cardiaque\|ETP Insuffisance cardiaque]]
 
 ## Soins palliatifs
 
 - [[Soins Infirmiers/Douleur en fin de vie\|Douleur en fin de vie]]
-- [[Soins Infirmiers/Sedation palliative profonde\|Sedation palliative profonde]]
+- [[Soins Infirmiers/Sedation palliative profonde\|Sédation palliative profonde]]
 - [[Soins Infirmiers/Soins confort palliatifs\|Soins confort palliatifs]]
 - [[Soins Infirmiers/Accompagnement famille soins palliatifs\|Accompagnement famille soins palliatifs]]
 
@@ -61,28 +68,21 @@
 - [[Soins Infirmiers/Entretien infirmier psychiatrie\|Entretien infirmier psychiatrie]]
 - [[Soins Infirmiers/Soins sans consentement psychiatrie\|Soins sans consentement psychiatrie]]
 - [[Soins Infirmiers/Crise suicidaire IDE\|Crise suicidaire IDE]]
-- [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]]
+- [[Soins Infirmiers/Chimiotherapie\|Chimiothérapie]]
 
-## Transmissions
+## Transmissions & Urgences
 
-- [[Transmissions DAR\|Transmissions DAR]]
-- [[Soins Infirmiers/Releve SBAR\|Releve SBAR]]
+- [[Soins Infirmiers/Transmissions ciblees DAR\|Transmissions DAR]]
+- [[Soins Infirmiers/Releve SBAR\|Relève SBAR]]
+- [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences IDE]]
+- [[Soins Infirmiers/AES Accident d'Exposition au Sang\|AES - Accident d'Exposition au Sang]]
 
+## Autres soins
 
-| [[Soins Infirmiers/Soins de plaies\|Soins de plaies]] | Évaluation TIMED, choix du pansement, technique |
-| [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] | Braden, décharge, soins cutanés |
-
-| [[AES : Accident d'Exposition au Sang\|AES : Accident d'Exposition au Sang]] | Protocole CAT, soins locaux, déclaration AT |
-
-| [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]] | Techniques sécurisées, aides techniques, prévention TMS |
-| [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences IDE]] | Réflexes des 5 premières minutes par type d'urgence |
-
-| [[Pose de VVP : Voie Veineuse Périphérique\|Pose de VVP : Voie Veineuse Périphérique]] | Geste technique IDE |
-| [[Soins Infirmiers/Prise de constantes vitales\|Prise de constantes vitales]] | Geste technique IDE |
-| [[Administration des médicaments IV : IM : SC\|Administration des médicaments IV : IM : SC]] | Geste technique IDE |
-| [[ECG : Lecture pratique IDE\|ECG : Lecture pratique IDE]] | Geste technique IDE |
-| [[Aspiration trachéale et bronchique\|Aspiration trachéale et bronchique]] | Geste technique IDE |
-| [[Préparation et administration d'une transfusion\|Préparation et administration d'une transfusion]] | Geste technique IDE |
+- [[Soins Infirmiers/Soins de plaies\|Soins de plaies]]
+- [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
+- [[Soins Infirmiers/Prise de constantes vitales\|Prise de constantes vitales]]
+- [[Surveillance post-opératoire\|Surveillance post-opératoire]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

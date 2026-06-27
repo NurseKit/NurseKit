@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Rupture prématurée des membranes/","tags":["pathologie","obstétrique","urgence","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Rupture prématurée des membranes (RPM)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","grossesse"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/rupture-prematuree-des-membranes/","tags":["pathologie","obstétrique","urgence","grossesse"],"noteIcon":"","dg-note-properties":{"nom":"Rupture prématurée des membranes (RPM)","systeme":"Obstétrique","tags":["pathologie","obstétrique","urgence","grossesse"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Rupture des membranes amniotiques avant le début du travail. Avant 37 SA = RPM prématurée. Risque principal : infection (chorioamniotite) et accouchement prématuré. Toute suspicion = hospitalisation immédiate.
@@ -54,7 +58,7 @@
 ## Les 3 choses à retenir
 
 1. **Toute suspicion de RPM = hospitalisation** → ne jamais laisser rentrer à domicile sans examen
-2. **Température toutes les 4h** → fièvre = chorioamniotite à évoquer d'emblée
+2. **[[Médicaments/Normes/Température\|Température]] toutes les 4h** → fièvre = chorioamniotite à évoquer d'emblée
 3. **Pas de TV sans prescription** → risque infectieux majeur en contexte de RPM
 
 ## Voir aussi

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.7 Soins palliatifs & fin de vie/","tags":["révision","ue-4-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Soins palliatifs et fin de vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.7","tags":["révision","ue-4-7","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-7-soins-palliatifs-and-fin-de-vie/","tags":["révision","ue-4-7","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"Soins palliatifs et fin de vie","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.7","tags":["révision","ue-4-7","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -102,8 +102,8 @@
 4. Demande du patient ou situation d'inconscience avec DA ou avis personne de confiance
 5. Décision collégiale (médecin + équipe soignante)
 
-**Médicament** : Midazolam IV/SC en perfusion continue
-- Association souvent : Morphine (douleur/dyspnée) + Midazolam (sédation)
+**Médicament** : [[Médicaments/Sédatifs/Midazolam\|Midazolam]] IV/SC en perfusion continue
+- Association souvent : [[Médicaments/Antalgiques/Morphine\|Morphine]] (douleur/dyspnée) + [[Médicaments/Sédatifs/Midazolam\|Midazolam]] (sédation)
 - Objectif : score de sédation de Ramsay ≥ 5 (profonde)
 
 **Ce n'est pas de l'euthanasie** : L'intention est de soulager, pas de provoquer la mort
@@ -130,7 +130,7 @@
 
 **Soins de confort** :
 - Hygiène douce (toilette au lit), soins de bouche ++ (sécheresse buccale, candidose)
-- Prévention des escarres (matelas alternating, changements de position)
+- [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] (matelas alternating, changements de position)
 - Soins des yeux (larmes artificielles, fermeture palpébrale)
 - Positionnement antalgique
 
@@ -182,7 +182,7 @@
 > - **Loi Claeys-Leonetti 2016** : directives anticipées contraignantes + droit à SPCJD
 > - **Laisser mourir** = légal / **Euthanasie** = illégal en France
 > - **SPCJD** conditions : maladie incurable + pronostic vital court terme + souffrance réfractaire + demande patient ou DA
-> - **Midazolam** = médicament de la sédation palliative
+> - **[[Médicaments/Sédatifs/Midazolam\|Midazolam]]** = médicament de la sédation palliative
 > - **Personne de confiance** : désignée par écrit, son avis PRIME sur la famille
 > - **5 besoins** : physique, psychologique, social, spirituel, existentiel
 > - **PAINAD / Algoplus** = échelles douleur patient inconscient/dément

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Pathologies/Syndrome glissement/","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de glissement","systeme":"Gériatrie","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/pathologies/syndrome-glissement/","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"noteIcon":"","dg-note-properties":{"nom":"Syndrome de glissement","systeme":"Gériatrie","tags":["pathologie","gériatrie","syndrome_glissement","décompensation"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Décompensation globale et progressive du sujet âgé après un événement déclenchant, caractérisée par un refus de toute activité vitale : s'alimenter, boire, parler, se mobiliser. Sans prise en charge rapide et pluridisciplinaire, l'évolution est fatale en quelques semaines.
@@ -29,7 +33,7 @@ Il ne s'agit ni d'une dépression vraie, ni d'une démence, ni d'une pathologie 
 | Début | Repli sur soi, silence, perte d'intérêt, refus de participer aux activités |
 | Évolution | Refus de s'alimenter et de boire, mutisme, regard dans le vide |
 | Phase avancée | Régression psychomotrice (position fœtale, immobilité totale), incontinence, refus des soins |
-| Phase terminale | Dénutrition sévère, déshydratation, complications de décubitus |
+| Phase terminale | [[Pathologies/Dénutrition\|Dénutrition]] sévère, déshydratation, complications de décubitus |
 
 **Caractéristiques sémiologiques :**
 - Refus global et persistant : pas une fluctuation comme dans le delirium

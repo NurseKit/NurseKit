@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 4.6 Soins éducatifs préventifs et formation/","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs, préventifs et formation","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.6","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-4-6-soins-educatifs-preventifs-et-formation/","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"noteIcon":"","dg-note-properties":{"nom":"Soins éducatifs, préventifs et formation","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 4.6","tags":["révision","ue-4-6","ifsi","2eme-annee","3eme-annee","ETP","prévention"],"revision":"2026-06-22"}}
 ---
 
 
@@ -68,7 +68,7 @@
 | Niveau | Moment | Objectif | Exemples pour l'IDE |
 |--------|--------|----------|---------------------|
 | **Prévention primaire** | Avant la maladie | Éviter l'apparition de la maladie | Vaccination, conseils alimentaires, tabacologie, éducation à la santé scolaire |
-| **Prévention secondaire** | Début de la maladie | Dépister tôt pour réduire la gravité | Glycémie à jeun, dépistage cancer du sein, tension artérielle, ECG systématique |
+| **Prévention secondaire** | Début de la maladie | Dépister tôt pour réduire la gravité | [[Médicaments/Normes/Glycémie\|Glycémie]] à jeun, dépistage cancer du sein, tension artérielle, ECG systématique |
 | **Prévention tertiaire** | Maladie déclarée | Limiter les complications et séquelles | ETP diabète (prévention du pied diabétique), réhabilitation cardio, kiné post-AVC |
 
 ---
@@ -79,10 +79,10 @@
 |-----------|-----------------------------------|
 | **Diabète** | Auto-surveillance glycémique, injection insuline, signes hypo/hyper, alimentation |
 | **BPCO** | Technique inhaler, reconnaître exacerbation, programme réhabilitation, tabacologie |
-| **Insuffisance cardiaque** | Pesée quotidienne, surveillance oedèmes, régime sans sel, reconnaître décompensation |
+| **[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]** | Pesée quotidienne, surveillance oedèmes, régime sans sel, reconnaître décompensation |
 | **Épilepsie** | Reconnaître les prodromes, CAT en crise, médicaments ne pas oublier, conduite auto |
 | **HTA** | Auto-mesure tensionnelle, régime hyposodé, observance, signes d'alarme |
-| **Asthme** | Technique peak-flow, action en crise, facteurs déclenchants, plan d'action écrit |
+| **[[Pathologies/Asthme\|Asthme]]** | Technique peak-flow, action en crise, facteurs déclenchants, plan d'action écrit |
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Révisions UE/UE 2.9 Processus Tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/revisions-ue/ue-2-9-processus-tumoraux/","tags":["révision","ue-2-9","ifsi","2eme-annee"],"noteIcon":"","dg-note-properties":{"nom":"UE 2.9 - Processus Tumoraux","classe":["Révision UE"],"type":"Fiche de révision","ue":"UE 2.9","tags":["révision","ue-2-9","ifsi","2eme-annee"],"revision":"2026-06-22"}}
 ---
 
 
@@ -66,7 +66,7 @@
 | Nausées/vomissements | Immédiat | Antiémétiques, hydratation |
 | Alopécie | J14-J21 | Information, casque réfrigérant |
 | Aplasie médullaire | J10-J14 | Surveillance NFS, isolement protecteur |
-| Mucite | J7-J14 | Soins de bouche pluriquotidiens |
+| [[Pathologies/Mucite\|Mucite]] | J7-J14 | Soins de bouche pluriquotidiens |
 | Fatigue | Tout au long | Organisation, repos adapté |
 
 **Immunothérapie** : réactive le système immunitaire contre les cellules tumorales (anti-PD1, anti-CTLA4)

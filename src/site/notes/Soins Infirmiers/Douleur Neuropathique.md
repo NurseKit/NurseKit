@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Douleur Neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"noteIcon":"","dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/douleur-neuropathique/","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"noteIcon":"","dg-note-properties":{"nom":"Douleur neuropathique","classe":["Soin infirmier"],"type":"Physiopathologie et prise en charge","systeme":"Douleur","tags":["douleur","neuropathique","DN4","allodynie","prégabaline","duloxétine","évaluation"],"revision":"2026-06-22"}}
 ---
+
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
+> [!info]- Fiches liées
+> [[Soins Infirmiers/Echelles Douleur Completes\|Échelles douleur]] · [[Soins Infirmiers/Analgesie Multimodale PCA\|Analgésie multimodale]] · [[Médicaments/Antalgiques/Comparatif Antalgiques\|Antalgiques]] · [[Médicaments/Antidépresseurs/Amitriptyline\|Amitriptyline]]
 
 
 > [!abstract] En 2 mots
@@ -51,7 +59,7 @@
 ### Neuropathies centrales
 
 - **AVC** : douleur centrale post-AVC (atteinte des voies spinothalamiques)
-- **Sclérose en plaques** : démyélinisation des voies sensitives centrales
+- **[[Pathologies/Sclérose en plaques\|Sclérose en plaques]]** : démyélinisation des voies sensitives centrales
 - **Lésion médullaire** : paraparésie, tétraplégie - douleurs sous-lésionnelles
 
 ### Cas particulier
@@ -101,12 +109,12 @@ Le **DN4** (Douleur Neuropathique en 4 questions) est l'outil de dépistage vali
 | **Duloxétine** | IRSNA | 60 mg/j | Particulièrement efficace dans la neuropathie diabétique |
 | **Prégabaline** | Antiépileptique | 150-600 mg/j en 2-3 prises | Délai 2-4 semaines, titration progressive |
 | **Gabapentine** | Antiépileptique | 900-3600 mg/j en 3 prises | Moins bien absorbée que la prégabaline, titration lente |
-| **Amitriptyline** | Antidépresseur tricyclique | 10-75 mg/j (faible dose) | CI : troubles cardiaques, glaucome, sujet âgé (chutes) |
+| **[[Médicaments/Antidépresseurs/Amitriptyline\|Amitriptyline]]** | Antidépresseur tricyclique | 10-75 mg/j (faible dose) | CI : troubles cardiaques, glaucome, sujet âgé (chutes) |
 
 ### 2ème ligne
 
-- **Tramadol** : opioïde faible, efficacité partielle sur composante neuropathique
-- **Morphine / oxycodone** : efficaces mais moins que sur douleur nociceptive, réservés aux douleurs sévères réfractaires
+- **[[Médicaments/Antalgiques/Tramadol\|Tramadol]]** : opioïde faible, efficacité partielle sur composante neuropathique
+- **[[Médicaments/Antalgiques/Morphine\|Morphine]] / oxycodone** : efficaces mais moins que sur douleur nociceptive, réservés aux douleurs sévères réfractaires
 
 ### Traitements topiques (douleurs localisées)
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Soins Infirmiers/Calcul Besoins Nutritionnels/","tags":["nutrition","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Calcul des besoins nutritionnels","classe":["Soin infirmier"],"type":"Calcul clinique","systeme":"Nutrition","tags":["nutrition","réanimation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/soins-infirmiers/calcul-besoins-nutritionnels/","tags":["nutrition","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"Calcul des besoins nutritionnels","classe":["Soin infirmier"],"type":"Calcul clinique","systeme":"Nutrition","tags":["nutrition","réanimation"],"revision":"2026-06-22"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
 
 > [!abstract] En 2 mots
 > Le calcul des besoins nutritionnels permet d'adapter les apports caloriques, protéiques et hydriques à chaque patient selon son état clinique. Les besoins varient selon le contexte : patient stable, post-opératoire, réanimation, dénutrition sévère. L'IDE doit savoir les estimer, comprendre les prescriptions et surveiller la tolérance des apports.
@@ -36,8 +40,8 @@
 | Patient sédentaire hospitalisé | 25-30 kcal/kg/j | Base de référence |
 | Réanimation : phase aiguë (J1-J3) | 20-25 kcal/kg/j | Ne pas suralimenter la phase inflammatoire |
 | Réanimation : phase de récupération | 25-30 kcal/kg/j | Augmenter progressivement |
-| Dénutrition modérée | 28-32 kcal/kg/j | Augmentation prudente |
-| Dénutrition sévère | 30-35 kcal/kg/j | Progressif : risque de renutrition |
+| [[Pathologies/Dénutrition\|Dénutrition]] modérée | 28-32 kcal/kg/j | Augmentation prudente |
+| [[Pathologies/Dénutrition\|Dénutrition]] sévère | 30-35 kcal/kg/j | Progressif : risque de renutrition |
 | Post-opératoire simple | 25-30 kcal/kg/j | Standard |
 | Fièvre | +10-15% par degré > 37°C | Exemple : 39°C = +20-30% |
 | Brûlures étendues | 35-60 kcal/kg/j | Selon surface brûlée |
@@ -61,7 +65,7 @@
 | Insuffisance rénale sans dialyse | 0,6-0,8 g/kg/j | Éviter la surcharge azotée |
 | Dialyse / hémodialyse | 1,2-1,5 g/kg/j | La dialyse compense les pertes |
 | Personne âgée (> 65 ans) | 1,2-1,5 g/kg/j | Sarcopénie : besoins augmentés |
-| Plaies chroniques / escarres | 1,5-2 g/kg/j | Protéines nécessaires à la cicatrisation |
+| [[Pathologies/Plaies chroniques\|Plaies chroniques]] / escarres | 1,5-2 g/kg/j | Protéines nécessaires à la cicatrisation |
 
 ## Besoins hydriques
 
@@ -75,7 +79,7 @@
 |----------|-----------|
 | Fièvre | + 200-300 mL par degré > 37°C |
 | Pertes digestives (diarrhée, fistule, vomissements) | Compenser mL pour mL |
-| Insuffisance cardiaque | Restriction : souvent 1-1,5 L/j |
+| [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] | Restriction : souvent 1-1,5 L/j |
 | Insuffisance rénale | Restriction selon diurèse résiduelle |
 | Déshydratation | Augmenter + corriger le déficit |
 | Brûlures aiguës (formule de Parkland) | Formule spécifique : 4 mL/kg/% surface brûlée |
@@ -104,7 +108,7 @@
 
 - Début : 55 × 15 kcal = 825 kcal/j (50% des besoins - prévention syndrome de renutrition)
 - Augmentation progressive sur 5-7 jours jusqu'à 55 × 32 = 1760 kcal/j
-- Phosphore, K+ et Mg2+ à surveiller quotidiennement
+- [[Médicaments/Normes/Phosphore\|Phosphore]], K+ et Mg2+ à surveiller quotidiennement
 
 ## Tableau des poches industrielles de référence
 
