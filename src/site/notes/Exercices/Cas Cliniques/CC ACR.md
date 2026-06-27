@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC ACR/","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"CC ACR","titre":"CC : Arrêt Cardio-Respiratoire (RCP)","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-acr/","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"noteIcon":"","dg-note-properties":{"nom":"CC ACR","titre":"CC : Arrêt Cardio-Respiratoire (RCP)","tags":["cas clinique","ACR","RCP","urgence","réanimation"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Cas Clinique : ACR en Service
 > **M. Robert, 62 ans** · Post-IDM J2, en service de cardiologie sous monitoring
 > Alarme du scope à 14h45 : FV détectée
-> → Voir aussi : [[Pathologies/ACR & RCP\|ACR]] · [[Soins Infirmiers/Défibrillation CEE\|Défibrillation/CEE]] · [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]]
+> → Voir aussi : [[Pathologies/ACR & RCP\|ACR]] · [[Soins Infirmiers/Défibrillation CEE\|Défibrillation/CEE]] · [[Adrénaline\|Adrénaline]]
 
 > [!note] Situation initiale (14h45)
 > Alarme scope : FV (fibrillation ventriculaire)
@@ -36,14 +36,14 @@
 > [!warning] Soins post-RCP
 > Objectifs : SpO2 94-98% (éviter hyperoxie), PA sys > 90 mmHg, glycémie 6-10 mmol/L
 > Hypothermie thérapeutique si coma persistant (32-36°C pendant 24h)
-> Coronarographie en urgence si cause coronarienne probable (IDM sur ST)
+> [[Soins Infirmiers/Coronarographie\|Coronarographie]] en urgence si cause coronarienne probable (IDM sur ST)
 
 > [!example] Transmission DAR - 15h00 - Cible : ACR récupéré
 > **Données** : M. Robert, 62 ans, J2 post-IDM. ACR sur FV détecté sur scope à 14h45. Inconscient, apnée, pas de pouls.
 >
 > **Actions** : RCP débutée immédiatement. 2 chocs électriques externes 200J. Adrénaline 1 mg IV x1. Durée RCP totale : 5 minutes.
 >
-> **Résultat** : Retour à circulation spontanée (RACS) à 14h50. GCS 6, intubé en USIC. PA 95/60 sous Noradrénaline 0,1 µg/kg/min. Coronarographie prévue dans l'heure. Famille informée.
+> **Résultat** : Retour à circulation spontanée (RACS) à 14h50. GCS 6, intubé en USIC. PA 95/60 sous Noradrénaline 0,1 µg/kg/min. [[Soins Infirmiers/Coronarographie\|Coronarographie]] prévue dans l'heure. Famille informée.
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

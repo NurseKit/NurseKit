@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Métronidazole/","tags":["médicament","antibiotique","anaérobie","flagyl","métronidazole"],"noteIcon":"","dg-note-properties":{"nom":"Métronidazole","titre":"Métronidazole (Flagyl)","tags":["médicament","antibiotique","anaérobie","flagyl","métronidazole"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antibiotiques/metronidazole/","tags":["médicament","antibiotique","anaérobie","flagyl","métronidazole"],"noteIcon":"","dg-note-properties":{"nom":"Métronidazole","titre":"Métronidazole (Flagyl)","tags":["médicament","antibiotique","anaérobie","flagyl","métronidazole"],"revision":"2026-06-22"}}
 ---
 
 

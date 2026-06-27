@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Cas Cliniques/","tags":["index","entrainement","cas-cliniques","transmissions"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques & Transmissions","tags":["index","entrainement","cas-cliniques","transmissions"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cas-cliniques/","tags":["index","entrainement","cas-cliniques","transmissions"],"noteIcon":"","dg-note-properties":{"nom":"Cas Cliniques & Transmissions","tags":["index","entrainement","cas-cliniques","transmissions"],"revision":"2026-06-22"}}
 ---
 
 
@@ -18,13 +18,13 @@
 | Cas | Thème |
 |-----|-------|
 | [[Exercices/Cas Cliniques/CC ACR\|CC ACR]] | Arrêt cardio-respiratoire adulte |
-| [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] | AVC ischémique |
+| [[Exercices/Cas Cliniques/CC AVC\|CC AVC]] | [[Pathologies/AVC ischémique\|AVC ischémique]] |
 | [[Exercices/Cas Cliniques/CC BPCO\|CC BPCO]] | Exacerbation BPCO |
-| [[Exercices/Cas Cliniques/CC Choc anaphylactique\|CC Choc anaphylactique]] | Choc anaphylactique |
+| [[Exercices/Cas Cliniques/CC Choc anaphylactique\|CC Choc anaphylactique]] | [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] |
 | [[Exercices/Cas Cliniques/CC Diabète et Sepsis\|CC Diabète et Sepsis]] | Diabète et sepsis |
-| [[Exercices/Cas Cliniques/CC FA\|CC FA]] | Fibrillation atriale |
+| [[Exercices/Cas Cliniques/CC FA\|CC FA]] | [[Pathologies/Fibrillation atriale\|Fibrillation atriale]] |
 | [[Exercices/Cas Cliniques/CC IDM\|CC IDM]] | Infarctus du myocarde |
-| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]] | Méningite bactérienne |
+| [[Exercices/Cas Cliniques/CC Méningite\|CC Méningite]] | [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] |
 | [[Exercices/Cas Cliniques/CC OAP\|CC OAP]] | Œdème aigu pulmonaire |
 | [[Exercices/Cas Cliniques/CC Post-op\|CC Post-op]] | Post-opératoire |
 
@@ -40,3 +40,11 @@
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>
 </div>
+
+- [[Exercices/Cas Cliniques/CC Pneumothorax\|CC Pneumothorax]]
+- [[Exercices/Cas Cliniques/CC Fracture col fémur\|CC Fracture col fémur]]
+- [[Exercices/Cas Cliniques/CC Insuffisance rénale chronique\|CC Insuffisance rénale chronique]]
+- [[Exercices/Cas Cliniques/CC Accouchement et post-partum\|CC Accouchement et post-partum]]
+- [[Exercices/Cas Cliniques/CC Schizophrénie\|CC Schizophrénie]]
+- [[Exercices/Cas Cliniques/CC MICI Crohn\|CC MICI Crohn]]
+- [[Exercices/Cas Cliniques/CC Thyroïde\|CC Thyroïde]]

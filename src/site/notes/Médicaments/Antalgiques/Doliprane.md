@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antalgiques/Doliprane/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Doliprane","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antalgiques/doliprane/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Doliprane","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Nom de marque
+> **Doliprane** est le nom commercial de la **[[Paracétamol\|Paracétamol (antalgique, antipyrétique)]]**. Consulter la fiche DCI pour les indications, posologie et surveillance IDE.
 
 
 > [!info] Nom commercial

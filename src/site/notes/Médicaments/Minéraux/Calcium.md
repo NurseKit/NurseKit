@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Minéraux/Calcium/","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"noteIcon":"","dg-note-properties":{"nom":"Calcium","classe":["Minéral","Électrolyte","Substitution ionique"],"indications":["Hypocalcémie (post-thyroïdectomie, hypoparathyroïdie)","Ostéoporose (+ vitamine D)","Antidote hyperkaliémie (stabilise membrane cardiaque)","Antidote hypermagnésémie"],"posologie":"PO : 500 mg à 1 g/j · IV : gluconate de calcium 10% (1 g/10 mL) IV lent sur 10-20 min","contre_indications":["Hypercalcémie","Lithiases rénales calciques","Digitaliques (risque toxicité si IV rapide)"],"effets_secondaires":["Constipation (PO)","Flush, bradycardie (IV trop rapide)"],"service":["Réanimation","Endocrinologie","Médecine générale"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/mineraux/calcium/","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"noteIcon":"","dg-note-properties":{"nom":"Calcium","classe":["Minéral","Électrolyte","Substitution ionique"],"indications":["Hypocalcémie (post-thyroïdectomie, hypoparathyroïdie)","Ostéoporose (+ vitamine D)","Antidote hyperkaliémie (stabilise membrane cardiaque)","Antidote hypermagnésémie"],"posologie":"PO : 500 mg à 1 g/j · IV : gluconate de calcium 10% (1 g/10 mL) IV lent sur 10-20 min","contre_indications":["Hypercalcémie","Lithiases rénales calciques","Digitaliques (risque toxicité si IV rapide)"],"effets_secondaires":["Constipation (PO)","Flush, bradycardie (IV trop rapide)"],"service":["Réanimation","Endocrinologie","Médecine générale"],"niveau_preuve":"A","tags":["médicament","minéral","électrolyte","calcium","hypocalcémie","gluconate_calcium"],"revision":"2026-06-22"}}
 ---
 
 
@@ -47,7 +47,7 @@ Le calcium est essentiel à la contraction musculaire (dont le cœur), la coagul
 
 ## Normes à surveiller
 
-[[Médicaments/Minéraux/Calcium\|Calcémie (norme 2,20-2,65)]]
+[[NurseKit/NurseKit Lite/Médicaments/Minéraux/Calcium\|Calcémie (norme 2,20-2,65)]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

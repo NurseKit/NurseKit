@@ -1,60 +1,62 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antiagrégants/Aspirine antiagregant/","tags":["médicament","antiagrégant","AINS","cardiovasculaire","neurologie"],"noteIcon":"","dg-note-properties":{"nom":"Aspirine (antiagrégant)","classe":["Antiagrégant plaquettaire","AINS"],"indications":["Prévention secondaire IDM / AVC ischémique / AOMI","Syndrome coronarien aigu","Prévention primaire (indications restreintes)"],"posologie":"75-100 mg/j PO (antiagrégant) ; dose de charge 250-500 mg IV en urgence SCA","contre_indications":["Allergie salicylés","Ulcère gastro-duodénal actif","Insuffisance rénale sévère","3ème trimestre grossesse","Hémophilie"],"effets_secondaires":["Hémorragies gastro-intestinales","Ulcère gastroduodénal","Syndrome de Reye (enfant < 12 ans → CI)","Bronchospasme chez asthmatiques sensibles","Tinnitus en cas de surdosage"],"service":["Cardiologie","Neurologie","Médecine générale","Urgences"],"mécanisme":"Inhibition irréversible de la COX-1 plaquettaire par acétylation → blocage de la synthèse de thromboxane A2 (TXA2), puissant inducteur de l'agrégation et vasoconstricteur. Effet dure toute la vie de la plaquette (7-10 jours).","interactions":["AINS → potentialise le risque hémorragique et ulcérogène","Anticoagulants → risque hémorragique majeur","Méthotrexate → toxicité augmentée","Sulfamides hypoglycémiants → potentialisation effet hypoglycémiant"],"niveau_preuve":"A","tags":["médicament","antiagrégant","AINS","cardiovasculaire","neurologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antiagregants/aspirine-antiagregant/","tags":["médicament","antiagrégant","cardiovasculaire","hospitalier"],"noteIcon":"","dg-note-properties":{"nom":"Aspirine antiagrégant","classe":["Antiagrégant plaquettaire",{"AINS (à faible dose":"effet antiagrégant prédominant)"}],"indications":["Prévention secondaire IDM, AVC ischémique, AOMI","Syndrome coronarien aigu (en association avec un P2Y12)","Angioplastie coronaire avec pose de stent (DAPT)","Fibrillation atriale (si anticoagulant CI)"],"posologie":"75-100 mg/j PO (dose antiagrégante). Dose de charge en aigu : 150-300 mg à croquer.","contre_indications":["Hémorragie active","Ulcère gastroduodénal évolutif","Allergie à l'aspirine ou aux AINS","Insuffisance rénale sévère","3e trimestre de grossesse"],"effets_secondaires":["Hémorragies (digestives ++, intracrâniennes)","Ulcère gastroduodénal","Bronchospasme (aspirine-sensibles)","Épistaxis, hématomes"],"service":["Cardiologie","Neurologie","Urgences","Médecine interne"],"mécanisme":"Inhibition irréversible de la COX-1 plaquettaire → blocage de la synthèse de thromboxane A2 (TXA2), puissant activateur de l'agrégation plaquettaire. Effet dure toute la vie de la plaquette (7-10 jours). À faible dose (75-100 mg), l'effet antiagrégant est sélectif : la COX-1 vasculaire est épargnée → pas d'effet anti-inflammatoire significatif à cette dose.","interactions":[{"AINS":"association déconseillée (risque ulcère + saignement cumulé)"},{"Anticoagulants (AVK, HBPM, AOD)":"risque hémorragique très élevé → surveillance rapprochée"},{"Clopidogrel / Ticagrelor (DAPT)":"association voulue en cardiologie mais surveillance hémorragique ++"},"Ibuprofène en prise régulière → antagonisme de l'effet antiagrégant de l'aspirine"],"niveau_preuve":"A","tags":["médicament","antiagrégant","cardiovasculaire","hospitalier"],"revision":"2026-06-24"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Antiagrégant de référence en prévention cardiovasculaire : à faible dose (75-100 mg), elle protège le cœur et le cerveau en empêchant les plaquettes de s'agréger. Règle d'or en cardiologie : **ne jamais arrêter seul** si prescrite en prévention secondaire.
+> La plus vieille molécule de cardiologie et la plus utilisée en prévention secondaire. À 75-100 mg/j, elle ne fait pas partie des antidouleurs - elle empêche les plaquettes de coaguler. Le message clé : **ne jamais l'arrêter seul après un IDM ou un stent**. Et en aigu (SCA), on la donne à croquer pour une absorption plus rapide.
 
 ## À quoi ça sert ?
 
-- Prévention secondaire des événements cardiovasculaires (IDM, AVC ischémique, AOMI)
-- Syndrome coronarien aigu (dose de charge IV ou PO)
-- Association avec clopidogrel ou ticagrelor après pose de stent (DAPT, double antiagrégation)
+À **faible dose** (75-100 mg/j), l'aspirine est un antiagrégant plaquettaire, pas un antidouleur. Elle est prescrite pour :
+- **Prévention secondaire** après IDM, AVC ischémique, pose de stent → à vie en général
+- **Syndrome coronarien aigu** : première dose 150-300 mg à croquer dès les urgences (effet rapide)
+- **Double antiagrégation (DAPT)** = aspirine + clopidogrel/ticagrelor après stent coronaire → durée définie par le cardiologue (6 mois à 1 an minimum)
+
+> À ne pas confondre avec l'aspirine antidouleur (500 mg-1 g) qui agit différemment. Si un patient vous dit "je prends de l'aspirine", préciser toujours la dose pour savoir de quoi on parle.
 
 ## Comment ça marche ? (simplifié)
 
-À faible dose (75-160 mg), l'aspirine bloque définitivement une enzyme des plaquettes (COX-1) qui fabrique le TXA2 → une substance qui fait coller les plaquettes entre elles. Comme les plaquettes n'ont pas de noyau, elles ne peuvent pas refabriquer cet enzyme : l'effet dure donc toute leur vie (7 à 10 jours). Résultat : les plaquettes s'agrègent beaucoup moins, les caillots se forment plus difficilement.
-> L'aspirine coupe définitivement le câble qui envoie le signal "collez-vous ensemble" aux plaquettes → jusqu'à ce que de nouvelles plaquettes naissent (7-10 jours). C'est pourquoi on l'arrête 5 à 7 jours avant une chirurgie.
+L'aspirine **bloque définitivement la COX-1** des plaquettes → plus de production de thromboxane A2 → les plaquettes ne reçoivent plus le signal "rassemblez-vous pour former un caillot". Comme les plaquettes n'ont pas de noyau, elles ne peuvent pas refabriquer la COX-1 → l'effet dure toute leur vie (7-10 jours).
+
+C'est pour ça qu'une seule prise par jour suffit - et que l'aspirine ne s'arrête pas comme un antibiotique : elle s'accumule mécaniquement.
 
 ## Ce qu'il ne faut PAS faire
 
+> [!danger] Ne jamais arrêter seul après un stent
+> Arrêter l'aspirine (ou le clopidogrel) seul après pose de stent coronaire = risque de **thrombose aiguë de stent** → IDM massif, mortalité ~50%. Toute décision d'arrêt passe par le cardiologue, même pour une chirurgie.
+
 > [!danger] CI absolues
-> - Allergie aux salicylés (triade de Samter : asthme + polypose nasale + aspirine)
-> - Ulcère gastroduodénal actif
-> - 3ème trimestre de grossesse (fermeture du canal artériel)
-> - Hémophilie ou troubles sévères de la coagulation
-> - Enfant < 12 ans (syndrome de Reye)
+> - Ulcère gastroduodénal évolutif
+> - Hémorragie active
+> - Allergie documentée (urticaire, bronchospasme, anaphylaxie)
+> - 3e trimestre de grossesse (fermeture prématurée du canal artériel)
 
-> [!warning] Interactions à connaître par cœur
-> - Anticoagulants (AVK, AOD) : risque hémorragique majeur → association à surveiller de très près
-> - AINS (ibuprofène) : antagonisme + risque hémorragique → si indispensable, prendre l'aspirine 2h avant
-> - Méthotrexate : augmentation de la toxicité
-
-> [!caution] À surveiller activement
-> - Signes hémorragiques digestifs : douleur épigastrique, selles noires (méléna), vomissements de sang → urgence
-> - NFS si traitement prolongé
+> [!warning] Interactions à surveiller
+> - **AINS réguliers** (ibuprofène, kétoprofène) : antagonisent l'effet antiagrégant de l'aspirine → informer le patient de ne pas prendre d'ibuprofène en automédication
+> - **Anticoagulants + aspirine** : association à risque hémorragique très élevé → justifiée dans certains cas (FA + stent), mais surveillance rapprochée indispensable
 
 ## Ce que je fais en tant qu'IDE
 
-- [ ] Éduquer le patient : **NE JAMAIS arrêter seul** → le risque de thrombose en prévention secondaire est réel et grave
-- [ ] Surveiller les signes hémorragiques digestifs (méléna, épigastralgie) à chaque passage
-- [ ] Signaler la prise à tout soignant → chirurgien, anesthésiste, dentiste
-- [ ] Vérifier si un IPP est prescrit en protection gastrique (à préférer si risque digestif)
-- [ ] Rappeler : **75-160 mg/j uniquement** en antiagrégant → attention à ne pas confondre avec la dose antalgique (500 mg : 1 g)
+- [ ] Administrer **à croquer** en aigu (SCA) → absorption plus rapide que per os avalé
+- [ ] En chronique : donner **au cours d'un repas** ou avec un verre d'eau conséquent → protection gastrique
+- [ ] Associer un IPP si prescrit (oméprazole, pantoprazole) → surtout en DAPT ou chez sujet âgé
+- [ ] **Éduquer le patient** : ne jamais arrêter seul, signaler la prise avant tout geste invasif ou chirurgie
+- [ ] Surveiller les signes hémorragiques à chaque passage : epistaxis, méléna, hématomes faciles, gencives qui saignent
+- [ ] Avant chirurgie programmée : **arrêt 5-7 jours minimum** → décision médicale uniquement
+- [ ] Vérifier l'absence d'automédication par AINS (ibuprofène surtout) → expliquer pourquoi c'est problématique
 
 ## Les 3 choses à retenir
 
-1. **Effet irréversible sur les plaquettes** → 7 à 10 jours, arrêt 5-7j avant chirurgie si nécessaire
-2. **Ne jamais arrêter sans avis médical** en prévention secondaire → risque de thrombose/IDM/AVC
-3. **Dose antiagrégante = 75-160 mg/j** → très différente de la dose antalgique (500 mg : 1g)
+1. **75-100 mg/j = antiagrégant, pas antidouleur** → dose et intention complètement différentes de l'aspirine à 500 mg
+2. **Jamais d'arrêt brutal après stent** → thrombose aiguë = urgence vitale, toujours avis cardio
+3. **Ibuprofène en automédication annule l'effet** → à signaler systématiquement en éducation patient
 
 ## Voir aussi
 
-- [[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel (PLAVIX®) → double antiagrégation DAPT]]
-- [[Médicaments/Antiagrégants/Ticagrelor\|Ticagrelor (BRILIQUE®) → DAPT SCA]]
+[[Médicaments/Antiagrégants/Clopidogrel\|Clopidogrel (PLAVIX® - P2Y12)]] · [[Médicaments/Antiagrégants/Ticagrelor\|Ticagrelor (BRILIQUE®)]] · [[Médicaments/AINS/Aspirine\|Aspirine (AINS, antidouleur)]] · [[Médicaments/Anticoagulants/Heparine\|Héparine]]
 
-> [!caution] Outil pédagogique
+> [!caution] Outil pédagogique : HAS recommandations, ANSM, Vidal
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

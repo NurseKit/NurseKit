@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Clamoxyl/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Clamoxyl","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antibiotiques/clamoxyl/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Clamoxyl","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Nom de marque
+> **Clamoxyl** est le nom commercial de la **[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline (Pénicilline)]]**. Consulter la fiche DCI pour les indications, posologie et surveillance IDE.
 
 
 > [!info] Nom commercial

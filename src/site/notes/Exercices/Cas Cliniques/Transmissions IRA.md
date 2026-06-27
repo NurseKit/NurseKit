@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/Transmissions IRA/","tags":["transmissions","DAR","insuffisance rénale aiguë"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions IRA","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","insuffisance rénale aiguë"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/transmissions-ira/","tags":["transmissions","DAR","insuffisance rénale aiguë"],"noteIcon":"","dg-note-properties":{"nom":"Transmissions IRA","classe":["Cas clinique"],"type":"Transmissions ciblées","tags":["transmissions","DAR","insuffisance rénale aiguë"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] En 2 mots
-> Mme Sophie, 68 ans : IRA sur néphrotoxicité aux AINS (ibuprofène) et déshydratation. Créatinine 320 µmol/L, DFG 15 mL/min, K+ 5,9 mEq/L, oligurie/anurie. Quatre cibles : diurèse, hyperkaliémie, éducation médicamenteuse, surveillance du retour à la normale.
+> Mme Sophie, 68 ans : IRA sur néphrotoxicité aux AINS (ibuprofène) et déshydratation. [[Médicaments/Normes/Créatinine\|Créatinine]] 320 µmol/L, DFG 15 mL/min, K+ 5,9 mEq/L, oligurie/anurie. Quatre cibles : diurèse, hyperkaliémie, éducation médicamenteuse, surveillance du retour à la normale.
 
 ## Présentation du patient
 
@@ -13,7 +13,7 @@
 **Motif :** IRA sur néphrotoxicité (ibuprofène 400 mg x3/j pendant 10 jours) + gastro-entérite avec déshydratation
 
 **Biologie d'entrée :**
-- Créatinine : 320 µmol/L (baseline : 85 µmol/L)
+- [[Médicaments/Normes/Créatinine\|Créatinine]] : 320 µmol/L (baseline : 85 µmol/L)
 - DFG estimé : 15 mL/min/1,73m²
 - K+ : 5,9 mEq/L / Na+ : 136 mEq/L / Urée : 28 mmol/L
 - Diurèse : < 200 mL/24h, anurie depuis ce matin
@@ -26,7 +26,7 @@
 
 **Actions :** Diurèse horaire tracée sur feuille de surveillance. Restriction hydrique 500 mL/j prescrite. Furosémide 40 mg IV sur prescription (test de réponse diurétique). Pesée quotidienne instituée. Bilan entrées/sorties toutes les 6h.
 
-**Résultats :** Diurèse 60 mL à H+2 après Lasilix. Légère réponse. Créatinine de contrôle prévue à H+12. Surveillance maintenue.
+**Résultats :** Diurèse 60 mL à H+2 après Lasilix. Légère réponse. [[Médicaments/Normes/Créatinine\|Créatinine]] de contrôle prévue à H+12. Surveillance maintenue.
 
 ### Cible 2 : Hyperkaliémie (K+ 5,9 mEq/L)
 

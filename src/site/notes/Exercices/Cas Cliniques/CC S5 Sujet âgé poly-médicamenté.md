@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC S5 Sujet âgé poly-médicamenté/","tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique S5 : Sujet âgé poly-médicamenté — Chute et décompensation","type":"Cas clinique","niveau":"3ème année","themes":["Gériatrie","Polypharmacie","Chute","Insuffisance cardiaque","Coordination"],"tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-s5-sujet-age-poly-medicamente/","tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique S5 : Sujet âgé poly-médicamenté : Chute et décompensation","type":"Cas clinique","niveau":"3ème année","themes":["Gériatrie","Polypharmacie","Chute","Insuffisance cardiaque","Coordination"],"tags":["cas-clinique","geriatrie","polypharmacie","chute","3eme-annee","s5"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Cas clinique S5 : Sujet âgé poly-médicamenté
+> Mme Fontaine 84 ans : PTH gauche J1 + ICFEp + délirium + polypharmacie. 4 problèmes prioritaires, CAM délirium, coordination de sortie.
 
 
 > [!info]- Navigation
@@ -8,24 +12,24 @@
 
 > [!note] Présentation de la patiente
 > **Mme Fontaine, 84 ans**, veuve, vit seule avec aide à domicile 2h/j. Admise aux urgences puis transférée en gériatrie pour **chute à domicile avec fracture du col fémoral gauche** opérée hier (prothèse totale de hanche gauche).
-> **ATCD :** Insuffisance cardiaque à FEVG préservée (ICFEp), fibrillation auriculaire chronique anticoagulée, HTA, ostéoporose, démence légère (MMS 22/30).
-> **Traitement habituel :** Apixaban 5 mg × 2/j (suspendu 48h avant chirurgie, repris J1 post-op), Bisoprolol 2,5 mg, Ramipril 5 mg, Furosémide 40 mg, Spironolactone 25 mg, Calcium + Vitamine D, Bisphosphonate mensuel.
+> **ATCD :** [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] à FEVG préservée (ICFEp), fibrillation auriculaire chronique anticoagulée, HTA, ostéoporose, démence légère (MMS 22/30).
+> **Traitement habituel :** [[Médicaments/Anticoagulants/Apixaban\|Apixaban]] 5 mg × 2/j (suspendu 48h avant chirurgie, repris J1 post-op), [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] 2,5 mg, [[Médicaments/IEC/Ramipril\|Ramipril]] 5 mg, Furosémide 40 mg, [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] 25 mg, [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|NurseKit/NurseKit Lite/Médicaments/Normes/Calcium]] + [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D]], Bisphosphonate mensuel.
 > **Situation actuelle (J1 post-opératoire) :**
 > - T° 38,1 °C
 > - TA 105/62 mmHg (habituelle : 135/80)
 > - FC 88 bpm irrégulier (FA connue)
 > - SpO2 93 % AA → O2 2 L/min → 96 %
-> - Poids ce matin : 67 kg (poids habituel 63 kg — **prise de 4 kg**)
+> - Poids ce matin : 67 kg (poids habituel 63 kg : **prise de 4 kg**)
 > - Diurèse depuis opération (16h) : 350 mL
 > - Confusion modérée ce matin (ne sait plus où elle est)
 > - EVA 5/10 à la mobilisation
-> - Bilan : Hb 9,2 g/dL, Créatinine 124 µmol/L, Kaliémie 3,4 mmol/L, BNP 485 pg/mL, CRP 68 mg/L
+> - Bilan : Hb 9,2 g/dL, [[Médicaments/Normes/Créatinine\|Créatinine]] 124 µmol/L, [[Médicaments/Normes/Kaliémie\|Kaliémie]] 3,4 mmol/L, BNP 485 pg/mL, CRP 68 mg/L
 
 ---
 
 ## Questions cliniques
 
-### Question 1 — Analyse de la situation globale
+### Question 1 : Analyse de la situation globale
 
 > [!question]- Identifiez les 4 problèmes cliniques prioritaires de Mme Fontaine à J1 post-opératoire.
 > **1. Décompensation cardiaque naissante (surcharge hydrique) :**
@@ -42,36 +46,36 @@
 > Post PTH = douleur mécanique à la mobilisation → ralentit la rééducation (kiné J1 programmée)
 > → Action : anti-douleur 30 min avant kiné, réévaluation EVA toutes les 4h
 >
-> **4. Anémie post-chirurgicale + hypokaliémie :**
+> **4. [[Pathologies/Anémie\|Anémie]] post-chirurgicale + hypokaliémie :**
 > Hb 9,2 g/dL → tolérable si bien compensé mais aggrave la fatigue et le risque de décompensation
 > K⁺ 3,4 mmol/L (hypokaliémie) → aggravé par furosémide → risque d'arythmie (FA déjà présente) + troubles musculaires
 
 ---
 
-### Question 2 — Gestion de la polypharmacie
+### Question 2 : Gestion de la polypharmacie
 
 > [!question]- Mme Fontaine prend 6 médicaments habituels. Lesquels posent problème dans le contexte actuel et pourquoi ?
-> **Apixaban (anticoagulant) :**
+> **[[Médicaments/Anticoagulants/Apixaban\|Apixaban]] (anticoagulant) :**
 > Repris à J1 post-op sur prescription → risque hémorragique au site chirurgical. Surveiller : saignement au niveau PTH (pansement, drain), hématome, hématurie. Ne jamais doubler la dose en cas d'oubli.
 >
-> **Furosémide + Spironolactone (double diurétique) :**
-> Furosémide augmente la natriurèse ET kaliurèse → K⁺ ↓. Spironolactone épargne le K⁺ mais K⁺ à 3,4 → insuffisant ici. Dans le contexte de décompensation cardiaque avec surcharge, le médecin va probablement augmenter le furosémide (IV) → surveillance K⁺ encore plus stricte.
+> **Furosémide + [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] (double diurétique) :**
+> Furosémide augmente la natriurèse ET kaliurèse → K⁺ ↓. [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]] épargne le K⁺ mais K⁺ à 3,4 → insuffisant ici. Dans le contexte de décompensation cardiaque avec surcharge, le médecin va probablement augmenter le furosémide (IV) → surveillance K⁺ encore plus stricte.
 >
-> **Ramipril (IEC) :**
+> **[[Médicaments/IEC/Ramipril\|Ramipril]] (IEC) :**
 > Peut dégrader la fonction rénale si hypovolémie associée. TA basse (105/62) → risque d'aggraver l'hypotension → médecin peut décider de suspendre temporairement.
 >
-> **Bisoprolol :**
+> **[[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] :**
 > Bêtabloquant → bradycardie potentielle. FC à 88 bpm OK. À surveiller si chirurgie stressante ou si hémodynamique se dégrade.
 >
 > **Bisphosphonate mensuel (alendronate / risédronate) :**
 > À ne PAS administrer en hospitalisation aiguë (à réévaluer à la sortie, prise à jeun avec grand verre d'eau, patient debout 30 min).
 >
-> **Calcium + Vitamine D :**
+> **[[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|NurseKit/NurseKit Lite/Médicaments/Normes/Calcium]] + [[NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D\|NurseKit/NurseKit Lite/Médicaments/Normes/Vitamine D]] :**
 > À poursuivre (prévention ostéoporose, contexte de fracture).
 
 ---
 
-### Question 3 — Délirium : détection et prise en charge IDE
+### Question 3 : Délirium : détection et prise en charge IDE
 
 > [!question]- Comment évaluer et prendre en charge le syndrome confusionnel de Mme Fontaine ?
 > **Évaluation :**
@@ -94,11 +98,11 @@
 > - Éviter les changements de chambre ou d'infirmière
 > - Orienter régulièrement : "Bonjour Mme Fontaine, vous êtes à l'hôpital, je suis [prénom], infirmière"
 >
-> **Médicaments :** en dernier recours, sur prescription médicale uniquement (halopéridol faible dose si agitation dangereuse — JAMAIS de benzodiazépines chez le sujet âgé confus)
+> **Médicaments :** en dernier recours, sur prescription médicale uniquement (halopéridol faible dose si agitation dangereuse : JAMAIS de benzodiazépines chez le sujet âgé confus)
 
 ---
 
-### Question 4 — Coordination et sortie complexe
+### Question 4 : Coordination et sortie complexe
 
 > [!question]- Mme Fontaine vit seule avec aide à domicile. Quels acteurs devez-vous mobiliser pour préparer sa sortie ?
 > **Assistante sociale :**
@@ -133,7 +137,7 @@
 
 ---
 
-→ [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] · [[Médicaments/Normes/BNP\|BNP]] · [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
+→ [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Stage/Stage Gériatrie et EHPAD\|Stage Gériatrie et EHPAD]] · [[Médicaments/Normes/BNP\|BNP]] · [[Furosémide\|Furosémide]] · [[Médicaments/Normes/Kaliémie\|Kaliémie]]
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

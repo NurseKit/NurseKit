@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Choc anaphylactique/","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"noteIcon":"","dg-note-properties":{"nom":"CC Choc anaphylactique","titre":"CC : Choc Anaphylactique","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-choc-anaphylactique/","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"noteIcon":"","dg-note-properties":{"nom":"CC Choc anaphylactique","titre":"CC : Choc Anaphylactique","tags":["cas clinique","anaphylaxie","allergie","urgence","choc"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Cas Clinique : Choc Anaphylactique
 > **M. Nicolas, 34 ans** · ATCD : allergie pénicilline connue mais non documentée
-> Administration d'Amoxicilline IV prescrite pour pneumonie
-> → Voir aussi : [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Médicaments/Vasopresseurs/Adrénaline\|Adrénaline]]
+> Administration d'[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] IV prescrite pour pneumonie
+> → Voir aussi : [[Pathologies/Choc anaphylactique\|Choc anaphylactique]] · [[Adrénaline\|Adrénaline]]
 
 > [!note] Présentation initiale (10h30 - 10 min après le début de la perfusion)
 > **Cutané** : urticaire diffuse, visage rouge, prurit intense
@@ -15,7 +15,7 @@
 > **Neurologique** : angoisse extrême, altération de la conscience
 
 > [!danger] Grade III anaphylaxie - URGENCE VITALE
-> Stopper IMMÉDIATEMENT la perfusion d'Amoxicilline
+> Stopper IMMÉDIATEMENT la perfusion d'[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 > Appel médecin + équipe urgence intrahospitalière
 
 ## Chronologie de prise en charge
@@ -37,7 +37,7 @@
 > Monitoring continu 6h minimum en dépit de l'amélioration
 > Documenter l'allergie dans le dossier + bracelet allergie + ordonnance EpiPen si indication
 
-> [!example] Transmission DAR - Cible : M. Nicolas - Réaction anaphylactique à l'Amoxicilline
+> [!example] Transmission DAR - Cible : M. Nicolas - Réaction anaphylactique à l'[[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]
 > **Données** : M. Nicolas, 34 ans, réaction grade III anaphylactique 10 min après début Amoxicilline IV. TA 75/45, FC 128, urticaire diffuse, stridor laryngé, SpO2 87%. Allergie pénicilline verbale non documentée dans le dossier.
 >
 > **Actions** : Arrêt immédiat Amoxicilline, Adrénaline 0,5 mg IM x2, O2 masque haute concentration, remplissage NaCl 1L rapide, Méthylprednisolone 120 mg IV, Dexchlorphéniramine 5 mg IV.

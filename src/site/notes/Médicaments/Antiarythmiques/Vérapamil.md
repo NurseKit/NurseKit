@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antiarythmiques/Vérapamil/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Vérapamil","classe":"Inhibiteur calcique / Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antiarythmiques/verapamil/","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"noteIcon":"","dg-note-properties":{"nom":"Vérapamil","classe":"Inhibiteur calcique / Antiarythmique classe IV","tags":["médicament","antiarythmique","antihypertenseur","inhibiteur calcique"],"revision":"2026-06-22"}}
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Post-op/","tags":["post-opératoire","chirurgie","complication","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"CC Post-op","titre":"CC : Complications Post-Opératoires","tags":["post-opératoire","chirurgie","complication","surveillance"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-post-op/","tags":["post-opératoire","chirurgie","complication","surveillance"],"noteIcon":"","dg-note-properties":{"nom":"CC Post-op","titre":"CC : Complications Post-Opératoires","tags":["post-opératoire","chirurgie","complication","surveillance"],"revision":"2026-06-22"}}
 ---
 
 
 > [!abstract] Cas Clinique : Post-opératoire de Chirurgie Abdominale
 > **Mme Sophie, 52 ans** · Colectomie droite pour cancer du côlon J2
 > Appel IDE pour douleur et fièvre à 10h00
-> → Voir aussi : [[Soins Infirmiers/Surveillance post-opératoire\|Surveillance post-op]] · [[Soins Infirmiers/Transmissions DAR\|Transmissions DAR]]
+> → Voir aussi : [[Surveillance post-opératoire\|Surveillance post-op]] · [[Transmissions DAR\|Transmissions DAR]]
 
 > [!note] Présentation à J2 post-op (10h00)
 > **Douleur** : EVA 7/10 en regard de la plaie opératoire, différente de la douleur habituelle
-> **Température** : 38,9°C (37,2°C à 6h)
+> **[[Médicaments/Normes/Température\|Température]]** : 38,9°C (37,2°C à 6h)
 > **Pansement** : légèrement détrempé, écoulement séro-sanglant
 > **Abdomen** : défense légère en fosse iliaque droite, bruits hydroaériques présents
 > **Diurèse** : 650 mL depuis 24h (0,45 mL/kg/h)

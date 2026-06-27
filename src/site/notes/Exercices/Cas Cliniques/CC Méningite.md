@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC Méningite/","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"noteIcon":"","dg-note-properties":{"nom":"CC Méningite","titre":"CC : Méningite Bactérienne","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-meningite/","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"noteIcon":"","dg-note-properties":{"nom":"CC Méningite","titre":"CC : Méningite Bactérienne","tags":["cas clinique","méningite","infectieux","urgence","antibiotiques"],"revision":"2026-06-22"}}
 ---
 
 
-> [!abstract] Cas Clinique : Méningite Bactérienne
+> [!abstract] Cas Clinique : [[Pathologies/Méningite\|Méningite]] Bactérienne
 > **M. Karim, 22 ans** · Étudiant, pas d'ATCD notable
 > Admission aux urgences pour céphalée brutale + fièvre + raideur de nuque
-> → Voir aussi : [[Pathologies/Méningite bactérienne\|Méningite bactérienne]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
+> → Voir aussi : [[Méningite bactérienne|[[Pathologies/Méningite\|Méningite]] bactérienne]] · [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] · [[Soins Infirmiers/Surveillance neurologique\|Surveillance neuro]]
 
 > [!note] Présentation aux urgences (23h45)
 > **Céphalée** : brutale "comme jamais", maximale d'emblée, en casque
@@ -32,19 +32,19 @@
 | 00h15 | O2 lunettes 2L, VVP + hydratation | |
 | 00h30 | Résultat cyto-biochimique LCR : méningite bactérienne | Protéinorachie élevée, hypoglycorrachie, PNN |
 | 01h00 | Résultat bactério J1 : Méningocoque A | Déclaration obligatoire |
-| J1 | Prophylaxie contacts : contacts proches contactés | Rifampicine 600 mg x2 pendant 2 jours |
+| J1 | Prophylaxie contacts : contacts proches contactés | [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] 600 mg x2 pendant 2 jours |
 
 > [!warning] Isolement et déclaration obligatoire
 > Précautions gouttelettes jusqu'à 24h d'ATB efficace
 > Déclaration obligatoire à l'ARS (DO) dans les 24h
-> Contacts proches (cohabitation, bisou) : antibioprophylaxie Rifampicine 2 jours
+> Contacts proches (cohabitation, bisou) : antibioprophylaxie [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] 2 jours
 
 > [!example] Transmission DAR - 06h00 - Cible : M. Karim, méningite bactérienne
 > **Données** : M. Karim, 22 ans, admission 23h45 pour céphalée brutale + fièvre 39,8° + raideur de nuque. GCS 14. LCR trouble, pléiocytose PNN. Méningocoque A probable (bactério J2).
 >
 > **Actions** : TDM négatif, PL réalisée, Ceftriaxone 2g IV à 00h10 + Dexaméthasone 10 mg IV. Isolement gouttelettes. Déclaration ARS effectuée. Contacts proches identifiés, prophylaxie organisée.
 >
-> **Résultat** : GCS 15, apyrétique depuis 04h, céphalées en diminution (EVA 4 vs 9 à l'entrée). Diurèse satisfaisante. Surveillance neurologique /2h. Famille informée et rassurée.
+> **Résultat** : GCS 15, apyrétique depuis 04h, céphalées en diminution (EVA 4 vs 9 à l'entrée). Diurèse satisfaisante. [[Soins Infirmiers/Surveillance neurologique\|Surveillance neurologique]] /2h. Famille informée et rassurée.
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

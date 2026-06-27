@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Exercices Seringue Electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/exercices-seringue-electrique/","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Seringue électrique","type":"Exercices pratiques","tags":["calculs-doses","ue-4-4","exercices","seringue-électrique"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Calculs pour seringue électrique
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
 
 
 > [!tip] Méthode générale
@@ -10,7 +15,7 @@
 
 ---
 
-## Exercice 1 : Morphine SE : préparation et débit initial
+## Exercice 1 : [[Médicaments/Antalgiques/Morphine\|Morphine]] SE : préparation et débit initial
 
 **Situation clinique :**
 M. Collet, 68 ans, 75 kg, cancer colorectal stade IV. Douleur EVA 8/10 insuffisamment contrôlée par voie orale. Le médecin décide d'une antalgie IV par seringue électrique.
@@ -40,7 +45,7 @@ M. Collet, 68 ans, 75 kg, cancer colorectal stade IV. Douleur EVA 8/10 insuffisa
 
 ---
 
-## Exercice 2 : Morphine SE : adaptation de débit (augmentation)
+## Exercice 2 : [[Médicaments/Antalgiques/Morphine\|Morphine]] SE : adaptation de débit (augmentation)
 
 **Situation clinique :**
 Suite de l'exercice 1. Après 2 heures, M. Collet a un EVA à 6/10. Le médecin décide d'augmenter le débit à 3 mg/h.
@@ -89,7 +94,7 @@ Mme Renard, 58 kg, choc septique en réanimation, pression artérielle à 70/40 
 
 ---
 
-## Exercice 4 : Dobutamine : dose en mcg/kg/min → mL/h
+## Exercice 4 : [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] : dose en mcg/kg/min → mL/h
 
 **Situation clinique :**
 M. Favre, 80 kg, insuffisance cardiaque aiguë, débit cardiaque effondré.
@@ -114,7 +119,7 @@ M. Favre, 80 kg, insuffisance cardiaque aiguë, débit cardiaque effondré.
 
 ---
 
-## Exercice 5 : Dobutamine : adaptation de débit (augmentation)
+## Exercice 5 : [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] : adaptation de débit (augmentation)
 
 **Situation clinique :**
 Suite de l'exercice 4. Après 1 heure, la situation hémodynamique est insuffisamment améliorée. Le médecin augmente la dobutamine à 8 mcg/kg/min. SE en cours : 5 000 mcg/mL.
@@ -130,7 +135,7 @@ Suite de l'exercice 4. Après 1 heure, la situation hémodynamique est insuffisa
 
 ---
 
-## Exercice 6 : Insuline IV en réanimation : débit selon glycémie
+## Exercice 6 : [[Médicaments/Antidiabétiques/Insuline\|Insuline]] IV en réanimation : débit selon glycémie
 
 **Situation clinique :**
 M. Brun, 70 kg, diabétique de type 2, post-opératoire de chirurgie cardiaque. Protocole insuline IV en cours.
@@ -138,9 +143,9 @@ M. Brun, 70 kg, diabétique de type 2, post-opératoire de chirurgie cardiaque. 
 **SE préparée :** 50 UI Actrapid® (insuline rapide) dans 50 mL de NaCl 0,9%
 
 **Protocole prescrit :**
-- Glycémie < 1,4 g/L : arrêt SE
-- Glycémie 1,4-1,8 g/L : 1 UI/h
-- Glycémie 1,8-2,2 g/L : 2 UI/h
+- [[Médicaments/Normes/Glycémie\|Glycémie]] < 1,4 g/L : arrêt SE
+- [[Médicaments/Normes/Glycémie\|Glycémie]] 1,4-1,8 g/L : 1 UI/h
+- [[Médicaments/Normes/Glycémie\|Glycémie]] 1,8-2,2 g/L : 2 UI/h
 - Glycémie 2,2-3,0 g/L : 3 UI/h
 - Glycémie > 3,0 g/L : appeler le médecin
 
@@ -275,6 +280,64 @@ M. Thomas, 85 kg, choc septique, sous noradrénaline depuis 6 heures. La SE actu
 > **Vérification :** en doublant la concentration, on divise le débit par 2 → 10 mL/h → 5 mL/h
 >
 > **Point sécurité :** lors d'un changement de SE de vasopresseur, toujours préparer la nouvelle SE AVANT que l'ancienne soit vide. Passer en "double voie" quelques minutes pour éviter toute interruption → risque d'hypotension sévère.
+
+---
+
+## Exercices piégeux
+
+### Piège 1 : concentration exprimée en UI/mL (insuline)
+
+**Situation clinique :**
+M. Benali, 58 ans, diabète de type 1 en décompensation. Prescription d'insuline ordinaire (Actrapid) 3 UI/h en IVSE. Votre seringue de 50 mL contient 50 UI d'insuline diluées dans 50 mL de NaCl 0,9% (= 1 UI/mL).
+
+**Question :** Quel débit programmer en mL/h ?
+
+> [!success]- Correction
+> Concentration = 1 UI/mL
+> Dose prescrite = 3 UI/h
+>
+> Débit = 3 UI/h ÷ 1 UI/mL = **3 mL/h**
+>
+> > [!warning] Point piège
+> > Les insulines sont dosées en Unités Internationales (UI), pas en mg. Une seringue "50 UI dans 50 mL" donne une concentration de 1 UI/mL, ce qui simplifie les calculs : débit en mL/h = dose en UI/h. Mais si la concentration est différente (ex : 100 UI dans 50 mL = 2 UI/mL), le calcul change complètement.
+
+---
+
+### Piège 2 : oubli de la tare de la seringue - volume mort
+
+**Situation clinique :**
+Vous préparez une SE de midazolam 50 mg dans 50 mL (= 1 mg/mL). Au bout de 12h, la SE affiche "volume restant : 2 mL" sur le PSE. Le débit était de 4 mL/h. Combien de médicament a réellement été administré ?
+
+**Question :** Volume et dose effectivement administrés ?
+
+> [!success]- Correction
+> Volume programmé sur 12h = 4 mL/h × 12h = 48 mL
+> Volume "restant" = 2 mL (mais ce volume inclut le volume mort du prolongateur ≈ 1-2 mL non administré)
+>
+> Volume réellement passé = 50 mL - 2 mL = **48 mL**
+> Dose administrée = 48 mL × 1 mg/mL = **48 mg**
+>
+> > [!warning] Point piège
+> > Le "volume restant" affiché par le PSE correspond au volume encore dans la seringue, pas au volume qui reste à passer dans le prolongateur (volume mort ~1-2 mL selon la longueur). Pour les médicaments à marge thérapeutique étroite, ce volume mort peut fausser le calcul de la dose effective reçue.
+
+---
+
+### Piège 3 : changer le débit d'un vasopresseur sans recalculer la dose
+
+**Situation clinique :**
+M. Costa, 78 kg, reçoit de la noradrénaline en SE à 5 mL/h. La concentration est de 40 mcg/mL. L'infirmière de nuit a augmenté le débit à 8 mL/h sans documenter la dose en mcg/kg/min. Le médecin vous demande quelle dose reçoit le patient actuellement.
+
+**Question :** Calculer la dose de noradrénaline en mcg/kg/min à 8 mL/h.
+
+> [!success]- Correction
+> Dose (mcg/min) = 8 mL/h × 40 mcg/mL ÷ 60 min/h = 320 / 60 = 5,33 mcg/min
+>
+> Dose/kg = 5,33 / 78 = **0,068 mcg/kg/min**
+>
+> Formule directe : Dose = (Débit × Concentration) / (Poids × 60)
+>
+> > [!warning] Point piège
+> > En réanimation, les modifications de débit des vasopresseurs doivent TOUJOURS être documentées en mcg/kg/min, pas seulement en mL/h. Un débit de 8 mL/h ne signifie rien sans la concentration. La traçabilité est une exigence de sécurité, pas une formalité.
 
 ---
 

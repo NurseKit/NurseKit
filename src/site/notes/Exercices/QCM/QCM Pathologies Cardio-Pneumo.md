@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Pathologies Cardio-Pneumo/","tags":["qcm","révision","cardiologie","pneumologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pathologies Cardio-Pneumo","type":"QCM révision","tags":["qcm","révision","cardiologie","pneumologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/qcm-pathologies-cardio-pneumo/","tags":["qcm","révision","cardiologie","pneumologie"],"noteIcon":"","dg-note-properties":{"nom":"QCM Pathologies Cardio-Pneumo","type":"QCM révision","tags":["qcm","révision","cardiologie","pneumologie"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Pathologies cardio-pulmonaires : 20 QCM sur les pathologies cardiovasculaires et respiratoires
+> Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
+> → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]
 
 
 > [!tip] Mode d'emploi
@@ -12,12 +17,12 @@
 
 Un patient de 58 ans arrive aux urgences avec une douleur thoracique constrictive irradiant dans le bras gauche depuis 45 minutes. L'ECG montre un sus-décalage du segment ST en V1-V4. Quel diagnostic évoquez-vous en priorité ?
 
-- A. Péricardite aiguë
-- B. Embolie pulmonaire massive
-- C. Syndrome coronarien aigu avec sus-décalage ST (SCA ST+)
-- D. Dissection aortique
+- A. [[Pathologies/Péricardite\|Péricardite]] aiguë
+- B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]] massive
+- C. [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
+- D. [[Pathologies/Dissection aortique\|Dissection aortique]]
 
-> [!success]- Réponse : C. Syndrome coronarien aigu avec sus-décalage ST (SCA ST+)
+> [!success]- Réponse : C. [[Pathologies/Syndrome coronarien aigu\|Syndrome coronarien aigu]] avec sus-décalage ST (SCA ST+)
 > **Explication :** Le SCA ST+ (IDM avec sus-décalage) est caractérisé par la triade : douleur thoracique constrictive prolongée (>20 min), sus-décalage du ST sur au moins 2 dérivations contiguës, et élévation des marqueurs (troponine). L'objectif est une revascularisation urgente par angioplastie primaire dans les 90 minutes. La péricardite donne un sus-décalage en selle sur toutes les dérivations. La dissection aortique donne une douleur en coup de couteau irradiant dans le dos.
 
 ---
@@ -96,12 +101,12 @@ Dans la BPCO, la classification GOLD est basée sur quel paramètre fonctionnel 
 
 Un patient présente une dyspnée brutale, une douleur thoracique et une tachycardie à 115/min après un alitement prolongé suite à une fracture de hanche. Quel diagnostic évoquez-vous ?
 
-- A. Pneumothorax spontané
-- B. Embolie pulmonaire
+- A. [[Pathologies/Pneumothorax\|Pneumothorax]] spontané
+- B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
 - C. Tamponnade cardiaque
 - D. Pleurésie massive
 
-> [!success]- Réponse : B. Embolie pulmonaire
+> [!success]- Réponse : B. [[Pathologies/Embolie pulmonaire\|Embolie pulmonaire]]
 > **Explication :** L'embolie pulmonaire est fortement suspectée devant : dyspnée brutale + douleur thoracique + tachycardie + facteur de risque thrombo-embolique (immobilisation prolongée après chirurgie orthopédique). Le score de Wells permet de stratifier la probabilité clinique. En probabilité élevée, le scanner thoracique injecté (angio-TDM) est l'examen de référence. La recherche de TVP aux membres inférieurs est systématique.
 
 ---
@@ -138,7 +143,7 @@ Dans l'asthme, à quel palier thérapeutique correspond l'utilisation de cortico
 
 Un patient asthmatique présente une crise aiguë grave : FR à 30/min, SpO2 à 90%, DEP < 50% de la théorique, impossibilité de terminer ses phrases. Quel traitement administrez-vous en urgence ?
 
-- A. Corticoïdes oraux seuls
+- A. [[Médicaments/Corticoïdes/Corticoïdes\|Corticoïdes]] oraux seuls
 - B. Béta-2 agoniste courte durée (SABA) en nébulisation + corticoïdes systémiques + O2
 - C. Anticholinergiques IV + aminophylline
 - D. Intubation orotrachéale immédiate
@@ -158,7 +163,7 @@ Un patient hypertendu sévère présente une PA à 210/130 mmHg avec des céphal
 - D. Réaliser une saignée thérapeutique de 300 mL
 
 > [!success]- Réponse : B. Hospitaliser en USIC/réanimation, antihypertenseur IV titré avec objectif de réduction de 20-25% en 1h
-> **Explication :** C'est une urgence hypertensive avec souffrance d'organe cible (encéphalopathie hypertensive). La PA doit être réduite de 20-25% en 1 heure avec des antihypertenseurs IV titrés (nicardipine, labétalol) sous monitorage continu. Une réduction trop rapide et excessive est dangereuse (AVC ischémique par hypoperfusion). Le furosémide seul est insuffisant. Les antihypertenseurs oraux agissent trop lentement et de manière imprévisible dans ce contexte.
+> **Explication :** C'est une urgence hypertensive avec souffrance d'organe cible (encéphalopathie hypertensive). La PA doit être réduite de 20-25% en 1 heure avec des antihypertenseurs IV titrés (nicardipine, labétalol) sous monitorage continu. Une réduction trop rapide et excessive est dangereuse ([[Pathologies/AVC ischémique\|AVC ischémique]] par hypoperfusion). Le furosémide seul est insuffisant. Les antihypertenseurs oraux agissent trop lentement et de manière imprévisible dans ce contexte.
 
 ---
 
@@ -194,12 +199,12 @@ Lors d'un OAP cardiogénique, quelle position adoptez-vous pour le patient ?
 
 Un patient présente les signes suivants : turgescence jugulaire, reflux hépato-jugulaire, œdèmes bilatéraux des membres inférieurs prenant le godet, hépatomégalie douloureuse. Quel diagnostic évoquez-vous ?
 
-- A. Insuffisance cardiaque gauche
-- B. Insuffisance cardiaque droite
+- A. [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] gauche
+- B. [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] droite
 - C. Insuffisance mitrale aiguë
-- D. Endocardite infectieuse
+- D. [[Pathologies/Endocardite\|Endocardite]] infectieuse
 
-> [!success]- Réponse : B. Insuffisance cardiaque droite
+> [!success]- Réponse : B. [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] droite
 > **Explication :** L'insuffisance cardiaque droite provoque une stase dans la circulation veineuse systémique : turgescence jugulaire (pression veineuse centrale élevée), reflux hépato-jugulaire, hépatomégalie congestive douloureuse, ascite, œdèmes déclives bilatéraux prenant le godet. Les causes les plus fréquentes sont l'IC gauche chronique (cœur pulmonaire) et l'HTP. Le traitement repose sur les diurétiques (furosémide) et le traitement de la cause.
 
 ---
@@ -208,7 +213,7 @@ Un patient présente les signes suivants : turgescence jugulaire, reflux hépato
 
 Concernant les facteurs de risque de l'embolie pulmonaire, lequel est classé comme facteur de risque majeur ?
 
-- A. Obésité modérée (IMC 27)
+- A. [[Pathologies/Obésité\|Obésité]] modérée (IMC 27)
 - B. Chirurgie orthopédique majeure des membres inférieurs
 - C. Grossesse au 1er trimestre
 - D. Contraception orale progestative seule

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antibiotiques/Aminosides/","tags":["médicament","antibiotique","aminoside"],"noteIcon":"","dg-note-properties":{"nom":"Aminosides","classe":"Antibiotiques / Aminosides","tags":["médicament","antibiotique","aminoside"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antibiotiques/aminosides/","tags":["médicament","antibiotique","aminoside"],"noteIcon":"","dg-note-properties":{"nom":"Aminosides","classe":"Antibiotiques / Aminosides","tags":["médicament","antibiotique","aminoside"],"revision":"2026-06-22"}}
 ---
 
 

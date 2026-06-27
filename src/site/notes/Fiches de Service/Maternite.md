@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Maternite/","tags":["aide-memoire","stage","maternite","obstetrique"],"noteIcon":"","dg-note-properties":{"nom":"Maternité / Obstétrique","type":"Fiche récapitulative","tags":["aide-memoire","stage","maternite","obstetrique"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/maternite/","tags":["aide-memoire","stage","maternite","obstetrique"],"noteIcon":"","dg-note-properties":{"nom":"Maternité / Obstétrique","type":"Fiche récapitulative","tags":["aide-memoire","stage","maternite","obstetrique"],"revision":"2026-06-22"}}
 ---
 
 
@@ -23,10 +23,10 @@
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
-| Ocytocine (Syntocinon) | Déclenchement, HPP | Surveillance FCF continue sous perfusion ; risque tachysystole |
+| [[Médicaments/Hormones/Ocytocine\|Ocytocine]] (Syntocinon) | Déclenchement, HPP | Surveillance FCF continue sous perfusion ; risque tachysystole |
 | Sulfate de magnésium | Pré-éclampsie sévère, convulsions | Antidote = gluconate de calcium ; surveiller FR, ROT, diurèse |
 | Péridurale (ropivacaïne) | Analgésie travail | Surveillance TA (hypotension), bloc moteur, FCF |
-| Vitamine K (IM nourrisson) | Prévention maladie hémorragique | Injection unique à la naissance, cuisse |
+| [[Médicaments/Vitamines/Vitamine K\|Vitamine K]] (IM nourrisson) | Prévention maladie hémorragique | Injection unique à la naissance, cuisse |
 | HBPM | Prévention TVP post-partum | Débutée 6-12 h après accouchement selon facteurs de risque |
 | Bromocriptine | Inhibition lactation (si contre-indication allaitement) | HTA, nausées ; CI si ATCD vasculaire |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Pédiatrie/","tags":["aide-memoire","stage","pediatrie"],"noteIcon":"","dg-note-properties":{"nom":"Pédiatrie","type":"Fiche récapitulative","tags":["aide-memoire","stage","pediatrie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/pediatrie/","tags":["aide-memoire","stage","pediatrie"],"noteIcon":"","dg-note-properties":{"nom":"Pédiatrie","type":"Fiche récapitulative","tags":["aide-memoire","stage","pediatrie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -28,11 +28,11 @@
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
 | Paracétamol | Douleur, fièvre | 15 mg/kg/dose, max 4×/j, intervalle ≥ 6 h |
-| Ibuprofène | Douleur, fièvre > 3 mois | 10 mg/kg/dose, CI si < 3 mois, déshydratation, insuffisance rénale |
-| Amoxicilline | Infections ORL, pneumonies | 50-80 mg/kg/j en 2-3 prises selon infection |
-| Salbutamol nébulisation | Bronchospasme, asthme | 0,15 mg/kg/dose (min 1,5 mg, max 5 mg) ; surveiller FC |
+| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | Douleur, fièvre > 3 mois | 10 mg/kg/dose, CI si < 3 mois, déshydratation, insuffisance rénale |
+| [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] | Infections ORL, pneumonies | 50-80 mg/kg/j en 2-3 prises selon infection |
+| [[Médicaments/Bronchodilatateurs/Salbutamol\|Salbutamol]] nébulisation | Bronchospasme, asthme | 0,15 mg/kg/dose (min 1,5 mg, max 5 mg) ; surveiller FC |
 | Adrénaline nébulisation | Laryngite sous-glottique (croup) | 0,5 mL/kg de solution à 1/1000, max 5 mL |
-| Midazolam buccal | Crise convulsive | 0,3 mg/kg ; avoir O2 et matériel aspiration à portée |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] buccal | Crise convulsive | 0,3 mg/kg ; avoir O2 et matériel aspiration à portée |
 
 ## Soins quotidiens spécifiques
 
@@ -50,7 +50,7 @@
 **Surveillance quotidienne :**
 - Poids quotidien (variations importantes chez nourrisson)
 - Alimentation et hydratation (nombre de biberons, tétées, diurèse)
-- Température rectale < 2 ans, axillaire ou tympanique > 2 ans
+- [[Médicaments/Normes/Température\|Température]] rectale < 2 ans, axillaire ou tympanique > 2 ans
 - Développement psychomoteur à noter dans les transmissions
 
 ## Ne jamais oublier
@@ -81,7 +81,7 @@
 ## Fiches détaillées
 
 - Normes pédiatriques par âge
-- [[Soins Infirmiers/Évaluation de la douleur\|Douleur en pédiatrie]]
+- [[Évaluation de la douleur\|Douleur en pédiatrie]]
 - EMLA et MEOPA
 - Détresse respiratoire de l'enfant
 - Fièvre de l'enfant

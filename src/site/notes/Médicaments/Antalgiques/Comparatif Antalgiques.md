@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antalgiques/Comparatif Antalgiques/","tags":["antalgiques","douleur","paliers OMS","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif Antalgiques","type":"Tableau comparatif","tags":["antalgiques","douleur","paliers OMS","comparatif","révision"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antalgiques/comparatif-antalgiques/","tags":["antalgiques","douleur","paliers OMS","comparatif","révision"],"noteIcon":"","dg-note-properties":{"nom":"Comparatif Antalgiques","type":"Tableau comparatif","tags":["antalgiques","douleur","paliers OMS","comparatif","révision"],"revision":"2026-06-22"}}
 ---
 
 

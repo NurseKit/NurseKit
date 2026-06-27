@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Lovenox/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Lovenox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/anticoagulants/lovenox/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Lovenox","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Nom de marque
+> **Lovenox** est le nom commercial de la **[[Médicaments/Anticoagulants/Enoxaparine\|Énoxaparine (HBPM)]]**. Consulter la fiche DCI pour les indications, posologie et surveillance IDE.
 
 
 > [!info] Nom commercial

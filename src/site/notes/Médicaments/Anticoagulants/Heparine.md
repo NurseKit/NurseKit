@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Heparine/","tags":["médicament","anticoagulant","HNF","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Héparine non fractionnée","classe":["Anticoagulant","HNF"],"indications":["TVP/EP phase aiguë","SCA/IDM","Chirurgie cardiovasculaire (CEC)","Prévention MTEV en SC"],"posologie":"IV curatif : bolus 80 UI/kg puis 18 UI/kg/h IVSE, titration sur TCA cible 2-3× témoin · SC préventif : 5 000 UI x2-3/j","contre_indications":["Hémorragie active","Antécédent de TIH","Thrombopénie sévère < 50 000"],"effets_secondaires":["Hémorragies","TIH type II (J5-J21) → thrombopénie + thromboses paradoxales","Ostéoporose (traitement prolongé)","Hyperkaliémie"],"service":["Réanimation","Cardiologie","Chirurgie vasculaire","Urgences"],"mécanisme":"Se fixe sur l'antithrombine III → multiplie son activité par 1000 → inhibe la thrombine (IIa), le facteur Xa et le facteur IXa. Antidote immédiat = protamine sulfate","interactions":["Antiagrégants, AINS : ↑ risque hémorragique"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HNF","urgence"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/anticoagulants/heparine/","tags":["médicament","anticoagulant","HNF","urgence"],"noteIcon":"","dg-note-properties":{"nom":"Héparine non fractionnée","classe":["Anticoagulant","HNF"],"indications":["TVP/EP phase aiguë","SCA/IDM","Chirurgie cardiovasculaire (CEC)","Prévention MTEV en SC"],"posologie":"IV curatif : bolus 80 UI/kg puis 18 UI/kg/h IVSE, titration sur TCA cible 2-3× témoin · SC préventif : 5 000 UI x2-3/j","contre_indications":["Hémorragie active","Antécédent de TIH","Thrombopénie sévère < 50 000"],"effets_secondaires":["Hémorragies","TIH type II (J5-J21) → thrombopénie + thromboses paradoxales","Ostéoporose (traitement prolongé)","Hyperkaliémie"],"service":["Réanimation","Cardiologie","Chirurgie vasculaire","Urgences"],"mécanisme":"Se fixe sur l'antithrombine III → multiplie son activité par 1000 → inhibe la thrombine (IIa), le facteur Xa et le facteur IXa. Antidote immédiat = protamine sulfate","interactions":["Antiagrégants, AINS : ↑ risque hémorragique"],"niveau_preuve":"A","tags":["médicament","anticoagulant","HNF","urgence"],"revision":"2026-06-13"}}
 ---
 
+
+
+# Héparine Non Fractionnée (HNF, Héparine Choay®, Calciparine®)
 
 > [!abstract] En 2 mots
 > Anticoagulant injectable à action immédiate, surveillé par le TCA. Antidote disponible : protamine sulfate. Risque spécifique grave : la TIH type II (thrombopénie + thromboses paradoxales entre J5-J21).
@@ -18,7 +21,7 @@
 
 L'héparine "active" une enzyme naturelle du corps (antithrombine III) en multipliant son efficacité par 1000. Cette enzyme bloque alors la thrombine et le facteur Xa → la coagulation est freinée.
 
-> Analogie : l'antithrombine est un pompier qui éteint les incendies (caillots). Tout seul, il est lent. L'héparine lui donne un accélérateur → il devient 1000 fois plus rapide. La protamine (antidote) enlève l'accélérateur instantanément.
+> 💡 Analogie : l'antithrombine est un pompier qui éteint les incendies (caillots). Tout seul, il est lent. L'héparine lui donne un accélérateur → il devient 1000 fois plus rapide. La protamine (antidote) enlève l'accélérateur instantanément.
 
 ---
 
@@ -50,7 +53,7 @@ L'héparine "active" une enzyme naturelle du corps (antithrombine III) en multip
 
 ---
 
-## Les 3 choses à retenir
+## Les 3 choses à retenir absolument
 
 1. **TCA cible : 2-3 fois le témoin** → contrôle 6h après chaque modification
 2. **TIH type II entre J5-J21** : plaquettes à surveiller, arrêt immédiat si chute
@@ -58,16 +61,11 @@ L'héparine "active" une enzyme naturelle du corps (antithrombine III) en multip
 
 ---
 
-## Normes à surveiller
-
-[[Médicaments/Normes/TCA\|TCA (ratio 2-3)]] · [[Médicaments/Normes/Plaquettes\|Plaquettes (TIH)]] · [[Médicaments/Normes/INR\|INR]]
-
 ## Voir aussi
 
 [[Médicaments/Anticoagulants/Enoxaparine\|Énoxaparine (Lovenox®)]] · [[Médicaments/Anticoagulants/Warfarine\|Warfarine (Coumadine®)]] · [[Pathologies/TVP\|TVP]]
 
 > [!caution] Outil pédagogique : Toujo
-
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
 <a href="#" style="flex:1;display:block;text-align:center;padding:10px 16px;background:rgba(99,102,241,0.08);color:#6366F1;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;border:1px solid rgba(99,102,241,0.25);">↑ Haut de page</a>

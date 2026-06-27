@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Antidiabétiques/Lantus/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Lantus","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/antidiabetiques/lantus/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Lantus","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Nom de marque
+> **Lantus** est le nom commercial de la **[[Médicaments/Antidiabétiques/Insuline\|Insuline glargine basale]]**. Consulter la fiche DCI pour les indications, posologie et surveillance IDE.
 
 
 > [!info] Nom commercial

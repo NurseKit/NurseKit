@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Formules Référence/","tags":["calculs-doses","ue-4-4","formules"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/formules-reference/","tags":["calculs-doses","ue-4-4","formules"],"noteIcon":"","dg-note-properties":{"nom":"Calculs de doses - Formules de référence","type":"Aide-mémoire","tags":["calculs-doses","ue-4-4","formules"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Formules de référence
+> Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
+> → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
 
 
 > [!tip] Conseil d'utilisation
@@ -92,8 +97,8 @@
 | Médicament | Dose |
 |---|---|
 | Paracétamol | 15 mg/kg/prise → max 60 mg/kg/j → toutes les 6h |
-| Ibuprofène | 10 mg/kg/prise → max 30 mg/kg/j → toutes les 8h |
-| Amoxicilline | 50 mg/kg/j en 3 prises (soit ~16,7 mg/kg/prise) |
+| [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] | 10 mg/kg/prise → max 30 mg/kg/j → toutes les 8h |
+| [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]] | 50 mg/kg/j en 3 prises (soit ~16,7 mg/kg/prise) |
 
 ---
 
@@ -112,7 +117,7 @@
 **Débit (mL/h) = [Dose (mcg/kg/min) × Poids (kg) × 60] / Concentration (mcg/mL)**
 
 > [!example] Exemple rapide
-> Dobutamine 5 mcg/kg/min, patient 70 kg, SE préparée à 2 mg/mL (= 2000 mcg/mL)
+> [[Médicaments/Vasopresseurs/Dobutamine\|Dobutamine]] 5 mcg/kg/min, patient 70 kg, SE préparée à 2 mg/mL (= 2000 mcg/mL)
 > Débit = (5 × 70 × 60) / 2000 = 21 000 / 2000 = **10,5 mL/h**
 
 ---
@@ -151,8 +156,8 @@
 
 > [!danger] Médicaments à risque
 > - **KCl (Chlorure de potassium)** : JAMAIS en IV direct → toujours dilué dans une perfusion (risque d'arrêt cardiaque)
-> - **Insuline** : toujours vérifier le type (rapide, lente) et l'unité (UI ≠ mL)
-> - **Morphine, noradrénaline, dobutamine** : médicaments à marge thérapeutique étroite → double vérification obligatoire
+> - **[[Médicaments/Antidiabétiques/Insuline\|Insuline]]** : toujours vérifier le type (rapide, lente) et l'unité (UI ≠ mL)
+> - **[[Médicaments/Antalgiques/Morphine\|Morphine]], noradrénaline, dobutamine** : médicaments à marge thérapeutique étroite → double vérification obligatoire
 > - **Méthotrexate** : erreur de dosage fréquente (hebdomadaire ≠ quotidien)
 
 ---

@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/AINS/Ketoprofene/","tags":["médicament","AINS"],"noteIcon":"","dg-note-properties":{"nom":"Kétoprofène","classe":["AINS"],"indications":["Douleurs inflammatoires","Rhumatologie","Dysménorrhées"],"posologie":"50-100 mg x2/j PO ou 100 mg x2-3/j IV/IM (max 200-300 mg/j)","contre_indications":["Ulcère gastroduodénal","Insuffisance rénale sévère","Insuffisance cardiaque sévère","3e trimestre de grossesse","Gel → peau lésée ou exposition solaire"],"effets_secondaires":["Troubles digestifs","Atteinte rénale","Photosensibilité (gel topique ++)","Bronchospasme"],"service":["Rhumatologie","Médecine générale","Gynécologie"],"mécanisme":"AINS non sélectif → inhibe COX-1 et COX-2 (blocage réversible) → réduit les prostaglandines. Disponible en IV et en gel topique","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Méthotrexate (↑ toxicité)"],"niveau_preuve":"A","tags":["médicament","AINS"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/ains/ketoprofene/","tags":["médicament","AINS"],"noteIcon":"","dg-note-properties":{"nom":"Kétoprofène","classe":["AINS"],"indications":["Douleurs inflammatoires","Rhumatologie","Dysménorrhées"],"posologie":"50-100 mg x2/j PO ou 100 mg x2-3/j IV/IM (max 200-300 mg/j)","contre_indications":["Ulcère gastroduodénal","Insuffisance rénale sévère","Insuffisance cardiaque sévère","3e trimestre de grossesse","Gel → peau lésée ou exposition solaire"],"effets_secondaires":["Troubles digestifs","Atteinte rénale","Photosensibilité (gel topique ++)","Bronchospasme"],"service":["Rhumatologie","Médecine générale","Gynécologie"],"mécanisme":"AINS non sélectif → inhibe COX-1 et COX-2 (blocage réversible) → réduit les prostaglandines. Disponible en IV et en gel topique","interactions":["Anticoagulants (risque hémorragique)","IEC/ARA2 + diurétique : triade néphrotoxique","Lithium (↑ taux)","Méthotrexate (↑ toxicité)"],"niveau_preuve":"A","tags":["médicament","AINS"],"revision":"2026-06-13"}}
 ---
 
+
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
+# Kétoprofène (Profénid®, Bi-Profénid®, Kétum® gel)
 
 > [!abstract] En 2 mots
 > AINS classique efficace en rhumatologie et en gynécologie. Sa particularité mémorable : le gel (Kétum®) peut provoquer des réactions cutanées sévères au soleil → et l'interdiction dure encore deux semaines après l'arrêt du traitement !
@@ -18,7 +24,7 @@ Poussées inflammatoires rhumatologiques (tendinites, bursites, périarthrites),
 
 Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiateurs de l'inflammation et de la douleur. Effet anti-inflammatoire, antalgique et antipyrétique.
 
-> Même mécanisme que l'ibuprofène, mais disponible en IV et en gel topique. La forme gel agit localement avec très peu de passage dans le sang → pratique pour éviter les effets systémiques, mais la photosensibilité reste un vrai risque à ne pas sous-estimer.
+> 💡 Même mécanisme que l'ibuprofène, mais disponible en IV et en gel topique. La forme gel agit localement avec très peu de passage dans le sang → pratique pour éviter les effets systémiques, mais la photosensibilité reste un vrai risque à ne pas sous-estimer.
 
 ---
 
@@ -61,7 +67,9 @@ Il bloque les enzymes COX-1 et COX-2 qui produisent les prostaglandines, médiat
 
 ## Voir aussi
 
-[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]]
+[[Médicaments/AINS/Ibuprofène\|Ibuprofène]] · [[Médicaments/AINS/Diclofenac\|Diclofénac]] · [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] · [[Médicaments/AINS/Aspirine\|Aspirine (AINS)]]
+
+> [!caution] Outil pédagogique : HAS, ANSM, RCP Kétoprofène
 
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">
 <a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>

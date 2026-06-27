@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fiches de Service/Soins Palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/fiches-de-service/soins-palliatifs/","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"noteIcon":"","dg-note-properties":{"nom":"Soins Palliatifs","type":"Fiche récapitulative","tags":["aide-memoire","stage","soins-palliatifs","fin-de-vie"],"revision":"2026-06-22"}}
 ---
 
 
@@ -16,17 +16,17 @@
 | Dyspnée | Sensation subjective = priorité | SpO2 non prioritaire si patient non gêné |
 | Agitation | Score RASS ou échelle Rudkin | Distinguer agitation de douleur, rétention, anxiété |
 | Sécrétions bronchiques | Absence de gêne audible | Traitement scopolamine si bruyantes et inconfortables |
-| Escarre / plaie | Prévention et confort | Pas de retournement si douloureux → confort d'abord |
+| [[Pathologies/Escarre\|Escarre]] / plaie | Prévention et confort | Pas de retournement si douloureux → confort d'abord |
 
 ## Médicaments SC fréquents (voie sous-cutanée souvent privilégiée)
 
 | Médicament | Indication | Point de vigilance IDE |
 |-----------|-----------|----------------------|
-| Morphine SC | Douleur, dyspnée | Titrer selon efficacité ; surveiller sédation excessive |
-| Midazolam SC | Anxiété, agitation, sédation palliative | Sédation progressive ; ne pas arrêter brutalement |
+| [[Médicaments/Antalgiques/Morphine\|Morphine]] SC | Douleur, dyspnée | Titrer selon efficacité ; surveiller sédation excessive |
+| [[Médicaments/Sédatifs/Midazolam\|Midazolam]] SC | Anxiété, agitation, sédation palliative | Sédation progressive ; ne pas arrêter brutalement |
 | Scopolamine SC (hyoscine) | Sécrétions bronchiques, nausées | Peut provoquer confusion ; ne pas aspirer les sécrétions (traumatisant) |
-| Haloperidol SC | Confusion, agitation réfractaire | Surveiller signes extrapyramidaux |
-| Dexaméthasone SC | HTIC, nausées, dyspnée tumorale | Glycémie, troubles du comportement |
+| [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]] SC | Confusion, agitation réfractaire | Surveiller signes extrapyramidaux |
+| Dexaméthasone SC | HTIC, nausées, dyspnée tumorale | [[Médicaments/Normes/Glycémie\|Glycémie]], troubles du comportement |
 | Métoclopramide SC | Nausées, occlusion fonctionnelle | CI si occlusion mécanique |
 
 **Voie SC (hypodermoclyse) :** bien tolérable, non douloureuse si bien posée. Changer de site /48-72 h.
@@ -81,7 +81,7 @@
 
 ## Fiches détaillées
 
-- [[Révisions UE/UE 1.3 Législation Éthique Déontologie\|Loi Claeys-Leonetti 2016]]
+- [[UE 1.3 [[Législation\|UE 1.3 [[Législation]] Éthique Déontologie|Loi Claeys-Leonetti 2016]]
 - Directives anticipées
 - [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Sédation palliative]]
 - [[Révisions UE/UE 4.7 Soins palliatifs & fin de vie\|Douleur en soins palliatifs]]

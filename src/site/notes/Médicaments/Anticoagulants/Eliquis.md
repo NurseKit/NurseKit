@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Médicaments/Anticoagulants/Eliquis/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Eliquis","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/medicaments/anticoagulants/eliquis/","tags":["médicament","nom-commercial","redirect"],"noteIcon":"","dg-note-properties":{"nom":"Eliquis","tags":["médicament","nom-commercial","redirect"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Nom de marque
+> **Eliquis** est le nom commercial de la **[[Médicaments/Anticoagulants/Apixaban\|Apixaban (AOD anti-Xa)]]**. Consulter la fiche DCI pour les indications, posologie et surveillance IDE.
 
 
 > [!info] Nom commercial

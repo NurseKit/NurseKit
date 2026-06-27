@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/QCM/QCM Soins Techniques/","tags":["qcm","révision","soins techniques"],"noteIcon":"","dg-note-properties":{"nom":"QCM Soins Techniques","type":"QCM révision","tags":["qcm","révision","soins techniques"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/qcm/qcm-soins-techniques/","tags":["qcm","révision","soins techniques"],"noteIcon":"","dg-note-properties":{"nom":"QCM Soins Techniques","type":"QCM révision","tags":["qcm","révision","soins techniques"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Soins infirmiers techniques : 20 QCM sur les techniques de soins infirmiers
+> Teste tes connaissances, révèle les réponses, identifie les points à retravailler.
+> → [[Exercices/Cas Cliniques/Cas Cliniques\|Cas cliniques]] · [[index\|Accueil]]
 
 
 > [!tip] Mode d'emploi

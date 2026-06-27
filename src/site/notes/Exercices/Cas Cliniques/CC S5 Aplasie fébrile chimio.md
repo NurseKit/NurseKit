@@ -1,28 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Cas Cliniques/CC S5 Aplasie fébrile chimio/","tags":["cas-clinique","aplasie","chimio","oncologie","immunodepression","3eme-annee","s5"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique S5 : Aplasie fébrile post-chimiothérapie","type":"Cas clinique","niveau":"3ème année","themes":["Oncologie","Aplasie","Chimiothérapie","Immunodépression","Urgence"],"tags":["cas-clinique","aplasie","chimio","oncologie","immunodepression","3eme-annee","s5"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/cas-cliniques/cc-s5-aplasie-febrile-chimio/","tags":["cas-clinique","aplasie","chimio","oncologie","immunodepression","3eme-annee","s5"],"noteIcon":"","dg-note-properties":{"nom":"Cas Clinique S5 : Aplasie fébrile post-chimiothérapie","type":"Cas clinique","niveau":"3ème année","themes":["Oncologie","Aplasie","Chimiothérapie","Immunodépression","Urgence"],"tags":["cas-clinique","aplasie","chimio","oncologie","immunodepression","3eme-annee","s5"],"revision":"2026-06-22"}}
 ---
+
+
+> [!abstract] Cas clinique S5 : Aplasie fébrile post-chimiothérapie
+> M. Lecomte 52 ans : LBDGC R-CHOP cycle 3, J10, PNN 0,2 G/L + T° 38,8°C. Urgence vitale, PAC, 8 actions IDE immédiates, ETP domicile.
 
 
 > [!info]- Navigation
 > [[index\|Accueil]] · [[Pathologies/Aplasie febrile\|Aplasie febrile]] · [[Soins Infirmiers/Chimiotherapie\|Chimiotherapie]] · [[Pathologies/Sepsis\|Sepsis]] · [[Soins Infirmiers/Chambre implantable\|Chambre implantable]]
 
 > [!note] Présentation du patient
-> **M. Lecomte, 52 ans**, cadre commercial. Suivi en oncohématologie pour **lymphome B diffus à grandes cellules** (LBDGC), en cours de traitement par **R-CHOP cycle 3/6** (Rituximab, Cyclophosphamide, Doxorubicine, Vincristine, Prednisone). Dernier cycle il y a 10 jours.
+> **M. Lecomte, 52 ans**, cadre commercial. Suivi en oncohématologie pour **lymphome B diffus à grandes cellules** (LBDGC), en cours de traitement par **R-CHOP cycle 3/6** (Rituximab, [[Médicaments/Chimiothérapies/Cyclophosphamide\|Cyclophosphamide]], [[Médicaments/Chimiothérapies/Doxorubicine\|Doxorubicine]], Vincristine, [[Médicaments/Corticoïdes/Prednisone\|Prednisone]]). Dernier cycle il y a 10 jours.
 > **ATCD :** Aucun antécédent notable. Non fumeur, pas d'allergie connue.
 > **Consultation de surveillance J10 post-chimio :**
 > - **T° 38,8 °C** (mesurée à domicile avant de venir)
-> - TA 118/72 mmHg — FC 104 bpm — SpO2 97 % AA — FR 20/min
+> - TA 118/72 mmHg : FC 104 bpm : SpO2 97 % AA : FR 20/min
 > - Frissons depuis hier soir, asthénie majeure, pas de foyer infectieux évident
 > - Pas de nausées, pas de douleur abdominale, pas de toux productive
 > - Porteur d'une **chambre implantable (PAC)** posée il y a 2 mois
-> **NFS en urgence :** Leucocytes 0,4 G/L, Neutrophiles **0,2 G/L (aplasie sévère)**, Plaquettes 42 G/L, Hb 9,8 g/dL
-> **Bilan infectieux :** CRP 142 mg/L, Procalcitonine 1,8 ng/mL, Créatinine 98 µmol/L, Lactates 1,4 mmol/L
+> **NFS en urgence :** [[Médicaments/Normes/Leucocytes\|Leucocytes]] 0,4 G/L, [[Médicaments/Normes/Neutrophiles\|Neutrophiles]] **0,2 G/L (aplasie sévère)**, [[Médicaments/Normes/Plaquettes\|Plaquettes]] 42 G/L, Hb 9,8 g/dL
+> **Bilan infectieux :** CRP 142 mg/L, [[Médicaments/Normes/Procalcitonine\|Procalcitonine]] 1,8 ng/mL, [[Médicaments/Normes/Créatinine\|Créatinine]] 98 µmol/L, [[Médicaments/Normes/Lactates\|Lactates]] 1,4 mmol/L
 
 ---
 
 ## Questions cliniques
 
-### Question 1 — Reconnaître l'aplasie fébrile
+### Question 1 : Reconnaître l'aplasie fébrile
 
 > [!question]- Définissez l'aplasie fébrile et confirmez le diagnostic chez M. Lecomte. Pourquoi est-ce une urgence ?
 > **Définition :** Aplasie fébrile = fièvre ≥ 38,3 °C en une mesure ou ≥ 38 °C pendant 1 heure + polynucléaires neutrophiles (PNN) < **0,5 G/L** (aplasie) ou < 1,0 G/L avec décroissance prévisible.
@@ -34,21 +38,21 @@
 > → **Aplasie fébrile confirmée**
 >
 > **Pourquoi c'est une urgence vitale :**
-> Sans polynucléaires, il n'y a pas de réponse immunitaire aux bactéries → sepsis foudroyant possible en quelques heures. La mortalité sans antibiothérapie débutée dans l'heure est très élevée. Le signe de fièvre EST l'alarme — il n'y a pas d'autres signes habituels d'infection (pas de pus, pas de signes locaux car pas de PNN pour les produire).
+> Sans polynucléaires, il n'y a pas de réponse immunitaire aux bactéries → sepsis foudroyant possible en quelques heures. La mortalité sans antibiothérapie débutée dans l'heure est très élevée. Le signe de fièvre EST l'alarme : il n'y a pas d'autres signes habituels d'infection (pas de pus, pas de signes locaux car pas de PNN pour les produire).
 
 ---
 
-### Question 2 — Actions IDE immédiates
+### Question 2 : Actions IDE immédiates
 
 > [!question]- Listez les 8 actions IDE prioritaires dans l'heure suivant l'arrivée de M. Lecomte.
 > **Dans les 15 premières minutes :**
 > 1. **Isolement protecteur** : chambre individuelle, masque chirurgical pour le patient (protection vis-à-vis de l'environnement), masque FFP2 pour soignants si procédure aéroportée
-> 2. **Monitoring** : scope, SpO2, TA, FC, FR, T° — réévaluation toutes les heures
+> 2. **Monitoring** : scope, SpO2, TA, FC, FR, T° : réévaluation toutes les heures
 > 3. **Ponction de la chambre implantable** (PAC) avec aiguille de Huber, asepsie chirurgicale stricte → prélèvements sang sur PAC + sang périphérique (2 paires d'hémocultures : 1 sur PAC, 1 en périphérie) avant toute antibiothérapie
 >
 > **Dans les 30 premières minutes :**
 > 4. **Hémocultures + ECBU + RX thorax** (identifier le foyer infectieux)
-> 5. **Antibiothérapie IV large spectre** (sur prescription urgente) : β-lactamine anti-Pseudomonas (pipéracilline-tazobactam ou ceftazidime) dans l'heure — ne pas attendre les résultats microbiologiques
+> 5. **Antibiothérapie IV large spectre** (sur prescription urgente) : β-lactamine anti-Pseudomonas (pipéracilline-tazobactam ou ceftazidime) dans l'heure : ne pas attendre les résultats microbiologiques
 > 6. **Perfusion soluté** : NaCl 0,9 % 500 mL si hémodynamique limite (TA 118 → limite basse pour ce patient)
 >
 > **Dans l'heure :**
@@ -57,7 +61,7 @@
 
 ---
 
-### Question 3 — Surveillance PAC et prévention
+### Question 3 : Surveillance PAC et prévention
 
 > [!question]- Quelles sont les spécificités de la surveillance d'une chambre implantable (PAC) chez un patient en aplasie ?
 > **Risque majeur :** infection sur PAC = bactériémie d'origine cathéter → peut être point de départ d'un sepsis foudroyant chez un patient sans défense immunitaire.
@@ -80,7 +84,7 @@
 
 ---
 
-### Question 4 — Éducation thérapeutique en oncologie
+### Question 4 : Éducation thérapeutique en oncologie
 
 > [!question]- M. Lecomte rentre à domicile entre les cycles. Quels signes d'alarme devez-vous lui enseigner ?
 > **Signes à surveiller et à signaler immédiatement (ne pas attendre) :**

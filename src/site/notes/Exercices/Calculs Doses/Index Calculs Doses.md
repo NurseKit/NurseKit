@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exercices/Calculs Doses/Index Calculs Doses/","title":"Calculs Doses","tags":["index","calculs-doses","pharmacologie"],"noteIcon":"","dg-note-properties":{"title":"Calculs Doses","nom":"Index Calculs Doses","tags":["index","calculs-doses","pharmacologie"],"revision":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/exercices/calculs-doses/index-calculs-doses/","title":"Calculs de Doses","tags":["index","calculs-doses","pharmacologie","exercices"],"noteIcon":"","dg-note-properties":{"title":"Calculs de Doses","description":"Exercices pratiques : débits perfusion, dilutions, seringue électrique, pédiatrie + formules référence","nom":"Index Calculs Doses","tags":["index","calculs-doses","pharmacologie","exercices"],"revision":"2026-06-22"}}
 ---
 
 
