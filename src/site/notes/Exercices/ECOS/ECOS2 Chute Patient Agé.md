@@ -215,7 +215,7 @@ Le médecin arrive et prescrit en urgence une radiographie de hanche droite (bas
 
 ---
 ## Voir aussi
-[[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]]
+[[Exercices/ECOS/Index ECOS\|ECOS]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · Recommandations HAS
 

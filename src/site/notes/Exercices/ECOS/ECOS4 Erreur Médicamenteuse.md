@@ -190,7 +190,7 @@ La patiente n'a reçu aucun médicament dangereux. L'erreur a été interceptée
 
 ## Voir aussi
 
-[[Soins Infirmiers/Administration IV SC\|Administration médicaments]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]] · [[Exercices/ECOS/ECOS3 Réaction Transfusionnelle\|ECOS 3 - Transfusion]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]]
+[[Exercices/ECOS/Index ECOS\|ECOS]] · [[Soins Infirmiers/Administration IV SC\|Administration médicaments]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Médicaments/Antibiotiques/Comparatif Antibiotiques\|Antibiotiques]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · Art. R. 4312-29 CSP · Loi HPST 2009
 

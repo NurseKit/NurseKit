@@ -47,11 +47,12 @@
 ## Comment utiliser NurseKit ?
 
 > [!tip] Pour les révisions
-> - [[Révisions UE/Index Révisions UE\|Révisions UE par UE]] → fiches synthèse 1ère et 2ème année
+> - [[Révisions UE/Index Révisions UE\|Révisions UE par UE]] → fiches synthèse 1ère, 2ème et 3ème année d'IFSI
 > - [[Exercices/QCM/Index QCM\|QCM par thème]] → tester ses connaissances
 > - [[Pathologies/Index Pathologies\|Fiches pathologies]] → réviser les points clés
 > - [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
- > - [[Exercices/ECOS/Index ECOS\|ECOS simulations]] → prise en charge complète de A à Z
+> - [[Exercices/ECOS/Index ECOS\|ECOS simulations]] → prise en charge complète de A à Z 
+>   → Le plus propice à l'apprentissage complet du raisonnement clinique infirmier.
 
 > [!tip] Pour les stages
 > - [[Stage/Index Stage\|Stage]] → page de préparation complète pour chaque service

@@ -239,7 +239,7 @@ Le médecin décide de reprendre la transfusion du 2e CGR et vous demande de pr�
 
 ## Voir aussi
 
-[[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/ECOS/ECOS2 Chute Patient Agé\|ECOS 2 - Chute PA]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas Cliniques]]
+[[Exercices/ECOS/Index ECOS\|ECOS]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/ECOS/ECOS2 Chute Patient Agé\|ECOS 2 - Chute PA]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas Cliniques]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · Recommandations ANSM / EFS / HAS
 

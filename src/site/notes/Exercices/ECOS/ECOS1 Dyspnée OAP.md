@@ -404,7 +404,7 @@ Trouvez 3 points majeurs d'éducations pour M. Moreau.
 
 ## Voir aussi
 
-[[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/CC1 IDM Urgences\|CC1 IDM]]
+[[Exercices/ECOS/Index ECOS\|ECOS]] · [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Soins Infirmiers/Détresse respiratoire aigue\|Détresse respiratoire]] · [[Soins Infirmiers/Transmissions ciblées DAR\|Transmissions DAR]] · [[Exercices/Cas Cliniques/CC1 IDM Urgences\|CC1 IDM]]
 
 > [!caution] Outil pédagogique ESI · Scénario fictif · ESC Guidelines IC 2021
 
