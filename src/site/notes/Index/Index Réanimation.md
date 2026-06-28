@@ -42,7 +42,7 @@
 - [[Médicaments/Antidotes/Naloxone\|Naloxone]]
 - [[Médicaments/Anticoagulants/Heparine\|Héparine (HNF)]]
 - [[Médicaments/Corticoïdes/Hydrocortisone\|Hydrocortisone]]
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]]
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
 - [[Médicaments/Antidotes/Acide tranexamique\|Acide tranexamique]]
 
 ## Soins Infirmiers

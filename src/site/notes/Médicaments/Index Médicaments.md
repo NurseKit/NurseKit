@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Médicaments
 > 242 molécules classées par 44 classes thérapeutiques.
 > → [[index\| Accueil]]
@@ -12,7 +16,7 @@
 | Douleur                      | Anticoagulation        | Infectieux         | Cardio-vasculaire          |
 | ---------------------------- | ---------------------- | ------------------ | -------------------------- |
 | [[Médicaments/Antalgiques/Paracetamol\|Paracétamol]] | [[Médicaments/Anticoagulants/Heparine\|Héparine]] | [[Médicaments/Antibiotiques/Amoxicilline\|Amoxicilline]]   | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]]             |
-| [[Médicaments/Antalgiques/Tramadol\|Tramadol]]                 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]        | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] |
+| [[Médicaments/Antalgiques/Tramadol\|Tramadol]]                 | [[Médicaments/Anticoagulants/Enoxaparine\|Enoxaparine]]        | [[Médicaments/Antibiotiques/Ciprofloxacine\|Ciprofloxacine]] | [[Médicaments/Diurétiques/Furosémide\|Furosémide]] |
 | [[Médicaments/Antalgiques/Morphine\|Morphine]]                 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]]          | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]]    | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]             |
 | [[Médicaments/Antalgiques/Fentanyl\|Fentanyl]]                 | [[Médicaments/Anticoagulants/Apixaban\|Apixaban]]           | [[Médicaments/Antibiotiques/Gentamicine\|Gentamicine]]    | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]             |
 | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]]               | [[Médicaments/Anticoagulants/Rivaroxaban\|Rivaroxaban]]        | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]]  | [[Médicaments/Digitaliques/Digoxine\|Digoxine]]               |
@@ -166,7 +170,7 @@
 
 ### Diurétiques
 
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]]
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
 - [[Médicaments/Diurétiques/Spironolactone\|Spironolactone]]
 - [[Médicaments/Diurétiques/Hydrochlorothiazide\|Hydrochlorothiazide]]
 - [[Médicaments/Diurétiques/Indapamide\|Indapamide]]

@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Le diurétique "économe" → il élimine le sel en préservant le potassium, là où le furosémide le vide. Indispensable dans l'insuffisance cardiaque sévère et la cirrhose avec ascite. Ton ennemi à surveiller de près : l'hyperkaliémie, qui peut être fatale si elle passe inaperçue.
 
@@ -57,7 +61,7 @@ Elle bloque l'aldostérone, cette hormone qui dit au rein de retenir le sel et d
 
 ## Voir aussi
 
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]] (diurétique de l'anse, kaliurétique)
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]] (diurétique de l'anse, kaliurétique)
 - [[Médicaments/IEC/Ramipril\|Ramipril]] (interaction triple blocage SRAA)
 
 > [!caution] Outil pédagogique : fiche ESI, ne pas utiliser comme référence de prescription

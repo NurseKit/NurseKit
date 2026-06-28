@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Laxatif stimulant d'usage occasionnel uniquement (max 5-7 jours). Effet en 6-12h per os ou 15-60 min en suppositoire. L'usage chronique entraîne dépendance colique et hypokaliémie. Ne pas écraser et ne pas prendre avec du lait ou des antiacides.
 

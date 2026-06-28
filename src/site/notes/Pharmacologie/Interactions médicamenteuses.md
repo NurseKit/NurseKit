@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Interactions Médicamenteuses Majeures
 > Une interaction médicamenteuse est une modification de l'effet d'un médicament par un autre.
 > L'IDE doit connaître les associations à risque pour alerter le médecin.
@@ -15,13 +19,13 @@
 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/AINS/Ibuprofène\|Ibuprofène]] / [[Kétoprofène\|Kétoprofène]] (AINS) | Augmentation risque hémorragique | Éviter, surveiller INR |
 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] · [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Potentialisation AVK (INR monte) | Réduire dose, contrôle INR |
 | [[Médicaments/Anticoagulants/Warfarine\|Warfarine]] | [[Médicaments/Antibiotiques/Rifampicine\|Rifampicine]] | Diminution efficacité AVK (induction CYP) | Augmenter dose, contrôle INR |
-| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Hypokaliémie potentialise toxicité [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Surveiller K+ |
+| [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Diurétiques/Furosémide\|Furosémide]] | Hypokaliémie potentialise toxicité [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Surveiller K+ |
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] | Doublement concentration [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | Diminuer dose [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
 | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] · [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Augmentation concentration Digoxine + bradycardie | Réduire dose, surveiller FC |
 | [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]] | [[Médicaments/Vasculaire/Sildenafil\|Sildénafil]] (Viagra®) | Hypotension sévère potentiellement mortelle | CI absolue - délai 24h min |
 | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] | Alcool | Effet antabuse (flush, vomissements, tachycardie) | Alcool interdit |
 | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] | Néphrotoxicité cumulée | Adapter doses, surveiller créatinine |
-| [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Diurétiques/Furosemide\|Furosémide]] | Ototoxicité et néphrotoxicité augmentées | Éviter ou adapter |
+| [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] | [[Médicaments/Diurétiques/Furosémide\|Furosémide]] | Ototoxicité et néphrotoxicité augmentées | Éviter ou adapter |
 | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] | [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] ou [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie sévère, bloc AV | Éviter association IV / CI |
 | [[Médicaments/Sédatifs/Midazolam\|Midazolam]] | [[Médicaments/Antalgiques/Morphine\|Morphine]] | [[Pathologies/Dépression\|Dépression]] respiratoire cumulée | Doses réduites, monitoring |
 | [[Médicaments/Minéraux/Potassium IV\|Potassium IV]] | [[Médicaments/IEC/Ramipril\|IEC]] ([[Médicaments/IEC/Ramipril\|Ramipril]]) | Hyperkaliémie | Surveiller kaliémie |
@@ -42,7 +46,7 @@
 
 | Organe | Médicaments | Risque |
 |--------|-------------|--------|
-| Rein | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] + [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + [[Médicaments/Diurétiques/Furosemide\|Furosémide]] + [[Médicaments/AINS/Ibuprofène\|AINS]] | IRA → surveiller créatinine + diurèse |
+| Rein | [[Médicaments/Antibiotiques/Aminosides\|Aminosides]] + [[Médicaments/Antibiotiques/Vancomycine\|Vancomycine]] + [[Médicaments/Diurétiques/Furosémide\|Furosémide]] + [[Médicaments/AINS/Ibuprofène\|AINS]] | IRA → surveiller créatinine + diurèse |
 | Cœur | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bêtabloquants]] + [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] + [[Médicaments/Antiarythmiques/Diltiazem\|Diltiazem]] | Bradycardie / BAV |
 | Cœur | [[Médicaments/Digitaliques/Digoxine\|Digoxine]] + [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]] + [[Médicaments/Antiarythmiques/Vérapamil\|Vérapamil]] | Accumulation Digoxine → toxicité |
 | Foie | [[Médicaments/Antibiotiques/Métronidazole\|Métronidazole]] + alcool | Effet antabuse |

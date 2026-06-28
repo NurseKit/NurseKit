@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Exercices de calcul de doses
 > Exercices pratiques avec corrigés détaillés pour maîtriser les calculs en soins infirmiers.
 > → [[Exercices/Calculs Doses/Calcul de doses\|Retour à l'index]] · [[index\|Accueil]]
@@ -42,7 +46,7 @@ $$\text{Débit (mL/h)} = \frac{\text{Dose souhaitée (mg/h ou UI/h)} \times \tex
 > **Prescription :** Furosémide 40 mg IV
 > **Ampoule :** 20 mg/2 mL = **10 mg/mL**
 > **Calcul :** 40 mg ÷ 10 mg/mL = **4 mL** à prélever
-> → [[Furosémide\|Furosémide]]
+> → [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
 
 > [!example] Exemple 4 : Paracétamol pédiatrique
 > **Prescription :** Paracétamol 15 mg/kg pour enfant de 25 kg

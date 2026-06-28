@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Top 3 priorités de ce service
 > 1. Surveillance hémodynamique stricte (TA, FC, SpO2) pluriquotidienne
 > 2. Poids quotidien à jeun → détection décompensation cardiaque
@@ -25,7 +29,7 @@
 | ----------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] ([[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]], [[Médicaments/Bêta-bloquants/Metoprolol\|Metoprolol]]) | IC, HTA, troubles du rythme  | Ne JAMAIS arrêter brutalement → risque rebond angineux/arythmie  |
 | [[Médicaments/Anticoagulants/Warfarine\|AVK]] ([[Médicaments/Anticoagulants/Warfarine\|Warfarine]], acénocoumarol)  | FA, prothèse valvulaire, TVP | Contrôle INR|INR régulier ; interactions médicamenteuses +++ |
-| Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosemide\|Furosemide]])  | Surcharge hydrique / IC  | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie  |
+| Diurétiques de l'anse ([[Médicaments/Diurétiques/Furosémide\|Furosémide]])  | Surcharge hydrique / IC  | Poids quotidien, ionogramme, diurèse ; risque hypokaliémie  |
 | Dérivés nitrés ([[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]], ISDN)  | Angor, OAP  | Hypotension orthostatique ; CI si sildenafil ; céphalées fréquentes  |
 | [[Héparine\|HBPM]]/ HNF  | TVPE, SCA  | Surveillance plaquettes (TIH), points de ponction  |
 | IEC / ARA II  | IC, HTA  | Surveillance TA et kaliémie  |

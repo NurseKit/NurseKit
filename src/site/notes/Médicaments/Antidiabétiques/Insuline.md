@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > L'insuline est l'hormone qui permet aux cellules d'utiliser le sucre. Indispensable à vie dans le DT1, parfois nécessaire dans le [[Pathologies/Diabète de type 2\|DT2]]. Le risque principal : **l'hypoglycémie**. Elle se surveille par la [[Médicaments/Normes/Glycémie\|glycémie capillaire]] avant chaque injection.
 

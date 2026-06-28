@@ -46,7 +46,7 @@ Cathéter court stérile placé dans une veine superficielle (avant-bras en 1èr
 
 ## Voir aussi
 
-[[Soins Infirmiers/Cathéter central\|CVC]] · [[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Prélèvement veineux\|Prélèvement veineux]]
+[[Soins Infirmiers/Cathéter central\|CVC]] · [[Soins Infirmiers/Chambre implantable\|PAC]] · [[Soins Infirmiers/Prélèvement veineux\|Prélèvement veineux]] · [[Soins Infirmiers/Pose VVP\|Pose VVP]]
 
 > [!caution] Outil pédagogique : SFHH recommandations cathéter périphérique
 <div class="nursekit-nav" style="display:flex;gap:10px;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid rgba(99,102,241,0.2);">

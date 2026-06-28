@@ -8,7 +8,7 @@
 </div>
 
 > [!info]- Fiches liées
-> [[Médicaments/Diurétiques/Furosemide\|Furosémide]] · [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/Cas Cliniques/CC OAP\|CC OAP]]
+> [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Bêta-bloquants/Bisoprolol\|Bisoprolol]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]] · [[Exercices/ECOS/ECOS1 Dyspnée OAP\|ECOS 1 - OAP]] · [[Exercices/Cas Cliniques/CC OAP\|CC OAP]]
 
 
 > [!abstract] En 2 mots

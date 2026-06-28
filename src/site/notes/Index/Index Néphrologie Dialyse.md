@@ -19,7 +19,7 @@
 
 ## Médicaments clés
 
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]]
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]]
 - [[Médicaments/Diurétiques de l'anse/Bumetanide\|Bumétanide]]
 - [[Médicaments/Anticoagulants/Heparine\|Héparine (dialyse)]]
 - [[Médicaments/IEC/Ramipril\|Ramipril]]

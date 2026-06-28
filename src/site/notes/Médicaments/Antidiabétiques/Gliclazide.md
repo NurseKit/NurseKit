@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Sulfamide hypoglycémiant de 2ème génération, le plus prescrit en France dans le DT2. Il stimule la sécrétion d'insuline **indépendamment de la glycémie** → c'est pourquoi il peut provoquer une hypoglycémie même si le patient mange peu. L'IDE doit s'assurer que le patient mange avant d'administrer la dose.
 

@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Le "petit frère" du furosémide → même mécanisme, même cible, mais 40 fois plus puissant par milligramme. À sortir du chapeau quand le patient ne peut pas prendre du furosémide (allergie aux sulfonamides). La règle à ne pas oublier : 1 mg de bumétanide = 40 mg de furosémide.
 
@@ -44,7 +48,7 @@ Identique au furosémide : bloque la réabsorption de sel dans l'anse de Henlé 
 
 ## Voir aussi
 
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide]] ·
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide]] ·
 
 > [!caution] Outil pédagogique
 

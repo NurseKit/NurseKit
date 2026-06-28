@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Navigation par compétence IDE
 > Le référentiel infirmier 2009 organise la formation en 10 compétences cliniques. Cette page permet de retrouver les fiches NurseKit correspondant à chaque compétence. Utile pour préparer les portfolios, les ECOS et les évaluations de stage.
 
@@ -13,7 +17,7 @@
 Recueillir les données, analyser la situation, poser des problèmes infirmiers prioritaires.
 
 **Fiches clés :**
-- [[Soins Infirmiers/Prise de constantes vitales\|Prise de constantes vitales]] · [[Évaluation de la douleur\|Évaluation de la douleur]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Braden\|Braden]]
+- [[Soins Infirmiers/Prise de constantes vitales\|Prise de constantes vitales]] · [[Soins Infirmiers/Evaluation douleur\|Evaluation douleur]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]]
 - [[Soins Infirmiers/Mémo urgences IDE\|Mémo urgences IDE]] · [[Symtômes & Signes cliniques/Symptômes & Signes cliniques\|Symptômes & Signes cliniques]]
 - Pathologies : [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/IDM\|IDM]] · [[Pathologies/Sepsis\|Sepsis]] · [[Pathologies/Insuffisance cardiaque\|Insuffisance cardiaque]]
 
@@ -36,7 +40,7 @@ Soins d'hygiène, mobilisation, prévention des complications de décubitus, res
 
 **Fiches clés :**
 - [[Soins Infirmiers/Manutention et mobilisation du patient\|Manutention et mobilisation du patient]] · [[Soins Infirmiers/Prévention des escarres\|Prévention des escarres]] · [[Soins Infirmiers/Soins de plaies\|Soins de plaies]]
-- [[Hygiène corporelle et soins de confort\|Hygiène corporelle et soins de confort]] · [[Nutrition entérale et parentérale\|Nutrition entérale et parentérale]]
+- [[Soins Infirmiers/Nutrition parenterale\|Nutrition parenterale]]/[[Soins Infirmiers/Nutrition enterale\|Nutrition enterale]]
 - Pathologies : [[Pathologies/Escarre\|Escarre]] · [[Pathologies/AVC ischémique\|AVC ischémique]] · [[Pathologies/Alzheimer & TNCM\|Alzheimer & TNCM]] · [[Pathologies/Maladie de Parkinson\|Maladie de Parkinson]]
 
 ---
@@ -46,7 +50,7 @@ Soins d'hygiène, mobilisation, prévention des complications de décubitus, res
 Réaliser les gestes techniques, administrer les traitements, surveiller l'efficacité et la tolérance.
 
 **Fiches clés :**
-- [[Pose de VVP : Voie Veineuse Périphérique\|Pose de VVP : Voie Veineuse Périphérique]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[ECG : Lecture pratique IDE\|ECG : Lecture pratique IDE]]
+- [[Pose de VVP : Voie Veineuse Périphérique\|Pose de VVP : Voie Veineuse Périphérique]] · [[Soins Infirmiers/Sondage vésical\|Sondage vésical]] · [[Soins Infirmiers/ECG\|ECG]]
 - [[Administration des médicaments IV : IM : SC\|Administration des médicaments IV : IM : SC]] · [[Soins Infirmiers/Glycémie capillaire\|Glycémie capillaire]] · [[Aspiration trachéale et bronchique\|Aspiration trachéale et bronchique]]
 - [[Sonde naso-gastrique\|Sonde naso-gastrique]] · [[Préparation et administration d'une transfusion\|Préparation et administration d'une transfusion]]
 - [[Pharmacologie/Sécurité médicaments injectables\|Sécurité médicaments injectables]] · [[Exercices/Calculs Doses/Calcul de doses\|Calcul de doses]]

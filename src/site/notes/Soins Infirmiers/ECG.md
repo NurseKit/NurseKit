@@ -15,10 +15,10 @@
 ## À quoi ça sert ?
 
 - Douleur thoracique → exclure un [[Pathologies/Syndrome coronarien aigu\|SCA]] (STEMI / [[Pathologies/IDM\|NSTEMI]]) → c'est l'indication n°1
-- Palpitations, syncope → détecter trouble du rythme (FA, tachycardie)
+- Palpitations, syncope → détecter trouble du rythme ([[Pathologies/Fibrillation atriale\|Fibrillation atriale]], tachycardie)
 - Bilan préopératoire (> 45 ans ou pathologie cardiaque connue)
-- Surveillance sous médicaments allongeant le QT ([[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]], [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]], quinolones)
-- Troubles électrolytiques : kaliémie anormale, [[NurseKit/NurseKit Lite/Médicaments/Normes/Calcium\|calcémie]] anormale
+- Surveillance sous médicaments allongeant le QT ([[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]], [[Médicaments/Antipsychotiques/Haloperidol\|Haloperidol]], [[Médicaments/Antibiotiques/Quinolones\|Quinolones]])
+- Troubles électrolytiques : [[Médicaments/Normes/Kaliémie\|Kaliémie]] anormale, [[Médicaments/Normes/Calcium\|calcémie]] anormale
 
 ---
 
@@ -53,14 +53,14 @@
 
 ## Valeurs normales à connaître
 
-| Paramètre  | Normal  |
-| --------------------------------------------------------------------------------------------- | ------------------------------------ |
-| ==**FC|FC**== | ==**60-100 bpm**<br>==  |
-| *Rythme*  | *Sinusal (onde P devant chaque QRS)* |
-| *PR*  | *120-200 ms*  |
-| *QRS*  | *< 120 ms*  |
-| *QTc*  | *< 440 ms (H) / < 460 ms (F)*  |
-| *Axe QRS*  | *−30° à +90°*  |
+| Paramètre  | Normal                               |
+| ---------- | ------------------------------------ |
+| ==**FC**== | ==**60-100 bpm**==                   |
+| *Rythme*   | *Sinusal (onde P devant chaque QRS)* |
+| *PR*       | *120-200 ms*                         |
+| *QRS*      | *< 120 ms*                           |
+| *QTc*      | *< 440 ms (H) / < 460 ms (F)*        |
+| *Axe QRS*  | *−30° à +90°*                        |
 
 ---
 
@@ -96,7 +96,7 @@
 
 ## Voir aussi
 
-[[Médicaments/Antiarythmiques/Amiodarone\|[[Amiodarone]] (allonge QT)]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · FC normale · [[Médicaments/Normes/Kaliémie\|Kaliémie]] (effet ECG)
+[[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone : allongement QT]] · [[Pathologies/Syndrome coronarien aigu\|SCA]] · [[Médicaments/Normes/FC\|FC]] normale · [[Médicaments/Normes/Kaliémie\|Kaliémie]] (effet ECG)
 
 > [!caution] Outil pédagogique → Toujours vérifier les protocoles du service
 

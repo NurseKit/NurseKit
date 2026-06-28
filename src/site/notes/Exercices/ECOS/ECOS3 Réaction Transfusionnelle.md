@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] À quoi sert cette fiche ?
 > Scénario ECOS sur la survenue d'une réaction indésirable per-transfusionnelle - situation rare mais potentiellement mortelle, à reconnaître et gérer en moins de 2 minutes. L'une des situations les plus redoutées et les plus évaluées en IFSI.
 

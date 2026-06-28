@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > La naloxone réveille un patient en surdosage opioïde en 1 à 2 minutes → mais sa demi-vie de 60 à 90 min est bien plus courte que celle des opioïdes. Traduction : la resédation est la règle, pas l'exception, et la surveillance dure au minimum 4 à 6 heures.
 

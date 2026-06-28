@@ -36,7 +36,7 @@
 - [[Médicaments/Bêta-bloquants/Carvedilol\|Carvedilol]]
 - [[Médicaments/Antiarythmiques/Amiodarone\|Amiodarone]]
 - [[Médicaments/Dérivés nitrés/Trinitrine\|Trinitrine]]
-- [[Médicaments/Diurétiques/Furosemide\|Furosémide (Lasilix)]]
+- [[Médicaments/Diurétiques/Furosémide\|Furosémide (Lasilix)]]
 - [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
 - [[Médicaments/IEC/Ramipril\|Ramipril (IEC)]]
 - [[Médicaments/ARA2/Valsartan\|Valsartan (ARA2)]]

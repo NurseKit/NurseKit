@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Navigation clinique par symptôme
 > Tu es en stage, face à un patient. Cherche le symptôme dominant pour retrouver les pathologies à évoquer, les bilans à prévoir et les gestes IDE.
 > → [[index\|Accueil]] · [[Pathologies/Index Pathologies\|Toutes les pathologies]]
@@ -242,7 +246,7 @@
 | Hémorragie méningée (céphalée en coup de tonnerre) | [[Pathologies/AVC hémorragique\|AVC hémorragique]] |
 | HTA maligne (céphalée + PA > 180/120) | [[Pathologies/HTA\|HTA]] |
 | AVC ischémique (céphalée + déficit focal) | [[Pathologies/AVC ischémique\|AVC ischémique]] |
-| Migraine | [[Migraine\|Migraine]] |
+| Migraine | [[Pathologies/Migraine\|Migraine]] |
 | HTIC (céphalée + vomissements en jet + flou visuel) | → [[Index/Index Neurologie\|Index Neurologie]] |
 
 **Normes clés :** [[Médicaments/Normes/TA systolique\|TA]] · [[Médicaments/Normes/Glasgow\|Glasgow]] · [[Médicaments/Normes/Température\|Température]]
@@ -256,7 +260,7 @@
 | Évoquer | Fiche |
 |---------|-------|
 | Bloc auriculo-ventriculaire | → [[Index/Index Cardiologie\|Index Cardiologie]] |
-| Surdosage bêtabloquant ou digoxine | [[Bêta-bloquants\|Bêta-bloquants]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
+| Surdosage bêtabloquant ou digoxine | [[Médicaments/Bêta-bloquants/Bêta-bloquants\|Bêta-bloquants]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]] |
 | Hypothyroïdie | [[Pathologies/Hypothyroïdie\|Hypothyroïdie]] |
 | Hyperkaliémie | [[Médicaments/Normes/Kaliémie\|Kaliémie]] |
 | Malaise vagal | [[Soins Infirmiers/Malaise vagal\|Malaise vagal]] |
@@ -272,8 +276,8 @@
 |---------|-------|
 | Pyélonéphrite (fièvre + douleur lombaire + brûlures) | [[Pathologies/Pyélonéphrite\|Pyélonéphrite]] |
 | Lithiase urinaire (colique + hématurie) | [[Pathologies/Lithiase urinaire\|Lithiase urinaire]] |
-| Cystite (brûlures + pollakiurie, sans fièvre) | [[Infections urinaires\|Infections urinaires]] |
-| Rétention aiguë d'urine (globe vésical + anurie) | [[Rétention aiguë d'urine\|Rétention aiguë d'urine]] |
+| Cystite (brûlures + pollakiurie, sans fièvre) | [[Pathologies/Infections urinaires\|Infections urinaires]] |
+| Rétention aiguë d'urine (globe vésical + anurie) | [[Pathologies/Rétention aiguë d'urine\|Rétention aiguë d'urine]] |
 | Cancer vésical / prostatique (hématurie indolore) | → [[Index/Index Soins Palliatifs\|Index Soins Palliatifs]] |
 
 **Normes clés :** [[Médicaments/Normes/Créatinine\|Créatinine]] · [[Médicaments/Normes/Leucocytes\|Leucocytes]] · [[Médicaments/Normes/CRP\|CRP]]
@@ -285,7 +289,7 @@
 | Évoquer | Fiche |
 |---------|-------|
 | Arthrite septique (mono-arthrite + fièvre) | [[Pathologies/Arthrite septique\|Arthrite septique]] |
-| Crise de goutte (gros orteil rouge + chaleur brutale) | [[Goutte\|Goutte]] |
+| Crise de goutte (gros orteil rouge + chaleur brutale) | [[Pathologies/Goutte\|Goutte]] |
 | Polyarthrite rhumatoïde (symétrique + mains) | [[Pathologies/Polyarthrite rhumatoïde\|Polyarthrite rhumatoïde]] |
 | Lupus (+ éruption + fièvre + AEG) | [[Pathologies/Lupus érythémateux systémique\|Lupus érythémateux systémique]] |
 | Chondrocalcinose (genou + liquide inflammatoire) | → [[Index/Index Rhumatologie\|Index Rhumatologie]] |

@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Le bisoprolol ralentit le cœur et fait baisser la tension → c'est le bêta-bloquant de référence pour l'insuffisance cardiaque. Risque principal : bradycardie (cœur trop lent) et aggravation d'un asthme.
 
@@ -68,7 +72,7 @@ Le cœur est équipé de « capteurs » appelés récepteurs bêta-1. L'adrénal
 ## Voir aussi
 
 - [[Médicaments/Bêta-bloquants/Metoprolol\|Métoprolol]] · [[Médicaments/Bêta-bloquants/Carvedilol\|Carvédilol]] · [[Médicaments/Bêta-bloquants/Propranolol\|Propranolol]]
-- [[Médicaments/IEC/Ramipril\|Ramipril (IEC)]] · [[Médicaments/Diurétiques/Furosemide\|Furosémide]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
+- [[Médicaments/IEC/Ramipril\|Ramipril (IEC)]] · [[Médicaments/Diurétiques/Furosémide\|Furosémide]] · [[Médicaments/Digitaliques/Digoxine\|Digoxine]]
 - [[Médicaments/IEC/Ramipril\|IEC]] · [[Médicaments/Normes/FC\|Normes FC]] · [[Pathologies/BPCO\|BPCO]]
 
 > [!caution] Outil pédagogique : Toujours vérifier le RCP et les protocoles du service

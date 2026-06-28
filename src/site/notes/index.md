@@ -3,10 +3,9 @@
 ---
 
 
-> [!abstract] NurseKit · La référence pour l'ESI
-> Référence clinique conçue **par un ESI, pour les ESI**.
-> Pour t'aider à faire **TES liens à TON rythme**.
-> → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit.fr)
+> [!abstract] NurseKit 
+> Projet personnel d'un ESI
+> → [[Actualités\|Nouveautés]] · [[Suggestions\|Envoyer une suggestion]] · [Site web](https://nursekit-lite.pages.dev)
 
 ---
 
@@ -46,16 +45,6 @@
 
 ---
 
-## Guides de révision par semestre
-
-| Semestre | Fil conducteur | UEs prioritaires |
-|----------|---------------|-----------------|
-| [[Révisions UE/Guide révision S3\|Semestre 3]] | Psychiatrie, pharmacologie, démarche de soins | UE 2.6, 2.11, 3.2, 4.4 |
-| [[Révisions UE/Guide révision S4\|Semestre 4]] | Défaillances organiques, oncologie, soins palliatifs | UE 2.7, 2.8, 2.9, 4.7 |
-| [[Révisions UE/Guide révision S5\|Semestre 5]] | Urgences, qualité des soins, coordination, TFE | UE 4.3, 5.5, 5.6, 3.4 |
-
----
-
 ## Comment utiliser NurseKit ?
 
 > [!tip] Pour les révisions
@@ -63,7 +52,7 @@
 > - [[Exercices/QCM/Index QCM\|QCM par thème]] → tester ses connaissances
 > - [[Pathologies/Index Pathologies\|Fiches pathologies]] → réviser les points clés
 > - [[Exercices/Cas Cliniques/Index Cas Cliniques\|Cas cliniques]] → s'entraîner aux examens IFSI
-  - [[Exercices/ECOS/Index ECOS\|ECOS simulations]] → prise en charge complète de A à Z
+ > - [[Exercices/ECOS/Index ECOS\|ECOS simulations]] → prise en charge complète de A à Z
 
 > [!tip] Pour les stages
 > - [[Stage/Index Stage\|Stage]] → page de préparation complète pour chaque service

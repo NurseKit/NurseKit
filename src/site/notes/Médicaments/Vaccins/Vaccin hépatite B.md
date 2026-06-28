@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > Vaccin obligatoire pour les professionnels de santé. 3 doses (M0-M1-M6) puis sérologie anti-HBs obligatoire 1-2 mois après. Si < 10 UI/L = non-répondeur → série supplémentaire. En cas d'AES chez un soignant non vacciné : urgence dans les 4 heures.
 

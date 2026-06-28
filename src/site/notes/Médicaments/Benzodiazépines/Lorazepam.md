@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] En 2 mots
 > La benzodiazépine de choix pour l'état de mal épileptique et la prémédication anesthésique → demi-vie intermédiaire, pas d'accumulation, pas de métabolite actif. Son fort effet amnésiant est un atout en prémédication (le patient ne se souviendra pas des gestes pré-opératoires) et un risque en anxiété chronique. Une interaction à ne jamais manquer : le délai d'une heure avec l'olanzapine IM.
 

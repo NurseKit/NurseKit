@@ -3,6 +3,10 @@
 ---
 
 
+<div class="nursekit-nav" style="display:flex;gap:10px;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid rgba(99,102,241,0.2);">
+<a href="/" style="flex:1;display:block;text-align:center;padding:10px 16px;background:#6366F1;color:white;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;">← Accueil</a>
+</div>
+
 > [!abstract] Semestre 4 - La clinique médicale et chirurgicale en profondeur
 > Le S4 monte en charge : pathologies dégénératives (UE 2.7), processus obstructifs (UE 2.8), tumeurs (UE 2.9), et le soin en situations complexes. C'est ici que les cas cliniques deviennent poly-pathologiques. Les stages en médecine interne ou chirurgie tombent en S4 - le lien théorie/pratique est évalué.
 > → [[Révisions UE/Révisions 2ème Année\|Révisions 2ème année complètes]]
